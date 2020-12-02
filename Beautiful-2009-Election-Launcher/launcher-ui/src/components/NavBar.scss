@@ -1,0 +1,32 @@
+.navbar {
+    padding:15px;
+    display:flex;
+    user-select: none;
+
+    margin-top:15px;
+
+    .push {
+        flex:1;
+    }
+    .logo {
+        margin-left:10px;
+    }
+    .logo img {
+        height:40px;
+        filter:drop-shadow(0 0 3px rgba(0, 0, 0, .75));
+    }
+    .pages {
+        padding-top:10px;
+    }
+    .pages div {
+        color:#663300;
+        font-size:17pt;
+        padding-left:10px;
+        padding-right:10px;
+        display:inline-block;
+        &:hover, &.active {
+            color:#FFE1BE;
+            cursor: pointer;
+        }
+    }
+}

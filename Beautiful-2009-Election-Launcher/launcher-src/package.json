@@ -1,0 +1,38 @@
+{
+	"name": "mysticscape-launcher",
+	"productName": "MysticScape",
+	"version": "1.0.1-alpha.5-devel",
+	"author": "Thomas Burnett-Taylor",
+	"description": "Launcher for the MysticScape project.",
+	"updateChannel": "alpha",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"license": "ISC",
+	"dependencies": {
+		"decompress-zip": "^0.2.2",
+		"electron-builder-squirrel-windows": "^22.5.1",
+		"md5-file": "^5.0.0",
+		"request": "^2.88.2",
+		"request-promise": "^4.2.5",
+		"windows-shortcuts": "^0.1.6"
+	},
+	"build": {
+		"appId": "me.ilkohost.mysticscape",
+		"productName": "MysticScape",
+		"copyright": "Copyright © year ${author}",
+		"target": "squirrel",
+		"directories": {
+			"output": "../dist-launcher"
+		},
+		"squirrelWindows": {
+			"iconUrl": "http://minio.thomas-edwards.me/mysticscape/assets/icon.ico"
+		},
+		"win": {
+			"target": [
+				"squirrel"
+			]
+		}
+	}
+}

@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  font-family: 'RuneScape UF', 'Times New Roman', Times, serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+@font-face {
+	font-family: 'RuneScape UF';
+	src: url('fonts/runescape_uf.woff') format('woff'); /* Safari, Android, iOS */
+}

@@ -1,0 +1,35 @@
+.titlebar {
+    //background-color:rgba(0, 0, 0, .25);
+
+    position:fixed;
+    left:0;
+    top:0;
+    width:100vw;
+
+    color:white;
+    display:flex;
+    user-select: none;
+    .title {
+        flex:1;
+        padding:5px;
+        padding-left:10px;
+        -webkit-app-region: drag;
+    }
+    .titleControls {
+        .exit {
+            padding:3px;
+            padding-left:10px;
+            padding-right:10px;
+            font-size:15pt;
+            color:#111;
+            border-bottom-left-radius: 5px;
+            
+            &:hover {
+                background-color:rgb(238, 58, 38);
+                cursor: pointer;
+                box-shadow:inset 0 0 5px black;
+                color:white;
+            }
+        }
+    }
+}

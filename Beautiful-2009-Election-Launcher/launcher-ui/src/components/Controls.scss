@@ -1,0 +1,48 @@
+.controls {
+    padding:10px;
+    color:white;
+    user-select: none;
+    display:flex;
+    .statusText {
+        flex:1;
+        text-align: left;
+        padding:10px;
+        color:gold;
+        text-shadow: 1px 1px 1px black;
+        font-size:14pt;
+    }
+    .playButton {
+        
+        width:210px;
+        height:48px;
+
+        background-image:url('../img/button_background.png');
+        display:inline-block;
+        color:white;
+    
+        font-size:16pt;
+        text-align: center;
+        line-height:48px;
+        text-shadow:2px 2px 0px black;
+
+        &:hover {
+            color:yellow;
+            cursor: pointer;
+            background-image: url(../img/button_background_hover.png);
+        }
+        &.disabled {
+            background-image: url(../img/button_background_disabled.png);
+            &:hover {
+                color:white;
+                cursor:default;
+            }
+        }
+    }
+}
+.version {
+    position:fixed;
+    bottom:5px;
+    right:5px;
+    text-shadow: none;
+    color:rgba(0, 0, 0, .5);
+}

@@ -1,0 +1,127 @@
+.App {
+	background:url('img/431.png');
+	background-size: cover;
+
+	position:fixed;
+	left:0;
+	top:0;
+	width:100vw;
+	height:100vh;
+	display:flex;
+	flex-direction: column;
+	box-shadow:inset 0 0 5px black;
+}
+.page {
+	flex:1;
+	position:relative;
+	border-radius:5px;
+	box-shadow:inset 0 0 10px black, 0 0 10px black;
+	background-image: url('./img/431_dark.png');
+	color:white;
+	background-size:cover;
+
+    margin:10px;
+    padding:20px;
+
+	.pageTitle {
+        font-size:20pt;
+        margin-bottom:20px;
+        text-align: center;
+        .pageInfo {
+            font-size:12pt;
+            color:whiteSmoke;
+        }
+    }
+}
+.pageContainer {
+	flex:1;
+	position: relative;
+	display:flex;
+	flex-direction: column;
+}
+* {
+	text-shadow:1px 1px 0 black, 0 0 2px rgba(0,0,0,0.3);
+}
+*, *::after, *::before {
+	-webkit-user-drag: none;
+}
+.button {
+	display:inline-block;
+	padding:10px;
+	background-image: url(./img/button_background.png);
+	background-position: 50%;
+	border-radius:3px;
+	box-shadow:inset 0 0 5px black;
+	border:none;
+	color:white;
+	font-family: inherit;
+	font-size:12pt;
+	outline: none;
+	&:not(.disabled):hover {
+		color:yellow;
+		cursor: pointer;
+		background-image: url(./img/button_background_hover.png);
+	}
+	&.disabled {
+		background-image: url(./img/button_background_disabled.png);
+	}
+}
+.push { flex:1; }
+
+::-webkit-scrollbar {
+    width: 12px;
+}
+ 
+::-webkit-scrollbar-track {
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+::-webkit-scrollbar-thumb {
+    border-radius: 3px;
+	-webkit-box-shadow: inset 0 0 3px rgba(0,0,0,0.5);
+	background-color:#D2C3A0;
+}
+
+a {
+	color:#FFE1BE;
+}
+
+.shake {
+	animation: shake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+	transform: translate3d(0, 0, 0);
+	backface-visibility: hidden;
+	perspective: 1000px;
+}
+  
+@keyframes shake {
+	10%, 90% {
+		transform: translate3d(-1px, 0, 0);
+	}
+
+	20%, 80% {
+		transform: translate3d(2px, 0, 0);
+	}
+
+	30%, 50%, 70% {
+		transform: translate3d(-4px, 0, 0);
+	}
+
+	40%, 60% {
+		transform: translate3d(4px, 0, 0);
+	}
+}
+
+.debug {
+	position:fixed;
+	left:10px;
+	top:10px;
+	width:400px;
+	height:200px;
+	color:white;
+	background-color:rgba(0, 0, 0, .5);
+	padding:10px;
+	border:solid 1px white;
+	z-index:10;
+	pointer-events: none;
+}
