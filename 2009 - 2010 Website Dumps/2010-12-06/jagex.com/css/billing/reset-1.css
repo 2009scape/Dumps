@@ -1,0 +1,61 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 22:06:35 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:07:53 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+html {
+ overflow-y: scroll;
+}
+
+body {
+ position: relative;
+}
+
+html, body,
+h1, h2, h3, h4, h5, h6,
+p,
+ol, ul, li,
+form, input {
+ margin: 0 auto;
+ padding: 0;
+ font: inherit;
+ background: transparent;
+}
+
+h2, h3, h4, h5, h6,
+p,
+.p {
+ margin: 0 0 0.8em 0;
+}
+
+a img {
+ border: 0;
+}
+
+button {
+ margin: 0;
+ padding: 0;
+ border: none;
+ background: transparent;
+ cursor: pointer;
+ display: block;
+}
+
+label {
+ cursor: pointer;
+}
+
+input {
+ vertical-align: middle;
+ background-color: white;
+}

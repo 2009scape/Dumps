@@ -1,0 +1,313 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 22:06:39 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:07:53 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+.triBox {
+ display: block;
+ background: center center repeat-x;
+}
+.triBoxL {
+ display: block;
+ background-position: left top;
+ background-repeat: no-repeat;
+}
+.triBoxR {
+ display: block;
+ background-position: right bottom;
+ background-repeat: no-repeat;
+}
+.button {
+ cursor: pointer;
+ background: center -32px repeat-x;
+}
+.button .triBoxL {
+ background-position: left top;
+ float: left;
+}
+.button .triBoxR {
+ background-position: right -64px;
+ float: left;
+}
+.button:hover,
+.buttonHover {
+ background-position: center -128px;
+}
+.button:hover .triBoxL,
+.buttonHover .triBoxL {
+ background-position: left -96px;
+}
+.button:hover .triBoxR,
+.buttonHover .triBoxR {
+ background-position: right -160px;
+}
+.info .triBoxL,
+.info .triBoxR {
+ float: left;
+}
+.greenButton {
+ background-color: green;
+}
+.greenButton,
+.greenButton div,
+.greenButton div div,
+.greenButton span,
+.greenButton span span,
+.greenButton div button {
+ height: 32px;
+ line-height: 30px;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/buttons/green.png);
+ float:left;
+}
+.greenButton div div,
+.greenButton span span,
+.greenButton div button {
+ padding: 0 18px 0 15px;
+}
+.greenButton div button {
+ padding-bottom: 6px;
+}
+.silverButton {
+ background-color: grey;
+}
+.silverButton,
+.silverButton div,
+.silverButton div div,
+.silverButton span,
+.silverButton span span,
+.silverButton div button {
+ height: 32px;
+ line-height: 30px;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/buttons/silver.png);
+ float: left;
+}
+.silverButton div div,
+.silverButton span span,
+.silverButton div button {
+ padding: 0 18px 0 15px;
+}
+.silverButton div button {
+ padding-bottom: 6px;
+}
+.headerBox,
+.headerBoxL,
+.headerBoxR {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/header.png);
+}
+.headerInfo,
+.headerInfo span,
+.headerInfo span span {
+ height: 32px;
+ line-height: 32px;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/headerInfo.png);
+}
+.headerInfo span span {
+ padding: 0 20px;
+}
+.headerButton,
+.headerButton span,
+.headerButton span span {
+ line-height: 30px;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/buttons/headerButton.png);
+}
+.footerBox,
+.footerBoxL,
+.footerBoxR {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/footer.png);
+}
+.footer {
+ text-align: center;
+ height: 68px;
+}
+.octoBox {
+ background-position: center top;
+ background-repeat: repeat-x;
+}
+.octoBoxR {
+ background-position: right center;
+ background-repeat: repeat-y;
+}
+.octoBoxB {
+ background-position: center bottom;
+ background-repeat: repeat-x;
+}
+.octoBoxL {
+ background-position: left center;
+ background-repeat: repeat-y;
+}
+.octoBoxRT {
+ background-position: right top;
+ background-repeat: no-repeat;
+}
+.octoBoxRB {
+ background-position: right bottom;
+ background-repeat: no-repeat;
+}
+.octoBoxLB {
+ background-position: left bottom;
+ background-repeat: no-repeat;
+}
+.octoBoxLT {
+ background-position: left top;
+ background-repeat: no-repeat;
+}
+.contentBox {
+ background-color: white;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/top.png);
+}
+.contentBoxR {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/right.png);
+}
+.contentBoxB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/bottom.png);
+}
+.contentBoxL {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/left.png);
+}
+.contentBoxRT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/righttop.png);
+}
+.contentBoxRB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/rightbottom.png);
+}
+.contentBoxLB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/leftbottom.png);
+}
+.contentBoxLT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/contentBox/lefttop.png);
+}
+.contentBoxPadding {
+ padding: 12px 14px;
+}
+.infoBox {
+ background-color: #eaeaea;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/top.png);
+}
+.infoBoxR {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/right.png);
+}
+.infoBoxB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/bottom.png);
+}
+.infoBoxL {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/left.png);
+}
+.infoBoxRT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/righttop.png);
+}
+.infoBoxRB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/rightbottom.png);
+}
+.infoBoxLB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/leftbottom.png);
+}
+.infoBoxLT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBox/lefttop.png);
+}
+.infoBoxPadding {
+ padding: 12px 14px;
+ height: 1%;
+}
+.infoBoxSelected {
+    background-color: #e0e2e2;
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/top.png);
+}
+.infoBoxSelectedR {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/right.png);
+}
+.infoBoxSelectedB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/bottom.png);
+}
+.infoBoxSelectedL {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/left.png);
+}
+.infoBoxSelectedRT {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/righttop.png);
+}
+.infoBoxSelectedRB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/rightbottom.png);
+}
+.infoBoxSelectedLB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/leftbottom.png);
+}
+.infoBoxSelectedLT {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxSelected/lefttop.png);
+}
+.infoBoxSelectedPadding {
+    padding: 12px 14px;
+}
+.infoBoxHighlighted {
+    background-color: #e0e2e2;
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/top.png);
+}
+.infoBoxHighlightedR {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/right.png);
+}
+.infoBoxHighlightedB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/bottom.png);
+}
+.infoBoxHighlightedL {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/left.png);
+}
+.infoBoxHighlightedRT {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/righttop.png);
+}
+.infoBoxHighlightedRB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/rightbottom.png);
+}
+.infoBoxHighlightedLB {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/leftbottom.png);
+}
+.infoBoxHighlightedLT {
+    background-image: url(../../../jagex.com/img/crossservice/new_billing/infoBoxHighlighted/lefttop.png);
+}
+.infoBoxHighlightedPadding {
+    padding: 12px 14px;
+}
+.smallInfoBox {
+ background-color: #eaeaea;
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/top.png);
+}
+.smallInfoBoxR {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/right.png);
+}
+.smallInfoBoxB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/bottom.png);
+}
+.smallInfoBoxL {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/left.png);
+}
+.smallInfoBoxRT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/righttop.png);
+}
+.smallInfoBoxRB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/rightbottom.png);
+}
+.smallInfoBoxLB {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/leftbottom.png);
+}
+.smallInfoBoxLT {
+ background-image: url(../../../jagex.com/img/crossservice/new_billing/smallInfoBox/lefttop.png);
+}
+.smallInfoBoxPadding {
+ padding: 12px 14px;
+}
+.fiftyPercent {
+ width: 50%;
+}
+.thirtyThreePercent {
+ width: 33.33%;
+}
+.twentyPercent {
+ width: 20%;
+}

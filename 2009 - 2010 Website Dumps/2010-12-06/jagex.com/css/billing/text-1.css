@@ -1,0 +1,86 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 22:06:42 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:07:53 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+body {
+ font-family: Arial, Helvetica, FreeSans, sans-serif;
+ font-size: 12px;
+ line-height: 1.5em;
+}
+
+h1 {
+ font-size: 26px;
+ font-weight: bold;
+ color: white;
+}
+
+h2 {
+ font-size: 18px;
+ font-weight: bold;
+ color: #1f94c7;
+}
+
+h3 {
+ font-size: 16px;
+ font-weight: bold;
+ color: #1f94c7;
+ margin: 0 0 0.2em;
+}
+
+a {
+ color: #55bae3;
+ text-decoration: underline;
+ font-weight: bold;
+}
+
+a:hover {
+ text-decoration: none;
+}
+
+th {
+ color: white;
+}
+
+.button button {
+ text-decoration: none;
+ font-weight: bold;
+}
+
+.headerButton,
+.headerInfo {
+ font-weight: bold;
+ color: white;
+ text-decoration: none;
+}
+
+.greenButton button,
+.silverButton button,
+a.silverButton,
+a.greenButton {
+ font-size: 16px;
+ color: white;
+ text-decoration: none;
+}
+
+.bolder {
+ font-weight: bolder;
+}
+
+.larger {
+ font-size: larger;
+}
+
+.smaller {
+ font-size: smaller;
+}

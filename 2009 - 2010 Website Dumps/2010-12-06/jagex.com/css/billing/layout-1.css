@@ -1,0 +1,200 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 22:06:37 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:07:53 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+body {
+ background: #e0e2e2;
+}
+
+table {
+ width: 100%;
+ margin-bottom: 10px;
+}
+
+th {
+ background: #7ec8e8;
+ text-align: left;
+}
+
+input,
+select {
+ border: 1px solid #AAAAAA;
+ padding: 2px;
+ background: white;
+}
+
+#content {
+ margin: auto;
+ width: 760px;
+}
+
+.header {
+ margin: auto;
+ height: 46px;
+ background: url(../../../jagex.com/img/crossservice/new_billing/header.png) center top no-repeat;
+}
+
+.clear {
+ clear: both;
+ height: 0;
+ line-height: 0;
+ font-size: 0;
+}
+
+.floatLeft {
+ float: left;
+}
+
+.floatRight {
+ float: right;
+}
+
+.floatCenterContainer,
+.floatCentreContainer {
+ margin-left: auto;
+ margin-right: auto;
+ text-align: center;
+}
+
+.floatCenter,
+.floatCentre {
+ display: -moz-inline-box;
+ display: inline-block;
+ vertical-align: middle;
+}
+
+.floatCenter > *,
+.floatCentre > * {
+ -moz-box-flex: 100;
+}
+
+.blockCenter,
+.blockCentre {
+ margin-left: auto;
+ margin-right: auto;
+}
+
+.center,
+.centre {
+ text-align: center;
+}
+
+.small {
+ font-size: smaller;
+}
+
+h1 {
+ margin-left: 18px;
+}
+
+.headerOptions {
+ padding: 2px 20px 0 0;
+}
+
+.content {
+ margin: 0 0 0 2px;
+}
+
+.good {
+ color: #3dce40;
+}
+
+.bad {
+ color: red;
+}
+.badbox {
+ background: #FF9999;
+}
+
+.hr {
+ padding: 0.5em;
+ clear: both;
+}
+
+.hr div {
+ font-size: 0;
+ line-height: 0;
+ height: 0;
+}
+
+.greyHr div {
+ border-top: 1px solid #909090;
+ border-bottom: 1px solid #f2f2f2;
+}
+
+.footer {
+ clear: both;
+}
+
+.footerLinks {
+ padding-top: 8px;
+}
+
+ul {
+ padding: 0 1.5em;
+ list-style: none;
+}
+
+ul li {
+ margin: 0 0 0.2em;
+ padding: 0 0 0 1.5em;
+ background: url(../../../jagex.com/img/crossservice/new_billing/bulletpoint.png) left 0.4em no-repeat;
+}
+
+ol {
+ list-style-position: inside;
+ list-style-type: decimal;
+}
+
+ol li {
+ margin: 0 0 0.2em;
+ padding: 0 0 0 1.5em;
+}
+
+.lightBoxContainer {
+ display: none;
+ position: fixed !important;
+ position: absolute; 
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+}
+
+.lightBoxBackground {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ background: white;
+ opacity: 0.7;
+ filter: alpha(opacity=70);
+}
+
+.lightBoxContent {
+ position: absolute;
+ left: 50%;
+ top: 100px;
+ margin: 0 -200px;
+ width: 400px;
+ z-index: 100;
+}
+
+#checkno {
+ display: none;
+}
+div.error{
+ color: red;
+}

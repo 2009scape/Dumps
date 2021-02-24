@@ -1,0 +1,67 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:37:53 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:03:26 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+
+.section h2#title {
+ padding: 60px 0 35px 0;
+ margin: 0;
+ text-align: center;
+}
+
+.section h2 {
+ font-size: 
+  18px
+ 
+}
+
+.section #ContinueContainer {
+ border: 1px solid #b7ab88;
+ padding: 10px;
+ overflow: auto;
+ margin: 25px 0;
+}
+
+.section h2 {
+ margin-top: 35px;
+}
+
+.section #Intro img {
+ float: left;
+ margin: 3px 15px 20px 0;
+}
+
+.section #Intro p {
+ margin: 0 0 10px 0;
+}
+
+.section li img {
+ float: right;
+ margin: -5px 0 0 6px;
+}
+
+.section li {
+ margin-bottom: 12px;
+}
+
+.section #ContinueLinks {
+ float: right;
+ width: 490px;
+ margin: 0 15px 0 0;
+}
+
+.section #ContinueLinks a {
+ font-weight: bold;
+}
+

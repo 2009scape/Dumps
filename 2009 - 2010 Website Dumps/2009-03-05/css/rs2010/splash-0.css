@@ -1,0 +1,391 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:29:35 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:02:56 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+
+/* Global styles */
+
+html,
+body {
+ margin: 0;
+ padding: 0;
+ min-width: 1000px;
+}
+
+html {
+ overflow-y: scroll;
+}
+
+body {
+ text-align: center;
+ font-family: Arial, Helvetica, FreeSans, sans-serif;
+ font-size: 11px;
+ color: white;
+ background: black;
+}
+
+a {
+ color: white;
+}
+
+a:hover {
+ text-decoration: none;
+}
+
+a:focus,
+a:active {
+ outline: white;
+}
+
+a img {
+ border: 0;
+}
+
+object {
+ outline: 0;
+}
+
+h1, h2 {
+ margin: 0;
+}
+
+.HoverImg {
+ display: block;
+ overflow: hidden;
+ position: relative;
+ font-weight: normal;
+}
+
+.HoverImg:hover {
+ font-weight:bold;
+}
+
+.HoverImg img {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 200%;
+ height: 100%;
+}
+
+.HoverImg:hover img,
+.HoverImgActive img {
+ left: -100%;
+ text-indent: 100%;
+}
+
+.content {
+ position: relative;
+ left: 174px;
+ width: 649px;
+}
+
+.olde {
+ font-family: Palatino Linotype, Book Antiqua, Palatino, Times New Roman, Times, serif;
+}
+
+
+/* Backgrounds */
+
+#bg {
+ background: url(../../img/main/splash2010/bg_outer.jpg) center top no-repeat #050201;
+}
+
+#bginner {
+ width: 901px;
+ margin: auto;
+ position: relative;
+ left: -48px;
+ text-align: left;
+ background: url(../../img/main/splash2010/bg_inner.jpg) center top no-repeat;
+}
+
+#content {
+ height: 745px;
+}
+
+
+/* Bar */
+
+#bar {
+ margin: auto;
+ width: 950px;
+ height: 30px;
+ line-height: 30px;
+ opacity: 0.50; filter: alpha(opacity=50);
+
+}
+
+#barLeft {
+ float: left;
+}
+
+#bar img {
+ vertical-align: middle;
+ border: 1px solid #666;
+}
+
+#bar a {
+ display: inline-block;
+ color: #fefefe;
+ font-weight: bold;
+}
+
+#continue {
+ margin-left: 20px;
+}
+
+#noSplash {
+ float: right;
+}
+
+
+/* RuneScape logo */
+
+#runescape {
+ position: absolute;
+ left: 98px;
+ top: 0;
+}
+
+
+/* Play Button */
+
+#play,
+#download {
+ position: absolute;
+ left: 206px;
+ top: 193px;
+ width: 226px;
+ height: 52px;
+ z-index: 1;
+}
+
+#play {
+ z-index: 2;
+}
+
+#download {
+ display: none;
+}
+
+#playExisting {
+ position: absolute;
+ top: 251px;
+ left: 0;
+ width: 100%;
+ height: 20px;
+ line-height: 20px;
+ color: #ababab;
+ font-weight: bold;
+ text-align: center;
+}
+
+
+/* Trailer and Screenshots */
+
+#media {
+ position: absolute;
+ left: 0;
+ top: 279px;
+ width: 649px;
+ height: 466px;
+}
+
+.mediaItem {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 414px;
+ display: none;
+}
+
+.mediaItemActive {
+ display: block;
+}
+
+.mediaItem object {
+ width: 100%;
+ height: 100%;
+}
+
+#stickout {
+ position: absolute;
+ left: 0;
+ bottom: 87px;
+ z-index: 1;
+ width: 44px;
+ height: 264px;
+ background: bottom left transparent;
+ 
+background-image: url(../../img/main/splash2010/stickout-0.png) !important;
+background-image: url(../../img/main/splash2010/stickout_ie6-0.png) !; 
+}
+
+.screenControl {
+ position: absolute;
+ z-index: 2;
+ left: -2px;
+ top: 0;
+ width: 40%;
+ height: 100%;
+ cursor: pointer;
+ text-indent: -999em;
+}
+
+.screenControl#next {
+ left: auto;
+ right: -2px;
+}
+
+.screenControl span {
+ position: absolute;
+ left: 0;
+ top: 70px;
+ width: 32px;
+ height: 52px;
+ overflow: hidden;
+ background-position: left top;
+ 
+background-image: url(../../img/main/splash2010/next_previous-0.png) !important;
+background-image: url(../../img/main/splash2010/next_previous_ie6-0.png) !; 
+}
+
+.screenControl#next span {
+ left: auto;
+ right: 0;
+ background-position: left bottom;
+}
+
+.screenControl:hover {
+ font-weight: bold;
+}
+
+.screenControl:hover span {
+ background-position: right top;
+}
+
+.screenControl#next:hover span {
+ background-position: right bottom;
+}
+
+#screenImage {
+ width: 100%;
+ height: 100%;
+}
+
+#buttons {
+ position: absolute;
+ left: 0;
+ top: 695px;
+ width: 100%;
+ height: 50px;
+ overflow: hidden;
+}
+
+.mediaButton {
+ position: absolute;
+ top: 0;
+ width: 322px;
+ height: 100%;
+}
+
+.mediaButton img {
+ height: 200%;
+}
+
+#trailer {
+ left: 1px;
+}
+
+#screen {
+ left: 326px;
+}
+
+#screen img {
+ top: -100%;
+}
+
+/* Content below trailer/screens */
+
+#lower {
+ margin: 54px 0 0;
+ width: 649px;
+ text-align: justify;
+}
+
+#lower h2 {
+ color: #6e0101;
+ font-variant: small-caps;
+ 
+  
+   font-size: 20px;
+  
+ 
+ font-weight: bold;
+ line-height: 24px;
+}
+
+#lower p {
+ color: #626161;
+ font-size: 16px;
+ line-height: 26px;
+}
+
+
+/* Footer */
+
+#footer {
+ margin: 85px 0 20px;
+ position: relative;
+ left: 48px;
+ overflow: hidden;
+}
+
+#social {
+ float: left;
+}
+
+#social a {
+ float: left;
+ margin: 0 4px 0 0;
+}
+
+#social a.socialLast {
+ margin-right: 0;
+}
+
+#legal {
+ margin: 2px 0 12px;
+ float: right;
+ font-size: 11px;
+ color: #706e69;
+}
+
+#legal a {
+ color: #6e0101;
+ font-size: 110%;
+ font-weight: bold;
+ text-decoration: none;
+}
+
+#legal a:hover {
+ text-decoration: underline;
+}
+
+#jagex {
+ float: right;
+ clear: right;
+}

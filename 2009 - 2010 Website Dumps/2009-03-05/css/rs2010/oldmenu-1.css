@@ -1,0 +1,190 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:31:11 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:07:24 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+
+#menubox {
+ width: 766px;
+ margin: 0 auto 9px;
+ background: #898989 url(../../img/main/layout/menu_bg.png) no-repeat left top;
+ font-size: 12px;
+ font-weight: bold;
+ height: 27px;
+}
+
+/* ================================================================
+This copyright notice must be untouched at all times.
+
+The original version of this stylesheet and the associated (x)html
+is available at http://www.cssplay.co.uk/menus/basic_dd.html
+Copyright (c) 2005-2007 Stu Nicholls. All rights reserved.
+This stylesheet and the assocaited (x)html may be modified in any
+way to fit your requirements.
+=================================================================== */
+
+
+#menubox ul{
+ list-style-type: none;
+ margin: 0;
+}
+
+
+#menus {
+ margin: 0;
+ padding: 0 0 0 5px;
+}
+
+
+#menus li.top{
+ float: left;
+ position: relative;
+ z-index: 100;
+ margin: 0 1px;
+ padding: 4px 0 0;
+}
+
+
+#menus table{
+ position: absolute;
+ border-collapse: collapse;
+ z-index: -1;
+ left: 0px;
+ top: 4px;
+ width: 106px;
+ text-align: left;
+}
+
+#menus table td {
+ position: relative;
+ top: -4px;
+ line-height: 1px;
+ font-size: 1px;
+ height: 23px;
+}
+
+
+#menus a.tl, #menus a.tl:visited {
+ display: block;
+ width: 106px;
+ height: 19px;
+ line-height: 19px;
+ color: #e8d800;
+ text-decoration: none;
+ text-align: center;
+ font-weight: bold;
+ margin-bottom: 4px;
+ background: url(../../img/main/layout/menu_buttons_bg.png) left top;
+}
+
+#menus a.tl#login, #menu a.tl#login:visited {
+ color: #4fbf0c;
+}
+
+#menus a.tl#logout, #menu a.tl#logout:visited {
+ color: #be1616;
+}
+
+
+#menus li.top:hover a.tl,
+#menus a.tl:hover,
+#menus li.top:hover a.tl#login,
+#menus li.top:hover a.tl#logout,
+#menus a.tl#login:hover,
+#menus a.tl#logout:hover {
+ color: black;
+ background-position: left -24px;
+}
+
+
+#navhome #menus #home .ts,
+#navplay #menus #play .ts,
+#navaccount #menus #account .ts,
+#navguide #menus #guide .ts,
+#navcommunity #menus #community .ts,
+#navhelp #menus #help .ts,
+#navlogin #menus #login .ts,
+#navlogout #menus #logout .ts {
+ display: block;
+ color: black;
+ background: url(../../img/main/layout/menu_buttons_bg.png) left -24px;
+}
+
+
+#menus li.top ul {
+ visibility: hidden;
+ position: absolute;
+ left: -1px;
+ top: 27px;
+ padding: 0 0 1px 0;
+ font-size: 12px;
+ background: url(../../img/main/layout/menu_buttons_bg.png) left bottom;
+}
+
+#menus li:hover ul,
+#menus a:hover ul{
+ visibility: visible;
+}
+
+
+#menus li.top li {
+ float: left;
+}
+
+#menus a.fly {
+ display: block;
+ width: 184px;
+ height: 22px;
+ overflow: hidden;
+ line-height: 15px;
+ color: white;
+ text-decoration: none;
+ text-align: left;
+ background: transparent url(../../img/main/layout/menu_buttons_bg.png) no-repeat 999px top;
+}
+
+#menus a.fly span {
+ display: block;
+ padding: 3px 4px 0;
+}
+
+
+#menus a.fly:hover {
+ color: black;
+ background-color: white;
+ background-position: 1px -48px;
+}
+
+
+#menus iframe { position: absolute; left: -9999px; top: -9999px; margin-left: 0; }
+
+#menus a:hover iframe,
+#menus li:hover iframe {left: -1px; top: 28px; width: 184px; }
+
+#menus #playI { height: 66px; }
+
+
+
+ #menus #accountI { height: 66px; }
+
+
+
+
+ #menus #guideI { height: 132px; }
+
+
+#menus #communityI { height: 110px; }
+
+#menus #helpI { height: 132px; }
+
+

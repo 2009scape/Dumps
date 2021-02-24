@@ -1,0 +1,378 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 23:51:59 May 21, 2009 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 14:02:49 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+/* Tags */
+
+/* Billing Options*/
+ .billingBox {
+  width:361px;
+  margin:5px;
+ }
+
+ .billingBox p a {
+  text-decoration:none;
+ }
+
+ .billingBox .topCnrs {
+ background:url(../../img/billingv4/billing_Cnrs.gif) no-repeat top;
+  height:5px;
+  font-size:1px;
+ }
+
+ .billingBox .botCnrs {
+  background:url(../../img/billingv4/billing_CnrsBot.gif) no-repeat scroll center bottom;
+  height:25px;
+  font-size:1px;
+ }
+
+ .billingBox .content {
+  border-left:solid 2px #151310;
+  border-right:solid 2px #151310;
+  background:#302a21;
+  padding:5px;
+  color:#fff;
+  font-size:12px;
+  padding-bottom:25px;
+ }
+
+ .billingBox img {
+  margin:5px;
+  float:left;
+ }
+
+ .billingBox b {
+  font-size:14px;
+ }
+
+ .billingBox span {
+  color:#dbc68f;
+ }
+
+ .billingBox p {
+  margin:0px;
+ }
+
+ .subscribe {
+  float: right;
+  bottom:0px;
+  right:0px;
+  width:149px;
+  height:25px;
+  background:url(../../img/billingv4/billingOption_button.gif) no-repeat;
+  z-index:100;
+  text-align:center;
+  line-height:20px;
+  text-decoration:none;
+ }
+
+ #billingTerms div {
+  *zoom: 1;
+ }
+
+ /* Billing quicklinks */
+ #billingBox_quicklinks {
+  width: 734px;
+ }
+ #topCnrs_quicklinks, #botCnrs_quicklinks {
+  height: 8px;
+  background-image:url(../../img/billingv4/billing_cnrs_quicklinks.gif);
+ }
+
+ #content_quicklinks {
+  background: #302a21;
+ }
+
+ #content_quicklinks table {
+  width: 709px;
+  margin-bottom: 5px;
+  background: #201D19;
+ }
+
+ #content_quicklinks td {
+   text-align: center;
+   vertical-align: middle;
+ }
+
+ #content_quicklinks td.spacer {
+  width: 10%;
+ }
+
+ #content_quicklinks img {
+  float: none;
+  margin: 0 auto;
+ }
+
+ /* Billing partner logos */
+ .billingBox .botCnrsLogo {
+  height: 45px;
+  margin: 0 -2px;
+ }
+
+ .billingBox .botCnrsLogo a.subscribe {
+    margin-top: 20px;
+ }
+
+ .partnerLogo {
+   background-repeat: no-repeat;
+    background-position: bottom right;
+    height: 37px;
+    width: 96px;
+    float: left;
+ }
+
+ .partnerLogoTC {
+   background-repeat: no-repeat;
+    background-position: 8px 100%;
+    min-height: 33px;
+ }
+
+ #worldpay {
+    background-image: url(../../img/billingv4/logo_worldpay2.gif);
+ }
+
+ #surfpin {
+    background-image: url(../../img/billingv4/logo_surfpin.gif);
+ }
+
+ #paybycash {
+  background-image: url(../../img/billingv4/logo_paybycash.gif);
+ }
+
+ #paypal {
+  background-image: url(../../img/billingv4/logo_paypal_88x31.gif);
+ }
+
+ #giropay {
+  background-image: url(../../img/billingv4/logo_giropay.gif);
+ }
+
+ #wallie {
+  background-image: url(../../img/billingv4/logo_wallie.gif);
+ }
+
+ #walliejagexstore {
+  background-image: url(../../img/billingv4/logo_walliejagexstore-1.gif);
+ }
+
+ #incomm {
+  background-image: url(../../img/billingv4/logo_incomm.gif);
+ }
+
+
+ #zapak {
+  background-image: url(../../img/billingv4/logo_zapak.gif);
+ }
+
+ #bibit{
+  background-image: url(../../img/billingv4/logo_bibit.gif);
+ }
+
+ #amex{
+  background-image: url(../../img/billingv4/logo_amex_option.gif);
+ }
+
+ #amexmaestro{
+  background-image: url(../../img/billingv4/logo_amex_maestro.gif);
+ }
+
+ #amexcb{
+  background-image: url(../../img/billingv4/logo_amex_cb.gif);
+ }
+
+ #visamc{
+  background-image: url(../../img/billingv4/logo_visa_mc.gif);
+ }
+
+ #maestro{
+  background-image: url(../../img/billingv4/logo_maestro.gif);
+ }
+ /* xBilling partner logos */
+
+ /* xBilling Options*/
+ /* xContent Left */
+ #contentLeft p, #contentLeft h4 {
+     padding-bottom:0px;
+     margin-bottom:10px;
+ }
+
+ #contentLeft .infoContent p {margin-bottom:0px;}
+
+ #contentLeft .title a{
+  color: #DBC68F;
+ }
+
+ /* Content Right */
+ #contentRight {
+  position:relative;
+  background: #201d19;
+ }
+
+ #contentRight .title {
+  text-align:center;
+  color: #ffb900;
+ }
+
+ #contentRight .billing {
+  color: #fff;
+  display:block;
+  position:relative;
+  width:286px;
+  height:114px;
+  margin:5px;
+ }
+
+ #contentRight .runescape {
+  background: url(../../img/billingv4/billing_runescape2.jpg);
+ }
+ #contentRight .funorb {
+  background: url(../../img/billingv4/billing_funorb.jpg);
+ }
+
+ #contentRight .credits {
+  position:absolute;
+  height:70px;
+  width:100px;
+  display:block;
+  right:20px;
+  text-align:center;
+  font-size:18px;
+  line-height:15px;
+  top:20px;
+  padding-top:20px;
+ }
+
+ #contentRight .credits b {
+  display:block;
+  font-size:40px;
+ }
+
+ #contentRight h4 {
+  margin-left:15px;
+  color:#dbc68f;
+ }
+
+ #contentRight dl {
+  margin-left:20px;
+  margin-right:10px;
+ }
+
+ #contentRight dt {
+  color:#fff;
+  font-weight:bold
+ }
+
+ #contentRight dd {
+  margin: 0px 0px 10px 10px;
+  color:#dbc68f;
+ }
+
+ /* xContent Right */
+
+/* New multiservice styles */
+div.corners {
+ width: 734px;
+}
+
+div.corners div.top {
+ background: url("../../img/billingv4/billing_cnrs_quicklinks.gif") no-repeat top;
+ height:5px;
+ font-size:1px;
+}
+
+div.corners div.bottom {
+ background:url("../../img/billingv4/billing_cnrs_quicklinks.gif") no-repeat bottom;
+ height:5px;
+ font-size:1px;
+}
+
+div.corners div.content {
+ padding-bottom: 5px;
+}
+
+div.corners div.servicebox {
+ border:8px solid #181510;
+ margin-bottom:10px;
+ padding:5px;
+ background: #453E33;
+ -webkit-border-radius: 6px;
+ -moz-border-radius: 6px;
+ border-radius: 6px;
+}
+
+div.corners div.servicebox img {
+ float: none;
+}
+
+div.creditdisplay {
+ background: #302A21;
+ text-align: center;
+ padding: 2px;
+ margin: 2px;
+}
+
+div.servicebox td.duration {
+ vertical-align: middle;
+}
+
+div.servicebox td.duration div {
+ background: #302A21;
+ text-align: center;
+ padding: 4px;
+ margin: 2px;
+}
+
+div.servicebox td {
+ text-align: center;
+ vertical-align: middle;
+}
+
+div.servicebox img {
+ display: inline;
+}
+
+div.servicebox select {
+ width: 245px;
+}
+
+div.paymenttype_popup {
+ position: absolute;
+ left: 38px;
+ top: 25px;
+}
+
+div#paymenttype_popup {
+ display: none;
+}
+
+div.paymenttype_popup div.billingBox {
+ border: 2px solid white;
+}
+
+div.paymenttype_popup div.dismiss {
+ text-align: center;
+ background:#302a21;
+}
+
+div.paymenttype_popup div.dismiss a.button {
+ margin: auto;
+}
+
+div#sametype {
+ display: none;
+ background:#302A21;
+ display:none;
+ font-weight:bold;
+ padding:5px 0pt;
+ text-align:center;
+}

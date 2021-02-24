@@ -1,0 +1,509 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:31:10 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 13:00:56 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+
+
+
+html {
+ overflow-y: scroll;
+}
+
+html, body, div, span, applet, object, iframe, img,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend, input,
+table, caption, tbody, tfoot, thead, tr, th, td {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ outline: 0;
+ font-size: 100%;
+ vertical-align: baseline;
+ background: transparent;
+}
+
+ul,
+ol {
+ padding: 0 0 0 3em;
+}
+
+button {
+ cursor: pointer;
+}
+
+:focus {
+ outline: 0;
+}
+
+:active {
+ outline: 0;
+}
+
+
+table {
+ border-collapse: collapse;
+ border-spacing: 0;
+}
+
+
+
+
+p,
+ul,
+ol {
+ line-height: 1.2em;
+ margin: 0 auto 1em;
+}
+
+a {
+ text-decoration: underline;
+ color: #32647d;
+}
+
+
+
+a,
+a:visited{
+ color: #610D0D;
+ cursor: pointer;
+}
+
+a:hover {
+ text-decoration: none;
+}
+
+a:active{
+}
+
+a img {
+ border: 0;
+}
+
+.HoverImg {
+ display: block;
+ overflow: hidden;
+ position: relative;
+ font-weight: normal;
+}
+
+.HoverImg:hover {
+ font-weight:bold;
+}
+
+.HoverImg img {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 200%;
+ height: 100%;
+}
+
+.HoverImg:hover img {
+ left: -100%;
+ text-indent: 100%;
+}
+
+.HoverImg button {
+ border: 0;
+ padding: 0;
+ margin: 0;
+ width: 100%;
+ height: 100%;
+}
+
+.Olde {
+ font-variant: small-caps;
+ font-weight: bold;
+ font-family: Palatino Linotype, Book Antiqua, Palatino, Times New Roman, Times, serif;
+}
+
+
+
+.Shadow .Shadow {
+ position: absolute;
+ left: 2px;
+ top: 2px;
+ z-index: 0;
+ width: 100%;
+ height: 100%;
+ zoom: 1;
+ opacity: 0.4;
+ filter: alpha(opacity=40);
+ background: #877b65;
+}
+
+.Shadow .Caster {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ z-index: 1;
+}
+
+body {
+ color: black;
+ font: normal 12px/14px arial, helvetica, freesans, sans-serif;
+ min-width: 1000px;
+}
+
+
+
+
+.BgContent,
+.BgHead,
+.BgFoot,
+.BgWidth,
+.PageBody1,
+.PageBody2,
+.PageHead,
+.PageFoot {
+ position: relative;
+ height: 1%;
+}
+
+.BgBody {
+ background: black center top repeat-y;
+}
+
+.BgHead {
+ background: center top no-repeat;
+}
+
+.BgWidth {
+ margin: auto;
+ width: 960px;
+}
+
+
+
+
+.PageBody1 {
+ background: center bottom repeat-y;
+ 
+background-image: url(../../img/global/PageBody1_bg-0.png) !important;
+background-image: url(../../img/global/PageBody1_bg_ie6-0.png) !; 
+}
+
+.PageBody2 {
+ margin: auto;
+ background: url(../../img/global/PageBody2_bg.jpg) center bottom repeat-y;
+}
+
+.PageHead {
+ background: url(../../img/global/PageHead_bg.png) center top no-repeat !important;
+ background: none;
+ width: 940px;
+ margin: auto;
+}
+
+.PageFoot {
+ overflow: hidden;
+ height: 1%;
+ padding: 0 0 25px;
+ background: url(../../img/global/PageFoot_bg.jpg) center bottom no-repeat;
+}
+
+
+
+
+.Button {
+ position: relative;
+ top: 0;
+ display: -moz-inline-grid;
+ display: inline-block;
+ overflow: visible;
+ text-align: center;
+}
+
+.Button span {
+ float: left;
+}
+
+.Button span span {
+ padding: 0;
+}
+
+.Button span span span {
+ position: relative;
+ overflow: visible; 
+ *overflow: hidden; 
+ padding: 0 20px;
+ border: 0;
+ outline: 0;
+ background: none !important;
+}
+
+.Button:active span {
+ outline: 0;
+}
+
+
+
+.Button span b {
+ position: relative;
+}
+
+.Button span:active b,
+.Button b:active {
+ top: 1px;
+ left: 1px;
+}
+
+
+
+.Button,
+.Button span {
+ text-decoration: none;
+ font-family: arial;
+ font-size: 12px;
+ font-weight: bold;
+ color: white;
+ cursor: pointer;
+ white-space: pre;
+ background-repeat: no-repeat;
+}
+
+
+
+.Button {
+ background-position: left 0%;
+}
+
+.Button:hover {
+ background-position: left 20%;
+}
+
+.Button span {
+ background-position: right 40%;
+}
+
+.Button:hover span {
+ background-position: right 60%;
+}
+
+.Button span span {
+ background-repeat: repeat-x;
+ background-position: left 80%;
+}
+
+.Button:hover span span {
+ background-position: left 100%;
+}
+
+
+
+.Button input {
+ position: absolute;
+ left: 0;
+ top: 0;
+ width: 100%;
+ height: 100%;
+ line-height: 999px !important; 
+ font-size: 0; 
+ color: transparent; 
+ cursor: pointer;
+ border: 0 !important;
+ background-color: transparent !important;
+ background-position: -100% top !important;
+ background-repeat: no-repeat !important;
+}
+
+.Button input::-moz-focus-inner {
+ border: 0;
+ padding: 0;
+}
+
+
+
+
+.Button27Green,
+.Button27Green span,
+.Button27Green input {
+background-image: url("../../img/main/home2010/Button27Green-0.png");
+height: 27px;
+line-height: 26px;
+}
+.Button27Green {
+padding-left: 15px;
+}
+.Button27Green span {
+padding-right: 15px;
+}
+.Button27Green span span span {
+margin-left: -30px;
+left: 15px;
+}
+
+
+
+
+
+#pageFooter {
+ margin: 0;
+ padding: 10px 0 0 0;
+ line-height: 20px;
+ clear: both;
+ text-align: center;
+}
+
+#pageFooter a {
+ color: black;
+ text-decoration: none;
+}
+
+#pageFooter a:hover {
+ text-decoration: underline;
+}
+
+
+
+
+#Footer {
+ margin: 15px auto 0;
+ overflow: hidden;
+ width: 940px;
+}
+
+#Explore {
+ position: relative;
+ height: 26px;
+ color: white;
+ padding: 0 0 9px 0;
+ background: left bottom repeat-x;
+ 
+background-image: url(../../img/global/footer_hr_bg-0.png) !important;
+background-image: url(../../img/global/footer_hr_bg_ie6-0.png) !; 
+}
+
+#Explore h2 {
+ position: absolute;
+ left: 0;
+ top: 0;
+ font-size: 20px;
+ line-height: 21px;
+}
+
+#FooterSearch {
+ position: relative;
+ margin: auto;
+ width: 264px;
+ height: 26px;
+ padding: 0 30px 0 8px;
+ background: url(../../img/global/footerSearch.jpg) left top no-repeat;
+}
+
+#FooterSearch input {
+ display: block;
+ width: 100%;
+ color: white;
+ font-family: arial, helvetica, freesans, sans-serif;
+}
+
+#FooterSearch div {
+ width: 30px;
+ height: 26px;
+ position: absolute;
+ right: 0;
+ top: 0;
+}
+
+#FooterSearch input.placeholder {
+ color: #d0d4bc;
+ font-style: italic;
+}
+
+#FooterSearch #footer_search_query {
+ padding: 5px 0;
+}
+
+#Lang {
+ position: absolute;
+ right: 0;
+ top: 5px;
+}
+
+#Lang a {
+ float: left;
+ margin: 0 0 0 6px;
+}
+
+#FooterNav {
+ height: 1%;
+ padding: 0 0 14px;
+ overflow: hidden;
+ background: left bottom repeat-x;
+ 
+background-image: url(../../img/global/footer_hr_bg-0.png) !important;
+background-image: url(../../img/global/footer_hr_bg_ie6-0.png) !; 
+}
+
+#FooterNav div {
+ float: left;
+ display: inline;
+ margin: 12px 0 0 14px;
+ width: 224px;
+ height: 76px;
+ font-size: 11px;
+}
+
+#FooterNav div.FooterNavLeft {
+ margin-left: 0;
+}
+
+#FooterNav h2 {
+ margin: 0 0 4px;
+ color: white;
+ font-size: 16px;
+}
+
+#FooterNav,
+#FooterNav a {
+ color: #a1a1a1;
+}
+
+#FooterNav a {
+ text-transform: lowercase;
+ text-decoration: none;
+}
+
+#FooterNav a:hover {
+ text-decoration: underline;
+}
+
+#FooterLegal {
+ position: relative;
+ margin: 22px 0 0;
+ height: 60px;
+ color: white;
+ font-size: 11px;
+ line-height: 14px;
+ text-align: center;
+}
+
+#FooterLegal a {
+ font-weight: bold;
+ font-size: 12px;
+ color: #d0d0d0;
+}
+
+#FooterLogo {
+ position: absolute;
+ top: -7px;
+ right: 0;
+ width: 144px;
+ height: 44px;
+}
+

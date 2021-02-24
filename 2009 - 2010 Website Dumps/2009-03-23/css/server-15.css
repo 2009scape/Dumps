@@ -1,0 +1,198 @@
+
+
+
+
+
+/*
+     FILE ARCHIVED ON 21:40:04 Dec 6, 2010 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:03:16 Feb 22, 2021.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/
+
+
+
+/* Overrides */
+
+.brown_background a {
+ color: #ffcf80;
+}
+
+/* xOverrides */
+
+/* Quick Select */
+
+#quickSelect {
+ margin-bottom: 5px;
+ height: 1%; /* IE hasLayout fix */
+}
+
+.quickfree, .quickmembers {
+ float: right;
+ position: relative;
+ margin-left: 8px;
+ width: 226px;
+ line-height: 30px;
+}
+
+.shim, .shimHover {
+ position: absolute;
+ width: 202px;
+ height: 35px;
+ line-height: 35px;
+ left: 12px;
+ top: 91px;
+ text-align: center;
+ text-decoration: none;
+ font-size: 14px;
+ font-weight: bold;
+ color: #2C2419;
+ cursor: pointer;
+ background: transparent url(../img/main/serverlist/quickshim.png) -999px -999px no-repeat;
+}
+
+#quickSelect .quickBig { 
+ display: block;
+ height: 138px;
+ overflow: hidden;
+ color: #2c2419;
+ text-decoration: none;
+ background: #574422;
+}
+
+#quickSelect h4 {
+ margin-top: 0;
+ font-size: 12px;
+}
+
+
+
+.quickBig:hover > .shim {
+ color: #b08622;
+ background-position: top left;
+}
+
+
+.quickBig .shimHover {
+ color: #b08622;
+ background-position: top left;
+}
+
+.quickMembers {
+ left: 365px;
+}
+
+.quickDesc a {
+ color: #FFCF80;
+}
+
+/* xQuick Select */
+
+/* Advanced Select */
+
+.slist {
+ width: 100%;
+ border-collapse: collapse;
+ /* For IE 5.x */
+ font-size: 12px;
+ color: white;
+}
+
+.slist tr.slistHeader {
+ line-height: 22px;
+ font-weight: bold;
+ background: transparent url(../img/main/layout/subsection_subheader_bg.png) repeat-x center top;
+}
+
+.slistHeader img {
+ vertical-align: middle;
+}
+
+.slistHeader a {
+ text-decoration: none;
+}
+
+.slist tr {
+ background: #574422;
+}
+
+.slist tr.x {
+ background: #44351a;
+}
+
+.slist td {
+ padding: 4px 2px 4px 10px;
+}
+
+.slist td.f, .slist td.m {
+ background-position: 10px center;
+ background-repeat: no-repeat;
+ padding-left: 32px;
+}
+
+.slist td.a {
+ background-position: 10px center;
+ background-repeat: no-repeat;
+ padding-left: 37px;
+}
+
+.f {
+ background-image: url(../img/main/serverlist/star_free.png);
+}
+
+.m {
+ background-image: url(../img/main/serverlist/star_members.png);
+}
+
+.a {
+ background-image: url(../img/main/serverlist/flag_runescape.png);
+}
+
+.au, .AU{ background-image: url(../img/main/serverlist/flag_au.png); }
+
+.ca, .CA{ background-image: url(../img/main/serverlist/flag_ca.png); }
+
+.fi, .FI{ background-image: url(../img/main/serverlist/flag_fi.png); }
+
+.nl, .NL{ background-image: url(../img/main/serverlist/flag_nl.png); }
+
+.se, .SE{ background-image: url(../img/main/serverlist/flag_se.png); }
+
+.uk, .UK, .gb, .GB{ background-image: url(../img/main/serverlist/flag_uk.png); }
+
+.us, .US{ background-image: url(../img/main/serverlist/flag_us.png); }
+
+.de, .DE{ background-image: url(../img/main/serverlist/flag_de.png); }
+
+.dk, .DK{ background-image: url(../img/main/serverlist/flag_dk.png); }
+
+.be, .BE{ background-image: url(../img/main/serverlist/flag_be.png); }
+
+.no, .NO{ background-image: url(../img/main/serverlist/flag_no.png); }
+
+.nz, .NZ{ background-image: url(../img/main/serverlist/flag_nz.png); }
+
+.br, .BR{ background-image: url(../img/main/serverlist/flag_br.png); }
+
+.mx, .MX{ background-image: url(../img/main/serverlist/flag_mx.png); }
+
+.ie, .IE{ background-image: url(../img/main/serverlist/flag_ie.png); }
+
+.fr, .FR{ background-image: url(../img/main/serverlist/flag_fr.png); }
+
+.in, .IN{ background-image: url(../img/main/serverlist/flag_in.png); }
+
+.lt, .LT{ background-image: url(../img/main/serverlist/flag_lt.png); }
+
+.pl, .PL{ background-image: url(../img/main/serverlist/flag_pl.png); }
+
+.es, .ES{ background-image: url(../img/main/serverlist/flag_es.png); }
+
+.d {
+ color: #ffde00;
+}
+
+/* xAdvanced Select */
+
