@@ -1,0 +1,290 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
+<meta name="description" content="FunOrb, free online browser-based games from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Information about the players that moderate the FunOrb community.">
+<title>Player Moderators</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Welcome to FunOrb - The Best in Free Online Games</h1>
+<span id="teletext_inner">
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/a=135/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/a=135/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=135/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/a=135/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/a=135/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/a=135/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/a=135/members.ws" class="fly last">Members' Benefits</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/a=135/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/a=135/" class="fly">Community Home</a></li>
+<li><a href="
+http://forum-fo.funorb.com/a=135/forums.ws" class="fly">All Forums</a></li>
+<li><a href="
+http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></li>
+<li><a href="http://achievements.funorb.com/a=135/" class="fly">Achievements</a></li>
+<li><a href="http://hiscore-fo.funorb.com/a=135/" class="fly">Highscores &amp; Ratings</a></li>
+<li><a href="http://orbcoins.funorb.com/a=135/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/a=135/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/a=135/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=59" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/a=135/index.ws">
+<span>
+<img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+<div id="dropArrow"></div>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Customer Support</a> &gt; <a href="viewcategory.ws?cat_id=10">Moderators</a> &gt; Player Moderators</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Player Moderators</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#help">Do Player Moderators have to help me?</a>
+<li><a href="#how">How does someone become a Player Moderator?</a>
+<li><a href="#report">Should I report abuse to a Player Moderator or continue to use the report abuse feature?</a>
+<li><a href="#what">What is a Player Moderator?</a>
+<li><a href="#abuse">What should I do if a Player Moderator is abusive to me?</a>
+</ol></div>
+<br>
+<a name="help"></a>
+<span class="title">1. Do Player Moderators have to help me?</span><br><br>
+Player Moderators are there to help monitor fair play in the game. It is up to the individual Player Moderator whether they offer in-game assistance and they are under no obligation to do this. Their role is merely to report offenses as and when they see them.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="how"></a>
+<span class="title">2. How does someone become a Player Moderator?</span><br><br>
+We keep track of potential Player Moderators using a variety of methods.<br><br>We review their behaviour in the forums, the number and quality of abuse reports sent in, how useful and friendly they have been to other players and any messages sent in to us from other players about their behaviour in our games.<br><br>The chance of a particular player becoming a Player Moderator is not based on how long they have been a member/subscriber or how many Achievements they have. There will be Player Moderators who do not have masses of Achievements, but remember that we do investigate accounts fully before giving them Player Moderator status, so if you see the crown, the player will have earned it.<br><br>We do not give out details on how close someone is getting to becoming a Moderator, but rest assured that if you are doing what is needed to become a Player Moderator, we will take notice.<br><br>If you do get selected to be a Player Moderator a message will be sent to Your Message Inbox. Once you have accepted and the confirmation has been received, you will get your silver crown and Player Moderator abilities.<br><br>All our Player Moderators are hand-picked by Jagex staff. We <b>DO NOT</b> consider requests to become one. The best advice we can give to someone who wants to become a Player Moderator is to continue playing on FunOrb in a good and honest way and report genuine abuse as and when you see it. In addition to this, having a positive presence on the FunOrb Forums would increase your chances of being identified as a trustworthy player.<br><br>If you have a previous punishment, this does not necessarily end your chances of becoming a Player Moderator. We take into account the time at which an offense took place and the player's subsequent behaviour. If this indicates that they have learnt from their mistakes and have been a positive member of the FunOrb community, it can result in the player being considered for the role of Player Moderator.
+<br><br>
+<b>RuneScape moderators</b>
+<br>
+If you have been given moderator status in our multiplayer game, RuneScape, then you will automatically be a FunOrb player moderator. All the same rules of conduct apply, and your behaviour and interaction with the community will be expected to remain at an equally high standard.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="report"></a>
+<span class="title">3. Should I report abuse to a Player Moderator or continue to use the report abuse feature?</span><br><br>
+We encourage all of our players to continue using the Report Abuse feature to help us deal with rule breakers. It would be better to receive one report from everyone that sees an incident than not to receive one at all. If a Player Moderator is present, you can ask them to help in reporting abuse. Please remember, however, that Player Moderators are players too and want to play the games on FunOrb - they are not obliged to help.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="what"></a>
+<span class="title">4. What is a Player Moderator?</span><br><br>
+Jagex has always worked extremely hard to make sure that FunOrb is a safe and pleasant place to play.
+<br><br>
+To ensure that FunOrb stays such a place, Jagex introduced Player Moderators to the site. Player Moderators are normal players of FunOrb games, just like you. They still play to earn Achievements and high scores, but have shown themselves to be trustworthy and actively report any abuse they witness. They have been invited by Jagex to monitor FunOrb while they are playing and to take appropriate action when they see rule breaking.
+<br><br>
+Player Moderators have two ways to deal with rule breaking in our multiplayer games:<br>
+<ul style="margin-top: 0px; margin-bottom: 0px; "><br>
+<li>The Report Abuse button<br>
+This is the same Report Abuse button that all other players have, however, a dedicated team of Jagex staff members will be assessing each of these reports as a matter of priority.
+<br><br>
+<li>Temporary mutes<br>
+In extreme cases of the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> being broken, Player Moderators also have the option to <a href="viewarticle.ws?article_id=9">mute</a> players for 48 hours. To avoid the possibility of this power being abused, each mute will be checked by a member of Jagex staff as soon as possible, to ensure that each action taken by a Player Moderator is completely correct.<br>
+</ul>
+<br>
+To avoid any confusion, Jagex has made all Player Moderators very easy to identify. Every Player Moderator will have a small silver crown next to their name when they type a message. Below is an example of the crown you will see next to the name of a Player Moderator.
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/parents_guide/pmod.gif" alt="Player Moderator chat" title="Player Moderator chat">
+<br><br>
+<a href="viewarticle.ws?article_id=33">Jagex Moderators</a> also have a crown visible when they type, although this one will be gold.
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/parents_guide/jmod.gif" alt="Jagex Moderator chat" title="Jagex Moderator chat">
+<br><br>
+If you see <b>ANYONE</b> in game saying they are a Player Moderator, or member of Jagex staff, who does not have the necessary crown, you should report them immediately for Impersonation, by clicking the Report Abuse button. This also applies if a player says that another one of their accounts is a Player or Jagex Moderator. No real Player Moderator or member of staff would say this. We do not have Player Moderators or staff in disguise and hidden. Neither will a crown or Moderator status be 'in processing'.
+<br><br>
+Player Moderators receive no benefits other than the silver crown and their muting ability. Player Moderators get no reward other than the satisfaction of a job well done and are not paid for the role they perform for us. They do not get free membership, free Orb Points or Coins, or any other bonus, nor are they provided with any advance or behind the scenes information that isn't publicly available to all players.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="abuse"></a>
+<span class="title">5. What should I do if a Player Moderator is abusive to me?</span><br><br>
+If you see a Player Moderator being abusive to someone, you should report the event using the Report Abuse button. We will then investigate the matter and take any appropriate action. If, however, we find that a player has falsely reported a Player Moderator, we will take action against that person.
+<br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=10">Moderators</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=33">Jagex Moderators</a>, Player Moderators, <a href="viewarticle.ws?article_id=8">Forum Moderators</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter">
+Select your language:&nbsp;
+<a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p>
+Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

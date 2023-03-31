@@ -1,0 +1,170 @@
+
+
+
+
+
+
+
+
+body{
+ background-image: url('http://www.funorb.com/l=4/img/microsites/arcanists/back.jpg');
+ background-repeat: repeat-x;
+ background-position: center top;
+ background-color: #13110f;
+ margin: 0px;
+ font-family: Arial,Helvetica,FreeSans,sans-serif;
+}
+#copyright{
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
+ margin: auto;
+ width: 367px;
+ height: 104px;
+ text-align: center;
+ color: black;
+ font-size: 10px;
+ line-height: 11px;
+ padding: 32px 134px 0 127px;
+ position: absolute;
+ left: 50%;
+ top: 750px;
+ margin-left: -314px;
+}
+#copyright a{
+ color: #965706;
+ text-decoration: underline;
+}
+
+#copyright a:hover{
+ text-decoration:  none;
+}
+#applet{
+ width: 640px;
+ height: 480px;
+ margin-left: 68px;
+ margin-top: 9px;
+ background-color: black;
+ border: none;
+ overflow: hidden;
+ padding: 0px;
+}
+#header{
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/play/top.jpg');
+ width:      776px;
+ height:      137px;
+ text-align:    center;
+}
+#panel{
+ margin:      auto;
+ width:      776px;
+ background-color: black;
+ padding-bottom:  25px;
+ position:     absolute;
+ top:       0px;
+ left:       50%;
+ margin-left:   -388px;
+}
+#instructions{
+ color:       white;
+ font-size:    10px;
+ text-align:    center;
+ margin:      20px auto 0px;
+}
+#instructions a{
+ color:      #965706;
+ text-decoration: underline;
+}
+
+#menu{
+ text-align: left;
+ height: 23px;
+ position: relative;
+ top: 8px;
+}
+#menu a{
+ padding: 0px 20px;
+ line-height: 23px;
+ color: #e8c831;
+ text-decoration: none;
+ float: left;
+ font-size: 12px;
+}
+#menu a:hover{
+ color: #ffec92;
+}
+#menu p {
+ padding: 0px 20px;
+ line-height: 23px;
+ color: #FF0;
+ text-decoration: none;
+ float: left;
+ font-size: 12px;
+ font-weight: bold;
+ margin: 0;
+}
+.divider{
+ width: 1px;
+ height: 19px;
+ background-color: #3a3017;
+ float: left;
+ margin-top: 2px;
+}
+
+.preload{
+ visibility: hidden;
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ z-index: 10;
+}
+#logo,#banner{
+ margin: 0px auto 6px;
+ height: 92px;
+ position: relative;
+ top: 8px;
+ border: none;
+ width: 756px;
+}
+#logo{
+ display: none;
+ background-color: black;
+}
+#logo img{
+ margin:  0px auto;
+}
+
+
+ #bookmark {
+  background: black url('http://www.funorb.com/l=4/img/microsites/arcanists/social_bg.jpg') no-repeat top left;
+  margin:      auto;
+  width:      776px;
+  background-color: black;
+  position:     absolute;
+  top:       710px;
+  left:       50%;
+  margin-left:   -388px;
+  font-size: 12px;
+  height: 28px;
+  color: #e8c831;
+  text-align: center;
+  padding-top: 11px;
+ }
+ #bookmark img {
+  margin: 0 1px 0 0;
+  vertical-align: middle;
+ }
+ #bookmark a {
+  color: #e8c831;
+  text-decoration: none;
+ 
+ 
+  text-decoration: none;
+ }
+ #bookmark a:hover{
+  color: #ffec92;
+ }
+ #bookmark a span {
+  text-decoration: underline;
+ }
+ #bookmark a:hover span {
+  text-decoration: none;
+ }

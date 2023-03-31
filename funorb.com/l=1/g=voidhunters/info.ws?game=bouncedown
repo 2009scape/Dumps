@@ -1,0 +1,453 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="de" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Kostenlose Online-Spiele, Puzzlespiele, Plattformspiele, Arcadespiele, Ballerspiele, Actionspiele, Javaspiele, Rennspiele, Wortspiele, Retrospiele, Browserspiele, Strategiespiele, Mehrspieler, Arkanisten, Jagex">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex Games Studio, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="title" content="FunOrb - Kostenlose Online-Spiele von Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=voidhunters/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=voidhunters/favicon.ico">
+<title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+ @media all {
+  IE\:clientCaps {behavior:url(#default#clientcaps)}
+ }
+</style>
+<IE:clientCaps ID="oClientCaps" />
+<![endif]-->
+<script type="text/javascript">
+ var suffix="?js=1";
+ if (navigator.appName=="Microsoft Internet Explorer") {
+  if (!oClientCaps.getComponentVersion("{08B0E5C0-4FCB-11CF-AAA5-00401C608500}","ComponentID")) {
+   suffix+="&applet=2";
+  }
+ }
+ function suffixize(obj){
+  if(!obj.suffixed){
+   obj.href += suffix;
+   obj.suffixed = true;
+  }
+ }
+</script> <style type="text/css" media="screen">
+ /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ .intro {
+  background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/intro.jpg);
+ }
+ .buttonSubscribe {
+  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+ }
+</style>
+<script type="text/javascript">
+//
+var time = 4;
+var timer;
+var timer2;
+var loading = 0;
+var image = 0;
+var images = Array();
+//
+images[0] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen1.jpg?1';
+images[1] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen2.jpg?1';
+images[2] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen3.jpg?1';
+images[3] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen4.jpg?1';
+//
+function clearLoading(){
+ try{
+  if(images[0]){
+   document.getElementById('screenshotsLoading0').style.backgroundPosition = '-83px -62px';
+   if(images[1]){
+    document.getElementById('screenshotsLoading1').style.backgroundPosition = '-83px -62px';
+    if(images[2]){
+     document.getElementById('screenshotsLoading2').style.backgroundPosition = '-83px -62px';
+     if(images[3]){
+      document.getElementById('screenshotsLoading3').style.backgroundPosition = '-83px -62px';
+     }
+    }
+   }
+  }
+  loading = 0;
+ }catch(e){}
+}
+//
+function imageTimer(self){
+ clearTimeout(timer2);
+ clearTimeout(timer);
+ clearLoading();
+ timer = setTimeout("imageNext('" + self + "')", time * 1000);
+}
+//
+function imageNext(self){
+ if(loading == 1){return;}
+ image++;
+ if(image >= images.length){
+  image = 0;
+ }
+ document.getElementById(self).src = images[image];
+}
+//
+function imageGoto(self, img){
+ image = img;
+ // Don't bother re-loading the same image as it screws up Opera
+ if(document.getElementById(self).src != images[image]){
+  var timeDefault = time;
+  time = time * 2;
+  window.setTimeout('time = ' + timeDefault, timeDefault);
+  timer2 = window.setTimeout("document.getElementById('screenshotsLoading' + image).style.backgroundPosition = '25px 12px';", 100);
+  loading = 1;
+  document.getElementById(self).src = images[image];
+ }
+ return false;
+}
+</script>
+</head>
+<body id="navGames">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=1/g=voidhunters/index.ws" ><b>
+<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<span id="teletext_inner">
+Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=voidhunters/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=voidhunters/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/g=voidhunters/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=voidhunters/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=1/g=voidhunters/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=1/g=voidhunters/" class="fly">Community-Startseite</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=voidhunters/forums.ws" class="fly">Forum</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=1/g=voidhunters/" class="fly">Erfolge</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=voidhunters/" class="fly">Bestenlisten &amp; Wertungen</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=1/g=voidhunters/" class="fly last">Orb-Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=voidhunters/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/g=voidhunters/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=voidhunters/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=bouncedown" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=1/g=voidhunters/index.ws">
+<span>
+<img alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=voidhunters/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=voidhunters/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=voidhunters/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=voidhunters/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+
+<a name="info"></a>
+<div class="section" id="info" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail">
+<a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws">Spiele</a> &gt;
+<a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=voidhunters/bouncedown/play.ws">Bouncedown</a> &gt;
+Mehr Infos </span>
+<span class="sectionServerlist">
+<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=voidhunters/bouncedown/serverlist.ws">Serverliste</a>
+</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<div class="intro">
+<div class="introDescription">
+<div>
+<a href="http://www.funorb.com/l=1/g=voidhunters/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Oben Stacheln, unten Höllenfeuer. Seid ihr und eure Freunde bereit für den Sprung? </div>
+</div>
+<a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=voidhunters/bouncedown/play.ws"></a>
+</div>
+<a name="screenshots"></a>
+<div class="subsection" id="screenshots" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Screenshots
+</div>
+</div>
+<div class="subsectionContent">
+<script type="text/javascript">
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/bouncedown/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+ </script>
+<noscript>
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=voidhunters/display_screenshot.ws?game=bouncedown&screenshot=screen1">
+</iframe>
+</noscript>
+<div id="screenshotsThumbs">
+<a href="http://www.funorb.com/l=1/g=voidhunters/display_screenshot.ws?game=bouncedown&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen1_thumb.jpg?1);">
+<div id="screenshotsLoading0"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=voidhunters/display_screenshot.ws?game=bouncedown&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen2_thumb.jpg?1);">
+<div id="screenshotsLoading1"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=voidhunters/display_screenshot.ws?game=bouncedown&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen3_thumb.jpg?1);">
+<div id="screenshotsLoading2"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=voidhunters/display_screenshot.ws?game=bouncedown&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen4_thumb.jpg?1);">
+<div id="screenshotsLoading3"></div>
+</a>
+</div>
+</div>
+</div>
+<a name="benefits"></a>
+<div class="subsection" id="benefits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Vorteile einer Mitgliedschaft
+</div>
+</div>
+<div class="subsectionContent">
+<div class="benefitsPadding"></div>
+<div class="benefitsContent">
+<div class="benefitsList">
+<ul>
+<li>Fullscreen mode for all games</li>
+<li>Masses of exclusive game content</li>
+<li>Special members-only Achievements</li>
+<li>Play ALL of our multiplayer games</li>
+<li>No adverts during gameplay</li>
+<li>Full access to our Forums</li>
+
+</ul>
+</div>
+<a href="http://www.funorb.com/l=1/g=voidhunters/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+</div>
+</div>
+</div>
+<br class="clear" />
+<a name="description"></a>
+<div class="subsection" id="description" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Beschreibung
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>Eine unendliche Folge von Plattformen steigt aus dem Feuer am Boden zu den Stacheln nach oben. Wenn ihr zu weit nach oben geratet, platzt ihr an den Stacheln, wenn ihr eine Plattform verfehlt, fallt ihr womöglich in das Feuer. Wie weit nach unten könnt ihr springen? Bis zu drei Spieler können dieses teuflische Spiel voller Plattformen gegeneinander spielen.</p>
+</div>
+</div>
+</div>
+<a name="top_of_page"></a>
+<a name="faqs"></a>
+<div class="subsection" id="faqs" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Fragen und Antworten
+</div>
+</div>
+<div class="subsectionContent">
+<div class="faqsList">
+<ol>
+<li><a href="#faqs_q1">Wie viele unterschiedliche Plattformen gibt es?</a></li>
+<li><a href="#faqs_q2">Was ist der Unterschied zwischen dem Herausforderungs-Modus und dem Kampf-Modus?</a></li>
+<li><a href="#faqs_q3">Welche Tasten sind für welchen Spieler, wenn man zu mehreren spielt?</a></li>
+<li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
+</ol>
+</div>
+<div class="faqsAnswer">
+<a name="faqs_q1"></a>
+<h3>1. Wie viele unterschiedliche Plattformen gibt es?</h3>
+<p>Es gibt sieben verschiedene Arten von Plattformen.</p>
+<ul>
+<li>Normal</li>
+<li>Sprung-Plattform - je kleiner ihr seid, desto höher springt ihr</li>
+<li>Wolken-Plattform - wird unter euch verschwinden, wenn ihr nicht klein seid</li>
+<li>Roll-Plattform - ein Förderband schiebt euch in Pfeilrichtung</li>
+<li>Wachstums-Plattform - macht euch groß und stark</li>
+<li>Schrumpf-Plattform - macht euch klein und schnell</li>
+<li>Hörner-Plattform - gibt euch Stacheln, um andere Spieler anzugreifen</li>
+</ul>
+<div class="hr"></div>
+<a name="faqs_q2"></a>
+<h3>2. Was ist der Unterschied zwischen dem Herausforderungs-Modus und dem Kampf-Modus?</h3>
+<p>Bei der Einzelspieler-Herausforderung geht es darum, möglichst lange zu überleben. Je weiter ihr nach unten springt, um so schneller kommen die Plattformen nach oben. Wenn ihr zu zweit oder zu dritt gegeneinander kämpft, geht es darum, eure Gegenspieler zu überleben.</p>
+<div class="hr"></div>
+<a name="faqs_q3"></a>
+<h3>3. Welche Tasten sind für welchen Spieler, wenn man zu mehreren spielt?</h3>
+<p>In Bouncedown könnt ihr gegen zwei eurer Freunde am gleichen Computer spielen. Informationen zur Steuerung: <ul>
+<li>Spieler 1: Y und X</li>
+<li>Spieler 2: LINKS und RECHTS</li>
+<li>Spieler 3: K und L</li>
+</ul>
+<div class="hr"></div>
+<a name="faqs_spec"></a>
+<h3>4. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
+<p>Mindestvoraussetzungen:</p>
+<ul>
+<li>500 MHz <li>128MB Arbeitsspeicher </ul>
+<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<ul>
+<li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
+<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
+</div>
+</div>
+</div>
+<a name="credits"></a>
+<div class="subsection" id="credits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Development Team
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>
+<b>Development:</b> Thomas D<br>
+<b>Graphics:</b> Kristian F<br>
+<b>Audio:</b> Ian T<br>
+<b>Quality Assurance:</b> David H,&nbsp;Craig S<br>
+<b>Translation:</b> Gesine P,&nbsp;Heiko J,&nbsp; Frank B
+</p>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=voidhunters/index.ws"><img alt="
+English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=voidhunters/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=voidhunters/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=voidhunters/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=voidhunters/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=voidhunters/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=1/g=voidhunters/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,0 +1,438 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="fr" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="fr">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=hostilespawn_vengeance/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=hostilespawn_vengeance/favicon.ico">
+<title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+ @media all {
+  IE\:clientCaps {behavior:url(#default#clientcaps)}
+ }
+</style>
+<IE:clientCaps ID="oClientCaps" />
+<![endif]-->
+<script type="text/javascript">
+ var suffix="?js=1";
+ if (navigator.appName=="Microsoft Internet Explorer") {
+  if (!oClientCaps.getComponentVersion("{08B0E5C0-4FCB-11CF-AAA5-00401C608500}","ComponentID")) {
+   suffix+="&applet=2";
+  }
+ }
+ function suffixize(obj){
+  if(!obj.suffixed){
+   obj.href += suffix;
+   obj.suffixed = true;
+  }
+ }
+</script> <style type="text/css" media="screen">
+ /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ .intro {
+  background-image: url(http://www.funorb.com/l=2/img/images/game/chess/intro.jpg);
+ }
+ .buttonSubscribe {
+  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+ }
+</style>
+<script type="text/javascript">
+//
+var time = 4;
+var timer;
+var timer2;
+var loading = 0;
+var image = 0;
+var images = Array();
+//
+images[0] = 'http://www.funorb.com/l=2/img/images/game/chess/screen1.jpg?1';
+images[1] = 'http://www.funorb.com/l=2/img/images/game/chess/screen2.jpg?1';
+images[2] = 'http://www.funorb.com/l=2/img/images/game/chess/screen3.jpg?1';
+images[3] = 'http://www.funorb.com/l=2/img/images/game/chess/screen4.jpg?1';
+//
+function clearLoading(){
+ try{
+  if(images[0]){
+   document.getElementById('screenshotsLoading0').style.backgroundPosition = '-83px -62px';
+   if(images[1]){
+    document.getElementById('screenshotsLoading1').style.backgroundPosition = '-83px -62px';
+    if(images[2]){
+     document.getElementById('screenshotsLoading2').style.backgroundPosition = '-83px -62px';
+     if(images[3]){
+      document.getElementById('screenshotsLoading3').style.backgroundPosition = '-83px -62px';
+     }
+    }
+   }
+  }
+  loading = 0;
+ }catch(e){}
+}
+//
+function imageTimer(self){
+ clearTimeout(timer2);
+ clearTimeout(timer);
+ clearLoading();
+ timer = setTimeout("imageNext('" + self + "')", time * 1000);
+}
+//
+function imageNext(self){
+ if(loading == 1){return;}
+ image++;
+ if(image >= images.length){
+  image = 0;
+ }
+ document.getElementById(self).src = images[image];
+}
+//
+function imageGoto(self, img){
+ image = img;
+ // Don't bother re-loading the same image as it screws up Opera
+ if(document.getElementById(self).src != images[image]){
+  var timeDefault = time;
+  time = time * 2;
+  window.setTimeout('time = ' + timeDefault, timeDefault);
+  timer2 = window.setTimeout("document.getElementById('screenshotsLoading' + image).style.backgroundPosition = '25px 12px';", 100);
+  loading = 1;
+  document.getElementById(self).src = images[image];
+ }
+ return false;
+}
+</script>
+</head>
+<body id="navGames">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws" ><b>
+<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
+<span id="teletext_inner">
+Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=hostilespawn_vengeance/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=hostilespawn_vengeance/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/options.ws" class="fly last">Options Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/members.ws" class="fly">Avantages abonné</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/account_management.ws" class="fly last">Gestion de compte</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=hostilespawn_vengeance/forums.ws" class="fly">Forums</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=2/g=hostilespawn_vengeance/" class="fly">Exploits</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=hostilespawn_vengeance/" class="fly">Highscores &amp; classement</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=hostilespawn_vengeance/" class="fly last">Téléchargements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=hostilespawn_vengeance/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=chess" id="signIn" class="top_link"><span>Connexion</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws">
+<span>
+<img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+
+<a name="info"></a>
+<div class="section" id="info" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail">
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws">Jeux</a> &gt;
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?genreBox=strategy">Stratégie</a> &gt;
+<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/chess/play.ws">Échecs</a> &gt;
+Plus d'infos </span>
+<span class="sectionServerlist">
+<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/chess/serverlist.ws">Liste des serveurs</a>
+</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<div class="intro">
+<div class="introDescription">
+<div>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?genreBox=strategy"><span class="genre">Stratégie</span></a><br> Disputez une partie d'échecs classique ou affrontez vos amis en ligne dans une partie classée. </div>
+</div>
+<a class="buttonWide" href="#description"><div>Description</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/chess/play.ws"></a>
+</div>
+<a name="screenshots"></a>
+<div class="subsection" id="screenshots" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Captures d'écran
+</div>
+</div>
+<div class="subsectionContent">
+<script type="text/javascript">
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/chess/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+ </script>
+<noscript>
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=hostilespawn_vengeance/display_screenshot.ws?game=chess&screenshot=screen1">
+</iframe>
+</noscript>
+<div id="screenshotsThumbs">
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/display_screenshot.ws?game=chess&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/chess/screen1_thumb.jpg?1);">
+<div id="screenshotsLoading0"></div>
+</a>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/display_screenshot.ws?game=chess&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/chess/screen2_thumb.jpg?1);">
+<div id="screenshotsLoading1"></div>
+</a>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/display_screenshot.ws?game=chess&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/chess/screen3_thumb.jpg?1);">
+<div id="screenshotsLoading2"></div>
+</a>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/display_screenshot.ws?game=chess&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/chess/screen4_thumb.jpg?1);">
+<div id="screenshotsLoading3"></div>
+</a>
+</div>
+</div>
+</div>
+<a name="benefits"></a>
+<div class="subsection" id="benefits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Avantages de l'abonnement FunOrb
+</div>
+</div>
+<div class="subsectionContent">
+<div class="benefitsPadding"></div>
+<div class="benefitsContent">
+<div class="benefitsList">
+<ul>
+<li>Fullscreen mode for all games</li>
+<li>Masses of exclusive game content</li>
+<li>Special members-only Achievements</li>
+<li>Play ALL of our multiplayer games</li>
+<li>No adverts during gameplay</li>
+<li>Full access to our Forums</li>
+
+</ul>
+</div>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+</div>
+</div>
+</div>
+<br class="clear" />
+<a name="description"></a>
+<div class="subsection" id="description" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Description
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>Les échecs opposent deux joueurs confrontant leur stratégie et leur habileté. Jouez en local à tour de rôle (les joueurs jouent l'un après l'autre sur le même ordinateur) ou accédez à l'accueil en ligne pour disputer des parties classées ou amicales. Découvrez au classement quel grand joueur d'échecs vous êtes !</p>
+</div>
+</div>
+</div>
+<a name="top_of_page"></a>
+<a name="faqs"></a>
+<div class="subsection" id="faqs" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Questions fréquentes
+</div>
+</div>
+<div class="subsectionContent">
+<div class="faqsList">
+<ol>
+<li><a href="#faqs_q1">Comment déterminer le joueur ayant les Noirs et celui ayant les Blancs ?</a></li>
+<li><a href="#faqs_q2">Comment puis-je « améliorer » mes pièces ?</a></li>
+<li><a href="#faqs_q3">Qu'est-ce que le « roque » ?</a></li>
+<li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
+</ol>
+</div>
+<div class="faqsAnswer">
+<a name="faqs_q1"></a>
+<h3>1. Comment déterminer le joueur ayant les Noirs et celui ayant les Blancs ?</h3>
+<p>Il suffit de tirer à pile ou face.</p>
+<div class="hr"></div>
+<a name="faqs_q2"></a> <h3>2. Comment puis-je « améliorer » mes pièces ?</H3>
+<p>Les pièces ne peuvent pas bénéficier de bonus dans le sens traditionnel d'un jeu vidéo. Cependant, si vos pions atteignent le bord adverse, ils peuvent être convertis en reine, tour, fou ou cavalier.</p>
+<div class="hr"></div>
+<a name="faqs_q3"></a> <h3>3. Qu'est-ce que le « roque » ?</H3>
+<p>Le roque implique le mouvement du roi et d'une tour à des fins défensives. II ne peut être exécuté que dans des conditions précises. Pour plus d'informations, consultez les instructions relatives à ces pièces.</p>
+<div class="hr"></div>
+<a name="faqs_spec"></a>
+<h3>4. Quelle est la configuration minimale requise pour ce jeu ?</h3>
+<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<ul>
+<li>500 MHz <li>128 Mo de RAM </ul>
+<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<ul>
+<li>1,5 GHz <li>256 Mo de RAM </ul>
+<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
+<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
+<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+</div>
+</div>
+</div>
+<a name="credits"></a>
+<div class="subsection" id="credits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Development Team
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>
+<b>Development:</b> Ben W<br>
+<b>Graphics:</b> Anthony A<br>
+<b>Audio:</b> Dan A<br>
+<b>Quality Assurance:</b> Joe C,&nbsp;Karl R,&nbsp;Michael T<br>
+<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frédérique B
+</p>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img alt="
+English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=hostilespawn_vengeance/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=hostilespawn_vengeance/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=2/g=hostilespawn_vengeance/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>

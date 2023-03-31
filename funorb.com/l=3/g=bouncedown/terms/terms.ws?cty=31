@@ -1,0 +1,398 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+pt" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+pt">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=bouncedown/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=bouncedown/favicon.ico">
+<title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<![endif]-->
+
+<style type="text/css">
+ #article b { color: white; }
+</style>
+</head>
+<body >
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=3/g=bouncedown/index.ws" ><b>
+<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
+<span id="teletext_inner">
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=bouncedown/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=bouncedown/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=3/g=bouncedown/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=bouncedown/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/options.ws" class="fly last">Opções Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=bouncedown/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/members.ws" class="fly">Benefícios dos membros</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=3/g=bouncedown/"><span>Comunidade</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=3/g=bouncedown/" class="fly">Comunidade - Principal</a></li>
+<li><a href="
+http://services.funorb.com/m=forum_fo_pt/l=3/g=bouncedown/forums.ws" class="fly">Fórum</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=3/g=bouncedown/" class="fly">Conquistas</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=bouncedown/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=3/g=bouncedown/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=bouncedown/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
+<li><a href="http://www.funorb.com/l=3/g=bouncedown/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=bouncedown/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws?cty=31" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=3/g=bouncedown/index.ws">
+<span>
+<img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=bouncedown/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=bouncedown/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=bouncedown/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=bouncedown/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="create"></a>
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+Termos e Condições
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+
+<div class="articleBody">
+
+<p style="text-align: right;">Data Efetiva: 2 de abril de 2012</p>
+<p>
+<b>Termos e Condições</b><br/>
+<p>
+<b>Introdução</b><br/>
+<p>Este website pertence a e é operado pela Jagex Limited ("Jagex"), uma empresa registrada na Inglaterra e no País de Gales sob o número de registro 3982706. Nossa sede social está localizada em St. John's Innovation Centre, Cowley Road, Cambridge, CB4 0WS, Reino Unido. Nossa inscrição de imposto VAT é número 791 951 784.</p>
+<p>
+<b>Definições</b><br/>
+<p>
+"Produtos Jagex" é aqui usado como abreviação para todos os nossos jogos on-line, incluindo todos os websites da Jagex usados para jogar tais jogos.</p>
+<p>
+Referências a "cessar" uma conta incluem todos e quaisquer de: proteção, suspensão temporária ou permanente ou restrição temporária ou permanente da conta. Se a sua conta estiver restringida, você pode continuar a jogar, mas não poderá usar o bate-papo escrito grátis. Se sua conta estiver suspensa, você não poderá acessar a sua conta, de forma alguma. N.B. O crédito de assinatura continua a expirar mesmo se as contas estiverem restringidas ou suspensas.</p>
+<p>
+<b>Aplicabilidade</b><br/>
+<p>
+Leia estes termos e condições cuidadosamente. Sua completa aceitação deles é condição para o uso de um Produto Jagex (tendo você adquirido assinatura ou não). Se você não concorda com qualquer parte, por favor, não aceite ou faça uso de um Produto Jagex.</p>
+<p>
+Se você tem quaisquer questões sobre estes termos e condições, por favor, nos contate via e-mail em <img style="vertical-align: bottom" src="http://www.funorb.com/l=3/img/privacy/lawcontact.gif" alt=""/> e não use o website até que você esteja satisfeito e possa aceitar completamente estes termos e condições.</p>
+<p>
+<b>Alterações</b><br/>
+<p>
+Nós podemos alterar estes termos e condições para refletir: alterações de leis aplicáveis; requisitos regulatórios ou de segurança; diretrizes respectivas ou códigos de prática; modificações técnicas em Produtos Jagex; e para aperfeiçoar clareza e consistência. Por favor, cheque os termos e condições sempre que usar um Produto Jagex. Se você não for assinante, nós trataremos o seu uso contínuo de Produto Jagex como aceitação dessas alterações a partir da respectiva data efetiva indicada acima. Se você é assinante, nós o trataremos como vinculado às alterações na primeira data de renovação da sua assinatura após a data efetiva, e, portanto você deverá cancelar sua assinatura (conforme explicado abaixo) antes de tal data de renovação se você não desejar aceitar as alterações propostas.</p>
+<p>
+<b>UMA OBSERVAÇÃO ESPECIAL SOBRE PRÉ-ADOLESCENTES E MENORES DE 18</b><br/>
+<p>
+Nós podemos alterar estes termos e condições para refletir: alterações de leis aplicáveis; requisitos regulatórios ou de segurança; diretrizes respectivas ou códigos de prática; modificações técnicas em Produtos Jagex; e para aperfeiçoar clareza e consistência. Por favor, cheque os termos e condições sempre que usar um Produto Jagex. Se você não for assinante, nós trataremos o seu uso contínuo de Produto Jagex como aceitação dessas alterações a partir da respectiva data efetiva indicada acima. Se você é assinante, nós o trataremos como vinculado às alterações na primeira data de renovação da sua assinatura após a data efetiva, e, portanto você deverá cancelar sua assinatura (conforme explicado abaixo) antes de tal data de renovação se você não desejar aceitar as alterações propostas.</p>
+<p>
+Se você é menor de 13 anos, poderemos lhe direcionar a outros produtos que possam ser apropriados para você. Caso seja menor de 13 anos e tenha criado uma conta antes de 24 de novembro de 2010, você não poderá revelar dados pessoais através do jogo ou do website. Se descobrirmos que qualquer dado pessoal obtido por nós é de alguém menor de 13 anos, vamos apagá-los automaticamente. Recomendamos que, para contas existentes, os pais ou responsáveis joguem junto com seus filhos.</p>
+<p>
+Se você é menor de 13 anos, criou sua conta antes de 24 de novembro de 2010 e faz uma assinatura para a versão para membros, você está declarando (isto é, fazendo uma promessa) que você tem o consentimento de seus pais ou responsáveis para usar os produtos Jagex de acordo com nossos termos e condições e <a href="http://www.jagex.com/l=3/g=bouncedown/privacy/privacy.ws">política de privacidade</a>. Contudo, nós podemos Cessar qualquer conta se não estivermos satisfeitos de que tal consentimento foi dado ou que esse consentimento não esteja de acordo com as leis locais referentes a usuários menores de 13 anos de idade.</p>
+<p>
+Se você é menor de 18 anos, ao usar nosso website você está declarando (isto é, fazendo uma promessa) que você tem o consentimento de seus pais ou responsáveis para usar os produtos Jagex de acordo com nossos termos e condições e <a href="http://www.jagex.com/l=3/g=bouncedown/privacy/privacy.ws">política de privacidade</a>. Nós podemos Cessar qualquer conta se não estivermos satisfeitos de que tal consentimento foi dado.</p>
+<p>
+Se formos avisados por um pai ou responsável que seu filho mentiu sobre a idade dele quando se cadastrou para usar os Produtos Jagex, nós cessaremos a conta, desde que tenhamos informações satisfatórias de que a pessoa que fez o relato é de fato o pai ou responsável.</p>
+<p>
+Os pais podem encontrar mais informações sobre o jogo e sobre como nos contatar no <a href="http://www.jagex.com/l=3/g=bouncedown/corporate/Parents_Guide/parents_guide.ws">Guia para Pais</a>.</p>
+<p>
+<b>Segurança / abuso</b><br/>
+Antes de usar qualquer Produto Jagex, você deve ler nossas <a href="http://services.runescape.com/m=rswiki/pt/Sa%C3%BAde_e_seguran%C3%A7a">informações sobre saúde e segurança</a> e nosso <a href="http://services.runescape.com/m=rswiki/pt/Jogar_com_seguran%C3%A7a">guia sobre como jogar com segurança</a>. Os pais devem analisar nossos materiais sobre segurança na seção <a href="http://www.jagex.com/l=3/g=bouncedown/corporate/Parents_Guide/safety.ws">Segurança dos Jogadores</a> no <a href="http://www.jagex.com/l=3/g=bouncedown/corporate/Parents_Guide/parents_guide.ws">Guia para os Pais</a>. </p>
+<p>
+Nós não temos obrigações em relação a, e não fazemos monitoramento de Conteúdo de Usuário. Você deve estar ciente dos riscos potenciais de usar um serviço que inclui bastante Conteúdo de Usuário carregado ou enviado por outros usuários. Não podemos garantir que os usuários cumprirão nossos termos e condições ou que eles se comportarão apropriadamente. Você não deve confiar em que uma pessoa é quem é ela afirma ser. No seu próprio interesse, você não deve tentar contatar qualquer outro usuário fora de nosso serviço.</p>
+<p>
+Se você for vítima de comportamento ofensivo ou impróprio ou receber quaisquer outras comunicações indesejadas, você deve usar os <a href="http://services.runescape.com/m=rswiki/pt/Jogar_com_seguran%C3%A7a">recursos de bloqueio</a> integrados aos jogos para bloquear as mensagens. Você deve nos relatar todo comportamento impróprio através do botão <a href="http://services.runescape.com/m=rswiki/pt/Reportando_Abusos">"Denunciar Abuso"</a> no jogo, bem como procurar ajuda externa apropriada, por exemplo, de pais ou de autoridades legais. Se você continuar a sofrer problemas ou não estiver satisfeito, você deve cessar o uso do(s) Produto(s) Jagex em questão.
+<p>
+<b>Sua conta</b><br/>
+Para usar vários recursos dos Produtos Jagex, requisitamos que você crie uma conta. Concedemos a titulares de conta válida uma licença não-exclusiva e intransferível pelo período de assinatura para usar Produtos Jagex e para baixar e usar nosso software para usuário e conectar aos nossos servidores, somente para usar Produtos Jagex de acordo com estes termos e condições.</p>
+<p>
+Você não deve escolher um nome de usuário que viole os direitos de qualquer terceiro, que tente se passar por funcionários da Jagex ou outros usuários, que seja deliberadamente confuso ou que seja ofensivo, racista, obsceno, prejudicial, ilegal ou impróprio de qualquer forma ou que descumpra os requisitos de nome de usuário especificados em nosso website ou em nossas Regras de Conduta. Reservamos o direito de fazer tal avaliação sob nosso único critério, mudar qualquer nome de usuário por qualquer razão ou tomar outra medida conforme considerarmos apropriado.</p>
+<p>
+Você concorda em manter sua senha em segurança a todo tempo e em não revelá-la a qualquer outra pessoa. Você é responsável pelas atividades de todas as pessoas que usarem sua senha para obter acesso a sua conta. Para ajudar a garantir a segurança da sua senha, você deve manter o seu computador livre de vírus e de outros códigos maliciosos, inclusive Trojans. Você deve usar a sua senha de acordo com os requisitos para senhas especificados em nosso website ou em nossas Regras de Conduta. Os funcionários da Jagex jamais pedirão a sua senha. Se você acredita que alguém furtou sua senha ou de outra forma obteve acesso a sua conta - envie uma solicitação via o link de Recuperação de Conta no website de qualquer Produto Jagex. Veja nosso <a href="http://services.runescape.com/m=rswiki/pt/Suporte_a_Senhas">suporte a senhas</a> e nossas <a href="http://services.runescape.com/m=rswiki/pt/Sa%C3%BAde_e_seguran%C3%A7a">informações de saúde e segurança</a> e sobre como <a href="http://services.runescape.com/m=rswiki/pt/Jogar_com_seguran%C3%A7a">jogar com segurança</a>.
+<p>
+<b>Regras</b><br/>
+Você deve cumprir a versão atual de quaisquer regras, diretrizes, códigos de conduta ou instruções especificados em qualquer Produto Jagex, incluindo nossas regras do jogo, cuja versão atual pode ser encontrada <a href="http://services.runescape.com/m=rswiki/pt/Regras_do_RuneScape">aqui</a>. O uso de qualquer produto Jagex que não esteja de acordo com as regras do jogo fica excluído do escopo da licença garantida por esses termos e condições.</p>
+<p>
+<b>Conteúdo de Usuário</b><br/>
+Você deverá cumprir com e se vincular às políticas relativas a Conteúdo de Usuário, incluindo nossa política de padrões de conteúdo, que você pode encontrar aqui.</p>
+<p>
+Nós nos reservamos o direito de, sem aviso ou reembolso, gravar, suspender, remover ou deletar Conteúdo de Usuário ou de revelar às respectivas autoridades qualquer Conteúdo de Usuário se ele estiver sujeito a reclamação ou se for considerado como quebra de nossos Termos e Condições (incluindo nossa política de padrões de conteúdo), ou que tais etapas são necessárias para nos proteger ou a terceiros, ou que um ato criminal tenha sido cometido, ou que nós sejamos exigidos a assim fazer por força de lei ou por autoridade competente.</p>
+<p>
+<b>Encerrando sua conta</b><br/>
+Se, agindo com sensatez, considerarmos que nossos Termos e Condições foram ou podem ter sido descumpridos, ou que seja necessário para prevenir ou cessar qualquer dano ou prejuízo para nós, para qualquer Produto Jagex, para outros jogadores ou para o público em geral, nós poderemos Cessar (conforme definido acima) toda e qualquer conta para Produtos Jagex que acreditemos que tenha conexão com o transgressor sujeito ao direito de defesa conforme especificado em nosso website e/ou restringir acesso a qualquer carregamento de conteúdo ou outro dispositivo de nosso serviço e/ou restringir acesso a ou deletar moeda virtual ou qualquer coisa adquirida com moeda virtual. Tais medidas podem resultar em perda de créditos de assinatura e/ou em perda de dinheiro pago no comércio de qualquer objeto/conta ou de outra transação proibida.</p>
+<p>
+<b>Direitos de Propriedade Intelectual</b><br/>
+Jagex&reg;, RuneScape&reg;, EightRealms&reg;, Stellar Dawn&reg; e FunOrb&reg; são marcas comerciais registradas da Jagex Limited na Grã-Bretanha, nos Estados Unidos e em outros países.</p>
+<p>
+Você não deve fazer engenharia reversa, descompilar ou modificar qualquer software de usuário de Produto Jagex de qualquer forma (exceto na medida permitida por lei aplicável). Você não deve usar uma versão modificada/customizada do software de usuário ou tentar sublicenciá-la. Você não deve criar ou prover quaisquer outros meios pelos quais qualquer Produto Jagex possa ser jogado por terceiros (incluindo, sem limitação, software cliente/servidor e emuladores de servidor substitutos ou modificados). Por favor, atente em que qualquer tal atividade pode constituir atos ilícitos cíveis e/ou infrações penais, e a Jagex se reserva o direito de tomar tais medidas conforme seja apropriado nas circunstâncias se ela se tornar ciente de que tais infrações estão sendo praticadas.</p>
+<p>
+Materiais (incluindo, sem limite, toda informação, software, dado, texto, fotografia, gráfico, som e vídeo) colocados em qualquer Produto Jagex por nós ou por nossa conta são protegidos por direitos autorais e por outros direitos de propriedade intelectual nossos ou de nossos parceiros comerciais/fornecedores/anunciantes. Você não deve usar tais materiais ou qualquer Produto Jagex exceto de acordo com estes termos e condições e apenas para uso pessoal (isto é, não-comercial).</p>
+<p>
+Você concorda que toda propriedade intelectual ou outros direitos sobre qualquer personagem, conta ou objeto do jogo são e continuarão sendo de nossa propriedade. A Jagex é proprietária de todos os direitos sobre Produtos Jagex, e você recebe permissão apenas para usar tais produtos, sujeito e de acordo com estes Termos e Condições.</p>
+<p>
+Ao postar bate-papo ou outros materiais em qualquer Produto Jagex, você nos concede uma licença não-exclusiva, perpétua, livre de pagamentos, para usar e/ou modificar tais materiais em qualquer Produto Jagex conforme considerarmos adequado. Você não possui qualquer direito moral previsto em lei.</p>
+<p>
+Você concorda que ao enviar qualquer material de qualquer tipo para nós para qualquer propósito em conexão com qualquer Produto Jagex (exemplos não-exaustivos: sugestões e idéias para qualquer jogo ou contribuições para qualquer página de Galeria), você nos está dando uma licença não-exclusiva, perpétua, livre de pagamentos, para usar e/ou modificar os materiais enviados conforme consideremos adequado. Você concorda que não possui quaisquer direitos morais previstos em lei, e que você não recolherá o material enviado nem tentará fazer qualquer cobrança pelo seu uso. Você ainda garante que você é o titular exclusivo dos direitos autorais em relação ao material enviado e que o material enviado de nenhuma forma viola os direitos de qualquer outra pessoa ou entidade.</p>
+<p>
+<b>Assinatura</b><br/>
+Você precisa de uma assinatura para usar certos recursos de Produtos Jagex. Se você se cadastra para uma assinatura, você deve assegurar que toda informação que você envia é verdadeira e precisa (incluindo, sem limitação, seu número de cartão de crédito ou débito e prazo de validade, e outros detalhes de pagamento) e que você tem consentimento paterno ou de responsável apropriados. Você concorda em pagar todos os valores de assinatura especificados quando você se cadastra, inclusive todos os impostos devidos. A menos que indicado de outra forma, todos os preços válidos para países da União Européia incluem impostos.</p>
+<p>
+Ao enviar seu pedido você está fazendo uma oferta de assinar a parte respectiva do(s) Produto(s) Jagex. Sua oferta é aceita e um contrato é consumado quando enviarmos uma mensagem à caixa de entrada de correio de sua conta confirmando que seu pagamento foi recebido ou se você entrar numa parte apenas para assinantes do Produto Jagex (o que ocorrer primeiro).</p>
+<p style="text-decoration: underline;">
+Todos os pagamentos de assinaturas continuarão a ser recebidos por antecipação nas respectivas periodicidades (por exemplo, mensalmente, no caso de assinaturas mensais) até que você cancele sua assinatura (veja abaixo).</p>
+<p>
+Pagamentos via cartões de crédito ou débito também estão sujeitos ao nosso <a href="http://services.runescape.com/m=rswiki/pt/Pagamentos_com_Cart%C3%A3o_de_Cr%C3%A9dito">contrato de cartão de crédito,</a> que faz parte integrante destes Termos e Condições.</p>
+<p>
+Nós nos reservamos o direito de alterar o valor ou as condições de nossos valores de assinatura a qualquer tempo. Isto apenas se aplicará àqueles que, após a alteração, aceitam novas assinaturas ou retomam assinaturas (quando as assinaturas anteriores tenham expirado) e concorda especificamente com os novos valores e condições.</p>
+<p>
+Nós nos reservamos o direito de te cobrar por qualquer uso não autorizado da sua assinatura por terceiros.</p>
+<p>
+<b>POLÍTICA DE PADRÕES DE CONTEÚDO</b><br/>
+Esta política de padrões de conteúdo estabelece nossos requisitos aplicáveis ao seu Conteúdo de Usuário, em acréscimo aos Termos e Condições e a qualquer diretriz sobre Conteúdo de Usuário em nossos websites.</p>
+<p>
+Você é o único responsável pelo seu Conteúdo de Usuário, inclusive qualquer Conteúdo de Usuário que você coloca em qualquer wiki ou fórum.</p>
+<p>
+O Conteúdo de Usuário:
+<ul>
+<li>deve ser preciso, completo, carregado ou enviado em boa fé, e cumprir com todas as leis, regulamentos e códigos de conduta aplicáveis;</li>
+<li>não deve ser obsceno, odioso, inflamado, ameaçador, constrangedor, sexualmente explícito, e não deve promover violência, discriminação, nem promover ou endossar qualquer atividade ilegal ou que seja de outra forma reprovável;</li>
+<li>não deve ser enganosa ou falsa, de qualquer forma;</li>
+<li>não deve ser difamatória, ou invasão de direitos de privacidade de qualquer indivíduo;</li>
+<li>não deve violar direitos de propriedade intelectual ou outros direitos de qualquer terceiro, inclusive direitos de autor, marcas, bancos de dados, ou direitos de sigilo e quaisquer direitos semelhantes;</li>
+<li>não deve tentar nem se propor a se fazer passar por qualquer pessoa ou disfarçar sua identidade, parentesco ou relação com qualquer pessoa;</li>
+<li>não deve incluir hyperlinks ou conexões a websites de terceiros;</li>
+<li>não deve conter vírus, cavalos de Tróia, worms, bombas-relógio, clonagem de teclado, spyware, adware ou qualquer outro programa malicioso ou código informático similar destinado a afetar adversamente a operação de qualquer software, hardware ou rede de dados; e/ou pode ser carregado ou enviado somente se você for titular dos direitos sobre tal conteúdo ou tiver permissão apropriada do detentor dos direitos;</li>
+<li>não deve revelar detalhes que permitam que você ou qualquer outra pessoa seja identificada ou contatada (por exemplo, nome, endereço postal ou de e-mail, ou número de telefone) exceto via nossos serviços;</li>
+<li>não deve ter qualquer propósito comercial; e</li>
+<li>não deve envolver lixo eletrônico, spam, pirâmides ou esquemas similares.</li>
+</ul>
+</p>
+<p>
+Você não deve fazer, encorajar ou ajudar em qualquer dos itens acima.</p>
+<p>
+Você também deve observar quaisquer políticas de websites, tais como políticas sobre postagem em fóruns, papos in-chat e em mensagens privadas, e outras políticas conforme disponível em nossos websites, de tempos em tempos.</p>
+<p>
+Além de cumprir com os termos literais desta política, você deve também se comprometer a cumprir o espírito dela.</p>
+<p>
+<b>Cancelamento por você</b><br/>
+Você pode cancelar sua assinatura a qualquer tempo clicando <a href="https://secure.funorb.com/m=billing-core/l=3/g=bouncedown/manageagreements.ws">aqui</a> ou selecionando o link “Cancelar Assinatura” da seção de gerenciamento de conta no website de qualquer Produto Jagex.</p>
+<p>
+Após o cancelamento você não será cobrado qualquer outra taxa de assinatura. Nenhum pagamento já feito será reembolsado (parcial ou totalmente), mas você poderá obviamente usar até o limite não utilizado de crédito da conta associada.</p>
+<p>
+Para informações importantes sobre direitos legais de cancelamento para clientes na União Européia, clique <a href="http://www.jagex.com/l=3/g=bouncedown/terms/eu.ws">aqui</a>.</p>
+<p>
+<b>Moedas Virtuais</b><br/>
+Em alguns de nossos jogos, oferecemos certas moedas virtuais à venda ou, a nosso critério, como promoções gratuitas. Moedas virtuais podem ser resgatadas (isto é, usadas) para adquirir certos produtos ou serviços digitais, que descrevemos abaixo como “Itens”. Se você obtiver moeda virtual, você deve checar que ela tenha sido corretamente creditada na sua conta e nos dizer imediatamente em caso contrário.</p>
+<p>
+ATENTE em que moedas virtuais estão sujeita a restrições muito importantes:</p>
+<p>
+A moeda virtual expira e poderá ser deletada se ela não tiver sido resgatada dentro de certo período após a aquisição, então você deve resgatar o mais rápido possível. O período de expiração é qualquer um que especifiquemos quando você adquire a moeda virtual ou, se não houvermos um limite de tempo, ele será de três meses após a aquisição.</p>
+<p>
+A menos que nós indiquemos de outra forma no nosso website, a moeda virtual pode ser resgatada somente dentro do mundo do jogo em que você a adquiriu. Cada jogo pode conter uma ou mais moedas virtuais. Nós podemos, a qualquer hora, mudar ou remover qualquer tipo de Item para o qual a moeda virtual possa ser resgatada, e o valor da moeda virtual necessário para adquirir um determinado Item. Você pode resgatar moeda virtual somente para Itens oferecidos na época do resgate. A menos que nós indiquemos de outra forma em nosso website, moedas virtuais são específicas para um Produto Jagex, e uma moeda virtual usada em relação a um Produto Jagex não pode ser trocada por outra moeda virtual para uso em relação a outro Produto Jagex. Além disso, a menos que de outra forma disposto, cada moeda virtual é independente e não pode ser trocada por nenhuma outra moeda virtual no mesmo Produto da Jagex.</p>
+<p>
+A moeda virtual não tem qualquer valor intrínseco e não é de sua propriedade particular. Você poderá usá-la somente para adquirir os Itens que nós decidamos a nosso critério oferecer em contrapartida a moeda virtual. Nós não fornecemos qualquer dinheiro em espécie ou reembolsos por moeda virtual (exceto conforme requerido por lei) e a moeda virtual não tem qualquer valor no mundo real. A moeda virtual é somente para o seu uso pessoal. Você não deve vendê-la ou transferi-la ou torná-la disponível a qualquer outro ou tentar fazê-lo ou encorajar alguém a fazer qualquer uma dessas coisas. Moedas virtuais e Itens não têm valor monetário. Moedas virtuais e Itens não podem ser trocados por moedas, mercadorias ou qualquer outro item de valor monetário no mundo real.</p>
+<p>
+Nós podemos impor restrições adicionais com referência à aquisição ou resgate de moeda virtual e Itens. Por exemplo, nós podemos estabelecer um teto para o valor de moeda virtual que pode ser adquirido ou mantido ou resgatado em qualquer período ou nós podemos impor restrições baseadas no seu país de residência. Determinados Itens podem só estar disponíveis para certas pessoas, como aquelas que adquiriram separadamente uma assinatura.</p>
+<p>
+Nós podemos restringir o acesso a ou deletar a moeda virtual ou Itens: (1) conforme destacado em “Nossos Direitos”, acima; (2) se a moeda virtual for concedida erroneamente; ou (3) se um pagamento por moeda virtual for cobrado de volta ou de outra forma cancelado ou revertido.</p>
+<p>
+Nós podemos a qualquer tempo decidir Cessar o programa inteiro de moeda virtual para todos ou quaisquer de nossos jogos. Antes que deletemos moeda virtual não utilizada, nos esforçaremos para lhe dar ao menos quatro semanas para resgatá-la.</p>
+<p>
+<b>Política de Privacidade</b><br/>
+Para uma descrição de como usamos seus dados pessoais, veja nossa <a href="http://www.jagex.com/l=3/g=bouncedown/privacy/privacy.ws">Política de Privacidade</a>.</p>
+<p>
+<b>Funcionamento de Produtos Jagex</b><br/>
+Faremos esforços razoáveis para manter operacionais os Produtos Jagex e sanar falhas tão logo possível. Pode ser que tenhamos de suspender a operação de um Produto Jagex sem aviso para reparo, manutenção, aperfeiçoamento ou outra razão técnica. Caso isto aconteça, faremos nosso melhor para assegurar que a suspensão seja o mais curta possível. Não podemos aceitar responsabilidade por tais permissões ou por qualquer interrupção ou erro causados por circunstâncias fora de nosso controle razoável.</p>
+<p>
+Não podemos garantir que os Produtos Jagex funcionem com qualquer determinado equipamento de computação ou em conjunto com qualquer software ou serviço de conectividade. Não aceitamos responsabilidade por tal equipamento, software ou serviços.</p>
+<p>
+<b>Terceiros</b><br/>
+<span style="text-decoration: underline">Os Produtos Jagex podem incluir links a websites na internet ou outras tecnologias fornecidas por terceiros inclusive websites ou tecnologias que permitam que você pague por meio de métodos de pagamento fornecidos por terceiros. Nós não fazemos promessa sobre tais websites ou sobre o conteúdo, produtos ou serviços, pois eles estão fora do nosso controle razoável.</span></p>
+<p>
+<b>A NOSSA E A SUA RESPONSABILIDADES LEGAIS</b><br/>
+OBSERVADO O PREVISTO NA LEGISLAÇÃO VIGENTE, NÃO SEREMOS RESPONSÁVEIS POR QUAISQUER DANOS CAUSADOS QUANDO (A) NÃO TIVER HAVIDO FALHA EM QUALQUER DEVER LEGAL DE CUIDADO PERANTE VOCÊ POR NÓS OU POR NOSSOS FUNCIONÁRIOS OU REPRESENTANTES; (B) TAL PERDA OU DANO NÃO SEJA UM RESULTADO RAZOAVELMENTE ESPERÁVEL DE TAL FALHA; OU (C) TAL PERDA OU DANO SEJAM RELATIVOS AO NEGÓCIO. VOCÊ CONCORDA EM RENUNCIAR A QUALQUER DEVER LEGAL DE CUIDADO PERANTE VOCÊ DA JAGEX NA MÁXIMA MEDIDA PERMITIDA POR LEI.</p>
+<p>
+VOCÊ SERÁ RESPONSÁVEL POR QUALQUER PERDA OU DANO QUE NÓS SOFRAMOS EM RESULTADO DA SUA QUEBRA DESTE CONTRATO OU DE MAU USO DE PRODUTO JAGEX.</p>
+<p>
+<b>Transferência</b><br/>
+Nós podemos transferir todos ou parte de nossos direitos ou deveres sob este contrato contanto que tomemos medidas razoáveis para assegurar que seus direitos sob este contrato não sejam prejudicados. Como esse contrato é pessoal para você, você não poderá transferir qualquer de seus direitos ou deveres sob ele sem nosso prévio consentimento por escrito.</p>
+<p>
+<b>Geral</b><br/>
+Nada nestes termos e condições afeta os seus direitos legais como consumidor. Os títulos acima são apenas para orientação e não são vinculantes. Se nós falharmos no cumprimento destes termos e condições, tal falha não nos impedirá de cumpri-los (ou de cumprir termos semelhantes) em outra ocasião. Se qualquer cláusula destes Termos e Condições for considerada por uma Corte como inválida, concordamos que a Corte deve procurar dar efeito à intenção das partes conforme refletida na cláusula e que outras cláusulas permanecem em plena força e efeito. Exceto quanto a cláusulas excludentes ou limitadoras de nossa responsabilidade, uma pessoa que não seja parte neste contrato não terá direito de exigir cumprimento de qualquer cláusula deste contrato. Estes termos e condições são regidos pela lei brasileira e qualquer litígio ligado a eles ou a Produtos Jagex será decidido somente por tribunais brasileiros.</p>
+<p>
+<b>Reclamações</b><br/>
+Se você estiver insatisfeito com o website ou com qualquer aspecto dele, nos contate através dos formulários encontrados em nosso website ou escreva para nosso escritório registrado acima indicado.</p>
+
+
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+</p>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=bouncedown/index.ws"><img alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=bouncedown/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=bouncedown/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=bouncedown/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
+<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=bouncedown/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=bouncedown/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=3/g=bouncedown/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+  
+  
+   document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  
+ </script>
+
+<script type="text/javascript">
+  try {
+  var pageTracker=_gat._getTracker("UA-2058817-3");
+  pageTracker._setDomainName(".funorb.com");
+  
+  
+  pageTracker._trackPageview();
+  }catch(x){}
+ </script>
+
+
+</body>
+</html>

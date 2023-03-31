@@ -1,0 +1,357 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="de" xmlns:IE>
+<head>
+<title>Willkommen bei FunOrb - Kostenlose Online-Spiele</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="publisher" content="http://www.jagex.com">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="keyphrases" content="JRS">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="generator" content="WebScripts - http://www.jagex.com">
+<meta name="classification" content="GENERAL">
+<meta name="revisit-after" content="10 days">
+<meta name="title" content="Jagex Software">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/css/global-5.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=1/css/layout.ws"></script>
+
+<style type="text/css">
+ #article b { color: white; }
+</style>
+</head>
+<body id="">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/l=1/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<span style="color:#32acfa">Willkommen bei FunOrb.</span><br>
+Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=1/"><span>Anmelden</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=1/" class="fly">Kontoerstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://forum-fo-de.funorb.com/l=1/forums.ws"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws" class="fly">Alle Foren</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws?7,8" class="fly">Kristallkugel</a></li>
+<li><a href="http://achievements.funorb.com/l=1/" class="fly last">Erfolge</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="http://www.funorb.com/l=1/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=1/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=1/loginapplet/login.ws?mod=www&ssl=0&dest=terms/terms.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/index.ws"><img src="http://www.funorb.com/l=1/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="http://www.funorb.com/l=1/index.ws"><img src="http://www.funorb.com/l=1/img/images/layout/de.gif" alt="Deutsch" /></a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+Terms and Conditions
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+
+<div class="articleBody">
+<p>
+If you were not a resident of Germany when you created your account,
+<a href="http://www.funorb.com/terms/terms.ws">click here</a>
+to view the Terms and Conditions which apply to you.
+</p>
+<hr>
+
+
+<p align=right>Stand: 5. Juni 2008</p>
+<p>
+<b>Allgemeine Geschäftsbedingungen (Deutschland)</b></p>
+<p>
+<b>Einleitung; Anwendungsbereich; Vertragsschluss; Änderungen</b><br>
+Inhaber und Betreiber dieser Website ist Jagex Limited ("Jagex"), ein in England und Wales eingetragenes Unternehmen (Registriernummer 3982706). Der Geschäftssitz des Unternehmens befindet sich in St Andrews House, 90 St Andrews Road, Cambridge, Cambridgeshire CB4 1DL. Unsere Umsatzsteuer-Identifikationsnummer lautet 791 951 784.</p>
+<p>Diese Allgemeinen Geschäftsbedingungen gelten für die Nutzung dieser Website und die Teilnahme an Online-Spielen durch Nutzer mit ständigem Aufenthaltsort in Deutschland.</p>
+<p>Bitte lesen Sie diese Allgemeinen Geschäftsbedingungen sorgfältig durch. Ihre Einwilligung in alle Teile dieser Allgemeinen Geschäftsbedingungen ist (unabhängig von einer kostenpflichtigen Registrierung) Voraussetzung für Ihren Zugang zu Jagex-Produkten. Falls Sie mit den Allgemeinen Geschäftsbedingungen oder einem Teil davon nicht einverstanden sind, dürfen Sie die Jagex-Produkte nicht nutzen.</p>
+<p>Der für die Teilnahme an Online-Spielen erforderliche Vertrag zwischen Jagex und dem Nutzer kommt unter Einbeziehung der vorliegenden Allgemeinen Geschäftsbedingungen dadurch zustande, dass Jagex eine über die Eingabemaske auf der Website erfolgte Registrierung des Nutzers akzeptiert, ein Spielkonto für den Nutzer eröffnet und dem Nutzer den gewählten Benutzernamen und das gewählte Passwort bestätigt. Es besteht kein Anspruch auf Teilnahme an einem Online-Spiel und Abschluss eines Vertrags mit Jagex.</p>
+<p>Wir behalten uns das Recht vor, diese Allgemeinen Geschäftsbedingungen jederzeit zu ändern. Änderungen der Allgemeinen Geschäftsbedingungen werden gegenüber bereits registrierten Nutzern nur wirksam, wenn die Änderungen nicht den wesentlichen Leistungsinhalt, insbesondere unsere Hauptleistungspflichten, zum Nachteil des Nutzers ändern und wenn die Änderungen nach Maßgabe der nachfolgenden Bestimmungen Vertragsbestandteil geworden sind. Änderungen der Allgemeinen Geschäftsbedingungen werden bereits registrierten Nutzern auf elektronischem Wege durch eine Nachricht an das Mitteilungsfach des Nutzers mitgeteilt, in der auf die Änderungen hingewiesen wird. Sie werden dreißig (30) Tage nach Zugang der Mitteilung Vertragsbestandteil, wenn der Nutzer der Änderung nicht binnen dreißig (30) Tagen nach Zugang der Mitteilung schriftlich oder auf elektronischem Wege widerspricht. Wir werden Sie auf diese Rechtsfolge in der jeweiligen Mitteilung gesondert hinweisen. Wir behalten uns insbesondere im Fall eines Widerspruchs gegen Änderungen das Recht vor, den Vertrag ordentlich nach den anwendbaren gesetzlichen Bestimmungen zu kündigen.</p>
+<p>Falls Sie Fragen zu diesen Allgemeinen Geschäftsbedingungen haben, wenden Sie sich bitte per E-Mail an <img style="vertical-align: bottom" src="http://www.funorb.com/l=1/img/privacy/lawcontact.gif">. Nutzen Sie die Website nicht, bis Sie mit den Allgemeinen Geschäftsbedingungen einverstanden sind und diese vollständig akzeptieren können.</p>
+<p>
+<b>Begriffe</b><br>
+"Jagex-Produkt(e)" im Sinne dieser Allgemeinen Geschäftsbedingungen sind alle Versionen von "RuneScape®", "FunOrb®" und alle anderen gegebenenfalls von Jagex bereitgestellten Online-Spiele, einschließlich der Websites, auf denen diese Spiele gespielt werden.</p>
+<p>Verweise auf die "Kündigung" eines Spielkontos beziehen sich auf die Sperrung/Stillegung bzw. die vorläufige oder endgültige Löschung eines Spielkontos.</p>
+<p>
+<b>Hinweis für Kinder und Jugendliche</b><br>
+Wenn Sie jünger als 13 Jahre sind, können Sie zwar ein Spielkonto anlegen, werden aber nicht in der Lage sein, persönliche Angaben auf unseren Webseiten oder in unseren Spielen zu veröffentlichen. Jegliche von uns zu einem Konto gesammelten persönlichen Angaben werden automatisch gelöscht, falls wir feststellen, dass der Nutzer jünger als 13 Jahre ist. Wir empfehlen außerdem, dass Eltern/Erziehungsberechtigte sich ebenfalls ein Konto einrichten und die Spiele gemeinsam mit ihren Kindern spielen. Viele Eltern haben uns gemeldet, dass es sehr viel Spaß macht, Jagex-Produkte als Familie zu nutzen.</p>
+<p>Wenn Sie jünger als 13 Jahre sind und eine Mitgliedschaft für unsere Produkte eröffnen, versichern (d.h. versprechen) Sie durch Nutzung unserer Website, dass Sie die Zustimmung Ihrer Eltern oder Erziehungsberechtigten haben, Jagex-Produkte nach den Bestimmungen unserer allgemeinen Geschäftsbedingungen und Datenschutzrichtlinien zu benutzen. Wir behalten uns das Recht vor, Spielkonten permanent zu sperren, wenn uns keine hinreichende Bestätigung dieser Zustimmung vorliegt.</p>
+<p>Wenn Sie jünger als 18 Jahre sind, versichern (d.h. versprechen) Sie durch die Nutzung unserer Website, dass Sie die Zustimmung Ihrer Eltern oder Erziehungsberechtigten zur Nutzung von Jagex-Produkten im Einklang mit unseren Allgemeinen Geschäftsbedingungen und Datenschutzgrundsätzen haben. Wir behalten uns das Recht vor, ein Spielkonto permanent zu sperren, wenn uns keine hinreichende Bestätigung dieser Zustimmung vorliegt.</p>
+<p>Eltern finden weitere Informationen über Jagex-Produkte und unsere Kontaktdaten in dem Abschnitt <a href="http://www.jagex.com/l=1/corporate/Parents_Guide/parents_guide.ws" target="_blank">Ratgeber für Eltern</a> in unserem Kompendium.</p>
+<p>
+<b>Sicherheit /Missbrauch</b><br>
+Vor dem ersten Benutzen von Jagex-Produkten sollten Sie die Regeln in unserer Rubrik <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=safety_and_security_guidelines">Sicherheitsbestimmungen</a> lesen. lesen. Von besonderer Bedeutung sind hierbei die Anleitung zur <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=play_safely">Sicherheit beim Spielen</a> und der <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=play_safely#warning">Gesundheits- und Sicherheitsratgeber</a>.
+Eltern sollten unsere Informationen zu Sicherheitsfragen im Abschnitt <a href="http://www.jagex.com/l=1/corporate/Parents_Guide/safety.ws" target="_blank">Spieler-Sicherheit</a> des <a href="http://www.jagex.com/l=1/corporate/Parents_Guide/parents_guide.ws" target="_blank">Ratgebers für Eltern</a> lesen.</p>
+<p>Obwohl wir uns das Recht vorbehalten, die unsachgemäße Nutzung dieser Website (einschließlich des Einstellens von unpassendem, beleidigendem oder anderweitig anstößigem Material über die Chat-Funktion oder anderweitig) zu überwachen und ggf. einzugreifen, können wir nicht garantieren, dass diese Website solche von Dritten eingestellte Inhalte nicht enthalten wird oder dass wir entsprechende Inhalte in jedem Fall entfernen bzw. ändern werden. Ferner können wir nicht garantieren, dass alle Nutzer unsere Allgemeinen Geschäftsbedingungen befolgen oder sich im Übrigen ordnungsgemäß verhalten.</p>
+Falls Sie sich durch beleidigendes oder unangemessenes Verhalten anderer Nutzer verletzt fühlen oder sonstige unerwünschte Mitteilungen erhalten, können Sie die im System bereits vorgesehenen Funktionen nutzen, um den Empfang solcher Mitteilungen zu verhindern (vgl. den <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=controls_friends">Artikel</a> hierzu in unserem Kompendium für weitere Informationen zum Abwehren/Ausfiltern von Mitteilungen). Sie können uns unangemessenes Verhalten über die in das Spiel integrierte Schaltfläche <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=how_do_i_report_abuse">Regelverstoß melden</a> mitteilen. Sie sollten sich auch an Außenstehende (zum Beispiel an die Eltern oder die zuständigen Behörden) wenden, um Unterstützung zu erhalten. Falls Sie weiterhin Probleme haben oder nicht zufrieden sind, sollten Sie die Nutzung dieser Website unverzüglich einstellen.</p>
+<p>
+<b>Ihr Spielkonto; Einräumung beschränkter Nutzungsrechte</b><br>
+Sie müssen zunächst ein Spielkonto einrichten, bevor Sie viele Features von Jagex-Produkten benutzen können. Allen Inhabern gültiger Spielkonten wird eine nicht-ausschließliche, zeitlich auf die Dauer der Mitgliedschaft beschränkte und nicht übertragbare Lizenz zur Benutzung von Jagex-Produkten gewährt, die auch das Herunterladen und die Nutzung unserer Client-Software und das Herstellen einer Verbindung zu unseren Servern umfasst. Die Lizenz wird ausschließlich zu dem Zweck der Nutzung von Jagex-Produkten nach Maßgabe dieser Allgemeinen Geschäftsbedingungen eingeräumt. Sie dürfen Dritten keine Unterlizenzen einräumen.</p>
+<p>
+<b>Nutzername und Passwort</b><br>
+Sie sind nicht berechtigt, einen Nutzernamen zu wählen, der persönliche Angaben enthält, die Rechte eines Dritten verletzt, den Eindruck erweckt, dass sich dahinter ein Mitarbeiter von Jagex oder ein anderer Nutzer verbirgt, der vorsätzlich irreführend ist oder der beleidigend, rassistisch, anstößig, verletzend, gesetzeswidrig oder anderweitig unangemessen ist oder der den in unserer Website oder in den Verhaltensregeln näher geregelten Anforderungen an Nutzernamen nicht genügt. Wir behalten uns das Recht vor, den Namen in unserem eigenen Ermessen zu beurteilen, einen Nutzernamen nach unserem Ermessen zu ändern oder alle weiteren Maßnahmen zu ergreifen, die wir für angemessen halten.</p>
+<p>Sie verpflichten sich, Ihr Passwort stets geheim zu halten und es keiner anderen Person offen zu legen. Sie sind für Ihnen zurechenbare Handlungen von Personen verantwortlich, die durch Ihr Verschulden Kenntnis von Ihrem Passwort erlangt haben und dieses nutzen, um Zugriff auf Ihr Spielkonto zu erlangen. Damit die Sicherheit Ihres Passwortes gewährleistet werden kann, müssen Sie alle zumutbaren Vorkehrungen dafür treffen, dass Ihr Rechner frei von Viren und sonstigen schädigenden Programmen, einschließlich Trojanern, ist. Sie müssen Ihr Passwort gemäß den in unserer Website oder in der Nutzungsordnung näher geregelten Passwortvorschriften nutzen. Die Mitarbeiter von Jagex werden nie nach Ihrem Passwort fragen. Falls Sie vermuten, dass sich jemand Ihr Passwort unrechtmäßig verschafft oder anderweitig Zugriff auf Ihr Spielkonto erlangt hat, senden Sie eine Anfrage zur Konto-Wiederherstellung über den Link Spielkonto-Wiederherstellung auf der Startseite unserer Website für das entsprechende Jagex-Produkt. Für weitere Informationen zu Passwortsicherheit und Passwortschutz in unserem Kompendium klicken Sie bitte <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=safety_and_security_guidelines">hier</a>.</p>
+<p>
+<b>Regeln</b><br>
+Sie sind verpflichtet, alle unsere Richtlinien, unseren Verhaltenskodex, jegliche Anweisungen zu Jagex-Produkten und diese allgemeinen Verhaltensregeln zu befolgen:</p>
+<p>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_1_offensive_language">Regel 1 - Beleidigungen</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_2_item_scamming">Regel 2 - Gegenstandsbetrug</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_3_password_scamming">Regel 3 - Passwortbetrug</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_4_cheating_bug_abuse">Regel 4 - Cheats/Missbrauch von Spielfehlern</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_5_jagex_staff_impersonation">Regel 5 - Spieler, die sich als Jagex-Mitarbeiter ausgeben</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_6_account_sharing_trading">Regel 6 - Kontoteilung und -handel</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_7_using_third_party_software">Regel 7 - Benutzung von externer Software</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_8_multiple_logging_in">Regel 8 - Mehrfaches Einloggen</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_9_encouraging_others_to_break_rules">Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_10_false_representations">Regel 10 - Missbrauch der Kundenbetreuung</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_11_advertising_website">Regel 11 - Werbung/Webseiten</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_12_real_world_item_trading">Regel 12 - Handel von Gegenständen im richtigen Leben</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_13_personal_details">Regel 13 - Persönliche Daten</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_14_misuse_of_official_forums">Regel 14 - Missbrauch des offiziellen Forums</a><br>
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rule_15_advert_blocking">Regel 15 - Sperren von Werbung</a></p>
+<p>
+<b>Unsere Rechte</b><br>
+Falls wir nach vernünftigem Ermessen einen Verstoß gegen unsere Allgemeinen Geschäftsbedingungen feststellen oder vermuten oder zu der Ansicht gelangen, dass dies zur Vermeidung oder Unterbindung von Nachteilen oder Schaden in Bezug auf uns, die Jagex-Produkte, andere Spieler oder die Öffentlichkeit oder zur Eingrenzung unserer Haftung gegenüber Dritten notwendig ist, so behalten wir uns das Recht vor, mit oder - im Fall eines Verdachts eines Verstoßes nur in Eilfällen - ohne vorherige Mitteilung (u.a.) Folgendes zu unternehmen: Kündigung (wie oben definiert) oder Änderung bestimmter oder aller Spielkonten von Jagex-Produkten, von denen wir annehmen, dass diese Ihnen zuzuordnen sind, und /oder anderweitige Sperrung Ihres Zugangs zu unserer Website und unseren Diensten sowie <u>Ergreifen aller übrigen Maßnahmen, die wir für angemessen halten</u>. Bereits für den Zeitraum nach Wirksamwerden solcher Maßnahmen bezahlte Gebühren werden nicht erstattet, wenn die Maßnahmen aufgrund eines von Ihnen verschuldeten Verhaltens nach dieser Bestimmung gerechtfertigt waren. In keinem Fall erstatten wir Zahlungen, die Sie im Zusammenhang mit verbotenem Handel außerhalb der Spiele, insbesondere der Übertragung oder dem Erwerb von Spielkonten, Spielfiguren oder Spielgegenständen oder sonstigen verbotenen Handlungen, geleistet haben.</p>
+<p>Zum Zwecke der Verhinderung oder Unterbindung einer Verletzung unserer Allgemeinen Geschäftsbedingungen oder eines sonstigen Nachteils oder Schadens in Bezug auf uns, Jagex-Produkte, andere Spieler oder die Öffentlichkeit oder zur Eingrenzung unserer Haftungsverpflichtung gegenüber Dritten können wir nach eigenem Ermessen automatisch oder manuell öffentliche oder private Chats oder sonstige Aktivitäten in den Jagex-Produkten überwachen, zensieren (auch Inhalte ablehnen oder entfernen) und/oder aufzeichnen.</p>
+<p>
+<b>Rechte an geistigem Eigentum</b><br>
+Jagex®, RuneScape® und FunOrb® sind eingetragene Marken von Jagex Limited im Vereinigten Königreich, in den Vereinigten Staaten und in anderen Ländern.</p>
+<p>Sie sind nicht berechtigt, den Quellcode der Client-Software von Jagex-Produkten in irgendeiner Weise durch Reverse-Engineering zu gewinnen, die Software zu dekompilieren oder zu modifizieren (außer auf die gesetzlich zugelassene Art und Weise). Sie dürfen Client-Software von Jagex-Produkten nur auf einem anderen Rechner installieren als dem Rechner, auf dem sie ursprünglich installiert wurde, wenn die ursprüngliche Installation vollständig gelöscht wird; in keinem Fall sind Sie berechtigt, Client-Software von Jagex-Produkten auf mehr als einem Rechner oder Datenträger zu speichern oder zu nutzen. Sie sind nicht berechtigt, eine modifizierte oder angepasste Version der Client-Software zu erstellen, zu verwenden oder Dritten Rechte an der Client-Software einzuräumen. Sie sind nicht berechtigt, andere Mittel zu erstellen oder weiterzugeben, mit denen Jagex-Produkte von anderen gespielt werden können (insbesondere Ersatz- oder modifizierte Client/Server-Software oder Server-Emulatoren).</p>
+<p>Material (insbesondere Informationen, Software, Daten, Text, Fotografien, Grafik, Sound und Video), das von uns oder in unserem Namen in Jagex-Produkten hinterlegt wird, unterliegt dem Urheberrechtsschutz und sonstigen Rechten an geistigem Eigentum, deren Inhaber wir entweder selbst sind oder unsere Geschäftspartner, Zulieferer oder Werbekunden. Sie sind nicht berechtigt, solches Material oder diese Website in irgendeiner anderen Weise zu nutzen als zum Nutzen von Jagex-Produkten gemäß diesen Allgemeinen Geschäftsbedingungen und für Ihre eigenen privaten (d.h. nicht gewerblichen) Zwecke.</p>
+<p>Sie willigen ein, dass alle etwaigen Urheber- oder sonstigen Rechte an Ihrer Spielfigur, Ihrem Spielkonto und Ihren Spielgegenständen in allen Jagex-Produkten auf Dauer Jagex zustehen.</p>
+<p>Durch das Hinterlegen von Chat-Nachrichten oder sonstigen Materialien auf Jagex-Produkten gewähren Sie uns automatisch eine nicht-ausschließliche, räumlich und zeitlich unbeschränkte, kostenfreie Lizenz zur Nutzung und/oder Änderung solcher Materialien auf Jagex-Produkten in einer Weise, die wir jeweils für geeignet halten.</p>
+<p>Sie willigen ein, dass Sie uns durch das Überlassen von jeglichem Material für einen jeglichen Zweck in Verbindung mit Jagex-Produkten (z.B. Vorschläge und Ideen zum Spiel oder Beiträge zur Galerie-Seite, wobei diese Aufzählung keinen Anspruch auf Vollständigkeit erhebt) eine nicht-ausschließliche, zeitlich und räumlich unbeschränkte, kostenfreie Lizenz zur Nutzung und/oder Änderung der hinterlegten Materialien in einer Weise gewähren, die wir jeweils für geeignet halten.</p>
+<p>
+<b>Übertragung von Spielkonten und Spielgegenständen</b><br>
+<p>Sie dürfen den mit Jagex geschlossenen Vertrag, Ihren Nutzernamen, Ihr Kennwort, Ihr Spielkonto sowie Spielfiguren und/oder Spielgegenstände nicht ohne vorherige ausdrückliche schriftliche Zustimmung von Jagex an Dritte übertragen oder Dritten ganz oder teilweise zur Nutzung überlassen. Sie verpflichten sich insbesondere, jeglichen Handel mit Spielkonten, Spielfiguren oder Spielgegenständen außerhalb der Spiele (z.B. über Online-Handelsplattformen) zu unterlassen.</p>
+<p>
+<b>
+Java OpenGL</b><br>
+<p>RuneScape verwendet Teile der JOGL-Softwarebibliothek. Die Lizenzvereinbarung für JOGL (nur auf Englisch verfügbar) finden Sie <a href="http://www.funorb.com/l=1/terms/jogl.ws" target="_blank">hier</a>.</p>
+<p>
+<b>Kostenpflichtige Registrierung</b><br>
+Einige Bereiche von Jagex-Produkten sind gebührenpflichtig. Wenn Sie eine kostenpflichtige Registrierung beantragen, versichern Sie, dass alle von Ihnen gemachten Angaben wahr und korrekt sind (insbesondere Ihre Kreditkartennummer, das Gültigkeitsdatum und sonstige Angaben zur Bezahlung) und dass Sie - falls erforderlich - die hierfür nötige Zustimmung von Eltern oder Erziehungsberechtigten haben. Sie willigen ein, alle Mitgliedschaftsgebühren zu bezahlen, die bei Ihrer Anmeldung ausgewiesen werden, zuzüglich der darauf entfallenden Steuern. Sofern nicht anderweitig angegeben, ist die Mehrwertsteuer in den für die EU-Länder geltenden Preisen bereits enthalten.</p>
+<p>Durch das Absenden Ihrer Bestellung unterbreiten Sie ein Angebot zur kostenpflichtigen Registrierung für das jeweilige Jagex-Produkt. Ihr Angebot wird angenommen und es kommt ein bindender Vertrag zustande, wenn wir eine Nachricht an Ihr Mitteilungsfach senden, in der wir den Erhalt Ihrer Zahlung bestätigen, oder wenn Sie sich in ein Feature eines Jagex-Produkts einloggen, das Mitgliedern für eine kostenpflichtige Nutzung vorbehalten ist (wobei das frühere Ereignis maßgeblich ist).</p>
+<p>Alle Mitgliedsbeiträge werden in regelmäßigen Abständen (z.B. monatlich bei monatlichen Mitgliedschaften) im Voraus eingezogen, bis Sie Ihre Mitgliedschaft kündigen (siehe unten).</p>
+<p>Zahlungen per Kreditkarte unterliegen zusätzlich unserem
+<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=credit_card_payment#agreeing">Kreditkartenvertrag</a>, der Bestandteil dieser Allgemeinen Geschäftsbedingungen ist.</p>
+<p>Wir behalten uns das Recht vor, die Höhe der Beiträge oder die Bedingungen unserer Mitgliedschaftsgebühren jederzeit zu ändern. Gegenüber bereits registrierten Nutzern wird eine Erhöhung der Beiträge nur wirksam, wenn diese durch eine Erhöhung der Kosten der Produktions- und Bereitstellungskosten und/oder durch die Implementierung zusätzlicher Funktionalitäten veranlasst ist und wenn die Erhöhung nach Maßgabe der nachfolgenden Bestimmungen Vertragsbestandteil geworden ist. Beitragserhöhungen werden bereits registrierten Nutzern durch eine Nachricht an deren Mitteilungsfach (das Sie regelmäßig durchsehen sollten) mitgeteilt. Gleichzeitig versenden wir eine Nachricht über die Preiserhöhung, die Ihnen angezeigt wird, wenn Sie sich das nächste Mal zu einem der Jagex-Produkte anmelden. Die Preisänderung tritt nach Ablauf einer Frist von 30 Tagen nach dem ersten Zugang unserer Nachricht in Kraft; während dieser Frist haben Sie die Möglichkeit, Ihre Mitgliedschaft zu beenden, falls Sie mit der Preiserhöhung nicht einverstanden sind. Sofern Sie Ihre Mitgliedschaft nicht vor dem Datum des Inkrafttretens der Preisänderung kündigen, gilt die neue Gebühr als akzeptiert. Wir werden Sie auf diese Rechtsfolge in der jeweiligen Nachricht gesondert hinweisen.</p>
+<p>Wir behalten uns das Recht vor, Ihnen die unrechtmäßige und von Ihnen verschuldete Nutzung Ihrer Mitgliedschaft durch Dritte in Rechnung zu stellen.</p>
+<p>
+<b>Kündigung durch die Spieler</b><br>
+Sie können Ihre Mitgliedschaft jederzeit ohne Einhaltung einer Kündigungsfrist ordentlich kündigen, indem Sie auf diesen Link oder auf den Link "Kündigen einer bestehenden Mitgliedschaft" oder "Mitgliedschaft beenden" auf der Startseite unserer jeweiligen Website klicken oder die Kündigung schriftlich an die eingangs genannte Postanschrift senden. Die ordentliche Kündigung wird mit dem Ablauf des Zeitraums wirksam, für den bereits die monatlichen Mitgliedsgebühren bezahlt sind.</p>
+<p>Bereits geleistete Zahlungen werden also im Falle einer ordentlichen Kündigung durch Sie weder vollständig noch teilweise erstattet, aber Sie können selbstverständlich das noch nicht verbrauchte Guthaben des Spielkontos bis zum Wirksamwerden Ihrer Kündigung aufbrauchen.</p>
+<p>Das Recht zur fristlosen Kündigung mit sofortiger Wirkung aus wichtigem Grund bleibt unberührt.</p>
+<p>
+<b>Widerrufsrecht</b><br>
+Unbeschadet des Kündigungsrechts steht Ihnen ein Widerrufsrecht zu, für das die Regelungen gelten, die im Einzelnen wiedergebeben sind in der folgenden</p>
+<p style="text-align: center;"><b><u>WIDERRUFSBELEHRUNG</u></b></p>
+<div style="margin-right:50px;">
+<ol>
+<li>
+<p>
+Widerrufsrecht<br>
+Sie können Ihre Vertragserklärung innerhalb von einem Monat ohne Angabe von Gründen schriftlich oder per E-Mail widerrufen. Die Frist beginnt frühestens am Tag nach dem Erhalt einer Belehrung über das Widerrufsrecht mit dem hier wiedergegebenen Inhalt in Textform (z. B. per E-Mail). Zur Wahrung der Widerrufsfrist genügt die rechtzeitige Absendung des Widerrufs an
+</p>
+<p>
+Jagex Limited<br>
+St. Andrews House<br>
+90 St. Andrews Road<br>
+Cambridge<br>
+Cambridgeshire CB4 1DL
+</p>
+</li>
+<li>
+<p>
+Widerrufsfolgen<br>
+Im Falle eines wirksamen Widerrufs sind die beiderseits empfangenen Leistungen zurückzugewähren und gegebenenfalls gezogene Nutzungen herauszugeben. Falls Sie uns die empfangene Leistung ganz oder teilweise nicht oder nur in verschlechtertem Zustand zurückgewähren können, müssen Sie uns insoweit gegebenenfalls Wertersatz leisten. Verpflichtungen zur Erstattung von Zahlungen müssen Sie innerhalb von dreißig (30) Tagen nach Absendung Ihrer Widerrufserklärung erfüllen.
+</p>
+</li>
+<li>
+<p>
+Besondere Hinweise<br>
+Ihr Widerrufsrecht erlischt vorzeitig, wenn wir mit der Ausführung der Dienstleistung mit Ihrer ausdrücklichen Zustimmung vor Ende der Widerrufsfrist begonnen haben und Sie diese selbst veranlasst haben (z.B. durch Nutzung dieser Website und eines Jagex-Produkts nach Registrierung).
+</p>
+</li>
+</ol>
+</div>
+<p>
+<b>Datenschutzgrundsätze</b><br>
+Erläuterungen zur Nutzung von personenbezogenen Daten durch Jagex finden Sie in unseren <a href="http://www.funorb.com/l=1/privacy/privacy.ws">Datenschutzgrundsätzen</a>.</p>
+<p>
+<b>Verfügbarkeit</b><br>
+Wir werden alle kaufmännisch zumutbaren Anstrengungen unternehmen, um Ausfallzeiten möglichst gering zu halten, können jedoch nicht versprechen, dass jegliche Jagex-Produkte oder jegliche Daten, die in Verbindung mit diesen gespeichert oder übermittelt werden, störungsfrei, sicher oder fehlerfrei sind und funktionieren oder bestimmte Ergebnisse erzielen. Wir behalten uns das Recht vor, den Betrieb aller Jagex-Produkte jederzeit vollständig oder teilweise ohne vorherige Ankündigung zum Zwecke der Wartung, Pflege, Verbesserung oder zu sonstigen Zwecken zu unterbrechen.</p>
+<p>
+<b>Sonstige Ausstattung / Software</b><br>
+Wir garantieren nicht, dass jegliche Jagex-Produkte auf einer bestimmten Rechnerausstattung oder in Verbindung mit einer bestimmten Software funktionieren oder dass sie frei von Viren oder sonstigen Elementen sind, die sich nachteilig auf technische Anlagen auswirken können. Wir haften nicht für etwaige vorübergehende oder dauerhafte Beschädigungen Ihrer Software oder Hardware, die möglicherweise während der Nutzung der Jagex-Produkte eintreten und die nicht nachweislich durch Fehler unserer Produkte oder Leistungen oder durch eine von uns zu vertretende Pflichtverletzung verursacht wurden.</p>
+<p>
+<b>Jagex.com und andere Links</b><br>
+Unsere Website Jagex.com unterliegt separaten Allgemeinen Geschäftsbedingungen.</p>
+<p>Jagex-Produkte können auch Verweise auf andere Internetseiten beinhalten. Wir geben bezüglich dieser Seiten oder deren Inhalte keine Versprechen ab und versprechen auch nicht, dass die Links funktionieren. Für solche Websites gelten in der Regel eigene Geschäftsbedingungen und Datenschutzgrundsätze.</p>
+<p>
+<b>Sach- und Rechtsmängel</b><br>
+<ol>
+<li>Bei Sach- oder Rechtsmängeln der von Jagex bereitgestellten Leistungen stehen Ihnen die nach den gesetzlichen Bestimmungen vorgesehenen Rechte zu.</li>
+<li>Im Fall der kostenpflichtigen Bereitstellung von Leistungen haftet Jagex auch bei bereits bei Vertragsschluss vorhandenen Mängeln nur auf Schadensersatz, wenn Jagex diese Mängel zu vertreten hat.</li>
+<li>Schadensersatz wegen Sach- oder Rechtsmängeln an von Jagex bereitgestellten Leistungen schuldet Jagex im Übrigen nur nach Maßgabe der in der Klausel "Haftungsbeschränkung" vorgesehenen Beschränkungen und Ausschlüsse.</li>
+</ol>
+</p>
+<p>
+<b>Haftungsbeschränkung</b><br>
+<ol>
+<li>Jagex schuldet Ihnen auf vertraglicher und außervertraglicher Grundlage Schadensersatz nur in folgendem Umfang:<br><br>
+<ol style="list-style-type:lower-alpha;">
+<li>bei Vorsatz, grober Fahrlässigkeit oder Fehlen einer garantierten Beschaffenheit in voller Höhe;</li>
+<li>in sonstigen Fällen nur bei kostenpflichtiger Nutzung und bei Verletzung einer Pflicht, die für die Erreichung des Vertragszwecks wesentlich ist (Kardinalpflicht), und zwar der Höhe nach beschränkt auf den Ersatz des bei Vertragsschluss vorhersehbaren und typischen Schadens.</li>
+</ol>
+<br>
+</li>
+<li>Die Haftung von Jagex für Personenschäden und nach dem Produkthaftungsgesetz bleibt in allen Fällen unberührt.</li>
+</ol>
+</p>
+<p>
+<b>Freistellung</b><br>
+Sie willigen hiermit ein, Jagex freizustellen und schadlos zu halten bei Haftungsansprüchen, Forderungen, Verlusten, Schäden oder Kosten, die seitens Dritter geltend gemacht werden und durch einen von Ihnen verschuldeten Verstoß gegen diese Allgemeinen Geschäftsbedingungen oder eine schuldhafte Verletzung von Rechten Dritter (insbesondere Persönlichkeits-, Urheber- und gewerblichen Schutzrechten) entstehen, einschließlich erstattungsfähiger Kosten der Rechtsverfolgung und -verteidigung.</p>
+<p>
+<b>Abtretung</b><br>
+Sie sind nicht berechtigt, ohne unsere vorherige schriftliche Zustimmung nach diesen Allgemeinen Geschäftsbedingungen bestehende Ansprüche abzutreten oder Verpflichtungen an Dritte zu übertragen.</p>
+<p>
+<b>Allgemeines</b><br>
+Keine Bestimmung dieser Allgemeinen Geschäftsbedingungen schränken Ihre gesetzlichen Rechte als Verbraucher ein. Diese Allgemeinen Geschäftsbedingungen unterliegen deutschem Recht. Streitigkeiten in Zusammenhang mit unseren Allgemeinen Geschäftsbedingungen oder Jagex-Produkten unterliegen der Zuständigkeit der deutschen Gerichte.</p>
+<p>
+<b>Beschwerden</b><br>
+Falls Sie mit Jagex-Produkten oder einzelnen Aspekten derselben nicht einverstanden sind, melden Sie sich bitte unter Verwendung der Formulare auf unserer Website oder schreiben Sie uns an unseren oben angegebenen Geschäftssitz.</p>
+
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+ var pageTracker = _gat._getTracker("UA-2058817-3");
+ pageTracker._setDomainName("funorb.com");
+ pageTracker._initData();
+ pageTracker._trackPageview();
+}
+catch(err){}
+</script>
+</body>
+</html>

@@ -1,0 +1,267 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+fr" xmlns:IE>
+<head>
+<title>FunOrb : jeux en ligne gratuits</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+fr">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=2/css/global-25.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Questions fréquentes sur les forums.">
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+
+<a id="logo" href="http://www.funorb.com/l=2/index.ws" ><b>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="203" height="80">
+<param name="movie" value="http://www.funorb.com/l=2/img/images/layout/logo_funorb_kickabout.swf" />
+<param name="FlashVars" value="homePath=http://www.funorb.com/l=2/" />
+<param name="AllowScriptAccess" value="always" />
+<!--[if !IE]>-->
+<object type="application/x-shockwave-flash" data="http://www.funorb.com/l=2/img/images/layout/logo_funorb_kickabout.swf" width="203" height="80">
+<param name="FlashVars" value="homePath=http://www.funorb.com/l=2/" />
+<param name="AllowScriptAccess" value="always" />
+<!--<![endif]-->
+<!-- Non Flash alternative -->
+<img src="http://www.funorb.com/l=2/img/images/layout/logo_funorb_kickabout.gif" alt="FunOrb" />
+<!--[if !IE]>-->
+</object>
+<!--<![endif]-->
+<!--<![endif]-->
+</object>
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
+<span id="teletext_inner">
+Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=2/members.ws" class="fly">Avantages abonné</a></li>
+<li><a href="http://www.funorb.com/l=2/account_management.ws" class="fly last">Gestion du compte</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=2/" class="fly">Coin communauté</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Forums</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
+<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
+<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=forum_faqs" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<span>
+<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientèle</a> &gt; <a href="viewcategory.ws?cat_id=7">Forums et boîte de réception</a> &gt; Questions fréquentes sur les forums</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Questions fréquentes sur les forums</h1>
+<div class="articleBody">
+<div class="faqsList">
+<ol>
+<li><a href="#forums">Comment utiliser les forums et quelles sont les règles de publication des messages ?</a>
+<li><a href="#what">Qu'est-ce qu'un forum, un message, un fil de discussion ou un message indésirable ?</a>
+<li><a href="#qualifying_free_player">Je ne suis pas abonné. Comment faire pour avoir le droit de poster sur les forums ?</a>
+</ol></div>
+<br>
+<a name="forums"></a>
+<span class="title">1. Comment utiliser les forums et quelles sont les règles de publication des messages ?</span><br><br> Pour une rapide introduction sur l'utilisation des forums, lisez le <a href="
+http://forum-fo-fr.funorb.com/l=2/codeofconduct.ws">Code de conduite</a> des forums. <br><br>Les <a href="viewarticle.ws?article_id=72">règles de conduite</a> s'appliquent également aux forums, tout comme les règles spécifiques aux forums qui s'affichent en haut de chaque forum.<br><br><h4 style="display: inline;">Pour en savoir plus :</h4><br>Pour lire le Code de conduite des forums, cliquez sur <a href="
+http://forum-fo-fr.funorb.com/l=2/codeofconduct.ws">Code de conduite</a>. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="what"></a>
+<span class="title">2. Qu'est-ce qu'un forum, un message, un fil de discussion ou un message indésirable ?</span><br><br> Vous pouvez utiliser les forums à des fins diverses. Par exemple, vous pouvez discuter de la sortie d'un nouveau jeu FunOrb avec d'autres joueurs ou échanger des conseils et des astuces de jeu. C'est vous qui décidez. <br><br> Chaque forum est divisé en fils de discussion. Un fil de discussion est une liste de messages sur un sujet spécifique. Pour afficher un fil de discussion, sélectionnez le forum désiré et cliquez sur le titre d'un fil de discussion. Ils apparaissent en vert. <br><br> Les fils de discussion se composent de messages écrits par les joueurs qui participent à la discussion. <br><br> Parfois, lorsqu'un modérateur Jagex juge un fil de discussion particulièrement drôle, instructif ou important, il peut le transformer en Post-it. Un Post-it est un fil de discussion qui reste toujours en haut du forum particulier. Ils peuvent contenir des informations et éclaircissements de règles auxquelles les utilisateurs doivent se conformer lors de l'utilisation d'un forum particulier. Il s'agit des règles spécifiques à un forum. Ils peuvent également contenir des informations sur les serveurs qui ne sont pas en cours d'exécution ou d'autres sujets importants. Soyez à l'affût des nouveaux Post-it qui sont ajoutés sur chaque forum.<br><br>Tous les autres fils de discussion s'affichent au-dessous du Post-it. <br><br> Prenez quelques minutes pour prendre connaissance des règles spécifiques à un forum afin de vous assurer que les messages que vous publiez sur ce forum les respectent. <br><br> Lorsqu'un joueur publie un message absurde qui fait perdre du temps aux autres utilisateurs et aux modérateurs, il est appelé message indésirable. Ne publiez pas de messages indésirables sur les forums. Réfléchissez bien avant de publier quoi que ce soit. <br><br> N'encouragez pas cette pratique en répondant à un fil de discussion indésirable. Contentez-vous d'ignorer ces types de fils de discussion ou de messages. Si vous répondez à des messages indésirables, vous pouvez recevoir un <a href="viewarticle.ws?article_id=36">avertissement</a> au minimum. Par exemple, publier un message sur un fil de discussion indésirable pour prévenir qu'il sera bloqué n'est pas utile et sera considéré comme un message indésirable. <br><br> Évitez de publier des messages répétitifs ou contenant de l'art ASCII. N'utilisez pas non plus d'art ASCII dans votre signature car elle est automatiquement ajoutée à la fin de tous vos messages. <br><br> Exemples de messages jugés indésirables :<br>
+<ul style="margin-top: 0px; margin-bottom: 0px; "><br>
+<li>Messages hors sujet. Par exemple, si le sujet est « Comment fait-on pour vaincre le deuxième boss dans Dr Phlogiston sauve la Terre ? » et si vous publiez un message sur les hamburgers, il sera jugé indésirable.<br>
+<li>Messages constitués d'une série de lettres, symboles et/ou chiffres tels que 98092;laldkjkajfhga.<br>
+<li>Messages qui n'apportent rien à la discussion.<br>
+<li>Messages du type « CECI EST UN MESSAGE INDÉSIRABLE ! ».<br>
+<li>Répétitions (exemple : création de trois fils de discussion ou messages intitulés « Quelle est la meilleure arme dans Stellar Shard ? »).<br>
+</ul>
+<br> Les signatures ne doivent pas dépasser deux lignes de texte. Si un modérateur du forum juge que votre signature est indésirable, il peut vous demander de retirer la signature de vos prochains messages. <br><br> Les forums reçoivent beaucoup de messages et les fils de discussion chutent donc rapidement à la fin de la liste. En appliquant la méthode du « bumping », consistant à ajouter des messages dans l'unique but de faire remonter le fil de discussion en tête de la liste, le joueur multiplie ses chances d'être lu par les joueurs et acheteurs. <br><br> Le « bumping » n'est pas jugé indésirable tant que vous n'y avez par recours à outrance. En cas de doute, optez pour la prudence et n'appliquez pas cette technique. <br><br> Les fils de discussion sans sujet seront supprimés afin d'alléger le forum. Cette pratique est également jugée indésirable et donc à proscrire. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<a name="qualifying_free_player"></a>
+<span class="title">3. Je ne suis pas abonné. Comment faire pour avoir le droit de poster sur les forums ?</span><br><br> Les non-abonnés peuvent poster sur les forums à condition de remplir certaines conditions.<br><br>
+Pour poster sur les forums de <b>FunOrb</b>, un non-abonné doit avoir réussi au moins 42 exploits. <br><br>
+
+Pour poster sur les forums de <b>RuneScape</b>, un non-abonné doit avoir totalisé au moins 12,5 millions d'XP. 
+<br>Pour en savoir plus sur les modérateurs de forum, cliquez <a href="viewarticle.ws?article_id=8">ici</a>. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<br>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=7">Forums et boîte de réception</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=36">Infractions/exclusions des forums</a>, <a href="viewarticle.ws?article_id=16">Votre messagerie Jagex</a>, Questions fréquentes sur les forums</span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

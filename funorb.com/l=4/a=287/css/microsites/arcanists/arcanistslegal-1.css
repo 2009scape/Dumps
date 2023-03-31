@@ -1,0 +1,118 @@
+
+
+
+
+
+
+
+
+body{
+ background-image: url('http://www.funorb.com/l=4/img/microsites/arcanists/back.jpg');
+ background-repeat: repeat-x;
+ background-position: center top;
+ background-color: #13110f;
+ margin: 0px;
+ font-family: Arial,Helvetica,FreeSans,sans-serif;
+}
+h1{
+ font-size: 80px;
+ width: 718px;
+ height: 98px;
+ font-size: 0px;
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/top.jpg') transparent no-repeat;
+ text-align: center;
+ margin: 0px auto 0px -359px;
+ position:   absolute;
+ left:     50%;
+}
+h1 a{
+ width: 718px;
+ height: 98px;
+ display: block;
+ outline: 0;
+}
+#mid{
+ margin: auto;
+ width: 718px;
+ color: white;
+ line-height: 18px;
+ font-size: 13px;
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/mid.jpg') transparent no-repeat;
+ height: 476px;
+ padding-top: 4px;
+ position:   absolute;
+ left:     50%;
+ margin-left: -359px;
+ top:     98px;
+}
+#mid .content{
+ overflow-y: scroll;
+ scrollbar-base-color: #816430;
+ scrollbar-face-color: #816430;
+ scrollbar-track-color: #40392c;
+ scrollbar-arrow-color: #ffcc00;
+ scrollbar-3dlight-color: #a98a39;
+ scrollbar-highlight-color: #a98a39;
+ scrollbar-shadow-color: #3f2a10;
+ scrollbar-darkshadow-color: #000000;
+ width: 600px;
+ padding: 16px;
+ color: white;
+ height: 440px;
+ margin: auto;
+}
+#mid .content a{
+ color: #fdf0a0;
+}
+#legalback{
+ width: 16px;
+ height: 16px;
+ top: 10px;
+ left: 636px;
+ z-index: 2;
+ position: absolute;
+ outline: 0;
+}
+#legalback img{
+ border: none;
+}
+#bottom{
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/bottom.jpg') transparent no-repeat;
+ margin: auto;
+ width: 718px;
+ height: 38px;
+ margin-left: -359px;
+ top: 578px;
+ position: absolute;
+ left: 50%;
+}
+#copyright{
+ background: url('http://www.funorb.com/l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
+ margin: auto;
+ width: 367px;
+ height: 104px;
+ text-align: center;
+ color: black;
+ font-size: 10px;
+ line-height: 11px;
+ padding: 32px 134px 0 127px;
+ position: absolute;
+ left: 50%;
+ top: 619px;
+ margin-left: -314px;
+}
+#copyright a{
+ color: #965706;
+ text-decoration: underline;
+}
+#copyright a:hover{
+ text-decoration:  none;
+}
+
+.preload{
+ visibility: hidden;
+ position: absolute;
+ top: 0px;
+ left: 0px;
+ z-index: 10;
+}

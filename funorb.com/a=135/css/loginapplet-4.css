@@ -1,0 +1,217 @@
+
+
+
+#navSignIn .brown_background {
+ text-align:center;
+ background:#000;
+ margin:0 5px;
+ padding:5px;
+}
+
+#navSignIn .brown_background .inner_brown_background {
+ padding:30px 0;
+ background:#0b2540;
+}
+
+#navSignIn #brown_box {
+ width:441px;
+}
+
+#navSignIn #brown_box .subsectionContent {
+ padding-top: 6px;
+ text-align: center;
+}
+
+#navSignIn .inner_brown_box {
+ background: black;
+ width:431px;
+ margin: 0 auto 10px;
+}
+
+#navSignIn .inner_brown_box_top {
+ background: transparent url(http://www.funorb.com/img/images/layout/applet_div_top.png) no-repeat;
+ width:431px;
+ height:7px;
+ margin-bottom: 1px;
+ font-size: 0px;
+}
+
+#navSignIn .inner_brown_box_bottom {
+ background: transparent url(http://www.funorb.com/img/images/layout/applet_div_bottom.png) no-repeat;
+ width:431px;
+ height:7px;
+ margin-top: 1px;
+ font-size: 0px;
+}
+
+.loginapplet_wrapper {
+ width: 414px;
+ margin: 0 auto;
+ background: url('http://www.funorb.com/img/loginpage/border_sides.png') repeat-y;
+}
+
+.loginform_wrapper {
+ width: 414px;
+ margin: 0 auto;
+ background: url('http://www.funorb.com/img/loginpage/border_sides.png') repeat-y;
+}
+
+.loginapplet_top {
+ background: url('http://www.funorb.com/img/loginpage/border_top.png') no-repeat;
+ width:414px;
+ height: 7px;
+ font-size: 0px;
+}
+
+.loginapplet_bottom {
+ background: url('http://www.funorb.com/img/loginpage/border_bottom.png') no-repeat;
+ width:414px;
+ height: 7px;
+ font-size: 0px;
+}
+
+#navSignIn .buttonWide {
+ float: left;
+}
+
+#navSignIn .left {
+  display: inline; 
+ margin-left: 48px;
+}
+
+#navSignIn .right {
+ margin-left: 6px;
+}
+
+#navSignIn .buttons {
+ height: 1%;
+ margin-bottom: 10px;
+}
+
+#navSignIn .browser_window {
+ margin-bottom: 10px;
+}
+
+#navSignIn .subsectionContent {
+ background:#082e5b;
+}
+
+#login_form {
+ padding: 45px 0;
+ background-color: #061320;
+ width: 400px;
+ margin: 0 auto;
+}
+
+#navSignIn .loginformlink {
+ font-size:8pt;
+ margin-bottom:7px;
+ text-align:center;
+}
+
+#navSignIn #manualRedir {
+ font-size:9pt;
+ width:400px;
+ margin:7px auto;
+ height:20px;
+ text-align:center;
+ display: none;
+}
+
+.section_form {
+ width: 360px;
+ height: auto;
+ margin: 6px auto;
+}
+
+#login_remember_section {
+ margin-top: 24px;
+}
+
+
+ #recaptcha_box {
+  width: 346px;
+  background: #254b78;
+  margin: 10px auto 0;
+  display: none;
+ }
+ #recaptcha_box_top {
+  background: url(http://www.funorb.com/img/loginpage/recaptcha_box_top.png) right top no-repeat;
+  height: 3px;
+  width: 346px;
+  font-size: 0px;
+ }
+ #recaptcha_box_bottom {
+  background: url(http://www.funorb.com/img/loginpage/recaptcha_box_bottom.png) right top no-repeat;
+  height: 3px;
+  width: 346px;
+  font-size: 0px;
+ }
+ #recaptcha_box_upper {
+  background: white;
+  padding: 2px;
+  min-height: 57px;
+  margin: 0 3px;
+ }
+ #recaptcha_box_lower {
+  padding: 2px;
+  margin: 0 3px;
+  text-align: right;
+ }
+ #recaptcha_image {
+  float:left;
+  height:auto !important;
+  min-height: 57px;
+ }
+ #refresh_recaptcha {
+  background: url(http://www.funorb.com/img/loginpage/new_recaptcha_highlight.png);
+  height: 27px;
+  width: 31px;
+  float: right;
+  overflow: hidden;
+ }
+ #audio_recaptcha {
+  background: url(http://www.funorb.com/img/loginpage/audio_recaptcha_highlight.png);
+  height: 31px;
+  width: 31px;
+  float: right;
+  overflow: hidden;
+ }
+ #image_recaptcha {
+  background: url(http://www.funorb.com/img/loginpage/image_recaptcha_highlight.png);
+  height: 31px;
+  width: 31px;
+  float: right;
+  overflow: hidden;
+ }
+ #refresh_recaptcha:hover img,
+ #audio_recaptcha:hover img,
+ #image_recaptcha:hover img {
+  visibility: hidden;
+ }
+ #recaptcha_box_logo {
+  vertical-align: middle;
+ }
+ #submit_button {
+  float:right;
+  background:#369;
+  color:#fff;
+  width:147px;
+ }
+ #remember {
+  float:left;
+ }
+ #recaptcha_response_field {
+ /* margin-left: 3px; Causes line to wrap */
+  vertical-align: middle;
+  width: 135px;
+ }
+ #recaptcha_nonjs {
+  background: white;
+  border: black solid 2px;
+  margin: 0 auto;
+ }
+ #recaptcha_error {
+  text-align: center;
+  font-size: 0px;
+ }

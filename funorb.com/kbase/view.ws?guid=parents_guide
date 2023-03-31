@@ -1,0 +1,382 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="publisher" content="http://www.jagex.com">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games">
+<meta name="description" content="FunOrb, free online browser-based gaming from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="keyphrases" content="JRS">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="generator" content="WebScripts - http://www.jagex.com">
+<meta name="classification" content="GENERAL">
+<meta name="revisit-after" content="10 days">
+<meta name="title" content="Jagex Software">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/css/global-3.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/css/layout.ws"></script>
+
+<meta name="language" content="en, de">
+<meta name="description" content="The FunOrb Parents' Guide.">
+<title>Parents' Guide</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<span style="color:#32acfa">Welcome to FunOrb.</span><br>
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/members.ws" class="fly last">Members' Benefits</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://forum-fo.funorb.com/forums.ws"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://forum-fo.funorb.com/forums.ws" class="fly">All Forums</a></li>
+<li><a href="http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
+<li><a href="http://forum-fo.funorb.com/forums.ws?7,8" class="fly">Developer Forum</a></li>
+<li><a href="http://achievements.funorb.com/" class="fly last">Achievements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=faqs" class="fly">FAQs</a></li>
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=parents_guide" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/index.ws"><img src="http://www.funorb.com/img/images/layout/en.gif" alt="English" /></a>
+<a href="http://www.funorb.com/l=1/index.ws"><img src="http://www.funorb.com/img/images/layout/de.gif" alt="German" /></a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Help</a> &gt; Parents' Guide</span>
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Parents' Guide</h1>
+<div class="articleBody">
+<body>
+Welcome to the FunOrb Parents' Guide. <br><br> This guide is designed to give you quick and easy access to all the information you want regarding FunOrb. The questions below cover most general points, such as what FunOrb is and how you can join, but we also provide information on how we protect our players online, how we keep your information private and confidential, and even some help and advice on how to keep healthy and play games responsibly!
+<br><br> <div class="faqsList">
+<ol>
+<li><a href="#funorb">What is FunOrb?</a>
+<li><a href="#what">What is Jagex?</a>
+<li><a href="#free">Is FunOrb free?</a>
+<li><a href="#safety">Player Safety</a>
+<li><a href="#recovery">Account Recovery</a>
+<li><a href="#privacy">Protecting Privacy</a>
+<li><a href="#healthy">Keeping Healthy</a>
+<li><a href="#protect">Protecting our Players</a>
+</ol></div>
+<br>
+<a name="funorb"></a>
+<span class="title">1. What is FunOrb?</span><br><br>
+FunOrb is a collection of java-based browser games that you can access and play on your PC. The games are designed to be enjoyed over short periods or long sessions, and cover every genre of gaming. <br><br>
+For those of you who wish join FunOrb, or would just like some basic information about the site and our services, please check the Frequently Asked Questions page, <a href="http://www.funorb.com/kbase/view.ws?guid=General_Most_Popular">here</a>.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="what"></a>
+<span class="title">2. What is Jagex?</span><br><br>
+Jagex, which stands for Java Gaming Experts, is the name of the company which produces the massively multiplayer online adventure game, RuneScape, and the Java minigames site, FunOrb.
+<br><br>
+In December 2001, Andrew Gower, Paul Gower and Constant Tedder got together and founded Jagex Limited as a commercial operation to take over the running of RuneScape, its underlying technologies and other games developed by Andrew. By then, RuneScape had already become a game with over 1 million accounts created!
+<br><br>
+The three founders set out with two immediate tasks: firstly, to make the operation of RuneScape commercially viable, establishing long term advertising sales relationships, and secondly, to develop a premium version of the game for subscription-paying members.
+<br><br>
+<img style="display: inline; float: right;" src="http://www.funorb.com/img/images/kbase/parents_guide/monkey_puzzle_2.gif" alt="">
+Both of these tasks were achieved soon after, and on 27th February 2002 Jagex launched the members' version of RuneScape. In the first week after launch over 5,000 people subscribed, making RuneScape instantly one of the largest pay-to-play Java games in the world.
+<br><br>
+In March 2004, RuneScape was updated heavily. The new version, which is often referred to as RuneScape 2 (RS2), features a completely new game engine and vastly improved graphics.<br><br>Since that date, RuneScape has gone from strength to strength, expanding as both a game - with regular updates created by the Content Development team - and as an ever-growing community of sociable, online game players. <br><br> In 2008, Jagex expanded its presence in the gaming industry with the release of FunOrb, a mini-games website offering players an unrivalled experience in multiplayer Java gaming! To find out more about Jagex, please click, <a href="http://www.funorb.com/kbase/view.ws?guid=Jagex">here</a>.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="free"></a>
+<span class="title">3. Is FunOrb free?</span><br><br>
+There are three ways of playing FunOrb games: as an unregistered free player, as a registered free player, and as a member. Unregistered free players have access to the majority of games, but each game comes with a members' section which at least doubles the size of the free game. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="safety"></a>
+<span class="title">4. Player Safety</span><br><br>
+By far the most important aspect of any online community is the safety of those who inhabit it. With more than half of Jagex committed solely to Customer Support, we are dedicated to keeping our games a fun, safe and secure place to be. This page covers some of the more prominent ways in which we monitor the game and also explains how the players themselves can help keep the community safe. <br><br>
+<p align="center">
+<img src="http://www.funorb.com/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+</p>
+If you are the parent of a player and would like to report a serious incident or concern, email: <img style="display: inline;" src="http://www.funorb.com/img/images/kbase/parents_guide/parents_jagex_email.gif" alt="">. You must include the Jagex account name of your child and a detailed description of the exact nature of your enquiry.
+<br><br>
+Please remember that ordinary enquiries relating to an account must be submitted to us via the Account Management section of our website and must not be sent to this address.
+<p align="center">
+<img src="http://www.funorb.com/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+</p>
+<br><br>
+<b>Reporting Abuse</b>
+<br>
+<img style="display: inline; float: right;" src="http://www.funorb.com/img/images/kbase/parents_guide/transmogrify.gif" alt="">
+One way in which we give players better security is by giving them the ability to report any abuse they receive from any player in the game. By clicking on the ‘Report Abuse’ button on their screen, they can type in the offending player’s name and then click the relevant category of abuse. <br><br>
+When a player submits an abuse report, our Customer Support Team receives a snapshot of the conversation between the reporter and the reported, allowing our team to effectively decide what punishment (if any) is required.
+<br><br>
+It is important to note, however, that players must not abuse the system by submitting false reports. Anyone found to be misusing Customer Support will have appropriate actions taken against them. To find out more about our Rules of Conduct, please click <a href="viewcategory.ws?cat_id=11">here</a>.
+<br><br>
+<b>Chat Filter</b>
+<br>
+To help maintain a non-specific player demographic and keep the game accessible to people of all ages, we have a sophisticated chat-filter system that detects and blocks any profanities that are typed into the chat window. We also make every effort to ensure that any web addresses and requests for telephone numbers or player's address are blocked, which adds to the protection of the player’s account and personal information. This filter list is modified regularly, meaning that we are continually making it much more difficult for players to bypass the system.
+<br><br>
+It is worth noting that this only applies to multiplayer games. Most FunOrb games are single-player, and as such do not require a chat filter. <br><br>
+<b>How you can help</b>
+<br>
+There are a number of ways in which you can help prevent many of the problems highlighted here. Firstly, we highly recommend that parents play FunOrb games and familiarise themselves with the website. This will give you a better understanding of your child’s experience and will also allow them to communicate their problems to you more clearly. <br><br>
+We also advise that you read and explain our <a href="viewcategory.ws?cat_id=11">rules</a> to your children before allowing them to play the games. Not only will this help them avoid being tricked into giving away important personal or account information, but it will also make them more aware of the possible dangers involved.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="recovery"></a>
+<span class="title">5. Account Recovery</span><br><br>
+<b>Banning an account</b>
+<br>
+If your child’s account is banned, they will receive a message in their inbox that explains which rule they have broken, the severity of punishment they will receive and evidence of their misdeed. Depending on the seriousness of the offence, the ban may be temporary or permanent. For verbal offences, we may place a time-specific ‘mute’ on the character. We may also choose to place ‘black marks’ on the account. Comparable to points on a driving licence, these marks indicate to us and the player that they have broken the rules and that any further rule-breaking will result in a harsher penalty.
+<br><br>
+<img style="display: inline; float: left;" src="http://www.funorb.com/img/images/kbase/parents_guide/dr_phlogistan.gif" alt="">
+<b>Appealing an offence</b>
+<br>
+Once an account is banned, the owner will sometimes have the option to appeal the offence. If they are genuinely sorry for breaking the rules they have the option to apologise. If they feel it is our mistake and that the evidence does not support what we are implying, then they can suggest we have made an error. Lastly, if they have had their account stolen or believe they were not in control of the account at the time of the offence, they can tell us so, allowing us to check if a hijacking has been committed. <br><br>
+In some cases, the severity and type of offence will be such that an ‘Offence Appeal’ will not be possible. Be assured that under these circumstances we are certain of our offence detection systems. We will only ban accounts when we are sure that the offender is the owner of the account. <br><br>
+<b>Password Requests</b>
+<br>
+Every Jagex account is accessed via a unique username and player-chosen password. We encourage our players to choose a password that is easy for them to remember but difficult for others to guess. To avoid forgetting their password, we advise our players to write it down on a piece of paper and keep it very safe. We also stress that players should never divulge their password to anybody else, including friends and family. <br><br>
+If a player discloses their password for any reason, they leave it open for others to use. If your child is having problems accessing their account, it could be that somebody else may have known their password and has subsequently changed it. If this occurs, the player can attempt to retrieve their lost account by submitting a password request form. This form can be found <a href="http://www.funorb.com/account_management.ws">here</a>, in the Account Management page. This page will ask them for some basic but essential information: the character’s username and the type of query they are asking. <br><br>
+Once they have pressed the continue button on this first page, the password request form will appear. This needs to be completed. It may be the case that not all the questions are relevant to their account, but those that are should be filled in clearly and correctly. The more relevant the information we receive, the better chance we have of determining the true owner of the account.
+<br><br>
+<b>Query Tracking</b>
+<br>
+In order to track a player’s password request, they are given a unique ‘Tracker ID’. To follow the progress of the query from the FunOrb <a href="http://www.funorb.com/account_management.ws">Account Management</a>, select ‘Track Recovery’ from here. <br><br><br><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/parents_guide/password_tracker2.gif" alt="[image: Password Support Tracker]" title="password support tracker">
+<br><br>
+Here, your child can type in their Tracker ID.
+<br><br>
+<b>Understanding the Rules of Conduct</b>
+<br>
+To ensure that both you and your child are aware of the Jagex Rules of Conduct, please read through the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> with them and explain the various rules so that they fully understand them.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="privacy"></a>
+<span class="title">6. Protecting Privacy</span><br><br>
+Here at Jagex we are committed to the privacy of ALL of our player’s personal information.<br><br>We respect the privacy rights of our online visitors and recognise the importance of protecting the information we are given. We have adopted a corporate-wide <a href="http://www.funorb.com/privacy/privacy.ws">Privacy Policy</a>, which details how we collect, store and utilise the information you entrust us with.
+<br><br>
+Anyone who attempts to gather another player’s personal information in-game is in breach of Rule 13 of our <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> and will be punished accordingly. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="healthy"></a>
+<span class="title">7. Keeping Healthy</span><br><br>
+Our interest in safety is not limited to your child’s accounts. As a company that creates games for thousands to enjoy, we naturally take an active interest into the well-being of those players. Moreover, we have collated some essential information that will help keep players in good health.
+<br><br>
+The majority of problems people encounter while spending an extended length of time on a computer are physical, i.e. muscle aches and pains caused by poor posture, or sore eyes due to extensive playtime without breaks. These problems, and many others, can be easily resolved with a little bit of guidance. <br><br>
+Here are links to two very important pages of information. <br><br>
+Our <a href="viewarticle.ws?article_id=61">Play Safely and Responsibly</a> page gives advice on issues such as photosensitivity and repetitive strain injury. <br><br>
+It also gives both you and your child a breakdown of how to enjoy FunOrb responsibly, without compromising their health or impairing their enjoyment of the game.
+<br><br>
+<p align="center">
+<img src="http://www.funorb.com/img/images/kbase/parents_guide/bounce_down2.gif" alt="">
+</p>
+<br><br>
+<b>How you can help</b>
+<br>With all the help and support we provide for our players, we will always welcome the added guidance and advice that parents can provide. Joining in with your children’s hobbies and activities - whatever they may be - is a great way to relieve any worries or apprehensions you may have and will also allow you to talk to your children about the things they enjoy.
+<br><br>
+While there is no limit to how long an account can be logged in for, we do believe that there is a role for parents in exercising limits to their children’s playtime, by allocating a responsible amount of time for gaming and other activities such as sport or reading. This helps give the child a balanced lifestyle that will keep them both active and entertained. <br><br>
+If at any time you feel that your child’s use of FunOrb is exceeding a responsible amount, or if you are having difficulty maintaining some or all of the steps in our <a href="viewarticle.ws?article_id=61">Play Safely and Responsibly</a> guide, it might be useful to seek help and advice from a medical professional. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="protect"></a>
+<span class="title">8. Protecting our players</span><br><br>
+Answer FunOrb is a site through which players can chat with thousands of other like-minded people from around the world. It’s an excellent opportunity for our users to speak and interact with many new and exciting people. <br><br>
+To ensure that FunOrb remains a safe environment for all of our players, we have developed a number of in-house teams and systems that are designed to prevent all kinds of rule-breaking. What follows is some information on the measures we take to maximise the amount of protection and support we can provide. <br><br>
+<p style="font-weight:bold; font-size: 17px; font-style: italic; text-align: center;">
+Player safety is our absolute number-one priority.
+</p>
+<br>
+<b>Activities relating to player safety</b>
+<br>
+We want all of our players to play FunOrb games with the knowledge that they are well-protected. This is why we ensure that we have a number of different methods of monitoring and policing the game:
+<br><br>
+<ul>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_cs.gif);"> A Customer Support team which works 24 hours a day, processing tens of thousands of reports and queries every single day, finding and taking action against anybody who attempts to cause trouble in-game.
+<br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_crown_silver.gif);">Player moderators – a group of several thousand carefully chosen players who have the ability to temporarily mute others, which can diffuse a large number of issues. They can also escalate any concerns to our Customer Support team. This is an extremely useful activity – player moderators help as our ‘eyes and ears’, giving us much needed intelligence about any incidents that are going on in the game. <br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_crown_green.gif);"> Forum moderators – another group of carefully selected players who monitor the forums and prevent rule breaking. They also have the ability to escalate selected issues to our Forum team.
+<br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_crown_gold.gif);"> Jagex moderators – members of Jagex staff who also monitor the game, player and forum moderators, as well as the website, on a regular basis. <br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_lock.gif);"> ICU (Investigation in the Community) – a specialised unit dedicated to the investigation of community-related issues. There are many important sub-units that make up ICU, including a highly-skilled team who are solely committed to dealing with child protection issues. <br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_report.gif);"> The ‘Report Abuse’ function – a way for any player to report a case of rule-breaking to our Customer Support team, as and when it happens in-game. To ensure that these reports are monitored effectively, we have a large team working 24/7, who are responsible for processing all reports according to priority.
+<br><br>
+<li style="list-style-image: url(http://www.funorb.com/img/images/kbase/parents_guide/icon_star.gif);">On top of all this, we have a number of internal systems that help us spot errant behaviour and be able to deal with it effectively. These systems are being reviewed continuously and are always undergoing further development. This way we can ensure that our technology is as effective as possible.
+</ul>
+<br>
+Should we encounter a serious incident that gives us any cause for concern for player safety, we will be in close contact with the local and national police, and government child protection agencies around the world, with whom we have a policy of unreserved cooperation. There is no excuse for any act that warrants this level of response, so any such incident would be taken extremely seriously. <br><br>
+<p align="center">
+<img src="http://www.funorb.com/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+</p>
+<b>Law enforcement agencies we work with</b>
+<br>
+We have developed collaborative relationships with a number of organisations, who have helped strengthen our ability to protect our community.
+<br><br>
+The <b>Child Exploitation and Online Protection</b> agency (CEOP) is a UK law enforcement agency who is dedicated to the safety of internet users all over the world. With their help, we have learnt how best to deal with a huge variety of different issues, as well as receiving ongoing support for our Customer Support teams. <br><br>
+Also, the CEOP are part of the <b>Virtual Global Taskforce</b> (VGT) - a group of international law enforcement agencies from around the world who work together to protect children online. With members including the <b>US Department of Homeland Security</b> and <b>Interpol</b>, the VGT is a very important resource. With their help, we can ensure that our players will always receive the highest level of protection possible.
+<br><br>
+The <b>National Society for the Prevention of Cruelty to Children</b> (NSPCC) is a UK-based charity working in child protection, which has excellent knowledge and experience of child safety-related issues. Together, we can make sure that FunOrb remains a friendly and safe place to play.<br><br>
+<p align="center">
+<img src="http://www.funorb.com/img/images/kbase/parents_guide/logos.gif" alt="CEOP, VGT, NSPCC, Cyber Tipline and WiredSafety logos">
+</p> <br><br>
+Our connections are not limited to these organisations, however. We are always looking to form new relationships with agencies who offer help and support in the area of online protection, such as <A href="http://www.cybertipline.com" target="_blank">www.cybertipline.com</A> or <A href="http://www.wiredsafety.org" target="_blank">www.wiredsafety.org</A>, who provide help and advice for both children and adults alike. <br><br>
+We will also continue to support both regional and national police forces from around the world, as well as provide information, on request, to agencies such as the <b>United States Secret Service</b> and <b>US Immigration and Customs Enforcement</b>. <br><br>
+For more information on how to protect your child online, please visit our <a href="viewarticle.ws?article_id=61">Play Safely and responsibly</a> page.
+<br><br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=4">Help</a> : </b>
+<span class="articleMore">
+Parents' Guide</span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p>
+Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+ var pageTracker = _gat._getTracker("UA-2058817-3");
+ pageTracker._setDomainName("funorb.com");
+ pageTracker._initData();
+ pageTracker._trackPageview();
+}
+catch(err){}
+</script>
+</body>
+</html>

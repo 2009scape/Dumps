@@ -1,0 +1,316 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="publisher" content="http://www.jagex.com">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games">
+<meta name="description" content="FunOrb, free online browser-based gaming from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="keyphrases" content="JRS">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="generator" content="WebScripts - http://www.jagex.com">
+<meta name="classification" content="GENERAL">
+<meta name="revisit-after" content="10 days">
+<meta name="title" content="Jagex Software">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/a=18/css/global-4.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/a=18/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/a=18/css/layout.ws"></script>
+
+<meta name="language" content="en, de">
+<meta name="description" content="Click here for assistance with lost, forgotten and stolen passwords.">
+<title>Password Emergencies</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<span style="color:#32acfa">Welcome to FunOrb.</span><br>
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=18/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/a=18/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/a=18/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/a=18/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/a=18/members.ws" class="fly last">Members' Benefits</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://forum-fo.funorb.com/a=18/forums.ws"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws" class="fly">All Forums</a></li>
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws?0,1" class="fly">Announcements</a></li>
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws?7,8" class="fly">Developer Forum</a></li>
+<li><a href="http://achievements.funorb.com/a=18/" class="fly last">Achievements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/a=18/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/a=18/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=46" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/en.gif" alt="English" /></a>
+<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/de.gif" alt="German" /></a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Help</a> &gt; <a href="viewcategory.ws?cat_id=2">Customer Support</a> &gt; <a href="viewcategory.ws?cat_id=5">Password Support</a> &gt; Password Emergencies</span>
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Password Emergencies</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#lost">I have lost my password. What should I do?</a>
+<li><a href="#changed">Someone else has changed my password or recovery questions. What should I do?</a>
+<li><a href="#password">Someone else knows my password. What should I do?</a>
+<li><a href="#recovery">Using the Password Recovery module</a>
+</ol></div>
+<br>
+<a name="lost"></a>
+<br>
+<span class="title">1. I have lost my password. What should I do?</span><br><br>
+If you are sure that your computer is secure then please follow these instructions:
+<br><br>
+If we have not locked your account then click <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">here</a> To recover your password. <br><br>
+You will then need to supply your login name. After logging in, you will be asked to select between a forgotten or stolen password, please choose 'Forgotten'.
+<br><br>
+Please then follow all of the on-screen instructions, filling in as much information as possible.
+<br><br>
+If you do not know, or cannot remember all your account information, then please try and provide the earliest information you have for each of the categories requested. This will ensure that your request is dealt with as quickly as possible. We can only issue a new password to an account once we are satisfied that it will be returned to the correct owner.
+<br><br>
+We recommend that you read <a href="viewarticle.ws?article_id=29">this</a> to ensure that your new password is as secure as possible.
+<br><br>
+At the end you will be given a Tracking ID with which to track the progress of your query. Please make sure that you write this down or you will not be able to get our response to your request.
+<br><br>
+If you receive a response asking for more information then please fill out another request and try to provide the earliest information that you can remember in each of the areas requested.
+<br><br>
+Please remember that your password is only as secure as your computer and as secret as you keep it.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="changed"></a>
+<br>
+<span class="title">2. Someone else has changed my password or recovery questions. What should I do?</span><br><br>
+In this case, we recommend that you first ensure that your computer is secure and that no-one has managed to get your password directly from your machine. To do this please follow Sections 7 and 8 in the <a href="viewarticle.ws?article_id=42">Security Information</a> guide immediately.
+<br><br>
+After you have followed the guidelines and are sure that your computer is secure then please follow these instructions:
+<br><br>
+If we suspect your account to be stolen then it will have been locked and no-one will be able to access it. To unlock your account, click <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">here</a>.
+<br><br>
+If we have not locked your account then click <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">here</a> to begin the recovery process.
+<br><br>
+You will then need to supply your login name. After logging in, you will be asked to select between a forgotten or stolen password, please choose 'Stolen'.
+<br><br>
+Please then follow all of the on-screen instructions, filling in as much information as possible.
+<br><br>
+If you do not know or cannot remember all of your account information then please try and provide the earliest information you have for each of the categories requested. This will ensure that your request is dealt with as quickly as possible. We can only issue a new password to an account once we are satisfied that it will be returned to the correct owner.
+<br><br>
+We recommend that you read <a href="viewarticle.ws?article_id=29">this</a> to ensure that your new password is as secure as possible.
+<br><br>
+At the end you will be given a Tracking ID with which to track the progress of your query. Please make sure that you write this down or you will not be able to get our response to your request.
+<br><br>
+If you receive a response back, asking for more information, then please fill out another request and try to provide the earliest information that you can in each of the areas requested.
+<br><br>
+Please remember that your password is only as secure as your computer and as secret as you keep it.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="password"></a>
+<br>
+<span class="title">3. Someone else knows my password. What should I do?</span><br><br>
+In this case we recommend that you first ensure that your computer is secure and that no-one has managed to get your password directly from your machine. To do this, please follow Sections 7 and 8 in the <a href="viewarticle.ws?article_id=42">Security Information</a> guide immediately.
+<br><br>
+After you have followed the guidelines and are sure that you computer is secure, please follow these instructions:
+<br><br>
+If we suspect your account to be stolen then it will have been locked and no-one will be able to access it. To unlock your account, click <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">here</a>.
+<br><br>
+If we have not locked your account then click <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">here</a> to begin the recovery process.
+<br><br>
+You will then need to supply your login name. After logging in, you will be asked to select between a forgotten or stolen password, please choose 'Stolen'.
+<br><br>
+Then follow all of the on-screen instructions, filling in as much information as possible.
+<br><br>
+If you do not know, or cannot remember, all your account information then please try and provide the earliest information you have for each of the categories requested. This will ensure that your request is dealt with as quickly as possible. We can only issue a new password to an account once we are satisfied that it will be returned to the correct owner.
+<br><br>
+We recommend that you read <a href="viewarticle.ws?article_id=29">this</a> to ensure that your new password is as secure as possible.
+<br><br>
+At the end you will be given a Tracking ID with which to track the progress of your query. Please make sure that you write this down or you will not be able to get our response to your request.
+<br><br>
+If you receive a response asking for more information then please fill out another request and try to provide the earliest information that you can remember in each of the areas requested.
+<br><br>
+Please remember that your password is only as secure as your computer and as secret as you keep it.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="recovery"></a>
+<br>
+<span class="title">4. Using the Account Recovery module</span><br><br>
+Every FunOrb account is accessed via a unique username and player-chosen password. We encourage our players to choose a password that is easy for them to remember but difficult for others to guess. To avoid forgetting their password, we advise our players to write it down on a piece of paper and keep it safe. We also stress that players should never divulge their password to anybody else, including friends and family. <br><br>
+If a player discloses their password for any reason, they leave it open for others to use. If you are having problems accessing your account, it could be that somebody else knows your password and has subsequently changed it. If this occurs, or you simply cannot remember your password, you can try to retrieve your lost account by submitting a password recovery form. This form can be found by clicking <a href="http://www.funorb.com/a=18/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">here</a>.
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/password_recovery/login_options1.gif" alt="Password Recovery log-in" title="Password Recovery log-in">
+<br><br>
+It is extremely important that you choose the correct type of query, as this makes it more likely that we will be able to resolve your problem.
+<br><br>
+Once you have chosen the query type on this first page, the password request form will appear. This needs to be completed. It may be the case that not all the questions are relevant to your account, but those that are should be filled in clearly and correctly. The more relevant the information we receive, the better the chance we have of determining the true owner of the account. The information you will need to provide includes:
+<br><br>
+<ul style="margin-top: 0px; margin-bottom: 0px; ">
+<li>Your recovery answers<br>
+<li>Previous passwords</ul>
+<br><br>
+There is also a field for providing extra information to prove your ownership of the account. Usually, you can find your transaction ID and other billing numbers in the notification you will have received confirming your payment. For this reason, it is very important that you do not throw them away or misplace them. <br><br>
+If you do not know or cannot remember all your account information, please try to provide the earliest information you have for each of the categories requested. This will ensure that your request is dealt with as quickly as possible. We can only issue a new password to an account once we are satisfied that it will be returned to the correct owner.
+<br><br>
+Try to fill in as much information as clearly as possible, to increase the likelihood that your request will be successful. You will also need to supply a new password; we recommend you read <a href="viewarticle.ws?article_id=29">this article</a> to ensure that your new password is as secure as possible.
+<br><br>
+<b>Query Tracking</b>
+<br><br>
+In order to track a player’s password request, they are given a unique ‘Tracker ID’. To follow the progress of the query, please click <a href="http://www.funorb.com/a=18/redirect.ws?mod=accountappeal&dest=trackinginput.ws">here</a>.
+<br><br>
+This will bring up a page asking you to enter the Tracker ID:
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/parents_guide/password_tracker2.gif" alt="Password Recovery Tracker" title="Password Recovery Tracker">
+<br><br>
+Type in your username and tracker ID and you will be told what stage your password recovery request is at. Please note that some password recovery requests may take longer to process than others.
+<br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=5">Password Support</a> : </b>
+<span class="articleMore">
+Password Emergencies, <a href="viewarticle.ws?article_id=20">General Information</a>, <a href="viewarticle.ws?article_id=29">Password Security</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p>
+Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+ var pageTracker = _gat._getTracker("UA-2058817-3");
+ pageTracker._setDomainName("funorb.com");
+ pageTracker._initData();
+ pageTracker._trackPageview();
+}
+catch(err){}
+</script>
+</body>
+</html>

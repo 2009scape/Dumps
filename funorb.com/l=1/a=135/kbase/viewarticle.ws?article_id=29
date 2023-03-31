@@ -1,0 +1,242 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+de" xmlns:IE>
+<head>
+<title>Willkommen bei FunOrb - Kostenlose Online-Spiele</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/a=135/css/global-14.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=135/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=1/a=135/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Informationen über die Passwortsicherheit.">
+<title>Passwortsicherheit</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/l=1/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<span id="teletext_inner">
+Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=135/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=135/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/a=135/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=135/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=1/a=135/"><span>Anmelden</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=1/a=135/" class="fly">Kontoerstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=1/a=135/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=1/a=135/" class="fly">Community-Startseite</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/a=135/forums.ws" class="fly">Alle Foren</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://achievements.funorb.com/l=1/a=135/" class="fly">Erfolge</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=1/a=135/" class="fly">Highscores &amp; Wertungen</a></li>
+<li><a href="http://orbcoins.funorb.com/l=1/a=135/" class="fly last">Orb-Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=1/a=135/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=1/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=29" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=1/a=135/index.ws">
+<span>
+<img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">
+<div id="dropArrow"></div>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=5">Passworthilfe</a> &gt; Passwortsicherheit</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Passwortsicherheit</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#block">Blockiert Jagex mein Passwort?</a>
+<li><a href="#safe">Wie kann ich mein Passwort schützen?</a>
+<li><a href="#secret">Wie kann ich mein Passwort geheim halten?</a>
+<li><a href="#good">Was macht ein gutes Passwort aus?</a>
+</ol></div>
+<br>
+<a name="block"></a>
+<br>
+<span class="title">1. Blockiert Jagex mein Passwort?</span><br><br> Ja, Jagex blockiert Ihr Passwort, aber es wäre trotzdem leichtsinnig, es in den Chat einzutippen. Sie könnten sich vertippen und es dadurch aus Versehen preisgeben!<br><br>Selbst seit wir diese Blockierfunktion eingerichtet haben, fragen Spieler andere nach ihren Passwörtern. Wenn Sie jemanden entdecken, der das tut, schicken Sie uns eine <a href="viewarticle.ws?article_id=57">Regelverstoß-Meldung</a> und wählen Sie die Option '3: Passwortbetrug' aus. Die Schaltfläche 'Regelverstoß melden' finden Sie in der rechten unteren Ecke des Spielfensters.<br><br>Wenn Ihr Passwort ein sehr gebräuchliches Wort ist oder eines, das Sie im Chat normalerweise auch verwenden würden, dann ändern Sie es bitte. Die Funktion, die das Passwort blockiert, zensiert den ganzen Satz, den Sie im Spiel sagen wollen, sodass man das Passwort auch nicht aus dem Zusammenhang heraus erraten kann. Stellen Sie sich vor, Ihr Passwort wäre 'Sandwiches' und Sie würden es im Chat in einen Satz einbauen - würden wir nur Ihr Passwort zensieren, dann könnten Ihre Mitspieler eventuell erkennen, welches Wort Sie sagen wollten und hätten so Ihr Passwort erschlüsselt. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="safe"></a>
+<br>
+<span class="title">2. Wie kann ich mein Passwort schützen?</span><br><br> Die beste Methode, sein Passwort zu schützen, ist, wenn man es streng geheim hält und seinen Computer sicher und virenfrei hält.<br><br>Alle Spieler sollten sich unsere Sicherheitshinweise durchlesen. Sollten Sie das noch nicht gemacht haben, klicken Sie bitte <a href="viewarticle.ws?article_id=42">hier</a>. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="secret"></a>
+<br>
+<span class="title">3. Wie kann ich mein Passwort geheim halten?</span><br><br> Wir empfehlen Ihnen, <b>niemandem</b> Ihr Passwort zu verraten. Um sicherzugehen, dass Ihr Konto geschützt ist, sollten Sie nicht einmal Ihren Geschwistern und vor allem keinen Freunden Ihr Passwort mitteilen. Wenn Ihnen jemand sein Passwort verrät, sollten Sie ihm nahelegen, so schnell wie möglich sein Passwort zu ändern, da das Spielkonto sonst eventuell für <a href="viewarticle.ws?article_id=48">Kontoteilung</a> bestraft wird.<br><br>Lesen Sie sich bitte auch die Anleitung unten zur Auswahl eines guten Passworts durch. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="good"></a>
+<br>
+<span class="title">4. Was macht ein gutes Passwort aus?</span><br><br> Ein gutes Passwort sollte schwer zu erraten und leicht zu merken sein, mindestens acht Zeichen beinhalten und aus einem Mix von Buchstaben und Ziffern bestehen.<br><br><b>Wählen Sie keine</b> Begriffe oder Zahlen, die etwas mit Ihrer Person zu tun haben, z.B. Ihr Lieblingstier oder Ihre Hausnummer.<br><br><b>Wählen Sie keine</b> Zahl am Ende eines Wortes, z.B. HVYDG8076.<br><br><b>Wählen Sie keine</b> üblichen Zahlen- und Buchstaben-Substitutionen wie 4 als 'for', 1 als 'L' oder 'l', 5 als 'S'.<br><br><b>Wählen Sie keine</b> sich wiederholenden Zeichenfolgen wie 'bbbbbbbbbb' oder 'kbkbkbkbkbkb'.<br><br><b>Wählen Sie keine</b> Eigennamen, Kontonamen oder Gegenstandsnamen, auch wenn Sie sie rückwärts buchstabieren oder aufteilen.<br><br><b>Wählen Sie keine</b> nebeneinander liegenden Keyboardtasten so wie 'qwertz', 'lkjhgf' oder 'qaywsxedc', da das sehr üblich ist und Kontodiebe nach diesen Kombinationen suchen werden.<br><br>Die einzigen Grenzen, die FunOrb Ihnen setzt, sind:<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Sie haben maximal 20 Zeichen für Ihr Passwort zur Verfügung.<br><br><li>Sie können keine Symbole wie '!' und '%' benutzen.<br></ul><br><br>Bei den Passwörtern wird nicht zwischen Groß- und Kleinschreibung unterschieden, also ist 'HVYDG' das Gleiche wie 'HvYdG'.<br><br>Ein guter Weg, sich ein Passwort auszudenken, ist, nach dem Zufallsprinzip Buchstaben aus dem Alphabet auszuwählen, die eine Buchstabenfolge ergeben, die kein Wort ist. Dann sollten Sie diese Buchstabenfolge noch mit einigen Zahlen spicken. Zum Beispiel so:<br><br>Wort: GJWXREJUVGF<br><br>Zahl 1: 102<br><br>Zahl 2: 13<br><br>Zusammen = G102JW13REJUVGF<br><br>Das wäre ein sehr gutes Passwort - hätten wir es nicht hier auf der Webseite veröffentlicht. Benutzen Sie AUF KEINEN FALL dieses Passwort, da die Kontodiebe es auch kennen und versuchen könnten, damit auf Ihr Konto zuzugreifen. Erfinden Sie stattdessen Ihr eigenes Passwort.<br><br>Es ist immer hilfreich, sich auf einem Notizblock die ausgewählten Passwörter aufzuschreiben. So gehen Sie sicher, dass Sie nicht zweimal das Gleiche auswählen und laufen auch nicht Gefahr, das Passwort zu vergessen. Sie sollten diesen Block sicher verwahren, zum Beispiel, indem Sie Ihre Eltern darauf aufpassen lassen.<br><br>Solange Sie Ihr Passwort sicher aufbewahren, müssen Sie nicht ständig Ihr Passwort wechseln, da Sie sonst nur Gefahr laufen, ein altes wieder zu benutzen oder das neue zu vergessen. Es ist allerdings ratsam, es alle 6 Monate zu ändern.<br><br>Falls Ihr Konto gestohlen wurde, ist es besonders wichtig, dass Sie kein Passwort benutzen, das Sie zuvor benutzt haben. <br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Weitere Artikel in <a href="viewcategory.ws?cat_id=5">Passworthilfe</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=46">Passworthilfe in Notfällen</a>, <a href="viewarticle.ws?article_id=20">Allgemeine Hinweise</a>, Passwortsicherheit</span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=135/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=135/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

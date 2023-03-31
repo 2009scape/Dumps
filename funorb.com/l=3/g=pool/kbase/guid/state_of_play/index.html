@@ -1,0 +1,343 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+pt" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+pt">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=pool/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=pool/favicon.ico">
+<title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Situação Atual - Diário de desenvolvimento">
+<style type="text/css">
+#ddHeader {
+ position: relative;
+ margin: 0;
+ height: 27px;
+ padding: 0 8px;
+ font-size: 13px;
+ font-weight: bold;
+ text-align: center;
+ line-height: 26px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/header.png);
+}
+.subheader {
+ margin: 1em 0 0.5em;
+ height: 20px;
+ padding: 0 8px;
+ font-size: 12px;
+ font-weight: bold;
+ line-height: 18px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/subheader.png);
+}
+.articleBody p {
+ padding-left: 2px;
+ padding-right: 2px;
+ text-align: justify;
+}
+.ddScreens {
+ width: 326px;
+ margin: 1em 0;
+ text-align: center;
+}
+.ddScreens img.first {
+ margin: 0 20px 0 0;
+}
+.ddScreens img {
+ display: block;
+ border: 3px #0a1c30 solid;
+}
+.ddCaption {
+ font-size:85%;
+ font-weight:bold;
+}
+
+.ddprev, .ddnext {
+ position: absolute;
+ left: 8px;
+ top: 6px;
+ width: 23px;
+ height: 14px;
+}
+.ddnext {
+ left: auto;
+ right: 8px;
+}
+a.ddprev {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev_hover.png);
+}
+a.ddnext {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_hover.png);
+}
+a.ddprev img,
+a.ddnext img {
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+a.ddprev:hover img, a.ddnext:hover img {
+ visibility: hidden;
+}
+</style>
+</head>
+<body id="navForums">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=3/g=pool/index.ws" ><b>
+<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
+<span id="teletext_inner">
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=pool/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=pool/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=3/g=pool/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=pool/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/options.ws" class="fly last">Opções Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=pool/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/members.ws" class="fly">Benefícios dos membros</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=3/g=pool/"><span>Comunidade</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=3/g=pool/" class="fly">Comunidade - Principal</a></li>
+<li><a href="
+http://services.funorb.com/m=forum_fo_pt/l=3/g=pool/forums.ws" class="fly">Fórum</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=3/g=pool/" class="fly">Conquistas</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=pool/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=3/g=pool/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=pool/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=pool/loginform.ws?mod=www&amp;ssl=0&amp;dest=kbase/guid/state_of_play" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=3/g=pool/index.ws">
+<span>
+<img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=pool/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=pool/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=pool/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=pool/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail"><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/dev_diary">Diários de desenvolvimento</a> &gt; Situação Atual</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+
+<div class="articleBody">
+<img src="http://www.funorb.com/l=3/img/images/game/productionprocess/dev_diary/banner2.jpg" style="display: block; margin: 0 auto 1em" alt="Situação Atual - Diário de desenvolvimento - Banner" />
+<h3 class="subheader">23 de outubro</h3>
+<p>Há tempos que o Diário de Desenvolvimento do FunOrb não é atualizado e eu sei que muitos de vocês estão perguntando sobre lançamentos e coisas do tipo. Então, aqui vai nossa mais profunda e honesta avaliação sobre em que ponto estamos com o FunOrb atualmente.</p>
+<p>Primeiramente, nós tivemos várias mudanças importantes na infraestrutura do nosso back-end durante esse ano. A primeira e mais evidente delas foi o projeto nomes de exibição, que permitiu aos jogadores escolher um nome diferente. Isso foi o equivalente ao trabalho de um jogo inteiro para nós, principalmente devido ao número de sistemas que tivemos que atualizar. O time de desenvolvimento tem trabalhado duro para completar as mudanças necessárias para cada um dos nossos jogos e módulos. Esse trabalho tem sido complexo e demorado, e tem enfatizado a necessidade de melhoria geral que jogos normalmente pedem (mais sobre isso adiante). </p>
+<div class="ddScreens" style="float: left; margin:  8px 8px 8px 0;">
+<img src="http://www.funorb.com/l=3/img/images/game/productionprocess/dev_diary/concept_3.gif" alt="Imagem do protótipo do projeto atual de Mod Cloud" />
+<div class="ddCaption" style="margin:auto;">Imagem do protótipo do projeto atual de Mod Cloud.<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/productionprocess/dev_diary/concept_3_full.jpg" target="_blank">aqui</a> para ver uma versão maior desta imagem.</div>
+</div>
+<p>A segunda mudança, atualmente invisível, é o lançamento da nossa biblioteca Graphics 2, que vai permitir que nossos jogos utilizem cartões de aceleração gráfica. Nós vamos poder oferecer múltiplas resoluções de tela (a que funcionar melhor em seu PC), renderização em alta velocidade 3D, textura, luminosidade, reflexo, além de outros efeitos tridimensionais. Basicamente, nós poderemos usar todas as melhores partes de RuneScape HD. Nenhum jogo atualmente está usando Graphics 2 ao vivo; estamos trabalhando para construir nossos novos jogos nesse banco de dados agora. O primeiro deles provavelmente será lançado no ano que vem (de novo, mais sobre isso adiante).</p> <p>Em terceiro lugar, nós avaliamos o que originalmente pretendíamos fazer com o <a href="funorb_central_03">FunOrb Central</a>, e comparamos com a direção estratégica que a Jagex quer seguir agora. Em algumas áreas nós expandimos o que o FunOrb Central iria apresentar e em outras, de certa forma, reduzimos. Uma área de expansão é o que nós chamamos do nosso "esqueleto do jogo". Esqueleto 1, a estrutura atual na qual construímos todos os nossos jogos, está ficando velha, e foi renovada objetivando acima de tudo jogos com níveis de dificuldade, para um jogador. Com o lançamento dos nossos jogos para multijogadores em tempo real e a crescente necessidade de melhorar o custo de manutenção do serviço, nós tomamos a decisão de construir o "Esqueleto 2". </p>
+<div class="ddScreens" style="float: right; margin:  8px 8px 8px 8px;">
+<img src="http://www.funorb.com/l=3/img/images/game/productionprocess/dev_diary/concept_4.gif" alt="Imagem do protótipo do último jogo de Mod Nirdgerl" />
+<div class="ddCaption" style="margin:auto;">Imagem protótipo do último jogo de Mod Nirdgerl.<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/productionprocess/dev_diary/concept_4_full.gif" target="_blank">aqui</a> para ver uma versão maior desta imagem.</div>
+</div> <p>Atualmente <b>Mod Zeph</b> e <b>Mod Artifice</b> estão designados tanto para o desenvolvimento quanto para a construção dos códigos de estrutura do nosso novo jogo. Uma vez finalizado, isso nos permitirá fazer jogos mais rapidamente, mas seu maior benefício será a melhoria da manutenção geral de todo o sistema. Isso também vai oferecer outros benefícios, como bate-papo global em jogos para um jogador (depois que eles forem convertidos).</p>
+<p>Aqui estão os outros projetos nos quais a equipe está trabalhando <b>(atenção, esses projetos não estão finalizados e são suscetíveis a modificações)</b>: <ul>
+<li><b>Mod Photon</b> está finalizando a versão revisada de Ofensiva Galática, o que tem sido basicamente uma total reconstrução da exibição do jogo e da Inteligência Artificial, além do acréscimo de uma série de regras e novos modos de execução. Isso tudo melhora muito o jogo e esperamos que as atualizações façam com que a diversão com esse título aumente bastante. </li><br>
+<li><b>Mod Sporx</b> está dando os retoques finais em Bachelor Fridge. O plano é deixar esse jogo pronto para vocês até o final de novembro.</li><br>
+<li><b>Mod Shade</b> está continuando sua missão de adicionar o modo de campanha em Hordas de Guilenor. Isso exigiu de nós o acréscimo de procedimentos complexos de Inteligência Artificial, um mapa de campanha, missões, Conquistas e condições de vitória melhoradas. A primeira campanha, "Zamorak", vai chegar para vocês antes do final do ano. As próximas duas campanhas deverão estar disponíveis antes do final de fevereiro do ano que vem.</li><br>
+<li><b>Mod Thor</b> está combatendo alienígenas inimigos em Invasão Alien. Isso significa uma total reconstrução gráfica e o acréscimo de uma nova campanha. Os novos gráficos estão excelentes e a campanha vai proporcionar horas de ataques mutiladores de monstro.</li><br>
+<li><b>Mod Vile</b> tem a gloriosa tarefa de tornar Dungeon Assault 2 realidade. É uma tarefa complicada, devido à natureza do que planejamos. Atualmente tem sido desenvolvido totalmente em 3D com a nova biblioteca Graphics 2.</li><br>
+<li><b>Mod Wivlaro</b> está se aventurando pelo processo de desenvolvimento de Pirate Empires. O prazo para esse imenso projeto tem sido afetado pela introdução das bibliotecas Graphics 2. Quando o jogo for lançado, esperamos que esteja simplesmente espetacular.</li><br>
+<li><b>Mod Dunk</b> está lutando com outro protótipo embrionário: um jogo de combate estelar para múltiplos jogadores, ainda em desenvolvimento.</li><br>
+<li><b>Mod Quark</b>, <b>Mod Iain</b>, <b>Mod Crispy</b>, <b>Mod Cloud</b> e <b>Mod Nirdgerl</b> estão todos trabalhando em protótipos ainda muito embrionários. Mais informações sobre esses projetos em futuros diários de desenvolvimento.</li><br>
+<li>E o que será que o <b>Mod Thomas</b> está fazendo? Ele está trabalhando como nosso Designer Principal, e ajudando com tudo de uma forma geral.</li>
+</ul>
+</p>
+<p>Nossa equipe de Gráficos está trabalhando duro para deixar o polimento do jogos o melhor possível, além de buscar entender as complexas capacidades do novo Graphics 2. <ul>
+<li><b>Mod PeteS</b> e <b>Mod Vega</b> estão trabalhando no conceito artístico e no conceito de modelos para o jogo que <b>Mod Dunk</b> está desenvolvendo.</li><br>
+<li><b>Mod Davroc</b> e <b>Mod JessH</b> estão fazendo alienígenas para Invasão Alien.</li><br>
+<li><b>Mod Smudgerinc</b> está trabalhando em algumas imagens corporativas que a empresa precisa (o pessoal aqui frequentemente usa gráficos 2D para o site, entre outros assuntos administrativos). Antes disso, ele estava trabalhando na interface de Ofensiva Galática.</li><br>
+<li><b>Mod LauraW</b> está trabalhando na finalização de Bachelor Fridge.</li>
+</ul>
+</p>
+<p>Nossa equipe de Controle de Qualidade <b>Mod Ken</b>, <b>Mod Thaddeus</b>, <b>Mod Star</b> e <b>Mod Socrates</b>, está trabalhando desesperadamente para caçar erros em nossos lançamentos e testar os jogos até a morte, para ter certeza de que eles estão equilibrados.</p>
+<p>Pronto, agora vocês têm uma ideia melhor do que a equipe está trabalhando no momento. Nós tentamos manter o sistema atualizado com novo material o máximo possível. Este ano tivemos ótimos jogos lançados até aqui e pretendemos lançar outros antes do fim do ano. Eu admito que não foram lançados tantos jogos quanto gostaríamos, mas muito do que estamos fazendo agora nos permitirá lançar jogos mais frequentemente no futuro. Nosso plano é lançar um jogo por mês a partir do começo do ano que vem, e se possível, também atualizar os títulos mais populares.</p>
+<p>Nós também achamos que nossos jogos são capazes de se sustentar por si como produtos comercialmente viáveis e independentes. No ano que vem vocês vão ver um esforço maior para popularizar os jogos individualmente, em vez de tentar trabalhar o FunOrb como um todo. Portanto, há uma discussão no que concerne ao modelo de Conquistas globais, Recordes e Qualificações do FunOrb, o quão bem têm funcionado, e como a Jagex pode ampliar esse modelo para alguns de seus outros serviços. Tempos interessantes na Jagex atualmente!</p>
+<p>Bom, o Dia das Bruxas, ou Halloween, está chegando, e pelo menos para mim isso marca o início de um período em que planejamos ter mais lançamentos do que andamos tendo recentemente. Não posso garantir nada, já que ainda queremos nos certificar de que vamos lançar de acordo com os mais altos padrões possíveis, mas espero que os produtos criativos do FunOrb fluam mais livremente a partir de agora.</p>
+<p>Obrigado, e continuem se divertindo.</p>
+<p><b><i>Mod Korpz<br>Chefe do FunOrb</i></b></p>
+<br class="clear" />
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+</p>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=pool/index.ws"><img alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=pool/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=pool/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=pool/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
+<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=pool/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=pool/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=3/g=pool/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+  
+  
+   document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  
+ </script>
+
+<script type="text/javascript">
+  try {
+  var pageTracker=_gat._getTracker("UA-2058817-3");
+  pageTracker._setDomainName(".funorb.com");
+  
+  
+  pageTracker._trackPageview();
+  }catch(x){}
+ </script>
+
+
+</body>
+</html>

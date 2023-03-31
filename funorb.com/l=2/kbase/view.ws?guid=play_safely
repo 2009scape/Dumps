@@ -1,0 +1,290 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+fr" xmlns:IE>
+<head>
+<title>FunOrb : jeux en ligne gratuits</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+fr">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=2/css/global-26.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Conseils pour jouer en se protégeant et en menant une vie équilibrée.">
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+
+<a id="logo" href="http://www.funorb.com/l=2/index.ws" ><b>
+<img src="http://www.funorb.com/l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+</b></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
+<span id="teletext_inner">
+Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=2/members.ws" class="fly">Avantages abonné</a></li>
+<li><a href="http://www.funorb.com/l=2/account_management.ws" class="fly last">Gestion du compte</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=2/" class="fly">Coin communauté</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Forums</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
+<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
+<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=play_safely" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<span>
+<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientèle</a> &gt; <a href="viewcategory.ws?cat_id=14">Protection et sécurité</a> &gt; Jouez de manière responsable et sécurisée</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Jouez de manière responsable et sécurisée</h1>
+<div class="articleBody">
+<div class="faqsList">
+<ol>
+<li><a href="#warning">Guide de santé et de sécurité</a>
+<li><a href="#safely">Jouez de manière sécurisée</a>
+<li><a href="#policy">Conduite de jeu responsable</a>
+</ol></div>
+<br><div class="hr"></div>
+<a name="warning"></a>
+<span class="title">1. Guide de santé et de sécurité</span>
+<br><br>
+<b> ATTENTION :</b> À LIRE AVANT DE JOUER <br><br>
+<b>Avertissement sur les épilepsies photosensibles</b>
+<br> Certaines personnes peuvent être sujettes à des épilepsies photosensibles lorsqu'elles sont exposées à certains modèles lumineux ou lumières clignotantes. L'exposition à ces modèles ou arrière-plans sur un écran d'ordinateur, notamment lors de parties de jeux vidéo, peut entraîner des épilepsies photosensibles. Certaines conditions peuvent provoquer des symptômes épileptiques n'ayant jamais été détectés auparavant, même chez les personnes n'ayant aucun antécédent.<br><br>Si vous ou l'un des membres de votre famille souffrez de troubles épileptiques, consultez votre médecin avant de jouer aux jeux FunOrb. Si un ou plusieurs des symptômes suivants se manifestent lors d'une partie de jeu vidéo, ARRÊTEZ IMMÉDIATEMENT DE JOUER et consultez un médecin : vertiges, contractions oculaires ou musculaires, troubles de la vision, perte de conscience, trouble de l'orientation, mouvements involontaires ou convulsions. Ne rejouez que lorsque votre médecin vous y autorise. <br><br><h4 style="display: inline;">Avertissement sur les microtraumatismes répétés</h4><br>L'utilisation prolongée d'un ordinateur, une mauvaise posture ou un manque d'exercice peuvent causer des microtraumatismes répétés.<br><br>Pour éviter les microtraumatismes répétés, suivez les recommandations suivantes :<br><br>Lorsque vous jouez aux jeux FunOrb, prenez une pause de 10 mn toutes les heures. Levez-vous et marchez un peu, faites des étirements. Faites régulièrement de l'exercice. Lorsque vous utilisez un ordinateur, ne serrez pas la souris trop fort. Ne posez jamais vos poignets sur un support tout en tapant ou en utilisant la souris. Lorsque vous utilisez uniquement la souris pendant de longues périodes, placez-la directement devant vous, entre vous et le moniteur. Assurez-vous que la partie supérieure du moniteur se trouve au niveau de vos yeux directement en face de vous, et que le siège est à la bonne hauteur pour permettre à vos avant-bras de former un angle correct par rapport à la partie supérieure de vos bras.<br><br>L'image ci-dessous illustre la position idéale :<br><br><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/safetyguidelines/safekeyboard.jpg" alt="Posture correcte" title="Posture correcte"><br><br>Si vous ressentez des douleurs ou une gêne dans les bras, le cou, les épaules ou le dos tout en jouant aux jeux FunOrb, arrêtez immédiatement de jouer et consultez un médecin. Ne recommencez à jouer que lorsque votre médecin vous y autorise. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="safely"></a>
+<b><span class="title">2. Jouez de manière sécurisée</span></b>
+<br>
+<br> FunOrb est un portail de jeux multijoueur dans lequel vous allez rencontrez de nombreuses personnes. N'oubliez pas que vous ne les connaissez pas dans la vraie vie. Tout le monde n'agit pas de la même manière dans FunOrb et dans la vie, c'est pourquoi il est important de garder une distance vis-à-vis des amis rencontrés lors d'une partie de RuneScape.<br><br> C'est dans ce but que nous vous proposons des astuces utiles, pour que vous puissiez vous amusez en toute sécurité aux jeux FunOrb.<br><br> 1. <b>NE COMMUNIQUEZ PAS</b> vos informations personnelles aux autres joueurs. Même s'ils prétendent faire partie du personnel de Jagex !<br><br>Ne communiquez à <b>PERSONNE</b> votre vrai nom, votre adresse électronique, votre adresse postale, votre identifiant de messagerie instantanée ou votre numéro de téléphone. Utilisez votre liste d'amis pour discuter et interagir avec les autres joueurs en toute sécurité dans les jeux multijoueur.<br><br> 2. Si une personne ne vous met pas à l'aise, vous ne devriez pas tenter de poursuivre la conversation.<br><br>Veuillez consulter notre guide <a href="viewarticle.ws?article_id=57">Signalement d'un abus</a> pour apprendre comment ignorer ces joueurs et les signaler s'ils vous insultent directement.<br><br> 3. Les discussions à caractère sexuel sont strictement interdites dans tous les jeux FunOrb. Si une personne essaie de vous faire participer à ce genre de discussion, veuillez suivre les instructions de notre guide <a href="viewarticle.ws?article_id=57">Signalement d'un abus</a> et nous signaler ce joueur.<br><br> 4. Les jeux FunOrb sont des jeux <b>EN LIGNE</b>. Il n'est pas nécessaire de rencontrer les autres joueurs FunOrb en dehors du cadre du jeu. N'oubliez pas, vous n'avez aucun moyen de vérifier que les autres joueurs sont véritablement ce qu'ils prétendent être. De plus, pour la sécurité de nos joueurs, nous vous rappelons qu'il est interdit de demander ou de communiquer des informations personnelles. Pour en savoir plus sur cette politique, veuillez lire la règle sur <a href="viewarticle.ws?article_id=72">l'extorsion d'informations personnelles du Pilier : Sécurité</a>.<br><br>Si vous décidez de ne pas respecter cette politique et prévoyez de rencontrer un joueur FunOrb hors du cadre du jeu, veuillez en informer une personne de confiance et demandez-leur de vous accompagner. <b>NE VOUS Y RENDEZ PAS</b> seul(e).<br><br> 5. Nous conseillons à nos jeunes joueurs de tenir leur parents ou responsable légal informés du déroulement de la partie. Il est utile de leur montrer les jeux et de les inviter à vérifier régulièrement que tout se passe bien.<br><br> 6. En cas d'incident grave lié à la protection des mineurs, veuillez signaler l'incident aux autorités suivantes :<br><br>
+<table align="center">
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>États-Unis</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.cybertipline.com" target="_blank">The Cyber Tipline</a></td>
+</tr>
+<tr class="row_b">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Europe</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.ceop.gov.uk" target="_blank">Child Exploitation and Online Protection Centre (CEOP)</a></td>
+</tr>
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Australie</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.virtualglobaltaskforce.com" target="_blank">Virtual Global Taskforce</a></td>
+</tr>
+<tr class="row_b">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Canada</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.cybertip.ca" target="_blank">Cybertip</a></td>
+</tr>
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>International</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.childnet-int.org" target="_blank">Childnet International</a></td>
+</tr>
+</table> Pour les cas graves survenus au Royaume-Uni, contactez votre commissariat de police le plus proche. Vous trouverez davantage d'informations sur le site : <a href="http://www.police.uk" target="_blank">http://www.police.uk</a>. Vous pouvez également contacter les services sociaux (leur numéro est indiqué dans l'annuaire).<br><br>Si vous résidez en dehors du Royaume-Uni ou des États-Unis, nous vous suggérons de contacter votre organisme local chargé de l’application de la loi.<br><br>Pour plus d'informations et de conseils sur la manière de discuter en ligne en toute sécurité, veuillez visiter les sites suivants :<br><br>
+<table align="center">
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Jugendschutz im Internet</b> (allemand)</td>
+<td style="width: 300px; border-style: none;"><a href="http://www.jugendschutz.net/" target="_blank">http://www.jugendschutz. net/</a></td>
+</tr>
+<tr class="row_b">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Virtual Global Taskforce</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.virtualglobaltaskforce.com/index.asp" target="_blank">http://www.virtualglobaltaskforce.com</a></td>
+</tr>
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Chat Danger</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.chatdanger.com" target="_blank">http://www.chatdanger.com</a></td>
+</tr>
+<tr class="row_b">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Get Net Wise</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.getnetwise.org" target="_blank">http://www.getnetwise.org</a></td>
+</tr>
+<tr class="row_a">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Think You Know</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.thinkyouknow.co.uk" target="_blank">http://www.thinkyouknow.co.uk</a></td>
+</tr>
+<tr class="row_b">
+<td style="height: 50px; width: 150px; border-style: none;"><b>Childnet International</b></td>
+<td style="width: 300px; border-style: none;"><a href="http://www.childnet-int.org" target="_blank">http://www.childnet-int.org</a></td>
+</tr>
+</table> 8. Si vous représentez un organisme chargé de l’application de la loi souhaitant demander une coopération ou obtenir des informations, veuillez visiter le site de notre entreprise <a href="http://www.jagex.com/corporate" target="_blank">en cliquant ici</a>.<br><br>9. Si vous êtes un parent et que vous souhaitez obtenir davantage d'informations sur FunOrb, vous pouvez consulter notre guide parental <a href="http://www.funorb.com/l=2/parents.ws">en cliquant ici</a>. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="policy"></a>
+<b><span class="title">3. Conduite de jeu responsable</span></b>
+<br>
+<br> Jagex souhaite que tous les joueurs utilisent et s'amusent sur FunOrb de manière responsable.<br><br>Les jeux FunOrb sont des produits de loisir interactif mis en œuvre dans le but d'offrir à nos utilisateurs une expérience divertissante, captivante et stimulante en se connectant en ligne depuis leur domicile, leur bureau ou leur école.<br><br>Bien que nous n'empêchions pas les utilisateurs de rester connectés sur FunOrb au-delà d'un certain nombre d'heures, nous ne les encourageons pas à jouer trop longtemps.<br><br>Veuillez suivre ces consignes de base pour mener une vie équilibrée et profiter au maximum de nos jeux.<br><ul style="margin-top: 0px; margin-bottom: 0px; list-style-type: decimal; "><br><li>Prenez une pause de temps en temps : lisez un livre ou allez vous promener, par exemple.<br><li>Pratiquez une activité sportive au moins une fois par semaine.<br><li>N'oubliez pas qu'il s'agit juste d'un jeu.<br><li>Ne mangez pas devant votre ordinateur. Ne vous inquiétez pas, il sera toujours là lorsque vous reviendrez de table.<br><li>Ne négligez pas vos amis dans la vraie vie, et essayez de les voir de manière régulière.<br><li><i>Temps consacré</i> au travail et aux études : ne laissez pas un jeu vous empêcher de faire correctement votre travail ou vos devoirs. <br></ul><br><br>Si vous avez l'impression de ne plus pouvoir contrôler votre utilisation de FunOrb et que vous avez du mal à suivre les conseils précédents, demandez de l'aide auprès d'une personne de confiance ou d'un professionnel de la santé.<br style="clear: both;">
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=14">Protection et sécurité</a> : </b>
+<span class="articleMore">
+Jouez de manière responsable et sécurisée, <a href="viewarticle.ws?article_id=30">Guide de prévention des escroqueries</a>, <a href="viewarticle.ws?article_id=42">Informations sur la sécurité</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

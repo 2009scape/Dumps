@@ -1,0 +1,248 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+en" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
+<meta name="description" content="FunOrb, free online browser-based games from Jagex Games Studio, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="title" content="FunOrb - Free Online Games by Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/a=251/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/a=251/favicon.ico">
+<title>FunOrb - Free Online Games by Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/a=251/css/global-34.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/a=251/css/ieFix-2.css);</style>
+<![endif]-->
+<style type="text/css">
+
+ 
+  
+ 
+
+</style>
+
+
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div class="bodyBackground">
+<div class="bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/a=251/index.ws" ><b>
+<img src="http://www.funorb.com/img/images/layout/logo_funOrb_fridge.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Welcome to FunOrb - The Best in Free Online Games</h1>
+<span id="teletext_inner">
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/a=251/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/a=251/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/a=251/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=251/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=251/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/a=251/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/a=251/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/a=251/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://secure.funorb.com/m=create/a=251/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="https://secure.funorb.com/m=create/a=251/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/a=251/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/a=251/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="http://www.funorb.com/a=251/account_management.ws" class="fly last">Account Management</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/a=251/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/a=251/" class="fly">Community Home</a></li>
+<li><a href="
+http://services.funorb.com/m=forum_fo/a=251/forums.ws" class="fly">Forums</a></li>
+<li><a href="http://www.funorb.com/a=251/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="http://services.funorb.com/m=achievements/a=251/" class="fly">Achievements</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/a=251/" class="fly">Highscores &amp; Ratings</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/a=251/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=251/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=251/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/a=251/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/a=251/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/a=251/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/a=251/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="http://www.funorb.com/a=251/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://secure.funorb.com/m=create/a=251/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/a=251/loginform.ws?mod=www&amp;ssl=0&amp;dest=email_registration.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/a=251/index.ws">
+<span>
+<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/a=251/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/a=251/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/a=251/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/a=251/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<style type="text/css">
+
+.registration p {
+ padding-left: 70px;
+}
+
+</style>
+<br class="clear" />
+</div>
+<div id="page_content">
+
+<a name="options"></a>
+<div class="section" id="options" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+Email Help
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div style="padding:5px;background:black;margin-left:4px;margin-right:4px;">
+<div style="padding:5px;background:#0B2540;">
+<p>You are able to register an email address when you create your Jagex account, and this page contains information that should help you with registering the email address attached to your account and changing its details:</p>
+<div class="registration">
+<h4>Email Registration</h4>
+<div style="float:left; width:62px; margin:5px;">
+<img src="http://www.funorb.com/img/images/account_management/icon_register2.gif" alt="Email registration icon">
+</div>
+<p>By providing us with an email address that is linked to your Jagex account, we will be able to contact you occasionally regarding future updates, and ensure that we are giving you the best possible customer service. To register your account for email updates, <a href="http://www.funorb.com/a=251/redirect.ws?mod=email-register&dest=set_address.ws">click here</a>.</p>
+<p>If you would like to amend or remove the email address that you have registered, you can do so by <a href="http://www.funorb.com/a=251/redirect.ws?mod=email-register&dest=set_address.ws">clicking here</a>. Once you have submitted a new email address, a confirmation code will be sent to the old email address, so that we can ensure that the request is coming from you. In addition, you will need to submit a verification code that will be sent to your new email address.</p>
+<div class="hr"></div>
+<h4>Email Settings</h4>
+<div style="float:left; width:62px; margin:5px;">
+<img src="http://www.funorb.com/img/images/account_management/icon_settings2.gif" alt="The Email settings icon">
+</div>
+<p>You can visit the <a href="http://www.funorb.com/a=251/redirect.ws?mod=email-register&dest=change_settings.ws">'Email Settings'</a> page to change your email preferences, such as opting out of a particular service or update. Any changes will need to be confirmed by submitting a confirmation code.</p>
+<br><br>
+<div class="hr"></div>
+<h4>Enter Code</h4>
+<div style="float:left; width:62px; margin:5px;">
+<img src="http://www.funorb.com/img/images/account_management/icon_confirmation2.gif" alt="Enter code icon">
+</div>
+<p>When you register your email address, or change your email preferences, you will be sent a code to enter into our website. You can get to the 'Enter Code' page by clicking on the link in your email, or by visiting <a href="http://www.funorb.com/a=251/redirect.ws?mod=email-register&dest=enter_code.ws">this page</a>. You will only need to submit each code once.</p>
+<br><br>
+</div>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="copyRight">
+<div id="languagefooter">
+Select your language:&nbsp;
+<a href="http://www.funorb.com/a=251/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/a=251/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/a=251/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/a=251/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p>
+Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/a=251/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=251/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsString="%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E";
+if("https:"==document.location.protocol) { gaJsString="%3Cscript src='https://ssl.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"; }
+document.write(unescape(gaJsString));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

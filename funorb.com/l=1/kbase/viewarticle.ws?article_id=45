@@ -1,0 +1,382 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+de" xmlns:IE>
+<head>
+<title>Willkommen bei FunOrb - Kostenlose Online-Spiele</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/css/global-14.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=1/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Allgemeine Fragen zu FunOrb.">
+<title>Allgemeine/Beliebte Fragen</title>
+<style type="text/css">
+  .members { width: 90%; margin: auto; }
+  td,th { height: 23px; vertical-align: middle; font-size: 11px; }
+  th { text-align: center; }
+  .row_a { font-weight: bold; }
+  th,.row_b { text-align: center; }
+  td.row_a { padding-left: 8px; }
+ </style>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/l=1/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<span id="teletext_inner">
+Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=1/"><span>Anmelden</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=1/" class="fly">Kontoerstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=1/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=1/" class="fly">Community-Startseite</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/forums.ws" class="fly">Alle Foren</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://achievements.funorb.com/l=1/" class="fly">Erfolge</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=1/" class="fly">Highscores &amp; Wertungen</a></li>
+<li><a href="http://orbcoins.funorb.com/l=1/" class="fly last">Orb-Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
+<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="http://www.funorb.com/l=1/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=1/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=1/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=45" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=1/index.ws">
+<span>
+<img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<div id="dropArrow"></div>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; Allgemeine/Beliebte Fragen</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Allgemeine/Beliebte Fragen</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#funorb">Was ist FunOrb?</a>
+<li><a href="#free">Ist FunOrb kostenlos?</a>
+<li><a href="#need">Muss ich mich anmelden?</a>
+<li><a href="#members">Welche Vorteile erhalten Mitglieder?</a>
+<li><a href="#updated">Wie oft wird FunOrb aktualisiert?</a>
+<li><a href="#multiplayer">Kann ich die Mehrspieler-Spiele nutzen?</a>
+<li><a href="#runescape">Ich besitze ein RuneScape-Konto. Kann ich das auf FunOrb benutzen?</a>
+<li><a href="#member">Ich besitze eine RuneScape-Mitgliedschaft. Habe ich somit auch eine Mitgliedschaft bei FunOrb?</a>
+<li><a href="#cost">Wie viel kostet eine Mitgliedschaft?</a>
+<li><a href="#achievements">Was sind Erfolge?</a>
+<li><a href="#points">Was sind Orb-Punkte?</a>
+<li><a href="#orbcoins">Was sind Credits?</a>
+<li><a href="#specs">Haben die Spiele Mindestvoraussetzungen?</a>
+<li><a href="#parent">Ich bin ein interessiertes Elternteil. Was soll ich tun?</a>
+</ol></div>
+<br>
+<a name="funorb"></a>
+<span class="title">1. Was ist FunOrb?</span><br><br> FunOrb bietet eine Sammlung von auf Java basierenden Browserspielen, die ihr auf eurem PC spielen könnt. Man kann diese Spiele für kurze oder längere Zeit genießen und sie decken einen Großteil der üblichen Computerspiel-Genres ab. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="free"></a>
+<span class="title">2. Ist FunOrb kostenlos?</span><br><br> Man kann unsere Spiele auf drei Arten spielen. Als unregistrierter Spieler, als registrierter Spieler und als Mitglied. Unregistrierte Spieler dürfen einen Großteil der verfügbaren Spiele spielen. Jedes Spiel steht aber auch in einer Mitglieder-Version zur Verfügung, dessen Inhalte die Spieldauer mindestens verdoppeln. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="need"></a>
+<span class="title">3. Muss ich mich anmelden?</span><br><br> Nein. Allerdings können angemeldete Spieler ihre Highscores, Erfolge und Fortschritte in bestimmten Spielen speichern. Registrierte Spieler können auch Zugang zu Orb-Punkten und Credits sowie zu einigen Mulitispieler-Spielen erhalten. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="members"></a>
+<span class="title">4. Welche Vorteile erhalten Mitglieder?</span><br><br> Mitglieder erhalten Zugriff auf alle unsere Dienste, einschließlich sämtlicher FunOrb-Spiele, dem Forum und der Mehrspieler-Spiele. Mehrspieler-Spiele sind die einzigen Bereiche von FunOrb, in denen ihr mit euren Freunden und anderen Spielern chatten könnt. <br><br>
+<table class="members" align="center">
+<thead>
+<th style="width: 40%;"></td>
+<th style="width: 20%;" class="row_a">Nicht registriert</td>
+<th style="width: 20%;" class="row_a">Registriert</td>
+<th style="width: 20%;" class="row_a">Mitglieder</td>
+</thead>
+<tbody>
+<tr>
+<td class="row_a">Einfache Spiele spielen</td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Ein paar Mehrspieler-Spiele spielen</td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Highscores und Erfolge speichern</td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Haufenweise zusätzliche Spielinhalte</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Spezielle Mitglieder-Erfolge</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Alle Mehrspieler-Spiele spielen</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Keine Werbung in den Spielen</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Vollbild-Modus*</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+<tr>
+<td class="row_a">Voller Zugang zum Forum</td>
+<td class="row_b"></td>
+<td class="row_b"></td>
+<td class="row_b"><img src="http://www.funorb.com/l=1/img/images/kbase/orb.gif" alt="Orb"/></td>
+</tr>
+</tbody>
+</table>
+<div style="margin-top: 5px; font-size: 75%; text-align: center;">* Falls Mindestanforderungen zutreffen. (<a href="http://www.funorb.com/l=1/kbase/view.ws?guid=other#resize">Details</a>)</div>
+<br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="updated"></a>
+<span class="title">5. Wie oft wird FunOrb aktualisiert?</span><br><br> Updates sind alle 2 Wochen geplant. Normalerweise gibt es dann ein neues Spiel oder eine Aktualisierung von Features der Website. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="multiplayer"></a>
+<span class="title">6. Kann ich die Mehrspieler-Spiele nutzen?</span><br><br> Um die meisten Mehrspieler-Spiele zu spielen, müsst ihr euch entweder anmelden oder eine Mitgliedschaft einrichten. Einige Mehrspieler-Spiele sind nur Mitgliedern zugänglich. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="runescape"></a>
+<span class="title">7. Ich besitze ein RuneScape-Konto. Kann ich das auf FunOrb benutzen?</span><br><br> Da die Spielkonten von RuneScape und FunOrb miteinander verknüpft sind, könnt ihr euer RuneScape-Konto und -Passwort auch benutzen, um euch bei FunOrb anzumelden. Ihr müsst allerdings für beide Angebote eine separate Mitgliedschaft einrichten, um die Inhalte für Mitglieder zu nutzen. Wenn ihr sowohl bei RuneScape als auch bei FunOrb Mitglied seid, erhaltet ihr im Vergleich zu den separaten Preisen eine Ermässigung. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="member"></a>
+<span class="title">8. Ich besitze eine RuneScape-Mitgliedschaft. Habe ich somit auch eine Mitgliedschaft bei FunOrb?</span><br><br> Nein. Als RuneScape-Mitglied könnt ihr euch lediglich mit eurem Spielkonto und Passwort auf der FunOrb-Website anmelden. Um ein FunOrb-Mitglied zu werden, müsst ihr allerdings eine weitere Mitgliedschaft einrichten - RuneScape-Mitglieder bekommen hier allerdings vergünstigte Preise. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="cost"></a>
+<span class="title">9. Wie viel kostet eine Mitgliedschaft?</span><br><br> Das hängt von eurem Heimatland, eurer Zahlungsmethode und dem Mitgliedschaftspaket ab, das ihr auswählt. Eine Zahlung aus England mit einer Kreditkarte kostet monatlich 2 englische Pfund, in den USA 3 Dollar und in Europa 2,50 Euro. Es gibt spezielle Angebote für eine kombinierte Mitgliedschaft bei RuneScape und FunOrb. Um Mitglied zu werden, müsst ihr ein <a href="https://create.funorb.com/l=1/">kostenloses Konto</a> erstellen und dann <a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=paymentoptions.ws">hier</a> klicken. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="achievements"></a>
+<span class="title">10. Was sind Erfolge?</span><br><br> Bei jedem Spiel kann man (normalerweise) zwischen 10 und 15 Erfolge freischalten. Das geschieht, wenn man bemerkenswerte Ziele im jeweiligen Spiel erreicht hat. Die Erfolge werden in den Spielen angezeigt und verleihen euch Orb-Punkte und Credits. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="points"></a>
+<span class="title">11. Was sind Orb-Punkte?</span><br><br> Wir werden im weiteren Verlauf der FunOrb-Entwicklung eine Tabelle auf unserer Website freischalten. Diese zeigt eure gesammelten Orb-Punkte für alle unsere Spiele an. Ihr könnt diese sogar mit euren Freunden vergleichen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="orbcoins"></a>
+<span class="title">12. Was sind Credits?</span><br><br> Mit Credits könnt ihr euch in Zukunft zusätzliche Inhalte in unseren Spielen und auf unserer Website freischalten. Sammelt also fleißig! <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="specs"></a>
+<span class="title">13. Haben die Spiele Mindestvoraussetzungen?</span><br><br> Jedes Spiel stellt bestimmte Mindestvoraussetzungen an euren Computer. Genaue Informationen erhaltet ihr auf der Seite "Weitere Infos" zum Spiel. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="parent"></a>
+<span class="title">14. Ich bin ein interessiertes Elternteil. Was soll ich tun?</span><br><br> Um mehr Informationen über FunOrb, Jagex, Kontosicherheit, Internetsicherheit, Spielerschutz und mehr zu erhalten, solltest du dir den <a href="http://www.funorb.com/l=1/parents.ws">Ratgeber für Eltern</a> durchlesen. <br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Weitere Artikel in <a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=9">Kontosperrungen</a>, <a href="viewarticle.ws?article_id=41">Fehlerhinweise</a>, <a href="viewarticle.ws?article_id=10">Jagex</a>, Allgemeine/Beliebte Fragen, <a href="viewarticle.ws?article_id=64">Chatfenster, Freunde-Liste und Mehrspieler-Lobby</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

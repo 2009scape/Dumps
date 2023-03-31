@@ -1,0 +1,339 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+pt" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+pt">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=sumoblitz/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=sumoblitz/favicon.ico">
+<title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Olimpíadas do FunOrb - Diário de desenvolvimento">
+<style type="text/css">
+#ddHeader {
+ position: relative;
+ margin: 0;
+ height: 27px;
+ padding: 0 8px;
+ font-size: 13px;
+ font-weight: bold;
+ text-align: center;
+ line-height: 26px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/header.png);
+}
+.subheader {
+ margin: 1em 0 0.5em;
+ height: 20px;
+ padding: 0 8px;
+ font-size: 12px;
+ font-weight: bold;
+ line-height: 18px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/subheader.png);
+}
+.articleBody p {
+ padding-left: 2px;
+ padding-right: 2px;
+ text-align: justify;
+}
+.ddScreens {
+ width: 326px;
+ margin: 1em 0;
+ text-align: center;
+}
+.ddScreens img.first {
+ margin: 0 20px 0 0;
+}
+.ddScreens img {
+ display: block;
+ border: 3px #0a1c30 solid;
+}
+.ddCaption {
+ font-size:85%;
+ font-weight:bold;
+}
+
+.ddprev, .ddnext {
+ position: absolute;
+ left: 8px;
+ top: 6px;
+ width: 23px;
+ height: 14px;
+}
+.ddnext {
+ left: auto;
+ right: 8px;
+}
+a.ddprev {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev_hover.png);
+}
+a.ddnext {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_hover.png);
+}
+a.ddprev img,
+a.ddnext img {
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+a.ddprev:hover img, a.ddnext:hover img {
+ visibility: hidden;
+}
+</style>
+</head>
+<body id="navForums">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=3/g=sumoblitz/index.ws" ><b>
+<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
+<span id="teletext_inner">
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=sumoblitz/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=sumoblitz/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=3/g=sumoblitz/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=sumoblitz/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/options.ws" class="fly last">Opções Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=sumoblitz/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/members.ws" class="fly">Benefícios dos membros</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=3/g=sumoblitz/"><span>Comunidade</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=3/g=sumoblitz/" class="fly">Comunidade - Principal</a></li>
+<li><a href="
+http://services.funorb.com/m=forum_fo_pt/l=3/g=sumoblitz/forums.ws" class="fly">Fórum</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=3/g=sumoblitz/" class="fly">Conquistas</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=sumoblitz/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=3/g=sumoblitz/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=sumoblitz/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
+<li><a href="http://www.funorb.com/l=3/g=sumoblitz/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=sumoblitz/loginform.ws?mod=www&amp;ssl=0&amp;dest=kbase/guid/funorb_olympics_01" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=3/g=sumoblitz/index.ws">
+<span>
+<img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=sumoblitz/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=sumoblitz/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=sumoblitz/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=sumoblitz/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail"><a href="http://www.funorb.com/l=3/g=sumoblitz/kbase/guid/dev_diary">Diários de desenvolvimento</a> &gt; Olimpíadas do FunOrb - Bastidores</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+
+<div class="articleBody">
+<h2 id="ddHeader">
+Olimpíadas do FunOrb - Bastidores
+</h2>
+<img src="http://www.funorb.com/l=3/img/images/game/olympics/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="Olimpíadas do FunOrb - Diário de desenvolvimento - Banner" />
+<h3 class="subheader">11 de setembro de 2009 - Bastidores</h3>
+<p>Agora que os resultados das Olimpíadas do FunOrb saíram e nós começamos a distribuir os prêmios, estamos nos sentindo um tanto estranhos por não estarmos mais trabalhando neste projeto. Ele tomou uma parte enorme do nosso expediente nos últimos meses (muito mais do que as 6 semanas do evento). Como agora ele chegou ao fim, eu gostaria de compartilhar com vocês algumas informações sobre os bastidores das Olimpíadas.</p>
+<img style="margin: 5px 15px 5px 5px; float: left;" src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/podium.gif" width="128" height="117" alt="Bricabraque" title="Bricabraque">
+<p>A ideia inicial é o primeiro estágio de qualquer projeto. Nós queríamos criar um evento que chamasse a atenção da comunidade e fizesse as pessoas se interessarem pelos jogos. Fizemos uma reunião com o time de Gestão da Comunidade do FunOrb para que todos trabalhassem em sintonia. Nossas ideias iniciais iam de básicas (como uma grande versão do Jogo da Semana, por exemplo) à totalmente bizarras (como algo a ver com pombos e lava carros). Por fim, decidimos criar um evento grandioso que envolvesse o maior número possível de pessoas. Assim nasceu a ideia que deu origem às Olimpíadas do FunOrb. Esse grande evento com duração de 6 semanas incluía 2 jogos para multijogadores e uma competição para jogos de um jogador. </p>
+<p>O evento Individual pode até ter sido o mais fácil de organizar, mas sua contagem de pontos foi com certeza a mais complicada de fazer. Não sabíamos se devíamos simplesmente distribuir medalhas (ouro para o primeiro colocado, prata para o segundo etc.) ou usar um método diferente. O caráter competitivo dos recordes de um jogador faz com que alcançar as 3 primeiras colocações seja um grande desafio. Nós queríamos recompensar os 3 primeiros colocados, mas reconhecemos que já é muito difícil estar entre os 20 primeiros. Decidimos então dar a cada um dos 20 primeiros colocados um valor de pontos específico, pois assim o vencedor da competição seria o jogador com maior número de pontos. </p> <p>Para encontrar uma solução, discutimos muito qual seria o verdadeiro valor de pontos. Nós concordamos que é difícil chegar ao pódio, mas também achávamos que não era justo que alguém faturasse a medalha de ouro do evento alcançando a 1ª colocação em só um jogo. Decidimos então que o valor dos pontos seria o seguinte: primeiro lugar = 50 pontos; 2º lugar = 35; terceiro lugar = 25; 4º lugar = 20; 5º lugar = 17; 6º lugar = 15 e que depois disso cada lugar teria 1 ponto reduzido até chegar a zero. Dessa forma, a pontuação geral do jogador aumentaria caso ele estivesse entre os 20 primeiros colocados, mas alcançando as três primeiras colocações o jogador ganharia vantagem. </p> <p>Com esse sistema de pontuação em mente, decidimos que o evento Individual deveria girar em torno de 10 jogos: <ul>
+<li>Bricabraque</li>
+<li>Bouncedown</li>
+<li>Deko Bloko</li>
+<li>Lexicominos</li>
+<li>Mina em perigo</li>
+<li>Monkey Puzzle 2</li>
+<li>Defesa Orb</li>
+<li>Bilhar</li>
+<li>Vertigo 2</li>
+<li>Exército dos Zumbis</li>
+</ul>
+</p>
+<p>Cada um destes jogos permitia que jogadores de acesso gratuito participassem sem ficar em desvantagem em relação aos membros, permitindo assim que a competição fosse justa e aberta ao maior número possível de pessoas. Nas 6 semanas seguintes, nos concentramos em 2 jogos por semana, deixando uma semana livre na reta final da competição para que pudéssemos fazer a contagem de pontos e examinar as contas minuciosamente. </p>
+<img style="margin: 5px 5px 5px 15px; float: right;" src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/cup.gif" width="99" height="115" alt="Pé na Tábua!" title="Pé na Tábua!">
+<p>Na maior parte do tempo, esse processo era simples. Os jogadores acumulavam uma incrível pontuação e nós dávamos a eles os pontos merecidos. Os resultados eram atualizados toda manhã de segunda-feira. Essa não é uma tarefa fácil quando se tem 131 nomes para adicionar a uma tabela de mais de 3 páginas de código HTML - não formatado, é claro (uma singularidade de nossos fóruns).</p>
+<p>Nós observávamos a liga todas as semanas e notávamos vários nomes lutando para obter o domínio. Houve momentos em que nós, os organizadores, roíamos as unhas e até apostávamos em quem achávamos que venceria. Conforme a competição foi avançando, três nomes começaram a se destacar claramente como vencedores absolutos da competição e nos perguntamos se alguém conseguiria superá-los. </p>
+<p>Quando o último jogo terminou, obtivemos a pontuação final. Ficou claro então que os três primeiros colocados (e vencedores do grande prêmio) eram: <ol>
+<li>Mr Jovial com invejáveis 233 pontos. (3 medalhas de ouro, 1 de prata e 1 de bronze)</li>
+<li>Dmw Da Zohan com incríveis 212 points (1 medalha de ouro, 3 de prata e 1 de bronze)</li>
+<li>Sniper Test com 169 pontos (1 medalha de ouro e 1 de bronze)</li>
+</ol>
+</p>
+<p>Vocês são jogadores fantásticos!</li>
+<p>Da próxima vez, falaremos sobre os detalhes dos eventos para Multijogadores.</li>
+<p><b><i>Mod Raven<br>Gestão da Comunidade do FunOrb</i></b></p>
+<br class="clear" />
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+</p>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=sumoblitz/index.ws"><img alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=sumoblitz/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=sumoblitz/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=sumoblitz/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
+<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=sumoblitz/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=sumoblitz/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=3/g=sumoblitz/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+  
+  
+   document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  
+ </script>
+
+<script type="text/javascript">
+  try {
+  var pageTracker=_gat._getTracker("UA-2058817-3");
+  pageTracker._setDomainName(".funorb.com");
+  
+  
+  pageTracker._trackPageview();
+  }catch(x){}
+ </script>
+
+
+</body>
+</html>

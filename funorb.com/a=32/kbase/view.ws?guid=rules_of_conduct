@@ -1,0 +1,414 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
+<meta name="description" content="FunOrb, free online browser-based games from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/a=32/css/global-24.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/a=32/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Information about our rules and why we have them.">
+</head>
+<body id="navnavHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="affiliate">
+
+<a id="logo" href="http://www.funorb.com/a=32/index.ws" ><b>
+<img src="http://www.funorb.com/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+</b></a>
+<a href="http://www.wildgames.com" target="_blank">
+<img id="afflogo" src="http://www.funorb.com/img/affil/partners/hp.gif" alt="HP Desktop" />
+</a>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/a=32/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=32/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=32/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/a=32/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/a=32/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/a=32/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/a=32/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="https://create.funorb.com/a=32/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/a=32/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/a=32/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="http://www.funorb.com/a=32/account_management.ws" class="fly last">Account Management</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/a=32/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/a=32/" class="fly">Community Home</a></li>
+<li><a href="
+http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
+<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="http://achievements.funorb.com/a=32/" class="fly">Achievements</a></li>
+<li><a href="http://hiscore-fo.funorb.com/a=32/" class="fly">Highscores &amp; Ratings</a></li>
+<li><a href="http://orbcoins.funorb.com/a=32/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=32/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/a=32/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/a=32/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/a=32/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/a=32/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/a=32/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rules_of_conduct" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/a=32/index.ws">
+<span>
+<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/a=32/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/a=32/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/a=32/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail">Rules of FunOrb</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Rules of FunOrb</h1>
+<div class="articleBody">
+<div class="faqsList">
+<ol>
+<li><a href="#intro">Introduction</a>
+<li><a href="#honour">Honour</a>
+<li><a href="#respect">Respect</a>
+<li><a href="#security">Security</a>
+<li><a href="#faq">FAQ</a>
+</ol></div>
+<br>
+<a name="intro"></a>
+<span class="title">1. Introduction</span><br><br>
+<p>FunOrb games are played by millions of people from a great many different countries and a wide range of cultural backgrounds. The FunOrb player community is much like the larger, real-world community: while most people within it are honest, courteous and respectful of others, there are a small number of individuals whose behaviour has the potential to alienate or offend. It is for this reason that we have an Offence System, which has been designed to help protect our players from this disruptive minority.</p>
+<p>If, in the course of play, you come into contact with another player whose behaviour you consider offensive or aggressive, there are a number of options available to you. The first is to add the player to your Ignore List, or adjust your chat settings, so they cannot continue to bother you. Most minor incidents can be dealt with in this way, and neither you nor Jagex will need to take any further action.</p>
+<p>Sometimes, however, you might encounter a player whose behaviour is particularly offensive. In such cases, you can use the Report Abuse feature to report the player to the Jagex Player Support team. Player Support will then investigate the incident, and if the reported player is deemed to have behaved inappropriately, or broken any of our rules, appropriate action will be taken to minimise the chances of that player causing further disruption.</p>
+<p>Occasionally, innocent players might find themselves falsely accused of committing an offence, perhaps because they made an innocuous comment that was misinterpreted by another player. For this reason, reported incidents will be investigated thoroughly, and any evidence will be carefully evaluated, to ensure that innocent players are not given unwarranted penalties. Players who feel that they have been falsely accused of committing an offence should submit an appeal via the account management page.</p>
+<p>The FunOrb rules are organised into three categories: Honour, Respect and Security. Please take some time to familiarise yourself with these rules before playing any FunOrb games.</p>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="honour"></a>
+<span class="title">2. Honour</span><br><br>
+<p>We expect our players not to cheat or indulge in dishonest behaviour. With this in mind, the following behaviour is deemed unacceptable:</p>
+<ul>
+<li>Macroing, and use of bots or third-party software</li>
+<li>Ratings transfers</li>
+<li>Buying, selling or sharing an account</li>
+<li>Knowingly exploiting a bug</li>
+<li>Jagex staff impersonation</li>
+<li>Password, account, bank PIN or item scamming</li>
+<li>Advert blocking – (the adverts pay for the games you play)</li>
+<li>Encouraging others to break the rules</li>
+</ul>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="respect"></a>
+<span class="title">3. Respect</span><br><br>
+<p>Every FunOrb player is entitled to the respect of the other members of the player community. With this in mind, the following behaviour is deemed unacceptable:</p>
+<ul>
+<li>Discrimination of any kind, whether based on another player's race, nationality, gender, sexual orientation or religious beliefs</li>
+<li>Threatening another player, or bullying of any kind</li>
+<li>Using obscene or inappropriate language</li>
+<li>Spamming, or disruptive behaviour</li>
+<li>Misuse of the forums</li>
+</ul>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="security"></a>
+<span class="title">4. Security</span><br><br>
+<p>It is of the utmost importance that the personal security of our players is not jeopardised while playing FunOrb games. With this in mind, the following behaviour is deemed unacceptable:</p>
+<ul>
+<li>Asking for or providing personal information such as full names, ages, postal or email addresses, telephone numbers or bank details</li>
+<li>Discussing or advocating illegal activity of any kind, such as the use of illegal drugs</li>
+<li>Advertising other websites</li>
+</ul>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<span class="title">5. FAQ</span><br><br>
+<a name="
+bansandmutes
+"></a><a name="faq"></a>
+<p><b>Why have I been given a ban or mute?</b></p>
+<p>If you have been banned or muted, either permanently or temporarily, you should go to your offence history page, which can be accessed via the account management page. There you will see a list of the offences you have committed, and the evidence relating to each. We strongly recommend that you take the time to review the evidence given for each offence, so that you do not waste your time appealing an offence of which you are, in fact, guilty.</p>
+<br>
+<p><b>Can you remove a ban or mute on my friend's account?</b></p>
+<p>If a friend of yours has been given a ban or mute that they wish to appeal, they should submit an offence appeal via the offence history page. Under no circumstances will we accept offence appeals from players submitted on behalf of someone else.</p>
+<br>
+<a name="
+
+offensivelang
+"></a><a name="faq"></a>
+<p><b>I was called a “noob” by another player. Should I report them?</b></p>
+<p>The term “noob” is often used by players of online games, and is not particularly offensive. You do not need to report players who use this term to refer to you or someone else.</p>
+<br>
+<p><b>What is “inappropriate” language?</b></p>
+<p>Inappropriate language includes language that is discriminatory, threatening, obscene or in any other way offensive. It also includes making reference to, or advocating, any kind of illegal activity. Players who use inappropriate language may be penalised.</p>
+<br>
+<p><b>What does “flooding the chat window” mean?</b></p>
+<p>Spamming or flooding the chat window means filling the chat window with unnecessary text as a way of disrupting gameplay. Players who flood the chat window may be penalised.</p>
+<br>
+<a name="
+
+itemscam
+"></a>
+<p><b>What does “scamming” mean?</b></p>
+<p>Scamming means cheating another player during a trade. Lying to other players for your own personal gain is not in the spirit of our games, and will not be tolerated.</p>
+<br>
+<a name="
+
+passwordscam
+"></a>
+<p><b>Someone has asked me for my bank PIN or other security information, such as the answers to my recovery questions. Should I tell them?</b></p>
+<p>No, giving out your bank PIN allows other players access to your bank space. Under no circumstances should you give another player your password, PIN number or any other security information related to your account. For the same reasons, you should not ask any other player for their bank PIN or other security information. Any players who ask for this information may be penalised.</p>
+<br>
+<a name="
+
+bugabuse
+"></a>
+<p><b>I have unintentionally benefited because of a bug. Will I be penalised?</b></p>
+<p>If you discover a bug but do not exploit it in any way, do not tell anyone else about it, and report the bug to us immediately, you will not be penalised. If you knowingly exploit a bug, however, you may be penalised.</p>
+<br>
+<p><b>Are there any cheats for Jagex games?</b></p>
+<p>There are no cheat codes for any of our games, and we have no intention of adding any. All game achievements have to be made fairly through honest game play. Players who knowingly use cheats or exploit bugs, or attempt to find cheats or bugs, may be penalised.</p>
+<br>
+<a name="
+
+accountsellshare
+"></a>
+<p><b>Can I swap my account with another player?</b></p>
+<p>This is considered account trading, and is not permitted.</p>
+<br>
+<p><b>Can I share my account with a friend?</b></p>
+<p>Sharing your account with anyone, including family members or friends, is not permitted.</p>
+<br>
+<a name="
+
+macroing
+"></a>
+<p><b>What kinds of third-party software are not allowed?</b></p>
+<p>The kinds of third-party software that are not allowed include, but are not limited to, the following:</p>
+<ul>
+<li>Software that attempts to communicate directly with our game worlds.</li>
+<li>Software that monitors, modifies or decrypts communication between our game applets and our game worlds.</li>
+<li>Software that generates input to our game applets. This includes software that automatically moves the mouse pointer, or generates mouse clicks or key presses.</li>
+<li>Modified or replacement versions of our game applets. Reverse-engineering our game applets is strictly prohibited. Using a modified version of our game applets is not permitted for any reason. Software must not encourage rule-breaking or endanger users.</li>
+</ul>
+<p>Aside from the fact that its use is prohibited, third-party software is also potentially dangerous, as it can jeopardise the safety of your computer.</p>
+<br>
+<p><b>How does the macro-detection system work?</b></p>
+<p>Our macro-detection system monitors activity on our servers and detects suspicious behaviour. The evidence gathered by the system is then reviewed by our expert staff. We cannot give any further details of how the system works, because this could make it easier for those who want to to circumvent the system.</p>
+<br>
+<p><b>Will I be able to appeal a ban I was given for macroing?</b></p>
+<p>Under most circumstances, you will be able to appeal any temporary bans you have been given. You will not not allowed to appeal permanent bans, however. Our policy has always been not to tolerate any form of cheating, and we do not ban accounts lightly, so if a player is given a permanent ban it will not be rescinded. We will not reveal the evidence we have gathered, as most cheats only want the evidence so they can avoid getting caught the next time.</p>
+<br>
+<a name="
+
+multilogin
+"></a>
+<p><b>I have two accounts. Can my friend play one so my two characters can trade with each other?</b></p>
+<p>Trading between two characters owned by one player is not permitted.</p>
+<br>
+<p><b>Can I give items to another player from one of my accounts, so that they can then give the items to another character that I play?</b></p>
+<p>You may not transfer items between your accounts in any way.</p>
+<br>
+<a name="
+
+encouragerulebreak
+"></a>
+<p><b>What constitutes “encouraging other players to break the rules”?</b></p>
+<p>There are many ways of encouraging other players to break the Rules of RuneScape. Basically, it constitutes anything that makes someone else more likely to break a rule.</p>
+<br>
+<a name="
+
+falseinfo
+"></a>
+<p><b>What constitutes an abuse of Player Support?</b></p>
+<p>Abusing Player Support includes submitting false abuse reports, spamming the chat window or the forums, and any other behaviour intended to waste the time of the Player Support team.</p>
+<br>
+<p><b>Should I report abuses of Player Support?</b></p>
+<p>There is no need for you to report any abuses of Player Support, as we are able to identify and take action against anyone who does.</p>
+<br>
+<a name="
+
+webadvert
+"></a>
+<p><b>Why can't I advertise a website in RuneScape?</b></p>
+<p>By prohibiting all advertisement of external sites, we protect you from being directed to a dangerous site that has been established to hack into personal computers or spread viruses.</p>
+<br>
+<a name="
+
+rwt
+"></a>
+<p><b>Why is real-world trading not permitted?</b></p>
+<p>Real-world trading is not permitted for three reasons. First, we do not want players to be able to buy their way to success in our games. If we let players do this, it devalues our games for other players. We feel your status in real life shouldn’t have a bearing on your success in the game. Second, we cannot monitor the transactions made between players outside of the game, so by prohibiting real-world trading, we are attempting to eliminate unbalanced, unfair trade between players. Third, individuals who attempt to sell items for real-world money are often trying to sell stolen items, so by prohibiting real-world trading, we reduce the chances of such exchanges taking place. Remember, If you purchase a stolen account, you could have it suddenly taken away from you and returned to the rightful owner, and may also be penalised.</p>
+<br>
+<p><b>Isn’t it up to me what I do with my items and account?</b></p>
+<p>As explained in our terms and conditions, your character, account, and items are, and remain, the property of Jagex.</p>
+<br>
+<a name="
+
+personaldetails
+"></a>
+<p><b>Why can't I give out or ask for personal information?</b></p>
+<p>Giving out personal information can undermine the security of your account, as it could be used to make a false password recovery request, or access and then exploit your account in some other way. Remember that you do not know any of the people you play RuneScape with personally, so however nice they may seem, the most sensible approach is to keep your personal information private. For the same reasons, you should not ask any other player for their personal information.</p>
+<br>
+<p><b>What sort of personal information should I not give out, or ask for?</b></p>
+<p>Personal information includes real names, postal and email addresses, instant messenger screen names or contact details, telephone numbers, and bank details.</p>
+<br>
+<a name="
+
+misuseforums
+"></a>
+<p><b>What is the proper way to conduct myself on the forums?</b></p>
+<p>The Forum Code of Conduct explains what is considered acceptable forum behaviour.</p>
+<br>
+<a name=""></a>
+<p><b>Why is advert blocking not permitted?</b></p>
+<p>The revenues from the adverts shown with the free-to-play versions of our games are what allow us to keep the games free for you to play, so please don't block them.</p> 
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=4">Help</a> : </b>
+<span class="articleMore">
+Rules of FunOrb</span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter">
+Select your language:&nbsp;
+<a href="http://www.funorb.com/a=32/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/a=32/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/a=32/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/a=32/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p>
+Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/a=32/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=32/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

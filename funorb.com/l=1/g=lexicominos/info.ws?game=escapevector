@@ -1,0 +1,474 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="de" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Kostenlose Online-Spiele, Puzzlespiele, Plattformspiele, Arcadespiele, Ballerspiele, Actionspiele, Javaspiele, Rennspiele, Wortspiele, Retrospiele, Browserspiele, Strategiespiele, Mehrspieler, Arkanisten, Jagex">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex Games Studio, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="title" content="FunOrb - Kostenlose Online-Spiele von Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=lexicominos/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=lexicominos/favicon.ico">
+<title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<![endif]-->
+
+<!--[if IE]>
+<style type="text/css">
+ @media all {
+  IE\:clientCaps {behavior:url(#default#clientcaps)}
+ }
+</style>
+<IE:clientCaps ID="oClientCaps" />
+<![endif]-->
+<script type="text/javascript">
+ var suffix="?js=1";
+ if (navigator.appName=="Microsoft Internet Explorer") {
+  if (!oClientCaps.getComponentVersion("{08B0E5C0-4FCB-11CF-AAA5-00401C608500}","ComponentID")) {
+   suffix+="&applet=2";
+  }
+ }
+ function suffixize(obj){
+  if(!obj.suffixed){
+   obj.href += suffix;
+   obj.suffixed = true;
+  }
+ }
+</script> <style type="text/css" media="screen">
+ /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ .intro {
+  background-image: url(http://www.funorb.com/l=1/img/images/game/escapevector/intro.jpg);
+ }
+ .buttonSubscribe {
+  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+ }
+</style>
+<script type="text/javascript">
+//
+var time = 4;
+var timer;
+var timer2;
+var loading = 0;
+var image = 0;
+var images = Array();
+//
+images[0] = 'http://www.funorb.com/l=1/img/images/game/escapevector/screen1.jpg?1';
+images[1] = 'http://www.funorb.com/l=1/img/images/game/escapevector/screen2.jpg?1';
+images[2] = 'http://www.funorb.com/l=1/img/images/game/escapevector/screen3.jpg?1';
+images[3] = 'http://www.funorb.com/l=1/img/images/game/escapevector/screen4.jpg?1';
+//
+function clearLoading(){
+ try{
+  if(images[0]){
+   document.getElementById('screenshotsLoading0').style.backgroundPosition = '-83px -62px';
+   if(images[1]){
+    document.getElementById('screenshotsLoading1').style.backgroundPosition = '-83px -62px';
+    if(images[2]){
+     document.getElementById('screenshotsLoading2').style.backgroundPosition = '-83px -62px';
+     if(images[3]){
+      document.getElementById('screenshotsLoading3').style.backgroundPosition = '-83px -62px';
+     }
+    }
+   }
+  }
+  loading = 0;
+ }catch(e){}
+}
+//
+function imageTimer(self){
+ clearTimeout(timer2);
+ clearTimeout(timer);
+ clearLoading();
+ timer = setTimeout("imageNext('" + self + "')", time * 1000);
+}
+//
+function imageNext(self){
+ if(loading == 1){return;}
+ image++;
+ if(image >= images.length){
+  image = 0;
+ }
+ document.getElementById(self).src = images[image];
+}
+//
+function imageGoto(self, img){
+ image = img;
+ // Don't bother re-loading the same image as it screws up Opera
+ if(document.getElementById(self).src != images[image]){
+  var timeDefault = time;
+  time = time * 2;
+  window.setTimeout('time = ' + timeDefault, timeDefault);
+  timer2 = window.setTimeout("document.getElementById('screenshotsLoading' + image).style.backgroundPosition = '25px 12px';", 100);
+  loading = 1;
+  document.getElementById(self).src = images[image];
+ }
+ return false;
+}
+</script>
+</head>
+<body id="navGames">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=1/g=lexicominos/index.ws" ><b>
+<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<span id="teletext_inner">
+Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=lexicominos/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=lexicominos/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/g=lexicominos/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=lexicominos/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=1/g=lexicominos/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=1/g=lexicominos/" class="fly">Community-Startseite</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=lexicominos/forums.ws" class="fly">Forum</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=1/g=lexicominos/" class="fly">Erfolge</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=lexicominos/" class="fly">Bestenlisten &amp; Wertungen</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=1/g=lexicominos/" class="fly last">Orb-Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=lexicominos/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/g=lexicominos/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=lexicominos/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=escapevector" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=1/g=lexicominos/index.ws">
+<span>
+<img alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=lexicominos/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=lexicominos/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=lexicominos/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=lexicominos/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+
+<a name="info"></a>
+<div class="section" id="info" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail">
+<a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws">Spiele</a> &gt;
+<a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=lexicominos/escapevector/play.ws">Fluchtvektor</a> &gt;
+Mehr Infos </span>
+<span class="sectionServerlist">
+<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=lexicominos/escapevector/serverlist.ws">Serverliste</a>
+</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+<div class="intro">
+<div class="introDescription">
+<div>
+<a href="http://www.funorb.com/l=1/g=lexicominos/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Manövriert durch Höhlenlabyrinthe und holt gestohlene Technologie zurück. </div>
+</div>
+<a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=lexicominos/escapevector/play.ws"></a>
+</div>
+<a name="screenshots"></a>
+<div class="subsection" id="screenshots" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Screenshots
+</div>
+</div>
+<div class="subsectionContent">
+<script type="text/javascript">
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/escapevector/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+ </script>
+<noscript>
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=lexicominos/display_screenshot.ws?game=escapevector&screenshot=screen1">
+</iframe>
+</noscript>
+<div id="screenshotsThumbs">
+<a href="http://www.funorb.com/l=1/g=lexicominos/display_screenshot.ws?game=escapevector&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/escapevector/screen1_thumb.jpg?1);">
+<div id="screenshotsLoading0"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=lexicominos/display_screenshot.ws?game=escapevector&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/escapevector/screen2_thumb.jpg?1);">
+<div id="screenshotsLoading1"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=lexicominos/display_screenshot.ws?game=escapevector&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/escapevector/screen3_thumb.jpg?1);">
+<div id="screenshotsLoading2"></div>
+</a>
+<a href="http://www.funorb.com/l=1/g=lexicominos/display_screenshot.ws?game=escapevector&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/escapevector/screen4_thumb.jpg?1);">
+<div id="screenshotsLoading3"></div>
+</a>
+</div>
+</div>
+</div>
+<a name="benefits"></a>
+<div class="subsection" id="benefits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Features - Fluchtvektor
+</div>
+</div>
+<div class="subsectionContent">
+<div class="benefitsPadding"></div>
+<div class="benefitsContent">
+<div class="benefitsList">
+<ul>
+
+<li>Navigiert durch enge Tunnel</li>
+<li>Zerstört die Alien-Verteidigung</li>
+<li>Kämpft gegen die Schwerkraft, um euer Schiff zu retten</li>
+<li>Zugriff auf 'Rettungs'-Levels auf normal und schwer</li>
+<li>KOSTENLOS spielen!</li>
+</ul>
+</div>
+</div>
+</div>
+</div>
+<br class="clear" />
+<a name="description"></a>
+<div class="subsection" id="description" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Beschreibung
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>In Fluchtvektor sitzt ihr im Sessel des besten Piloten der Erde und habt den Auftrag, gestohlene Technologien zurück zu holen. Aber vergesst die diebischen Außerirdischen: eure größten Gegner sind die Schwerkraft und die Höhlenlabyrinthe, in denen sie unser Eigentum versteckt haben.</p>
+<p>Ihr müsst vorsichtig durch die Höhlen manövrieren, die Verteidigungsmaßnahmen der Aliens umgehen oder zerstören und euer Ziel ausfindig machen... und das ist noch der einfache Teil! Danach müsst ihr nämlich zurück an die Oberfläche fliegen, ohne abzustürzen oder eure Fracht zu beschädigen.</p>
+<p>Habt ihr die Nerven, das Geschick und die Entschlossenheit, die nötig sind, um die Aliens UND die Gesetze der Physik zu besiegen? Viel Glück, Pilot.</p>
+</div>
+</div>
+</div>
+<a name="top_of_page"></a>
+<a name="faqs"></a>
+<div class="subsection" id="faqs" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Fragen und Antworten
+</div>
+</div>
+<div class="subsectionContent">
+<div class="faqsList">
+<ol>
+<li><a href="#faqs_q1">Gibt es irgendwelche Tipps zur Steuerung des Schiffs?</a></li>
+<li><a href="#faqs_q2">Wie kann ich die Behälter aufsammeln?</a></li>
+<li><a href="#faqs_q3">Wie bekomme ich wieder die Kontrolle über einen schwingenden Behälter?</a></li>
+<li><a href="#faqs_q4">Warum habe ich automatisch die Erfolge Gürtel (Normal), Mondrenner (Normal), Mondwüter (Normal) oder Erdenheld (Normal) erhalten?</a></li>
+<li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
+</ol>
+</div>
+<div class="faqsAnswer">
+<a name="faqs_q1"></a>
+<h3>1. Gibt es irgendwelche Tipps zur Steuerung des Schiffs?</h3>
+<p>Am wichtigsten ist, nie zu vergessen, dass euer Schiff träge ist. Wenn ihr in eine Richtung fliegt, wird das Schiff sich relativ lange weiter in diese Richtung bewegen. Um anzuhalten, müsst ihr in die entgegengesetzte Richtung Schub geben.</p>
+<p>Dreht euch nicht direkt in die Richtung, in die ihr fliegen wollt. Haltet euer Schiff senkrecht und gebt gerade genug Schub, um der Schwerkraft entgegen zu wirken. Wenn ihr seitwärts fliegen wollt, solltet ihr euer Schiff nur ein wenig drehen und weiter wie normal Schub geben. Um die Seitwärtsbewegung anzuhalten, dreht euer Schiff wieder senkrecht und dann leicht in die Gegenrichtung und gebt die ganze Zeit immer wieder etwas Schub, um eure horizontale Geschwindigkeit zu verringern.</p>
+<p>In der Einführung könnt ihr euch sehr gut an die Steuerung des Schiffs gewöhnen, ohne euch Sorgen um Kollisionen machen zu müssen. Denkt außerdem daran, dass ihr mit der Leer- oder der Umschalttaste euren Schild aktivieren könnt, der das Schiff vor Zusammenstößen beschützt.</p>
+<div class="hr"></div>
+<a name="faqs_q2"></a>
+<h3>2. Wie kann ich die Behälter aufsammeln?</h3>
+<p>Kurz gefasst: ihr müsst einfach nah genug neben dem Behälter landen. Die Kette eures Schiffs wird dann automatisch ausfahren und euer Schiff mit dem Behälter verbinden.</p>
+<p>Haltet das Schiff senkrecht und lasst es langsam absinken. Gebt gelegentlich etwas Schub, um eure Fallgeschwindigkeit niedrig zu halten. Seitwärtsbewegungen könnt ihr mit leichten Drehungen in die Gegenrichtung ausgleichen. Wenn ihr dem Boden nahe genug seid, solltet ihr das Schiff möglichst senkrecht stellen und behutsam aufsetzen.</p>
+<p>Wenn ihr wieder startet, solltet ihr dies mit ausreichend Schub tun. Nachdem ein Behälter erst einmal den Boden verlassen hat, wird er zerstört, sobald er den Boden oder irgendein anderes Hindernis berührt.</p>
+<div class="hr"></div>
+<a name="faqs_q3"></a>
+<h3>3. Wie bekomme ich wieder die Kontrolle über einen schwingenden Behälter?</h3>
+<p>Um den Behälter am Schwingen zu hindern, wartet, bis er an einem Ende seiner Bewegung ist und gebt vorsichtig Schub nach oben, bis sich euer Schiff senkrecht über dem Behälter befindet. Der Behälter sollte dann zur Ruhe gekommen sein, sodass ihr kontrolliert weiterfliegen könnt.</p>
+<p>Wenn ihr absehen könnt, dass der Behälter mit einer Wand zusammenstoßen wird, gebt sofort starken Schub in die entgegengesetzte Richtung. Dies wird den Behälter ins Schwingen bringen, aber euer Schiff zieht ihn dabei von der Wand weg. Ihr werdet wahrscheinlich ein paar Mal auf diese Art hin- und herfliegen müssen, um den Behälter wieder zum Stillstand zu bringen.</p>
+<p>Der sichere Teil des Übungshangars im Mutterschiff (in der Einführung) ist ein guter Ort, um euch an den Transport von Behältern zu gewöhnen - aber haltet Abstand von den Wänden. Euer Schild beschützt nur euer Schiff, aber nicht den Behälter.</p>
+<div class="hr"></div>
+<a name="faqs_q4"></a>
+<h3>4. Warum habe ich automatisch die Erfolge Gürtel (Normal), Mondrenner (Normal), Mondwüter (Normal) oder Erdenheld (Normal) erhalten?</h3>
+<p>Weil ihr sie bereits vor der Erweiterung freigeschaltet habt. Falls ihr diese Erfolge auf schwer erreicht, dann habt ihr auch das Zeug dazu, die normale Version zu erhalten.</p>
+<div class="hr"></div>
+<a name="faqs_spec"></a>
+<h3>5. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
+<p>Mindestvoraussetzungen:</p>
+<ul>
+<li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
+<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<ul>
+<li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
+<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
+</div>
+</div>
+</div>
+<a name="furtherBenefits"></a>
+<div class="subsection" id="furtherBenefits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Vorteile einer Mitgliedschaft
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p style="padding-bottom: 5px;">Mitglieder-Features:</p>
+<ul style="line-height: 22px;">
+<li>Zugriff auf 'Vergeltungs'-Levels</li>
+<li>Zugriff auf 'Simulator'-Levels</li>
+<li>Vollbildmodus</li>
+<li>Zugriff auf alle Erfolge</li>
+<li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb</li>
+</ul>
+<p>
+<a href="http://www.funorb.com/l=1/g=lexicominos/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+</p>
+</div>
+</div>
+</div>
+<a name="credits"></a>
+<div class="subsection" id="credits" style="">
+<div class="subsectionHeader">
+<div class="subsectionTitle">
+Development Team
+</div>
+</div>
+<div class="subsectionContent">
+<div>
+<p>
+<b>Development:</b> Ben D,&nbsp;Brian C<br>
+<b>Graphics:</b> Anthony A,&nbsp;Kristian F<br>
+<b>Audio:</b> Adam B,&nbsp;Ian T<br>
+<b>Quality Assurance:</b> Michael T,&nbsp;Joe C,&nbsp;Craig S,&nbsp;Ken W L<br>
+<b>Translation:</b> Heiko J,&nbsp;Florian P,&nbsp;Matthias P
+</p>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=lexicominos/index.ws"><img alt="
+English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=lexicominos/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=lexicominos/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=lexicominos/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=lexicominos/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=lexicominos/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=1/g=lexicominos/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>

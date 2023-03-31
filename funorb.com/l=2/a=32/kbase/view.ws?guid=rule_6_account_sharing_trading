@@ -1,0 +1,247 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+fr" xmlns:IE>
+<head>
+<title>FunOrb : jeux en ligne gratuits</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+fr">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=2/a=32/css/global-10.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=32/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=2/a=32/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr">
+<meta name="description" content="Chaque compte ne doit être utilisé que par UNE personne.">
+<title>Règle 6 - Partage/Échange de compte</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="affiliate">
+<a href="http://www.funorb.com/l=2/a=32/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="http://www.wildgames.com" target="_blank">
+<img id="afflogo" src="http://www.funorb.com/l=2/a=32/img/affil/partners/hp.gif" alt="HP Desktop" />
+</a>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/options.ws" class="fly last">Options Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/a=32/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Créer un compte gratuit</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/members.ws" class="fly last">Avantages abonné</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=2/a=32/" class="fly">Accueil</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws" class="fly">Tous les forums</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws?0,1" class="fly">Annonces</a></li>
+<li><a href="http://achievements.funorb.com/l=2/a=32/" class="fly">Exploits</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=2/a=32/" class="fly">Highscores &amp; classement</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Téléchargements FunOrb</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
+<li><a href="http://www.funorb.com/l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Créer un compte</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=2/a=32/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=rule_6_account_sharing_trading" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/a=32/index.ws">
+<img alt="English" src="http://www.funorb.com/l=2/a=32/img/images/layout/en.gif">
+</a>
+<a href="http://www.funorb.com/l=1/a=32/index.ws">
+<img alt="Deutsch" src="http://www.funorb.com/l=2/a=32/img/images/layout/de.gif">
+</a>
+<a href="http://www.funorb.com/l=2/a=32/index.ws">
+<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=32/img/images/layout/fr.gif">
+</a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Règle 6 - Partage/Échange de compte</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Règle 6 - Partage/Échange de compte</h1>
+<div class="articleBody">
+<body>
+<div id="jagexRule">
+<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 27 février 2008</div>
+<br> Un compte ne peut être utilisé que par UN SEUL joueur. Le partage de compte est INTERDIT. Vous n'êtes pas autorisé à vendre, transférer ou prêter votre compte ou permettre à un joueur d'utiliser votre compte ou accepter un compte offert par un autre joueur. <br>
+<br>
+<div class="hr"></div>
+<b>Questions associées</b><br> Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.<br>
+<br>
+<div class="faqsList">
+<ol>
+<li><a href="#why">Pourquoi cette règle ? </a>
+<li><a href="#what">Qu'en est-il d'échanger un compte avec un autre joueur ? </a>
+<li><a href="#sell">Puis-je vendre le « temps » que j'ai investi dans mon compte ? </a>
+<li><a href="#unban">Mon frère/ma sœur/un ami/etc. a emprunté mon compte et enfreint une règle. Mon compte est maintenant exclu. Pouvez-vous annuler l'exclusion ? </a>
+<li><a href="#account">Je partage mon compte avec un membre de ma famille et/ou un ami. Est-ce permis ? </a>
+<li><a href="#ebay">J'ai vu un compte à vendre sur ebay. Que dois-je faire ? </a>
+</ol></div>
+<br>
+<div class="hr"></div>
+<a name="why"></a>
+<span class="title">1. Pourquoi cette règle ? </span><br><br> Cette règle a été établie pour deux raisons : <ol>
+<li>Tout d'abord, de nombreux comptes à vendre sont en fait des comptes volés. En achetant un compte, vous aidez un fraudeur à réaliser un bénéfice et l'encouragez à commettre d'autres délits !<br><br>
+<li>Ensuite, cette règle sert de protection. En effet, les joueurs partageant un compte courent le risque que l'utilisateur du compte refuse de restituer le compte ou enfreigne une règle du jeu, ce qui entraînerait l'exclusion du compte.</ol>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="what"></a>
+<span class="title">2. Qu'en est-il d'échanger un compte avec un autre joueur ? </span><br><br> Comme toute transaction de compte, cela n'est pas autorisé en vertu du règlement. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="sell"></a>
+<span class="title">3. Puis-je vendre le « temps » que j'ai investi dans mon compte ?</span><br><br> Non. En vertu du règlement, un compte ne peut être utilisé que par UNE SEULE personne, et ce durant toute la durée de vie du compte. Pour vendre le « temps » que vous avez investi dans votre compte, vous devez le transférer ou le prêter à un autre joueur, ce qui reviendrait à transgresser le règlement. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="unban"></a>
+<span class="title">4. Mon frère/ma sœur/un ami/etc. a emprunté mon compte et enfreint une règle. Mon compte est maintenant exclu. Pouvez-vous annuler l'exclusion ? </span><br><br> Le partage de compte n'est pas autorisé. Vous devrez assumer les conséquences de toute violation de cette règle. Le prêt de votre compte à un autre joueur n'est pas une raison valable pour que l'infraction soit dépénalisée. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="account"></a>
+<span class="title">5. Je partage mon compte avec un membre de ma famille et/ou un ami. Est-ce permis ? </span><br><br> Non. Le partage d'un compte avec qui que ce soit, y compris des membres de votre famille ou des amis, implique que vous transgressez une règle du jeu, ce qui peut entraîner l'exclusion du compte. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="ebay"></a>
+<span class="title">6. J'ai vu un compte à vendre sur ebay. Que dois-je faire ? </span><br><br> Soyez assuré que des membres du personnel de Jagex surveillent les sites d'enchères quotidiennement afin de garantir qu'aucun compte de jeu ne soit vendu sur ces sites. Il est important de se souvenir que tous les comptes et objets du jeu sont et restent la propriété exclusive de Jagex. Nous n'hésiterons pas à supprimer ces éléments de nos jeux si nous avons la preuve que nos règles ont été transgressées. <br><br>
+<p><i>Vous devez observer cette règle pour que chacun continue à trouver du plaisir à jouer à FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, votre compte sera fermé. Les membres exclus pour violation de nos règles n'ont droit à aucun type de remboursement.</i></p>
+</div>
+<br style="clear: both;">
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=11">Code de conduite</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=50">Règle 4 - Triche/Exploitation de bug</a>, <a href="viewarticle.ws?article_id=21">Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex</a>, Règle 6 - Partage/Échange de compte, <a href="viewarticle.ws?article_id=24">Règle 7 - Utilisation d'un logiciel tiers</a>, <a href="viewarticle.ws?article_id=19">Règle 8 - Connexions multiples</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

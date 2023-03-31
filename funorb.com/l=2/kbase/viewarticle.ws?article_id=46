@@ -1,0 +1,252 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+fr" xmlns:IE>
+<head>
+<title>FunOrb : jeux en ligne gratuits</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+fr">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=2/css/global-14.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=2/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Cliquez ici pour obtenir de l'aide sur les mots de passe perdus, oubliés ou volés.">
+<title>Problèmes urgents de mot de passe</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/l=2/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
+<span id="teletext_inner">
+Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=2/members.ws" class="fly last">Avantages abonné</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=2/" class="fly">Accueil</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Tous les forums</a></li>
+<li><a href="
+http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
+<li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements FunOrb</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
+<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
+<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
+<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
+<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=46" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<span>
+<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<div id="dropArrow"></div>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientèle</a> &gt; <a href="viewcategory.ws?cat_id=5">Assistance mot de passe</a> &gt; Problèmes urgents de mot de passe</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Problèmes urgents de mot de passe</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#lost">J'ai perdu mon mot de passe. Que dois-je faire ?</a>
+<li><a href="#changed">Quelqu'un a modifié mon mot de passe ou mes questions secrètes. Que dois-je faire ?</a>
+<li><a href="#password">Quelqu'un connaît mon mot de passe. Que dois-je faire ?</a>
+<li><a href="#recovery">Utilisation du module de récupération de mot de passe</a>
+</ol></div>
+<br>
+<a name="lost"></a>
+<br>
+<span class="title">1. J'ai perdu mon mot de passe. Que dois-je faire ?</span><br><br> Si vous êtes certain que votre ordinateur est sécurisé, procédez de la manière suivante : <br><br> Si nous n'avons pas bloqué votre compte, cliquez <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">ici</a> pour récupérer votre mot de passe. <br><br> Vous devrez ensuite indiquer votre nom de connexion. Après vous être connecté, il vous sera demandé de sélectionner entre un mot de passe oublié et volé. Veuillez sélectionner « Oublié ». <br><br> Veuillez suivre les instructions à l'écran, en indiquant autant d'informations que possible. <br><br> Si vous ne connaissez pas ou ne vous souvenez pas de toutes les informations de votre compte, veuillez essayer de fournir les informations les plus anciennes concernant chacune des catégories demandées. Cela nous permettra de traiter votre demande aussi rapidement que possible. Nous ne vous communiquerons un nouveau mot de passe que lorsque nous aurons vérifié que vous êtes bien le propriétaire du compte concerné. <br><br> Nous vous conseillons de lire <a href="viewarticle.ws?article_id=29">ceci</a> afin de vérifier que votre mot de passe est aussi sécurisé que possible. <br><br> À la fin du processus, vous recevrez un identifiant de suivi avec lequel vous pourrez suivre la progression de votre demande. Veuillez noter cet identifiant, car il vous permettra d'obtenir la réponse à votre demande. <br><br> Si vous recevez une réponse vous demandant des informations supplémentaires, veuillez remplir une autre demande et fournir les informations les plus anciennes possibles dans les catégories demandées. <br><br> N'oubliez pas que la sécurité de votre mot de passe ne dépend que de vous. Ne le dévoilez à personne. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="changed"></a>
+<br>
+<span class="title">2. Quelqu'un a modifié mon mot de passe ou mes questions secrètes. Que dois-je faire ?</span><br><br> Dans ce cas, nous vous conseillons de vérifier tout d'abord que votre ordinateur est sécurisé et que personne n'est parvenu à obtenir votre mot de passe sur votre machine. Pour ce faire, consultez immédiatement les sections 7 et 8 du guide <a href="viewarticle.ws?article_id=42">Informations sur la sécurité</a>. <br><br> Après avoir suivi les consignes et si vous êtes certain que votre ordinateur est sécurisé, veuillez procéder de la manière suivante : <br><br> Si nous soupçonnons que votre compte a été volé, celui-ci sera bloqué et personne ne pourra y accéder. Pour débloquer votre compte, cliquez <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">ici</a>. <br><br> Si nous n'avons pas bloqué votre compte, cliquez <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">ici</a> pour commencer le processus de recouvrement. <br><br> Vous devrez ensuite indiquer votre nom de connexion. Après vous être connecté, il vous sera demandé de sélectionner entre un mot de passe oublié et volé. Veuillez sélectionner « Volé ». <br><br> Veuillez suivre les instructions à l'écran, en indiquant autant d'informations que possible. <br><br> Si vous ne connaissez pas ou ne vous souvenez pas de toutes les informations de votre compte, veuillez essayer de fournir les informations les plus anciennes concernant chacune des catégories demandées. Cela nous permettra de traiter votre demande aussi rapidement que possible. Nous ne vous communiquerons un nouveau mot de passe que lorsque nous aurons vérifié que vous êtes bien le propriétaire du compte concerné. <br><br> Nous vous conseillons de lire <a href="viewarticle.ws?article_id=29">ceci</a> afin de vérifier que votre mot de passe est aussi sécurisé que possible. <br><br> À la fin du processus, vous recevrez un identifiant de suivi avec lequel vous pourrez suivre la progression de votre demande. Veuillez noter cet identifiant, car il vous permettra d'obtenir la réponse à votre demande. <br><br> Si vous recevez une réponse vous demandant des informations supplémentaires, veuillez remplir une autre demande et fournir les informations les plus anciennes possibles dans les catégories demandées. <br><br> N'oubliez pas que la sécurité de votre mot de passe ne dépend que de vous. Ne le dévoilez à personne. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="password"></a>
+<br>
+<span class="title">3. Quelqu'un connaît mon mot de passe. Que dois-je faire ?</span><br><br> Dans ce cas, nous vous conseillons de vérifier tout d'abord que votre ordinateur est sécurisé et que personne n'est parvenu à obtenir votre mot de passe sur votre machine. Pour ce faire, consultez immédiatement les sections 7 et 8 du guide <a href="viewarticle.ws?article_id=42">Informations sur la sécurité</a>. <br><br> Après avoir suivi les consignes et si vous êtes certain que votre ordinateur est sécurisé, veuillez procéder de la manière suivante : <br><br> Si nous soupçonnons que votre compte a été volé, celui-ci sera bloqué et personne ne pourra y accéder. Pour débloquer votre compte, cliquez <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">ici</a>. <br><br> Si nous n'avons pas bloqué votre compte, cliquez <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">ici</a> pour commencer le processus de recouvrement. <br><br> Vous devrez ensuite indiquer votre nom de connexion. Après vous être connecté, il vous sera demandé de sélectionner entre un mot de passe oublié et volé. Veuillez sélectionner « Volé ». <br><br> Veuillez suivre les instructions à l'écran, en indiquant autant d'informations que possible. <br><br> Si vous ne connaissez pas ou ne vous souvenez pas de toutes les informations de votre compte, veuillez essayer de fournir les informations les plus anciennes pour chacune des catégories demandées. Cela nous permettra de traiter votre demande aussi rapidement que possible. Nous ne vous communiquerons un nouveau mot de passe que lorsque nous aurons vérifié que vous êtes bien le propriétaire du compte concerné. <br><br> Nous vous conseillons de lire <a href="viewarticle.ws?article_id=29">ceci</a> afin de vérifier que votre mot de passe est aussi sécurisé que possible. <br><br> À la fin du processus, vous recevrez un identifiant de suivi avec lequel vous pourrez suivre la progression de votre demande. Veuillez noter cet identifiant, car il vous permettra d'obtenir la réponse à votre demande. <br><br> Si vous recevez une réponse vous demandant des informations supplémentaires, veuillez remplir une autre demande et fournir les informations les plus anciennes possibles dans les catégories demandées. <br><br> N'oubliez pas que la sécurité de votre mot de passe ne dépend que de vous. Ne le dévoilez à personne. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+<div class="hr"></div>
+<a name="recovery"></a>
+<br>
+<span class="title">4. Utilisation du module de recouvrement de compte</span><br><br> Chaque joueur accède à son compte FunOrb à l'aide d'un nom d'utilisateur unique et d'un mot de passe qu'il a défini. Nous recommandons aux joueurs de choisir un mot de passe qu'ils pourront mémoriser facilement, mais qui sera difficile à deviner. Pour éviter d'oublier leur mot de passe, nous conseillons à nos joueurs de l'écrire sur un morceau de papier et de le conserver en lieu sûr. Nous voudrions également souligner qu'il est préférable que les joueurs ne divulguent jamais leur mot de passe à quiconque, ni même à leurs amis et à leurs proches. <br><br> Si un joueur divulgue son mot de passe pour une raison quelconque, il laisse la possibilité aux autres de l'utiliser. Si vous rencontrez des problèmes d'accès à votre compte, il est possible quelqu'un d'autre connaisse et ait changé votre mot de passe. Si cela se produit, ou si vous ne vous souvenez pas de votre mot de passe, essayez de récupérer votre compte en remplissant un formulaire de demande de récupération de mot de passe. Ce formulaire est accessible en cliquant <a href="http://www.funorb.com/l=2/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">ici</a>. <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/password_recovery/login_options1.gif" alt="Connexion de récupération de mot de passe" title="Connexion de récupération de mot de passe">
+<br><br> Il est essentiel que vous choisissiez le type de demande approprié. Un choix correct permet d'augmenter les chances de résolution des problèmes. <br><br> Après avoir choisi le type de demande sur la première page, le formulaire de demande de mot de passe s'affiche. Il est possible que certaines questions ne s'appliquent pas à votre compte. En revanche, veillez à répondre clairement et correctement aux questions pertinentes. Plus nous recevrons d'informations pertinentes, plus nous aurons de chance d'identifier le véritable propriétaire du compte. Il vous faudra indiquer les informations suivantes : <br><br>
+<ul style="margin-top: 0px; margin-bottom: 0px; ">
+<li>Vos réponses secrètes<br>
+<li>Mots de passe précédents</ul>
+<br><br> Il y a également un champ permettant d'indiquer des informations supplémentaires qui prouveront que vous êtes bien le propriétaire du compte. En principe, la notification de confirmation du paiement que vous avez reçue contient votre ID de transaction ainsi que d'autres numéros de facturation. C'est pourquoi vous devez veiller à conserver ces informations en lieu sûr. <br><br> Si vous ne connaissez pas ou ne vous souvenez pas de toutes les informations de votre compte, veuillez essayer de fournir les informations les plus anciennes concernant chacune des catégories demandées. Cela nous permettra de traiter votre demande aussi rapidement que possible. Nous ne vous communiquerons un nouveau mot de passe que lorsque nous aurons vérifié que vous êtes bien le propriétaire du compte concerné. <br><br> Essayez d'indiquer autant d'informations que possible et aussi clairement que possible pour augmenter vos chances de recevoir une réponse positive. Vous devrez aussi indiquer un nouveau mot de passe ; nous vous conseillons de lire <a href="viewarticle.ws?article_id=29">cet article</a> pour vous assurer que votre mot de passe est aussi sécurisé que possible. <br><br>
+<b>Suivi des demandes</b>
+<br><br> Chaque demande de mot de passe est associée à un identifiant de suivi unique. Pour accéder au suivi, veuillez cliquer <a href="http://www.funorb.com/l=2/redirect.ws?mod=accountappeal&dest=trackinginput.ws">ici</a>. <br><br> Vous devrez alors saisir l'ID de suivi sur la page qui s'affiche. <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/parents_guide/password_tracker2.gif" alt="Suivi de récupération de mot de passe" title="Suivi de récupération de mot de passe">
+<br><br> Saisissez votre nom d'utilisateur et l'identifiant de suivi. La progression de la récupération de votre mot de passe vous sera alors communiquée. Veuillez noter que certaines demandes de récupération de mot de passe sont plus longues à traiter que d'autres. <br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=5">Assistance mot de passe</a> : </b>
+<span class="articleMore">
+Problèmes urgents de mot de passe, <a href="viewarticle.ws?article_id=20">Informations générales</a>, <a href="viewarticle.ws?article_id=29">Sécurité du mot de passe</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

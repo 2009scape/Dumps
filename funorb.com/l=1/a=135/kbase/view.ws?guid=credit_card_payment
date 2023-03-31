@@ -1,0 +1,372 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+de" xmlns:IE>
+<head>
+<title>Willkommen bei FunOrb - Kostenlose Online-Spiele</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+de">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=1/a=135/css/global-14.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=135/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/l=1/a=135/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="Fragen und Antworten zur Kreditkartenzahlung.">
+<title>Mitgliedschaften per Kreditkarte</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/l=1/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<span id="teletext_inner">
+Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=135/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=135/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=1/a=135/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=135/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/options.ws" class="fly last">Java-Optionen</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=1/a=135/"><span>Anmelden</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/l=1/a=135/" class="fly">Kontoerstellung</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=1/a=135/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/l=1/a=135/" class="fly">Community-Startseite</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/a=135/forums.ws" class="fly">Alle Foren</a></li>
+<li><a href="
+http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://achievements.funorb.com/l=1/a=135/" class="fly">Erfolge</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=1/a=135/" class="fly">Highscores &amp; Wertungen</a></li>
+<li><a href="http://orbcoins.funorb.com/l=1/a=135/" class="fly last">Orb-Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/parents.ws" class="fly">Ratgeber für Eltern</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="http://www.funorb.com/l=1/a=135/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=1/a=135/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/l=1/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=1/a=135/index.ws">
+<span>
+<img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">
+<div id="dropArrow"></div>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=13">Mitgliedszahlung</a> &gt; Mitgliedschaften per Kreditkarte</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Mitgliedschaften per Kreditkarte</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#work">Wie funktioniert die Kreditkartenzahlung?</a>
+<li><a href="#cost">Wie viel kostet das?</a>
+<li><a href="#countries">Welche Kreditkarten werden von Ihnen angenommen?</a>
+<li><a href="#secure">Wie sicher ist diese Zahlungsmethode?</a>
+<li><a href="#subscribe">Wie richte ich eine Mitgliedschaft ein?</a>
+<li><a href="#taken">Darf ich mir das Datum aussuchen, an dem die Abbuchungen vorgenommen werden?</a>
+<li><a href="#payments">Wie viele Zahlungen werden eingeholt?</a>
+<li><a href="#month">Kann ich für mehr als einen Monat gleichzeitig bezahlen?</a>
+<li><a href="#telephone">Kann ich meine Mitgliedschaft per Telefon einrichten?</a>
+<li><a href="#gift">Kann ich einen Geschenkgutschein verwenden?</a>
+<li><a href="#unsubscribe">Wie beende ich eine Mitgliedschaft?</a>
+<li><a href="#details">Wie ändere ich meine Kreditkarten- und Kontaktinformationen?</a>
+<li><a href="#cancel">Wie lange dauert es, bis eine Mitgliedschaft gekündigt ist?</a>
+<li><a href="#possible">Ist es möglich, für nur einen Monat zu zahlen?</a>
+<li><a href="#minimum">Gibt es eine Mindestlaufzeit für meine Mitgliedschaftsvereinbarung?</a>
+<li><a href="#agreeing">Wozu stimme ich zu, wenn ich Mitglied werde?</a>
+<li><a href="#avoid">Wann sollte ich kündigen, um zu vermeiden, dass eine weitere Zahlung erfolgt?</a>
+<li><a href="#start">Wann fängt meine Mitgliedschaft an?</a>
+<li><a href="#number">Wo kann ich meine Vertragsnummer finden?</a>
+<li><a href="#transaction">Wo kann ich meine Transaktionsnummer finden?</a>
+<li><a href="#purchase">Warum kann ich meine Kreditkarte nicht benutzen, um Guthaben zu kaufen?</a>
+<li><a href="#why">Warum wurde diesen Monat keine Zahlung abgebucht?</a>
+<li><a href="#down">Warum werden von meiner Kreditkarte regelmäßig Zahlungen abgebucht?</a>
+</ol></div>
+<br>
+<a name="work"></a>
+<span class="title">1. Wie funktioniert die Kreditkartenzahlung?</span><br><br> Zahlungen werden monatlich von Ihrer Kreditkarte abgebucht. Bei jeder Zahlung wird Ihnen ein Monat Mitgliedsguthaben für Ihr Spielkonto gutgeschrieben. <br><br> Sie können Ihre Mitgliedschaft jederzeit über unsere <a href="http://www.funorb.com/l=1/a=135/">Website</a> beenden. Wir werden dann keine weiteren Zahlungen einziehen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="cost"></a>
+<span class="title">2. Wie viel kostet das?</span><br><br> Die Kosten für Ihre Mitgliedszahlung hängen davon ab, aus welchen Land Sie Ihre Mitgliedschaft einrichten und werden zu Beginn des Einrichtungsvorgangs angezeigt. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="countries"></a>
+<span class="title">3. Welche Kreditkarten werden von Ihnen angenommen?</span><br><br> Zahlungen über Visa, Visa Delta und MasterCard stehen allen Kunden zur Verfügung. <br><br> Kunden aus Großbritannien stehen zusätzlich JCB, Visa Electron, Maestro und Solo zur Verfügung. <br><br> Leider können wir außerhalb von Großbritannien keine Bankkarten als Zahlungsmittel annehmen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="secure"></a>
+<span class="title">4. Wie sicher ist diese Zahlungsmethode?</span><br><br> Unsere Website benutzt die für diesen industriellen Bereich standardmäßig verwendete SSL-Verschlüsselung. Das macht es fast völlig unmöglich, dass jemand Ihre Kreditkarteninformationen abfängt. <br><br> Um sicherzugehen, dass Ihr Computer sicher ist, bevor Sie Ihre Mitgliedschaft starten, lesen Sie sich bitte die häufig gestellten Fragen zu den <a href="viewcategory.ws?cat_id=14">Sicherheitsbestimmungen</a> durch. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="subscribe"></a>
+<span class="title">5. Wie richte ich eine Mitgliedschaft ein?</span><br><br> Begeben Sie sich einfach auf unsere <a href="http://www.funorb.com/l=1/a=135/">Website</a> und klicken Sie auf <a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">'Mitgliedschaft starten'</a>. Folgen Sie den Hinweisen für die Zahlung mit einer Kreditkarte. <br><br> Bitte folgen Sie allen Anweisungen, damit Sie auch alle Punkte verstanden haben. <br><br> Sie werden gebeten, Ihre persönlichen Kontakt- und Ihre Kreditkarteninformationen einzugeben. Bitte geben Sie dabei die Kontaktdaten an, mit denen Sie bei Ihrer Bank angemeldet sind, da die Abbuchung ansonsten zurückgewiesen werden könnte. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="taken"></a>
+<span class="title">6. Darf ich mir das Datum aussuchen, an dem die Abbuchungen vorgenommen werden?</span><br><br> Die Zahlung erfolgt sobald die Mitgliedschaft eingerichtet wird und erneut, wenn nur noch 3 Tage Guthaben auf dem Spielkonto verfügbar sind, damit sie ununterbrochen spielen können.<br><br>Um zu beeinflussen, an welchem Tag die Zahlungen vorgenommen werden, richten Sie Ihre Mitgliedschaft einfach zwei Tage nach dem gewünschten Datum ein. Wenn Sie Ihre Mitgliedschaft beispielsweise am 12. jeden Monats erneuern möchten, sollten Sie Ihre Mitgliedschaft am 14. einrichten. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="payments"></a>
+<span class="title">7. Wie viele Zahlungen werden eingeholt?</span><br><br> Sobald die Mitgliedschaft eingerichtet wurde, wird die erste Zahlung eingeholt und dann jeden Monat danach, bis die Mitgliedschaft beendet wird. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="month"></a>
+<span class="title">8. Kann ich für mehr als einen Monat gleichzeitig bezahlen?</span><br><br> Es ist nicht möglich, für mehr als einen Monat gleichzeitig zu bezahlen. Eine Kreditkartenvereinbarung kann nur auf monatlicher Basis eingerichtet werden. <br><br> Falls Sie Ihre Vereinbarung nicht beenden, wird Ihre Mitgliedschaft bestehen bleiben. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="telephone"></a>
+<span class="title">9. Kann ich meine Mitgliedschaft per Telefon einrichten?</span><br><br> Es ist nicht möglich, eine Kreditkartenvereinbarung per Telefon einzurichten.<br><br>Falls Sie diese sichere Online-Zahlungsmethode nicht benutzen möchten, sollten Sie sich für eine der anderen Zahlungsmethoden entscheiden, die Ihnen zur Verfügung stehen. Unter 'Mitgliedschaft starten' auf <a href="http://www.funorb.com/l=1/a=135/">www.funorb.com/l=1/</a> steht Ihnen eine Liste zur Verfügung. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="gift"></a>
+<span class="title">10. Kann ich einen Geschenkgutschein verwenden?</span><br><br> Geschenkgutscheine können zum Kauf der Mitgliedschaft benutzt werden, aber Sie sollten sich zuerst darüber informieren, welche Gutscheine dafür verwendet werden können. Unser Geschäftspartner Worldpay erlaubt die Verwendung von Visa, Delta und MasterCard. Sie sollten sich beim Kartenaussteller darüber informieren, ob Online-Zahlungen mit Ihrer Karte möglich sind. <br><br> Um Ihren Geschenkgutschein zu verwenden, folgen Sie bitte der Anleitung für Visa-Kartenzahlung. <br><br> . <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="unsubscribe"></a>
+<span class="title">11. Wie beende ich eine Mitgliedschaft?</span><br><br> Sie können Ihre Mitgliedschaft jederzeit über unsere Website beenden. Wir werden dann keine weiteren Zahlungen einziehen. <br><br> Zusätzlich behalten Sie den Zugriff auf die Mitglieder-Features, bis das verbleibende Mitgliedsguthaben aufgebraucht ist. <br><br> Sie müssen mindestens drei Tage vor Ablauf Ihres Mitgliedsguthabens kündigen. Wir empfehlen allerdings vier Tage, um eventuelle Neubuchungen zu vermeiden. <br><br>
+<h4 style="display: inline">Kann ich über meine Bank kündigen?</h4>
+<br> Bitte benutzen Sie nur unsere Website, um Ihre Mitgliedschaft zu kündigen. Alternativ können Sie sich auch an unsere Kundenbetreuung wenden. Falls Sie über Ihre Bank kündigen, könnte das Folgen für Ihr Spielkonto nach sich ziehen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="details"></a>
+<span class="title">12. Wie ändere ich meine Kreditkarten- und Kontaktinformationen?</span><br><br> Um die Kreditkarten- oder Kontaktinformationen (inklusive der verwendeten E-Mail-Adresse) zu ändern, von denen Ihre Mitgliedschaft bezahlt wird, müssen Sie nur Ihre <a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">Mitgliedschaft</a> erneut einrichten.<br><br>Die vorherige Mitgliedschaft wird automatisch beendet wenn Sie sie erneut einrichten. Sie werden nicht doppelt bezahlen müssen.<br><br>Falls Sie Ihre Mitgliedschaft erneut einrichten, während sich noch Mitgliedsguthaben auf Ihrem Spielkonto befindet, so wird das neue Monats-Guthaben ihrem bestehenden Guthaben hinzugefügt. Das Spielkonto wird dadurch nicht nachteilig beeinflusst. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="cancel"></a>
+<span class="title">13. Wie lange dauert es, bis eine Mitgliedschaft gekündigt ist?</span><br><br> Die Kündigung wird mit sofortiger Wirkung gültig. Ab diesem Zeitpunkt werden keine weiteren Zahlungen getätigt. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="possible"></a>
+<span class="title">14. Ist es möglich, für nur einen Monat zu zahlen?</span><br><br> Um nur für einen Monat zu zahlen, kündigen Sie Ihre Mitgliedschaft 72 Stunden, bevor sie abläuft. Dann werden keine weiteren Zahlungen eingeholt. Sie haben immer noch Zugriff auf die Mitglieder-Welten, bis Ihr Guthaben ausläuft.<br><br>Falls Sie Ihre Mitgliedschaft nicht zu diesem Zeitpunkt kündigen, wird automatisch eine weitere Abbuchung vorgenommen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="minimum"></a>
+<span class="title">15. Gibt es eine Mindestlaufzeit für meine Mitgliedschaftsvereinbarung?</span><br><br> Es gibt keine Mindestlaufzeit für die Mitgliedschaft. Sie könnten sie im Prinzip sofort kündigen, sobald Sie sie eingerichtet haben und es würden keine weiteren Zahlungen vorgenommen.<br><br>Sie haben weiterhin Zugriff auf die Mitglieder-Inhalte, bis das von Ihnen erworbene Guthaben ausläuft. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="agreeing"></a>
+<span class="title">16. Wozu stimme ich zu, wenn ich Mitglied werde?</span><br><br> Wenn Sie Mitglied werden, stimmen Sie den folgenden Bedingungen zu: <br><br><i>"Durch das Absenden Ihrer Bestellung unterbreiten Sie ein Angebot zur kostenpflichtigen Registrierung für das Spiel. Ihr Angebot wird angenommen und es kommt ein bindender Vertrag zustande, wenn wir eine Nachricht an Ihr Mitteilungsfach senden, in der wir den Erhalt Ihrer Zahlung bestätigen, oder wenn Sie sich in eine Welt einloggen, die Mitgliedern vorbehalten ist (wobei das frühere Ereignis maßgeblich ist).<br><br>Alle Mitgliedsbeiträge werden in regelmäßigen Abständen (z. B. monatlich bei monatlichen Mitgliedschaften) eingezogen, bis Sie Ihre Mitgliedschaft kündigen (siehe unten).<br><br> Zahlungen per Kreditkarte unterliegen zusätzlich unserem Kreditkartenvertrag, der Bestandteil dieser Allgemeinen Geschäftsbedingungen ist."</i><br><br><br>Bitte beachten Sie, dass Sie einer <b><u>automatischen monatlichen Abbuchung</b></u> zustimmen. Wir werden keine Autorisation von Ihnen einholen, wenn wir die jeweilige Abbuchung durchführen. Die Zahlung erfolgt einmal pro Monat, sobald Sie nur noch 3 Tage Mitgliedsguthaben auf Ihrem Spielkonto haben. <br><br>Die Abbuchungen erfolgen ausschließlich im Rahmen der Bedingungen, die in der oben stehenden Vereinbarung festgelegt worden sind.<br><br>Sie können diese Vereinbarung jederzeit kündigen, aber bis Sie das getan haben, werden weitere Abbuchungen erfolgen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="avoid"></a>
+<span class="title">17. Wann sollte ich kündigen, um zu vermeiden, dass eine weitere Zahlung erfolgt?</span><br><br> Zahlungen werden angefordert, sobald nur noch 3 Tage an Guthaben auf dem Spielkonto verfügbar sind. Falls Sie kündigen möchten, um zu verhindern, dass eine weitere Zahlung fällig wird, sollten Sie mindestens 72 Stunden vor Ablauf des Guthabens kündigen.<br><br>Wenn Sie davor kündigen, verlieren Sie kein Mitgliedsguthaben. Sie haben weiterhin Zugang zu allen Mitglieder-Inhalten, bis Ihr Guthaben ausgelaufen ist. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="start"></a>
+<span class="title">18. Wann fängt meine Mitgliedschaft an?</span><br><br> Das Mitgliedsguthaben wird Ihrem Spielkonto gutgeschrieben, sobald die Zahlung bearbeitet wurde. Das passiert üblicherweise augenblicklich, kann aber auch ein paar Stunden in Anspruch nehmen. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="number"></a>
+<span class="title">19. Wo kann ich meine Vertragsnummer finden?</span><br><br> Ihre Vertragsnummer wurde Ihnen mitgeteilt, als Sie Ihre Karteninformationen eingeschickt und die Vereinbarung eingerichtet haben. Die Vertragsnummer befindet sich außerdem in den E-Mails, die Sie von WorldPay erhalten haben. Die Vertragsnummer ist die letzte Nummer, die unter 'cartId' aufgeführt wird und wird mit einem Doppelpunkt abgetrennt. Beispiel: meinbenutzername_12121212:<b>123456</b> <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="transaction"></a>
+<span class="title">20. Wo kann ich meine Transaktionsnummer finden?</span><br><br> Sie erhalten jedes Mal eine E-Mail von WorldPay, wenn eine Zahlung getätigt wird. Diese E-Mail enthält die Transaktionsnummer für die Zahlung, für die Ihnen die E-Mail geschickt wurde. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="purchase"></a>
+<span class="title">21. Warum kann ich meine Kreditkarte nicht benutzen, um Guthaben zu kaufen?</span><br><br> Sollte eine Zahlung vom Karteninhaber zurückgebucht worden sein, dann ist es nicht mehr möglich, Ihre Mitgliedschaft per Kreditkarte zu bezahlen. Ebenso für den Fall, dass eine Zahlung erstattet wurde, da wir glauben, dass sie nicht mit den allgemeinen Geschäftsbedingungen übereinstimmt. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="why"></a>
+<span class="title">22. Warum wurde diesen Monat keine Zahlung abgebucht?</span><br><br> Dafür kommen verschiedene Gründe in Frage:<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> Sie haben Ihre Mitgliedschaft auf unserer Webseite gekündigt.<br><li> Die zur Zahlung verwendete Kreditkarte ist abgelaufen.<br><li> Ihre Bank hat die Zahlung zurückgewiesen.</ul><br><br>Wir hinterlassen eine Nachricht in Ihrem Mitteilungsfach, falls es uns nicht möglich war, die Zahlung für Ihre Mitgliedschaft zu bearbeiten. Klicken Sie bitte auf 'Nachrichten lesen' auf unserer <a href="http://www.funorb.com/l=1/a=135/">Website</a>, um weitere Details zu erhalten. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+<div class="hr"></div>
+<a name="down"></a>
+<span class="title">23. Warum werden von meiner Kreditkarte regelmäßig Zahlungen abgebucht?</span><br><br> Wenn auf Ihrem Spielkonto nur noch drei Tage Mitgliedschaft gutgeschrieben sind, wird automatisch eine Zahlung abgebucht und Ihrem Spielkonto ein weiterer Monat Mitgliedschaft gutgeschrieben.<br><br>Es ist nicht nötig, eine neue Mitgliedschaft einzurichten. </body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>Weitere Artikel in <a href="viewcategory.ws?cat_id=13">Mitgliedszahlung</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=58">Mitgliedszahlung allgemein</a>, <a href="viewarticle.ws?article_id=32">Zahlungsmethoden, Preise und Partnerunternehmen</a>, Mitgliedschaften per Kreditkarte, <a href="viewarticle.ws?article_id=23">PayByPhone-Zahlung</a>, <a href="viewarticle.ws?article_id=27">PayByCash -Zahlung</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif">English</a>
+<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=135/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=135/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

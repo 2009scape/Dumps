@@ -1,0 +1,335 @@
+
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+pt" xmlns:IE>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+pt">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=pool/favicon.ico">
+<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=pool/favicon.ico">
+<title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+ </style>
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
+<script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<![endif]-->
+
+<meta name="language" content="en, de, fr, pt">
+<meta name="description" content="FunOrb Central - Diário de desenvolvimento">
+<style type="text/css">
+#ddHeader {
+ position: relative;
+ margin: 0;
+ height: 27px;
+ padding: 0 8px;
+ font-size: 13px;
+ font-weight: bold;
+ text-align: center;
+ line-height: 26px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/header.png);
+}
+.subheader {
+ margin: 1em 0 0.5em;
+ height: 20px;
+ padding: 0 8px;
+ font-size: 12px;
+ font-weight: bold;
+ line-height: 18px;
+ color: white;
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/subheader.png);
+}
+.articleBody p {
+ padding-left: 2px;
+ padding-right: 2px;
+ text-align: justify;
+}
+.ddScreens {
+ width: 326px;
+ margin: 1em 0;
+ text-align: center;
+}
+.ddScreens img.first {
+ margin: 0 20px 0 0;
+}
+.ddScreens img {
+ display: block;
+ border: 3px #0a1c30 solid;
+}
+.ddCaption {
+ font-size:85%;
+ font-weight:bold;
+}
+
+.ddprev, .ddnext {
+ position: absolute;
+ left: 8px;
+ top: 6px;
+ width: 23px;
+ height: 14px;
+}
+.ddnext {
+ left: auto;
+ right: 8px;
+}
+a.ddprev {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev_hover.png);
+}
+a.ddnext {
+ background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_hover.png);
+}
+a.ddprev img,
+a.ddnext img {
+ position: absolute;
+ top: 0;
+ left: 0;
+}
+a.ddprev:hover img, a.ddnext:hover img {
+ visibility: hidden;
+}
+</style>
+</head>
+<body id="navForums">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center bodyTheme">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a id="logo" href="http://www.funorb.com/l=3/g=pool/index.ws" ><b>
+<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+</b></a>
+
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+<h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
+<span id="teletext_inner">
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=pool/messengercommon0.js"></script>
+<script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=pool/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/l=3/g=pool/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=pool/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/options.ws" class="fly last">Opções Java</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=pool/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/members.ws" class="fly">Benefícios dos membros</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=3/g=pool/"><span>Comunidade</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://services.funorb.com/m=focommunity/l=3/g=pool/" class="fly">Comunidade - Principal</a></li>
+<li><a href="
+http://services.funorb.com/m=forum_fo_pt/l=3/g=pool/forums.ws" class="fly">Fórum</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=achievements/l=3/g=pool/" class="fly">Conquistas</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=pool/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=3/g=pool/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=pool/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
+<li><a href="http://www.funorb.com/l=3/g=pool/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=pool/loginform.ws?mod=www&amp;ssl=0&amp;dest=kbase/guid/funorb_central_03" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p10">
+<div class="top_link" id="lang_div">
+<a id="countrydrop" href="http://www.funorb.com/l=3/g=pool/index.ws">
+<span>
+<img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<span id="dropArrow"></span>
+</span>
+<!--[if gt IE 6]><!--></a></div><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul id="lang" class="sub">
+<li><a class="fly" href="http://www.funorb.com/g=pool/index.ws"><img title="
+English" alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=1/g=pool/index.ws"><img title="
+Deutsch" alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="http://www.funorb.com/l=2/g=pool/index.ws"><img title="
+Fran&ccedil;ais" alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="http://www.funorb.com/l=3/g=pool/index.ws"><img title="
+Portugu&ecirc;s (BR)" alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" >
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+
+<span class="sectionTrail"><a href="http://www.funorb.com/l=3/g=pool/kbase/guid/dev_diary">Diários de desenvolvimento</a> &gt; FunOrb Central: Parte 3 - A ascensão dos gráficos do FunOrb</span>
+
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" >
+<div class="sectionContentContainer">
+
+<div class="articleBody">
+<h2 id="ddHeader">
+
+<a class="ddprev" href="http://www.funorb.com/l=3/g=pool/kbase/guid/funorb_central_02" title="Anterior">
+<img src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev.png" alt="Anterior" />
+</a>
+
+FunOrb Central: Parte 3 - A ascensão dos gráficos do FunOrb
+
+<img class="ddnext" src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_null.png" alt="" />
+
+</h2>
+<img src="http://www.funorb.com/l=3/img/images/game/central/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="FunOrb Central - Diário de desenvolvimento - Banner" />
+<h3 class="subheader">22 de julho de 2009 - A ascensão dos gráficos do FunOrb</h3>
+<p>Algumas das novas tecnologias que estamos integrando a FunOrb Central são melhorias nas bibliotecas de gráficos.</p> <p>Até agora, todos os jogos do FunOrb exibem gráficos usando software de renderização. Isto significa que o processador do computador é responsável por todos os desenhos que o jogo requer, configurando cada pixel de uma vez.</p> <p>Isto, certamente, confere aos jogos do FunOrb grande controle sobre os gráficos e é rápido o bastante para a maioria dos propósitos. Mas isso também significa que nossos jogos são "fill-rate limited", pois cada pixel que alteramos requer (mais ou menos) uma linha de Java para ser executada. Sendo assim, a performance dos nossos jogos é limitada principalmente pela quantidade de pixels que precisamos para desenhar cada quadro.</p>
+<p>Entre outras coisas, isto limita a resolução que nossos jogos podem usar. Para se ter uma ideia, pense em um jogo normal do FunOrb, com uma janela de 640x480 pixel (que dá um total aproximado de 300 mil pixels) e, em meu computador, o jogo consegue redesenhar o jogo 30 vezes por segundo (30fps). Calculando, meu computador pode "desenhar" aproximadamente 9 milhões de pixels por segundo. (Cá entre nós, isso é garantido se cada pixel for somente desenhado uma vez - mas nem sempre é muito lógico conseguir isto.)</p>
+<p>Agora vamos balancear as coisas. O próximo tamanho de janela padrão que temos disponível é 800x600. Para desenhar nossos jogos na tela, nós temos que escrever quase 500 mil pixels por quadro. Com meu computador conseguindo rodar 9 milhões de pixels/seg, nós agora estamos gerando 19fps - o que está começando a ficar um pouco mais lento. No tamanho seguinte (1024x768) temos 12fps e quando atingirmos a alta tecnologia de resolução de jogos (1680x1050: 5fps) as coisas, aí sim, ficariam muito mais lentas.</p> <div class="ddScreens" style="float: left; margin:  8px 8px 8px 0;">
+<img src="http://www.funorb.com/l=3/img/images/game/central/dev_diary/sp_highres.gif" alt="Alta resolução - Ofensiva Galática" />
+<div class="ddCaption" style="margin:auto;">Alta resolução - Ofensiva Galática.<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/central/dev_diary/sp_highres_full.gif" target="_blank">aqui</a> para ver uma versão maior desta imagem.</div>
+</div>
+<p>Como parte dos nossos planos de ampliar os jogos do FunOrb para essas resoluções mais altas, precisamos mudar nossa abordagem. Há uma peça de hardware instalada em computadores modernos chamada de GPU (em tradução livre, Unidade de Processamento de Gráficos), que acelera a habilidade de processamento de gráficos do seu computador. Ele é usado por jogos mais modernos (inclusive por RuneScape HD) para rodar em alta resolução e em alta velocidade. Nós pretendemos usar este hardware a nosso favor para que os novos jogos do FunOrb rodem assim na Central.</p>
+<p>A melhor vantagem de se usar aceleradores de hardware (como GPU) é que eles são capazes de descarregar o trabalho do processador principal (CPU). Enquanto um jogo do FunOrb, no momento, precisa copiar individualmente cada pixel de, por exemplo, textura dos campos de Kickabout League, o processador poderia apenas solicitar que a GPU fizesse uma cópia e a CPU poderia ser usado, enquanto isso, para os cálculos de física da bola. Além disso, como a GPU é uma peça de hardware especializada e roda sem o overhead de um sistema operacional ou ambiente Java, ele pode trabalhar muito mais por quadro (frame).</p>
+<p>Uma das coisas que gostaríamos de fazer, portanto, é ajustar os nossos jogos atuais para que eles façam uso desta tecnologia que permite resoluções mais altas, começando por 800x600. Também estaríamos particularmente interessados em eventualmente suportar modos de tela widescreen para os jogos do FunOrb.</p>
+<div class="ddScreens" style="float: right; margin: 8px 0 8px 8px;">
+<img src="http://www.funorb.com/l=3/img/images/game/central/dev_diary/kickabout_widescreen.gif" alt="Kickabout League no modo widescreen" />
+<div class="ddCaption">Um exemplo de Kickabout League no modo widescreen.<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/central/dev_diary/kickabout_widescreen_full.gif" target="_blank">aqui</a> para ver a imagem maior.</div>
+</div>
+<p>Como você deve supor, há boas razões para ainda não termos feito isso. Há dois problemas principais ligados ao uso de hardwares de aceleradores de gráficos, até mesmo quando somos tecnicamente capazes de usá-los. A primeira é que muitos dos GPUs no mercado são aqueles chamados de "fixed-function", isto é, com um número limitado de operações capacitados a realizar (ao contrário da CPU, multiuso - que pode ser programado para fazer quase tudo). Alguns jogos funcionam perfeitamente usando isto. Arcanistas, por exemplo, só precisa de algumas imagens copiadas para a tela, que cabe completamente dentro da capacidade da maioria dos aceleradores mais básicos. Porém, jogos como Canhão Estelar usam efeitos mais avançados como contornos, manchas, brilhos ou distorção. Casos como estes exigem mais esforço, pois temos que decidir se o efeito atual pode ser reproduzido ou, se precisarmos substituí-lo, o que precisa ser usado no lugar dele para fazer uso do restante da capacidade do hardware. </p>
+<p>O outro grande problema é compatibilidade. Se você já visitou o menu de opções de Java no site do FunOrb, deve ter notado que há uma opção para escolher entre aplicativos assinados ou não. Os aplicativos assinados, partindo do princípio que você pode rodá-los em sua máquina, exercem um pouco mais de controle sobre o seu computador, inclusive a habilidade de acessar o seu acelerador de gráficos, caso tenha um. Para aqueles jogadores que não podem rodar aplicativos assinados (normalmente em lugares como escritórios ou bibliotecas, onde o sistema de segurança do computador não permite) ou jogadores que não possuem o hardware adequado, nós precisamos nos certificar de que a qualidade do software do FunOrb é a melhor possível, mas isso pode gerar mais tempo para criar, desenvolver e testar. </p>
+<p>Acho que as vantagens realmente valem a pena. Apesar de provavelmente não ser possível lançar o FunOrb Central e ter, imediatamente, todos os jogos rodando em uma resolução mais alta, o trabalho que estamos fazendo no momento, com certeza servirá de base para isso. Como desenvolvedor e jogador, mal posso esperar para ter mais espaço na tela para jogar, além da possibilidade de conseguir modos com mais detalhes. Só para sentir o gostinho, veja as imagens de Kickabout League e Ofensiva Galática.</p>
+<p><b><i>Mod Artifice<br>Desenvolvedor do FunOrb</i></b></p>
+<br class="clear" />
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+</p>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=pool/index.ws"><img alt="
+English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+English</a>
+<a href="http://www.funorb.com/l=1/g=pool/index.ws"><img alt="
+Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+Deutsch</a>
+<a href="http://www.funorb.com/l=2/g=pool/index.ws"><img alt="
+Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+Fran&ccedil;ais</a>
+<a href="http://www.funorb.com/l=3/g=pool/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)</a>
+</div>
+<div class="cr">
+<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
+<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=pool/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=pool/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/l=3/g=pool/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+
+<script type="text/javascript">
+  
+  
+   document.write(unescape("%3Cscript src='http://www.google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+  
+ </script>
+
+<script type="text/javascript">
+  try {
+  var pageTracker=_gat._getTracker("UA-2058817-3");
+  pageTracker._setDomainName(".funorb.com");
+  
+  
+  pageTracker._trackPageview();
+  }catch(x){}
+ </script>
+
+
+</body>
+</html>

@@ -1,0 +1,330 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="
+en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="
+en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
+<meta name="description" content="FunOrb, free online browser-based games from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="title" content="FunOrb - Free Online Games">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="classification" content="GENERAL">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/css/global-13.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/css/layout.ws"></script>
+
+<meta name="language" content="en, de, fr">
+<meta name="description" content="Bans and Mutes and how to appeal them.">
+<title>Bans and Mutes</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td id="bodyTheme" class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<h1 id="welcomeText">Welcome to FunOrb - The Best in Free Online Games</h1>
+<span id="teletext_inner">
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!</span>
+<script type="text/javascript" src="http://fomessenger.funorb.com/messengercommon0.js"></script>
+<script type="text/javascript" src="http://fomessenger.funorb.com/messenger.js"></script>
+
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/members.ws" class="fly last">Members' Benefits</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://focommunity.funorb.com/" class="fly">Community Home</a></li>
+<li><a href="
+http://forum-fo.funorb.com/forums.ws" class="fly">All Forums</a></li>
+<li><a href="
+http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
+<li><a href="http://achievements.funorb.com/" class="fly">Achievements</a></li>
+<li><a href="http://hiscore-fo.funorb.com/" class="fly">Highscores &amp; Ratings</a></li>
+<li><a href="http://orbcoins.funorb.com/" class="fly last">Orb Downloads</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/index.ws">
+<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+</a>
+<a href="http://www.funorb.com/l=1/index.ws">
+<img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+</a>
+<a href="http://www.funorb.com/l=2/index.ws">
+<img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+</a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Customer Support</a> &gt; Bans and Mutes</span>
+
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Bans and Mutes</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#offence">How do I appeal my offence/ban?</a>
+<li><a href="#system">How does the offence and appeal system work?</a>
+<li><a href="#friend">My friend is banned, can you unban them?</a>
+<li><a href="#black">What are black marks and what do they mean?</a>
+<li><a href="#why">Why have I been banned/muted?</a>
+<li><a href="#locked">Why is my account locked?</a>
+</ol></div>
+<br>
+<a name="offence"></a>
+<span class="title">1. How do I appeal my offence/ban/mute?</span><br><br>
+If you believe you have a reason (that we are unaware of) why your account should not have been banned/muted, you can appeal individual offences. To do this, log in to your account and go to Account > Account Management > Appeal Offence. Please make sure that you explain your mitigating circumstances in full and be aware that the subsequent decision on this will be <b>FINAL</b>. <br><br>
+We will only consider an appeal if it is sent through the Appeal Offence system. Do not other forms of contact (e.g. Technical or Billing support) to send offence appeals - multiple instances of misusing these contacts may result in us taking further action against your account. Just follow the above instructions and be patient.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="system"></a>
+<span class="title">2. How does the offence and appeal system work?</span><br><br>
+By reporting in-game abuse as and when you come across it, you are helping us to keep FunOrb a safe and enjoyable online environment for everyone to play in. We take these reports extremely seriously, and will take action against rule-breakers. However, we don’t want to simply tell players off all the time, and we are keen to give players the opportunity to see what they have done, and learn not to repeat bad in-game behaviour. <br><br>
+The Offence Appeal system is our way of ensuring that we are making the right decisions, as well as giving players the opportunity to reflect on what they have done. <br><br>
+You can see your offence history by going to Account > Account Management > Appeal Offence. There, you will see a page like this:
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/offence_system/viewoffensehistory1.gif" alt="Offence History screenshot" title="Offence History screenshot">
+<br><br>
+We give each account a colour-coded rating as an indication of how well it has behaved in-game. The four colour “zones” are:
+<br><br>
+<table>
+<tr>
+<td style="width: 150px;">
+<br>
+<img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/offence_system/greenzone1a.gif" alt="Green flag" title="Green flag"></td>
+<td> <br>Green zone:<br>
+Your account may have accumulated a small number of offences which would have incurred a temporary one day mute at the time. There will be no long term implication of these offences. You will not be able to appeal these offences unless your account is escalated into the yellow zone.<br></td>
+</tr>
+<tr style="height: 20px;"></tr>
+<tr>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/offence_system/yellowzone1a.gif" alt="Yellow flag" title="Yellow flag"></td>
+<td>Yellow zone:<br>
+There are some black marks on your account, which do not warrant a ban as of yet. You should be careful not to acquire more. You are allowed to appeal any offences that you have not already appealed.<br></td>
+</tr>
+<tr style="height: 20px;"></tr>
+<tr>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/offence_system/orangezone1a.gif" alt="Orange flag" title="Orange flag"></td>
+<td>Orange zone:<br>
+The orange zone indicates that you have a dangerous amount of black marks on your account. Any more could result in a long term ban. You are allowed to appeal any offences that you have not already appealed.<br></td>
+</tr>
+<tr style="height: 20px;"></tr>
+<tr>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/img/images/kbase/offence_system/redzone1a.gif" alt="Red flag" title="Red flag"></td>
+<td>Red zone:<br>
+The red zone indicates that you have a very dangerous amount of black marks on your account and that any further offences could result in a permanent ban or permanent mute. You are allowed to appeal any offences that you have not already appealed.
+<br></td>
+</tr>
+</table>
+<br>
+If your account has reached the yellow zone or worse, then you will be able to see how many black marks there are against your account and appeal offences. There is a maximum of 10 black marks: if you reach 10 your account will be permanently banned or permanently muted. <br><br>
+<h4 style="display: inline;">Appealing offences</h4>
+<br><br>
+If your account is in the yellow, orange or red zone, then you can appeal individual offences or apologise for them. When you log in to the offence history you will:
+<br><br>
+<ul style="margin-top: 0px; margin-bottom: 0px; ">
+<li> See a list of offences that you have committed<br>
+<li> Be able to see the evidence for each offence, where available<br>
+<li> See a link labelled 'Appeal'
+</ul>
+<br><br>
+We <b>strongly</b> recommend that you take the time to review the evidence we have provided you with for each offence. You only have one appeal per offence and we wouldn’t want you wasting that appeal arguing the wrong point.
+<br><br>
+If you have not yet appealed your offence, you will be able to explain yourself and provide any reasons you think are valid. Alternatively, if you know you are guilty of the offence, you could instead apologise for your behaviour, which would be the better option.
+<br><br>
+If your appeal is successful, we will remove the offence from the system, as well as any ban or mute that resulted from it. If it is unsuccessful, you will not be able to appeal it again, and it will remain in the system, along with any associated ban or mute. <br><br>
+We will only consider an appeal if it is sent through the Appeal Offence system. Do not other forms of contact (e.g. Technical or Billing support) to send offence appeals - multiple instances of misusing these contacts may result in us taking further action against your account. Just follow the above instructions and be patient.
+<br><br>
+If you're unsure of the rules or want to make sure you know exactly what they are, you can find them by clicking <a href="viewcategory.ws?cat_id=11">here</a>.
+<br><br>
+<h4 style="display: inline">My account is in the green zone and I cannot appeal offences. Why is this?</h4>
+<br><br>
+There is no need to appeal offences when your account is in the green zone as this will not have a noticeable impact on your game play experience. If you do happen to commit enough offences to leave the green zone (and be punished more harshly) then you will have the opportunity to appeal all of the previously unappealable offences that had been applied to your account.
+<br><br>
+We all want our Jagex Moderators to be able to spend more time in game and on the forums supporting all of our players than investigating offence appeals for accounts safely in the green zone that are not at risk of significant punishment.
+<br><br>
+<h4 style="display: inline;">Last chance appeals</h4>
+<br><br>
+If you are permanently banned or permanently muted and have appealed all open offences, you may be given the option to make one final appeal in order to regain your account.
+<br><br>
+Please be aware that if your appeal is denied, you will remain permanently banned or permanently muted and have no further chances to appeal your offences. Also be aware that any punishment for breaking rules in FunOrb will apply to RuneScape, and vice versa.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="friend"></a>
+<span class="title">3. My friend is banned - can you unban them?</span><br><br>
+If your friend has evidence of mitigating circumstances with which to appeal their ban, they will have to send it in themselves. We <b>WILL NOT</b> accept offence appeals from <b>ANYONE</b> other than the true owner of the account in question contacting us via that account. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="black"></a>
+<span class="title">4. What are black marks and what do they mean?</span><br><br>
+Black marks are Jagex's way of keeping track of how an account is behaving in the game.<br><br>Black marks are given for breaking the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> and the number of marks given is dependent on the severity of the offence.<br><br>Each time you gain a black mark you will be informed via your Message Centre, so please check there before contacting Customer Support about them.<br><br>If the number of black marks on your account reaches a certain level, your account will be banned. Black marks may be added individually or multiple marks may be added for more severe offences.<br><br>If you feel that we have banned your account unfairly you can appeal your ban <a href="http://www.funorb.com/account_management.ws">here</a>.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="why"></a>
+<span class="title">5. Why have I been banned or muted?</span><br><br>
+If you have been permanently or temporarily banned/muted you will be able to see this in your offence history. To see this, log into your account and go to Account > Account Management > Appeal Offence. This page will show a list of your offences and links providing the evidence. <br><br>
+If you believe that you should not have been banned/muted, you can appeal your ban by clicking <a href="http://www.funorb.com/account_management.ws">here</a>.
+<br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="locked"></a>
+<span class="title">6. Why is my account locked?</span><br><br>
+If we suspect that someone other than the original owner has access to an account, it will be locked. This is to ensure that it is not used to break any <a href="viewcategory.ws?cat_id=11">Rules</a>. If, when appealing an offence, you indicate that someone else has used your account, your account will also be locked. Click <a href="viewarticle.ws?article_id=46">here</a> to find out how to unlock your account.
+<br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=2">Customer Support</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=57">Reporting Abuse</a>, <a href="viewarticle.ws?article_id=47">Advertising</a>, Bans and Mutes, <a href="viewarticle.ws?article_id=41">Bug Reporting</a>, <a href="viewarticle.ws?article_id=10">Jagex</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p>
+Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost=(("https:"==document.location.protocol)?"https://ssl.":"http://www.");
+document.write(unescape("%3Cscript src='"+gaJsHost+"google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker=_gat._getTracker("UA-2058817-3");
+pageTracker._setDomainName("funorb.com");
+pageTracker._initData();
+pageTracker._trackPageview();
+}catch(x){}
+</script>
+
+</body>
+</html>

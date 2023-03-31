@@ -1,0 +1,287 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en" xmlns:IE>
+<head>
+<title>FunOrb - Free Online Games</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<meta http-equiv="Content-Language" content="en">
+<meta http-equiv="imagetoolbar" content="no">
+<meta http-equiv="PRAGMA" content="NO-CACHE">
+<meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
+<meta name="publisher" content="http://www.jagex.com">
+<meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games">
+<meta name="description" content="FunOrb, free online browser-based gaming from Jagex, the makers of RuneScape. Play puzzle, action, strategy, shooting, word, racing games and more!">
+<meta name="keyphrases" content="JRS">
+<meta name="Author" content="www.jagex.com">
+<meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
+<meta name="ROBOTS" content="INDEX, FOLLOW">
+<meta name="generator" content="WebScripts - http://www.jagex.com">
+<meta name="classification" content="GENERAL">
+<meta name="revisit-after" content="10 days">
+<meta name="title" content="Jagex Software">
+<meta name="rating" content="General">
+<meta name="Distribution" content="global">
+<meta name="Identifier-URL" content="http://www.funorb.com">
+<meta name="MSSmartTagsPreventParsing" content="TRUE">
+<style type="text/css" media="screen">
+  /*\*/@import url(http://www.funorb.com/a=18/css/global-4.css);/**/
+ </style>
+<!--[if lt IE 7]>
+<style type="text/css" media="screen">@import url(http://www.funorb.com/a=18/css/ieFix-1.css);</style>
+<![endif]-->
+<script type="text/javascript" src="http://www.funorb.com/a=18/css/layout.ws"></script>
+
+<meta name="language" content="en, de">
+<meta name="description" content="How to deal with disruptive players.">
+<title>Reporting Abuse</title>
+</head>
+<body id="navHelp">
+<a name="top"></a>
+<table id="wrapper">
+<tbody>
+<tr>
+<td class="center">
+<div id="container">
+
+<div id="header">
+<div id="navigation">
+<div class="lft"></div>
+<div class="rght"></div>
+<div class="container">
+<a href="http://www.funorb.com/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<div id="shell">
+<div class="lft"></div>
+<div class="rght"></div>
+<div id="teleText">
+
+<span style="color:#32acfa">Welcome to FunOrb.</span><br>
+To gain access to some of our multiplayer games, highscore tables and Achievements, please create an account. It's quick, easy and absolutely FREE!
+</div>
+</div>
+</div>
+<div class="clear"></div>
+<ul class="menu">
+<li class="top p1"><a href="http://www.funorb.com/a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=18/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="http://www.funorb.com/a=18/options.ws" class="fly last">Java Options</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/a=18/"><span>Join</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+<ul class="sub">
+<li><a href="https://create.funorb.com/a=18/" class="fly">Create Free Account</a></li>
+<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="http://www.funorb.com/a=18/members.ws" class="fly last">Members' Benefits</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p4"><a id="forums" class="top_link" href="http://forum-fo.funorb.com/a=18/forums.ws"><span>Community</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws" class="fly">All Forums</a></li>
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws?0,1" class="fly">Announcements</a></li>
+<li><a href="http://forum-fo.funorb.com/a=18/forums.ws?7,8" class="fly">Developer Forum</a></li>
+<li><a href="http://achievements.funorb.com/a=18/" class="fly last">Achievements</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<!--[if lte IE 6]><table><tr><td><![endif]-->
+
+<ul class="sub">
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="http://www.funorb.com/a=18/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="http://www.funorb.com/a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+</ul>
+<!--[if lte IE 6]></td></tr></table></a><![endif]-->
+</li>
+<li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/a=18/" id="register" class="top_link"><span>Create Account</span></a></li>
+<li class="top p8"><a href="http://www.funorb.com/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=how_do_i_report_abuse" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p10">
+<div id="lang" class="top_link">
+<span>
+<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/en.gif" alt="English" /></a>
+<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/de.gif" alt="German" /></a>
+</span>
+</div>
+</li>
+</ul>
+</div>
+<br class="clear" />
+</div>
+<div id="page_content">
+<a name="top_of_page"></a>
+
+<a name="article"></a>
+<div class="section" id="article" style="">
+<div class="sectionHeader">
+<div class="sectionHeaderRight">
+<div class="sectionTitle">
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Help</a> &gt; <a href="viewcategory.ws?cat_id=2">Customer Support</a> &gt; Reporting Abuse</span>
+</div>
+</div>
+</div>
+<div class="sectionBorder">
+<div class="sectionBackground">
+<div class="sectionContent" style="">
+<div class="sectionContentContainer">
+<h1 class="articleTitle">Reporting Abuse</h1>
+<div class="articleBody">
+<body>
+<div class="faqsList">
+<ol>
+<li><a href="#abuse">A player is abusing or harassing me in a multiplayer game, what should I do?</a>
+<li><a href="#real">A player is harassing or threatening me in the real world. What should I do?</a>
+<li><a href="#report">How do I report abuse?</a>
+<li><a href="#chat">How does the chat filter work?</a>
+<li><a href="#what">What is Abuse?</a>
+</ol></div>
+<br>
+<a name="abuse"></a>
+<span class="title">1. A player is abusing or harassing me in a multiplayer game, what should I do?</span><br><br>
+Firstly, you should report the player by using our in-game report function. You can find out how to do this by going to Question 3, below. This sort of activity is something that we take very seriously and, as such, we will look into this matter very carefully.<br><br>You only need to send in one report for each incident. If we receive several reports of the same incident then this means that we may take longer to action other reports.<br><br>If a player is threatening to steal your account then, to ensure that your account is secure from any possible hijack attempt, we would ask you to read and follow the information found in our <a href="viewarticle.ws?article_id=42">Security Information </a>document.<br><br>Follow all the advice in there and we are totally confident that your account will remain secure. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="real"></a>
+<span class="title">2. A player is harassing or threatening me in the real world. What should I do?</span><br><br>
+If anyone is bullying you or threatening you in the real world, whether it is related to FunOrb or not, you should make sure that you tell someone such as a parent, guardian or teacher.<br><br>You and they can find lots of useful help and advice on how to tackle bullying at the following websites:<br><br>
+<a href="http://www.bullying.co.uk" target="_blank">www.bullying.co.uk</a>
+<br><br>
+<a href="http://www.need2know.co.uk" target="_blank">www.need2know.co.uk</a>
+<br><br>
+<a href="http://www.childline.org.uk" target="_blank">www.childline.co.uk</a>
+<br><br>
+<a href="http://www.ceop.co.uk" target="_blank">www.ceop.org.uk</a>
+<br><br>
+<br>If you are in the UK and you feel you would like to talk to someone, then you can contact Childline - the UK's free, 24-hour helpline for young people in trouble or danger - on 0800 1111.<br><br>The lines can be busy, so please keep trying, or you can email them through their website, above.<br><br>For serious cases related to Child Protection in the United States, please report it to: <a href="http://www.fbi.gov/contactus.htm" target="_blank">www.fbi.gov/contactus.htm</a><br><br>For serious cases in the UK, contact your local police force via their station number of find more information here: <a href="http://www.police.uk" target="_blank">www.police.uk</a>. Alternatively, contact the Social Services, whose phone number you can find in the phone book. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="report"></a>
+<span class="title">3. How do I report abuse?</span><br><br>
+<b>Before you report</b>
+<br>
+If you are going to send in a report against a player then you must make sure that it is a legitimate claim of abuse. This means that it must contain evidence of the situation or we will not be able to take any action. This means that you have to send a report when you see it happening and not discuss it with your friends first.
+<br><br>
+You need to make sure that the person you are reporting is actually breaking one of the Codes of Conduct. Be assured that we look at all abuse reports thoroughly and if you are unsure then we can always make the decision for you, so if in doubt, send a report. Make sure that you do not, however, report someone who is obviously not breaking the <a href="viewcategory.ws?cat_id=11">Codes of Conduct</a>, as this will reflect badly upon yourself.
+<br><br>
+If the chat filter has blocked out the profanity then there is no need to send in a report, as they did not actually break the rules.
+<br><br>
+Petty abuse, such as simply calling someone a 'noob', is not a good enough reason to report someone for abuse as this is very common in online games and is not considered offensive, unless it is combined with additional offensive words.
+<br><br>
+Being offensive to someone else and then reporting them when they retaliate is also a complete misuse of the system. Our logs will clearly show what happened before the report and it will be easy to see who actually started the incident.
+<br><br>
+Sending in hoax reports slows us down, and repeatedly doing so is likely to result in action being taken against your account.
+<br><br>
+<b>Making your report</b>
+<br>
+If you are sure you want to make an abuse report then please use the Report Abuse button, which is located in the bottom of the FunOrb chat window.
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/safetyguidelines/report_abuse.gif" alt="Report Abuse button" title="Report Abuse button">
+<br><br>
+To use the Report Abuse button, simply click it, enter the player's name and select the relevant category - your abuse report will be sent automatically.
+<br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/safetyguidelines/reportabusemenu2a.gif" alt="Report Abuse menu" title="Report Abuse menu">
+<br><br>
+Please only send in one report for each incident. We can get all of the information that we need from the single report and sending in many simply stops us being able to process your reports as quickly.
+<br><br>
+<b>After your report</b>
+<br>
+All abuse reports that we receive are looked into and actioned; however, it may be that we do not agree with your report or there is not enough evidence in the report and have decided to take no further action against the player. Please do not send in messages about the first report as our decision is FINAL. Also, please do not send in any additional reports unless you see the player breaking the rules again. <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="chat"></a>
+<span class="title">4. How does the chat filter work?</span><br><br>
+The chat filter works by detecting certain offensive words or patterns of letters which we deem are only used to break the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a>. These are then filtered out and replaced with stars in the chat window. We are aware that some words will be censored unnecessarily and we will never take action against an account, even if it has been reported, unless it has actually broken the Rules. If you see that a player's comment has been filtered, then it is not necessary to submit an abuse report as, essentially, the chat filter has done its job.<br><br>If you see anyone deliberately spelling words differently so that they can circumvent the chat filter and break the Rules then you should report them for Offensive Language. To find out how, take a look at Question 3, above. </a> <br><br>
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+<div class="hr"></div>
+<a name="what"></a>
+<span class="title">5. What is Abuse?</span><br><br>
+Abuse covers, but is not limited to, any of the following:<br>
+<ul style="margin-top: 0px; margin-bottom: 0px; ">
+<br>
+<li>Offensive language. This includes comments on people's ethnicity, gender, sexual orientation, appearance, disabilities, nationality or political beliefs.
+<br><br>
+<li>Asking other players for passwords and trying to steal Jagex accounts.
+<br><br>
+<li>Attempting to buy, sell or give away a Jagex account.
+<br><br>
+<li>Impersonating either a <a href="viewcategory.ws?cat_id=10">Moderator</a> or someone who has abilities to change, edit or cheat in a Jagex game.
+<br><br>
+<li>Advertising any website.
+<br>
+</ul>
+<br>
+For a full list of what is considered abuse, please check our <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a>. Abuse can be directed to a player, group of players or it may just be disruptive behaviour. Please read Question 3, above, to find out what to do if you see someone breaking the rules. <br>
+</body>
+
+<p class="articleBacktotop">
+<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+</p>
+</div>
+<div class="articleFooter">
+<b>More articles in
+<a href="viewcategory.ws?cat_id=2">Customer Support</a> : </b>
+<span class="articleMore">
+<a href="viewarticle.ws?article_id=15">Members</a>, Reporting Abuse, <a href="viewarticle.ws?article_id=47">Advertising</a>, <a href="viewarticle.ws?article_id=9">Bans and Mutes</a>, <a href="viewarticle.ws?article_id=41">Bug Reporting</a></span>
+</div>
+</div>
+</div>
+<div class="sectionFooter"><div></div></div>
+</div>
+</div>
+</div>
+<div class="clear"></div>
+</div>
+<div id="copyRight">
+<div class="cr">
+<p>
+Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+United Kingdom and trademarks used in other countries of the world.
+</p>
+<p>
+By using our service you are agreeing to our <a href="http://www.funorb.com/a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+</p>
+</div>
+<div id="jagex">
+<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+</div>
+</div>
+</div>
+</td>
+</tr>
+</tbody>
+</table>
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+ var pageTracker = _gat._getTracker("UA-2058817-3");
+ pageTracker._setDomainName("funorb.com");
+ pageTracker._initData();
+ pageTracker._trackPageview();
+}
+catch(err){}
+</script>
+</body>
+</html>
