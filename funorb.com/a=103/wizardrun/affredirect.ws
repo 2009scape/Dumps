@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../a=103/wizardrun/play.ws?ac=TFIvLcAOSDFtUDF383BJZN0GiKw&js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../a=103/wizardrun/play.ws?ac=TFIvLcAOSDFtUDF383BJZN0GiKw" /></noscript></head></html>

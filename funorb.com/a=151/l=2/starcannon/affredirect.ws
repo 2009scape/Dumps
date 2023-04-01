@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../../l=2/a=151/starcannon/play.ws?ac=YWyCRraw96LrL2va8NScUXTxpmw&js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../../l=2/a=151/starcannon/play.ws?ac=YWyCRraw96LrL2va8NScUXTxpmw" /></noscript></head></html>

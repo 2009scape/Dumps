@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../a=119/crazycrystals/play.ws?ac=*Mmvp0pks44uZ6JQC1eCCB5gvAo&js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../a=119/crazycrystals/play.ws?ac=*Mmvp0pks44uZ6JQC1eCCB5gvAo" /></noscript></head></html>

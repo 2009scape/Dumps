@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../../a=170/arcanistsmulti/play.ws?js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../../a=170/arcanistsmulti/play.ws" /></noscript></head></html>

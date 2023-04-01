@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../a=119/lexicominos/play.ws?ac=*Mmvp0pks46fBCLzlcrRMx*cl1I&js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../a=119/lexicominos/play.ws?ac=*Mmvp0pks46fBCLzlcrRMx*cl1I" /></noscript></head></html>

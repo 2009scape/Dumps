@@ -1,0 +1,1 @@
+<html><body style="margin:0;"><img src="../../l=1/img/images/game/minerdisturbance/screen1a.jpg"></body></html>

@@ -1,0 +1,1 @@
+<html><body style="margin:0;"><img src="../img/images/game/aceofskies/screen1.jpg"></body></html>

@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../a=119/p=CLqW5CLEyTz0xa-t7zCjUPTFr*3vMKNQUxONT3MQLCk/gamename/play.ws?js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../a=119/p=CLqW5CLEyTz0xa-t7zCjUPTFr*3vMKNQUxONT3MQLCk/gamename/play.ws" /></noscript></head></html>

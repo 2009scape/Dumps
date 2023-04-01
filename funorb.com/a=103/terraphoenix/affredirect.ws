@@ -1,0 +1,1 @@
+<html><head><script type="text/javascript">document.write('<meta http-equiv="refresh" content="0;url=../../a=103/terraphoenix/play.ws?ac=35hKiQvYs3RMbMKcvAoOc-wmWms&js=1" />');</script><noscript><meta http-equiv="refresh" content="0;url=../../a=103/terraphoenix/play.ws?ac=35hKiQvYs3RMbMKcvAoOc-wmWms" /></noscript></head></html>
