@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,12 +20,12 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-21.css);/**/
+  /*\*/@import url(../../l=2/css/global-21.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="N'affirmez jamais que vous travaillez pour Jagex.">
@@ -45,8 +45,8 @@ fr">
 <div class="container">
 
 <h1 id="logo">
-<a href="http://www.funorb.com/l=2/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a href="../../l=2/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 </h1>
 <div id="shell">
@@ -56,7 +56,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
 
@@ -65,28 +65,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -97,41 +97,41 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Tous les forums</a></li
 http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=rule_5_jagex_staff_impersonation" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=rule_5_jagex_staff_impersonation" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<a id="countrydrop" href="../../l=2/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -147,7 +147,7 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Rï¿½gle 5 - Usurpation de l'identitï¿½ d'un membre du personnel de Jagex</span>
 
 </div>
 </div>
@@ -156,52 +156,52 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex</h1>
+<h1 class="articleTitle">Rï¿½gle 5 - Usurpation de l'identitï¿½ d'un membre du personnel de Jagex</h1>
 <div class="articleBody">
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 27 février 2008</div>
-<br>Ne cherchez jamais à vous faire passer pour un employé de Jagex.<br><br>Dans les discussions de jeu, tant privées que générales, les membres du personnel de Jagex sont signalés par une couronne dorée en regard de leur nom. Tout joueur dont le nom n'est pas associé à une couronne dorée ne fait pas partie du personnel de Jagex.<br>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 27 fï¿½vrier 2008</div>
+<br>Ne cherchez jamais ï¿½ vous faire passer pour un employï¿½ de Jagex.<br><br>Dans les discussions de jeu, tant privï¿½es que gï¿½nï¿½rales, les membres du personnel de Jagex sont signalï¿½s par une couronne dorï¿½e en regard de leur nom. Tout joueur dont le nom n'est pas associï¿½ ï¿½ une couronne dorï¿½e ne fait pas partie du personnel de Jagex.<br>
 <br>
 <div class="hr"></div>
-<b>Questions associées</b><br>Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.<br>
+<b>Questions associï¿½es</b><br>Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.<br>
 <br>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ?</a>
-<li><a href="#jagex">Un joueur affirmant travailler pour Jagex me demande les détails de mon compte. Dois-je les lui donner ?</a>
-<li><a href="#staff">Si le personnel Jagex a une couronne dorée, qui sont les joueurs qui ont une couronne argentée ?</a>
+<li><a href="#why">Pourquoi cette rï¿½gle ?</a>
+<li><a href="#jagex">Un joueur affirmant travailler pour Jagex me demande les dï¿½tails de mon compte. Dois-je les lui donner ?</a>
+<li><a href="#staff">Si le personnel Jagex a une couronne dorï¿½e, qui sont les joueurs qui ont une couronne argentï¿½e ?</a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ?</span><br><br>Cette règle permet aux joueurs d'identifier les membres du personnel de Jagex. Ils savent ainsi qu'ils peuvent leur faire entièrement confiance lorsqu'ils ont besoin d'assistance concernant des problèmes rencontrés au cours d'un jeu.<br><br>
+<span class="title">1. Pourquoi cette rï¿½gle ?</span><br><br>Cette rï¿½gle permet aux joueurs d'identifier les membres du personnel de Jagex. Ils savent ainsi qu'ils peuvent leur faire entiï¿½rement confiance lorsqu'ils ont besoin d'assistance concernant des problï¿½mes rencontrï¿½s au cours d'un jeu.<br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="jagex"></a>
-<span class="title">2. Un joueur affirmant travailler pour Jagex me demande les détails de mon compte. Dois-je les lui donner ?</span><br><br>Les membres du personnel de Jagex se reconnaissent de trois manières :<ol>
-<li>Une couronne dorée s'affiche en regard du nom des personnages du personnel de Jagex.<li>Les membres du personnel de Jagex ne demandent jamais de mot de passe.<li>Les membres du personnel de Jagex ne contactent jamais les joueurs dans le jeu à propos de leur compte.</ol>Nous n'avons pas de personnel « espion », nous n'avons pas besoin du mot de passe des joueurs pour vérifier leur compte et nous communiquons avec les joueurs par le biais de leur messagerie en ce qui concerne les problèmes qu'ils rencontrent avec leur compte.<br><br>Si vous constatez une tentative d'usurpation d'identité d'un membre du personnel de Jagex ou de tout autre joueur, veuillez utiliser le bouton Signaler un abus en bas de l'écran et suivre les invites qui s'affichent. Nous pourrons alors prendre les mesures qui s'imposent à l'encontre du fraudeur.<br><br>
+<span class="title">2. Un joueur affirmant travailler pour Jagex me demande les dï¿½tails de mon compte. Dois-je les lui donner ?</span><br><br>Les membres du personnel de Jagex se reconnaissent de trois maniï¿½res :<ol>
+<li>Une couronne dorï¿½e s'affiche en regard du nom des personnages du personnel de Jagex.<li>Les membres du personnel de Jagex ne demandent jamais de mot de passe.<li>Les membres du personnel de Jagex ne contactent jamais les joueurs dans le jeu ï¿½ propos de leur compte.</ol>Nous n'avons pas de personnel ï¿½ espion ï¿½, nous n'avons pas besoin du mot de passe des joueurs pour vï¿½rifier leur compte et nous communiquons avec les joueurs par le biais de leur messagerie en ce qui concerne les problï¿½mes qu'ils rencontrent avec leur compte.<br><br>Si vous constatez une tentative d'usurpation d'identitï¿½ d'un membre du personnel de Jagex ou de tout autre joueur, veuillez utiliser le bouton Signaler un abus en bas de l'ï¿½cran et suivre les invites qui s'affichent. Nous pourrons alors prendre les mesures qui s'imposent ï¿½ l'encontre du fraudeur.<br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="staff"></a>
-<span class="title">3. Si le personnel de Jagex a une couronne dorée, qui sont les joueurs qui ont une couronne argentée ?</span><br><br>
-Dans les discussions de jeu, les joueurs dont le nom est associé à une couronne argentée sont des joueurs modérateurs. Tout joueur dont le nom n'est pas associé à une couronne argentée n'est pas modérateur. Pour plus d'informations sur les joueurs modérateurs, voir la section<a href="http://www.funorb.com/l=2/kbase/view.ws?guid=player_moderators">Joueur modérateur</a>du service clientèle.<br><br>
-<p><i>Nous demandons à tout le monde d'observer cette règle pour garantir à chacun une expérience de jeu agréable dans FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, votre compte sera fermé. Les membres exclus pour violation de nos règles n'ont droit à aucun type de remboursement.</i></p>
+<span class="title">3. Si le personnel de Jagex a une couronne dorï¿½e, qui sont les joueurs qui ont une couronne argentï¿½e ?</span><br><br>
+Dans les discussions de jeu, les joueurs dont le nom est associï¿½ ï¿½ une couronne argentï¿½e sont des joueurs modï¿½rateurs. Tout joueur dont le nom n'est pas associï¿½ ï¿½ une couronne argentï¿½e n'est pas modï¿½rateur. Pour plus d'informations sur les joueurs modï¿½rateurs, voir la section<a href="../../l=2/kbase/view.ws?guid=player_moderators">Joueur modï¿½rateur</a>du service clientï¿½le.<br><br>
+<p><i>Nous demandons ï¿½ tout le monde d'observer cette rï¿½gle pour garantir ï¿½ chacun une expï¿½rience de jeu agrï¿½able dans FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, votre compte sera fermï¿½. Les membres exclus pour violation de nos rï¿½gles n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Autres rubriques dans
 <a href="viewcategory.ws?cat_id=11">Code de conduite</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=14">Règle 3 - Extorsion de mot de passe</a>, <a href="viewarticle.ws?article_id=50">Règle 4 - Triche/Exploitation de bug</a>, Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex, <a href="viewarticle.ws?article_id=48">Règle 6 - Partage/Échange de compte</a>, <a href="viewarticle.ws?article_id=24">Règle 7 - Utilisation d'un logiciel tiers</a></span>
+<a href="viewarticle.ws?article_id=14">Rï¿½gle 3 - Extorsion de mot de passe</a>, <a href="viewarticle.ws?article_id=50">Rï¿½gle 4 - Triche/Exploitation de bug</a>, Rï¿½gle 5 - Usurpation de l'identitï¿½ d'un membre du personnel de Jagex, <a href="viewarticle.ws?article_id=48">Rï¿½gle 6 - Partage/ï¿½change de compte</a>, <a href="viewarticle.ws?article_id=24">Rï¿½gle 7 - Utilisation d'un logiciel tiers</a></span>
 </div>
 </div>
 </div>
@@ -212,17 +212,17 @@ Dans les discussions de jeu, les joueurs dont le nom est associé à une couronne 
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter">Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter">Choisissez votre langue :&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p>Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays.</p>
-<p>Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>.</p>
+<p>Copyright ï¿½ 2009 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays.</p>
+<p>Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>.</p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

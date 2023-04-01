@@ -5,7 +5,7 @@
 /* ############# */
 /* Navigation */
 #gameContainer #navigation {
- background:url(http://www.funorb.com/l=1/img/images/layout/nav_game.gif) repeat-x 136px;
+ background:url(../../l=1/img/images/layout/nav_game.gif) repeat-x 136px;
  margin:auto;
  height:136px;
  width:758px;
@@ -16,7 +16,7 @@
 }
 
 #gameContainer #navigation .lft {
- background:url(http://www.funorb.com/l=1/img/images/layout/nav_game.gif) no-repeat;
+ background:url(../../l=1/img/images/layout/nav_game.gif) no-repeat;
  position:absolute;
  left:-9px;
  height:136px;
@@ -24,7 +24,7 @@
 }
 
 #gameContainer #navigation .rght {
- background:url(http://www.funorb.com/l=1/img/images/layout/nav_game.gif) no-repeat right -272px;
+ background:url(../../l=1/img/images/layout/nav_game.gif) no-repeat right -272px;
  position:absolute;
  right:-9px;
  height:136px;
@@ -64,7 +64,7 @@
 
 
 #gameContainer li.p11 span {
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat right 0px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat right 0px;
  margin-left:3px;
  display:block;
  color:#04fa2d;
@@ -78,7 +78,7 @@
 #affgame {
  line-height: 25px;
  padding: 2px 0 0 94px;
- background:url(http://www.funorb.com/l=1/img/images/layout/affiliate_gameheader.gif) no-repeat left 1px;
+ background:url(../../l=1/img/images/layout/affiliate_gameheader.gif) no-repeat left 1px;
 }
 
 #affgame li.p11 span {
@@ -94,7 +94,7 @@
  right: 0;
  bottom: -3px;
  height: 38px;
- background: url(http://www.funorb.com/l=1/img/images/layout/affiliate_gameheader.gif) no-repeat left 2px;
+ background: url(../../l=1/img/images/layout/affiliate_gameheader.gif) no-repeat left 2px;
  padding: 4px 14px 0 69px;
  font-size: 34px; 
 }
@@ -108,24 +108,24 @@
 
 .menu li a#gamelist,
 .menu li a#serverlist {
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat 0px -76px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat 0px -76px;
 }
 
 .menu li a#gamelist span,
 .menu li a#serverlist span {
  margin-left:3px;
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat right -76px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat right -76px;
  display:block;
 }
 
 .menu li a#gamelist:hover span,
 .menu li a#serverlist:hover span {
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat right -114px;
 }
 
 .menu li a#gamelist:hover,
 .menu li a#serverlist:hover {
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat 0px -114px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat 0px -114px;
 }
 
 .menu li a#gamelist {width:105px;}
@@ -139,12 +139,12 @@
 
 .menu li.top:hover a#gamelist,
 .menu li.top:hover a#serverlist {
-  background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat 0px -114px;
+  background:url(../../l=1/img/images/layout/menu.gif) no-repeat 0px -114px;
 }
 
 .menu li.top:hover a#gamelist span,
 .menu li.top:hover a#serverlist span {
- background:url(http://www.funorb.com/l=1/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../l=1/img/images/layout/menu.gif) no-repeat right -114px;
 }
 
 #returnToGames {
@@ -170,7 +170,7 @@
 }
 
 #bookmark {
- background:url("http://www.funorb.com/l=1/img/images/social/bookmark_bg.png") repeat scroll 0 0 transparent;
+ background:url("../../l=1/img/images/social/bookmark_bg.png") repeat scroll 0 0 transparent;
  height:34px;
  line-height:32px;
 }
@@ -208,7 +208,7 @@
 }
 
 body#game #footer {
- background:url(http://www.funorb.com/l=1/img/images/layout/gameFooter.jpg) repeat-x -101px;
+ background:url(../../l=1/img/images/layout/gameFooter.jpg) repeat-x -101px;
  margin:0px 9px;
  height:101px;
  width:758px !important;
@@ -216,7 +216,7 @@ body#game #footer {
 }
 
 body#game #footer .lft {
- background:url(http://www.funorb.com/l=1/img/images/layout/gameFooter.jpg) no-repeat;
+ background:url(../../l=1/img/images/layout/gameFooter.jpg) no-repeat;
  position:absolute;
  left:-9px;
  height:101px;
@@ -224,7 +224,7 @@ body#game #footer .lft {
 }
 
 body#game #footer .rght {
- background:url(http://www.funorb.com/l=1/img/images/layout/gameFooter.jpg) no-repeat right -202px;
+ background:url(../../l=1/img/images/layout/gameFooter.jpg) no-repeat right -202px;
  position:absolute;
  right:-9px;
  height:101px;

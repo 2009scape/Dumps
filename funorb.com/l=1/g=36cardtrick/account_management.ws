@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=36cardtrick/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=36cardtrick/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=36cardtrick/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=36cardtrick/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -75,7 +75,7 @@
   float: right;
   height: 21px;
   width: 135px;
-  background: transparent url(http://www.funorb.com/l=1/img/images/layout/button_blue_mini_135.gif) no-repeat top left;
+  background: transparent url(../../l=1/img/images/layout/button_blue_mini_135.gif) no-repeat top left;
   cursor: pointer;
   line-height: 21px;
   vertical-align: middle;
@@ -106,15 +106,15 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=36cardtrick/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=36cardtrick/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=36cardtrick/messengercommon0.js"></script>
@@ -125,25 +125,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=36cardtrick/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=36cardtrick/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=36cardtrick/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=36cardtrick/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=36cardtrick/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=36cardtrick/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=36cardtrick/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=36cardtrick/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=36cardtrick/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=36cardtrick/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=36cardtrick/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=36cardtrick/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -153,23 +153,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=36cardtrick/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=36cardtrick/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=36cardtrick/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=36cardtrick/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=36cardtrick/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=36cardtrick/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=36cardtrick/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=36cardtrick/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=36cardtrick/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=36cardtrick/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=36cardtrick/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=36cardtrick/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=36cardtrick/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -177,28 +177,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=36cardtrick/loginform.ws?mod=www&amp;ssl=0&amp;dest=account_management.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=36cardtrick/index.ws">
+<a id="countrydrop" href="../../l=1/g=36cardtrick/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=36cardtrick/index.ws"><img title="
+<li><a class="fly" href="../../g=36cardtrick/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=36cardtrick/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=36cardtrick/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=36cardtrick/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=36cardtrick/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=36cardtrick/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=36cardtrick/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -229,36 +229,36 @@ Mitgliedschaft verwalten
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Wenn Sie es noch nicht getan haben - Warum werden Sie nicht Mitglied und genießen alle dazugehörigen Vorteile? Sie können nur bei FunOrb Mitglied werden oder auch eine kombinierte Mitgliedschaft mit RuneScape einrichten. Wenn Sie bereits Mitglied sind, können Sie hier auch Ihre Mitgliedschaft verlängern oder beenden. <br><br><i>Um ein Konto zu erstellen, klicken Sie bei einem beliebigen Spiel auf 'Spielen' und dann auf die Schaltfläche "Kostenloses Spielkonto erstellen".</i>
+<p class="blurb"> Wenn Sie es noch nicht getan haben - Warum werden Sie nicht Mitglied und genieï¿½en alle dazugehï¿½rigen Vorteile? Sie kï¿½nnen nur bei FunOrb Mitglied werden oder auch eine kombinierte Mitgliedschaft mit RuneScape einrichten. Wenn Sie bereits Mitglied sind, kï¿½nnen Sie hier auch Ihre Mitgliedschaft verlï¿½ngern oder beenden. <br><br><i>Um ein Konto zu erstellen, klicken Sie bei einem beliebigen Spiel auf 'Spielen' und dann auf die Schaltflï¿½che "Kostenloses Spielkonto erstellen".</i>
 </p>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_startsubscription.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
+<img src="../../l=1/img/images/account_management/icon_startsubscription.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">Einrichten/verlängern</a></h3>
-<p>Mitgliedschaft einrichten oder verlängern.</p>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">Einrichten/verlï¿½ngern</a></h3>
+<p>Mitgliedschaft einrichten oder verlï¿½ngern.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">Einrichten</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">Einrichten</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_information.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
+<img src="../../l=1/img/images/account_management/icon_information.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Mitgliedschaftsinfos</a></h3>
-<p>Infos über derzeitige Mitgliedschaft.</p>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Mitgliedschaftsinfos</a></h3>
+<p>Infos ï¿½ber derzeitige Mitgliedschaft.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Ansehen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Ansehen</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_cancelsubscription.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">
+<img src="../../l=1/img/images/account_management/icon_cancelsubscription.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Beenden</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Beenden</a></h3>
 <p>Beenden Sie eine bestehende Mitgliedschaft.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Beenden</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Beenden</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -272,46 +272,46 @@ Kontoeinstellungen
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Wir empfehlen allen Nutzern, gelegentlich ihr Passwort zu ändern. Wenn Sie wegen eines Regelverstoßes bestraft oder gesperrt wurden, können Sie unten Einspruch dagegen einlegen. Dort können Sie auch Nachrichten von Jagex lesen. Denken Sie daran: Jagex wird Sie im Spiel nie nach Ihren Kontodaten fragen. </p>
+<p class="blurb"> Wir empfehlen allen Nutzern, gelegentlich ihr Passwort zu ï¿½ndern. Wenn Sie wegen eines Regelverstoï¿½es bestraft oder gesperrt wurden, kï¿½nnen Sie unten Einspruch dagegen einlegen. Dort kï¿½nnen Sie auch Nachrichten von Jagex lesen. Denken Sie daran: Jagex wird Sie im Spiel nie nach Ihren Kontodaten fragen. </p>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_changepassword.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">
+<img src="../../l=1/img/images/account_management/icon_changepassword.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">Passwortänderung</a></h3>
-<p>Ändern Sie Ihr Passwort alle paar Monate.</p>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">Passwortï¿½nderung</a></h3>
+<p>ï¿½ndern Sie Ihr Passwort alle paar Monate.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">Passwortänderung</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=password_history&amp;dest=password.ws">Passwortï¿½nderung</a>
 </span>
 </div></div>
 <div class="listBox"><div class="listBoxContainer">
 <a href="https://secure.funorb.com/m=displaynames/l=1/g=36cardtrick/name.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_displayname.jpg" alt="" class="listBoxIcon" />
+<img src="../../l=1/img/images/account_management/icon_displayname.jpg" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="https://secure.funorb.com/m=displaynames/l=1/g=36cardtrick/name.ws">Spielernamen ändern</a></h3>
-<p>Ändern Sie den Namen, der für Sie in Spielen angezeigt wird.</p>
+<h3 class="listBoxTitle"><a href="https://secure.funorb.com/m=displaynames/l=1/g=36cardtrick/name.ws">Spielernamen ï¿½ndern</a></h3>
+<p>ï¿½ndern Sie den Namen, der fï¿½r Sie in Spielen angezeigt wird.</p>
 <span class="listBoxButton">
-<a href="https://secure.funorb.com/m=displaynames/l=1/g=36cardtrick/name.ws">Spielernamen ändern</a>
+<a href="https://secure.funorb.com/m=displaynames/l=1/g=36cardtrick/name.ws">Spielernamen ï¿½ndern</a>
 </span>
 </div></div>
 <br class="clear" />
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_readmessages.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">
+<img src="../../l=1/img/images/account_management/icon_readmessages.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Nachrichten lesen</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Nachrichten lesen</a></h3>
 <p>Lesen Sie Ihre Nachrichten von Jagex.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Nachrichten lesen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Nachrichten lesen</a>
 </span>
 </div></div>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_appealoffence.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">
+<img src="../../l=1/img/images/account_management/icon_appealoffence.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">Einspruch einlegen</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">Einspruch einlegen</a></h3>
 <p>Legen Sie Einspruch gegen eine Strafe/Sperre ein.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">Einspruch einlegen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=offence-appeal&amp;dest=account_history.ws">Einspruch einlegen</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -325,40 +325,40 @@ E-Mail-Optionen
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Sie können Ihr Jagex-Konto mit einer E-Mail-Adresse verknüpfen, sodass Sie Updates von uns erhalten können. Folgen Sie dem unten stehenden Link, um eine E-Mail-Adresse anzugeben, den Code zu bestätigen und Ihre Optionen einzustellen. </p>
+<p class="blurb"> Sie kï¿½nnen Ihr Jagex-Konto mit einer E-Mail-Adresse verknï¿½pfen, sodass Sie Updates von uns erhalten kï¿½nnen. Folgen Sie dem unten stehenden Link, um eine E-Mail-Adresse anzugeben, den Code zu bestï¿½tigen und Ihre Optionen einzustellen. </p>
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_register.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">
+<img src="../../l=1/img/images/account_management/icon_register.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">E-Mail-Registrierung</a></div>
-<p>E-Mail-Adresse angeben oder ändern. <a href="http://www.funorb.com/l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
+<div class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">E-Mail-Registrierung</a></div>
+<p>E-Mail-Adresse angeben oder ï¿½ndern. <a href="../../l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">E-Mail-Registrierung</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=set_address.ws">E-Mail-Registrierung</a>
 </span>
 </div>
 </div>
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_settings.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">
+<img src="../../l=1/img/images/account_management/icon_settings.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">E-Mail-Einstellungen</a></div>
-<p>E-Mail-Optionen ansehen oder ändern. <a href="http://www.funorb.com/l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
+<div class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">E-Mail-Einstellungen</a></div>
+<p>E-Mail-Optionen ansehen oder ï¿½ndern. <a href="../../l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">E-Mail-Einstellungen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=change_settings.ws">E-Mail-Einstellungen</a>
 </span>
 </div>
 </div>
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_confirmation.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">
+<img src="../../l=1/img/images/account_management/icon_confirmation.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code eingeben</a></div>
-<p>Bestätigungs-, Storno- oder Validierungscode eingeben. <a href="http://www.funorb.com/l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
+<div class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code eingeben</a></div>
+<p>Bestï¿½tigungs-, Storno- oder Validierungscode eingeben. <a href="../../l=1/g=36cardtrick/email_registration.ws">Hilfe</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code eingeben</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code eingeben</a>
 </span>
 </div>
 </div>
@@ -373,25 +373,25 @@ Kontosicherheit
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Wir empfehlen dringend, dass jeder Nutzer so bald wie möglich Sicherheitsfragen einrichtet. Diese können benutzt werden, um ein Spielkonto wiederherzustellen, wenn Sie ein Passwort vergessen haben oder wenn das Spielkonto gestohlen wurde. Wenn Sie den Verdacht haben, dass jemand an Ihr Passwort gekommen ist und Ihre Sicherheitsfragen geändert hat, können Sie die noch nicht aktivierten Sicherheitsfragen innerhalb von 14 Tagen löschen (und dann Ihr Passwort ändern). </p>
+<p class="blurb"> Wir empfehlen dringend, dass jeder Nutzer so bald wie mï¿½glich Sicherheitsfragen einrichtet. Diese kï¿½nnen benutzt werden, um ein Spielkonto wiederherzustellen, wenn Sie ein Passwort vergessen haben oder wenn das Spielkonto gestohlen wurde. Wenn Sie den Verdacht haben, dass jemand an Ihr Passwort gekommen ist und Ihre Sicherheitsfragen geï¿½ndert hat, kï¿½nnen Sie die noch nicht aktivierten Sicherheitsfragen innerhalb von 14 Tagen lï¿½schen (und dann Ihr Passwort ï¿½ndern). </p>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_setrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">
+<img src="../../l=1/img/images/account_management/icon_setrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Sicherheitsfragen einrichten</a></h3>
-<p>Sicherheitsfragen einrichten, um ein verlorenes Passwort oder ein gestohlenes Spielkonto zurückzuerhalten.</p>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Sicherheitsfragen einrichten</a></h3>
+<p>Sicherheitsfragen einrichten, um ein verlorenes Passwort oder ein gestohlenes Spielkonto zurï¿½ckzuerhalten.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Fragen einrichten</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Fragen einrichten</a>
 </span>
 </div></div>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_cancelrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">
+<img src="../../l=1/img/images/account_management/icon_cancelrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Sicherheitsfragen löschen</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Sicherheitsfragen lï¿½schen</a></h3>
 <p>Sicherheitsfragen deaktivieren.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Fragen löschen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Fragen lï¿½schen</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -405,25 +405,25 @@ Konto-Wiederherstellung
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Wenn Sie Ihr Passwort vergessen haben, oder glauben, dass Ihr Konto gestohlen wurde, klicken Sie jetzt auf die Schaltfläche 'Wiederherstellen'. <br/><br/> Wenn Sie schon eine Wiederherstellungsanfrage geschickt haben, können Sie deren Fortschritt nachverfolgen, indem Sie auf 'Überprüfen' klicken. </p>
+<p class="blurb"> Wenn Sie Ihr Passwort vergessen haben, oder glauben, dass Ihr Konto gestohlen wurde, klicken Sie jetzt auf die Schaltflï¿½che 'Wiederherstellen'. <br/><br/> Wenn Sie schon eine Wiederherstellungsanfrage geschickt haben, kï¿½nnen Sie deren Fortschritt nachverfolgen, indem Sie auf 'ï¿½berprï¿½fen' klicken. </p>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_recoverpassword.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">
+<img src="../../l=1/img/images/account_management/icon_recoverpassword.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">Passwort anfordern</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">Passwort anfordern</a></h3>
 <p>Gestohlenes / Vergessenes Passwort wiederherstellen</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">Wiederherstellen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=beginappeal.ws">Wiederherstellen</a>
 </span>
 </div></div>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">
-<img src="http://www.funorb.com/l=1/img/images/account_management/icon_trackrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">
+<img src="../../l=1/img/images/account_management/icon_trackrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Überprüfen Sie eine Anfrage</a></h3>
-<p>Den Status einer Anfrage überprüfen.</p>
+<h3 class="listBoxTitle"><a href="../../l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">ï¿½berprï¿½fen Sie eine Anfrage</a></h3>
+<p>Den Status einer Anfrage ï¿½berprï¿½fen.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Überprüfen</a>
+<a href="../../l=1/g=36cardtrick/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">ï¿½berprï¿½fen</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -436,25 +436,25 @@ Konto-Wiederherstellung
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=36cardtrick/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=36cardtrick/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=36cardtrick/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=36cardtrick/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=36cardtrick/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=36cardtrick/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=36cardtrick/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=36cardtrick/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=36cardtrick/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=36cardtrick/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=36cardtrick/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=36cardtrick/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=36cardtrick/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=36cardtrick/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

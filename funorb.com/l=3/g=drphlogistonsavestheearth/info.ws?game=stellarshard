@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=drphlogistonsavestheearth/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=drphlogistonsavestheearth/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=drphlogistonsavestheearth/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=drphlogistonsavestheearth/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/stellarshard/intro.jpg);
+  background-image: url(../../l=3/img/images/game/stellarshard/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/stellarshard/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/stellarshard/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/stellarshard/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/stellarshard/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/stellarshard/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/stellarshard/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/stellarshard/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/stellarshard/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=drphlogistonsavestheearth/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=drphlogistonsavestheearth/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=drphlogistonsavestheearth/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=drphlogistonsavestheearth/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=drphlogistonsavestheearth/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=drphlogistonsavestheearth/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=drphlogistonsavestheearth/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=drphlogistonsavestheearth/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=drphlogistonsavestheearth/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=drphlogistonsavestheearth/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=drphlogistonsavestheearth/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=drphlogistonsavestheearth/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=drphlogistonsavestheearth/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=drphlogistonsavestheearth/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=drphlogistonsavestheearth/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=stellarshard" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/index.ws">
+<a id="countrydrop" href="../../l=3/g=drphlogistonsavestheearth/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=drphlogistonsavestheearth/index.ws"><img title="
+<li><a class="fly" href="../../g=drphlogistonsavestheearth/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=drphlogistonsavestheearth/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=drphlogistonsavestheearth/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=drphlogistonsavestheearth/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=drphlogistonsavestheearth/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=drphlogistonsavestheearth/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/stellarshard/play.ws">Stellar Shard</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=drphlogistonsavestheearth/stellarshard/play.ws">Stellar Shard</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/stellarshard/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=drphlogistonsavestheearth/stellarshard/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Uma rajada de asteróides rápida e frenética! Você vai precisar ser rápido de gatilho para sobreviver! </div>
+<a href="../../l=3/g=drphlogistonsavestheearth/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Uma rajada de asterï¿½ides rï¿½pida e frenï¿½tica! Vocï¿½ vai precisar ser rï¿½pido de gatilho para sobreviver! </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/stellarshard/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=drphlogistonsavestheearth/stellarshard/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/stellarshard/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/stellarshard/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/stellarshard/screen1_thumb.jpg?1);">
+<a href="../../l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/stellarshard/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/stellarshard/screen2_thumb.jpg?1);">
+<a href="../../l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/stellarshard/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/stellarshard/screen3_thumb.jpg?1);">
+<a href="../../l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/stellarshard/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/stellarshard/screen4_thumb.jpg?1);">
+<a href="../../l=3/g=drphlogistonsavestheearth/display_screenshot.ws?game=stellarshard&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/stellarshard/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Benefícios do membro do FunOrb
+Benefï¿½cios do membro do FunOrb
 </div>
 </div>
 <div class="subsectionContent">
@@ -319,7 +319,7 @@ Benefícios do membro do FunOrb
 
 </ul>
 </div>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=drphlogistonsavestheearth/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -328,12 +328,12 @@ Benefícios do membro do FunOrb
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Stellar Shard é uma rajada de asteróides rápida e frenética. Dê potência a sua nave com armas recolhidas dos escombros e procure os cobiçados dispositivos fênix ocultos nos anéis de Saturno. Somente gerenciando seu poder e mantendo as coisas sob controle você sobreviverá.</p>
+<p>Stellar Shard ï¿½ uma rajada de asterï¿½ides rï¿½pida e frenï¿½tica. Dï¿½ potï¿½ncia a sua nave com armas recolhidas dos escombros e procure os cobiï¿½ados dispositivos fï¿½nix ocultos nos anï¿½is de Saturno. Somente gerenciando seu poder e mantendo as coisas sob controle vocï¿½ sobreviverï¿½.</p>
 </div>
 </div>
 </div>
@@ -348,42 +348,42 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Como posso melhorar minha pontuação?</a></li>
-<li><a href="#faqs_q2">Tenho que começar desde o princípio cada vez que jogar? </a></li>
-<li><a href="#faqs_q3">Como destruo os poços de gravidade?</a></li>
+<li><a href="#faqs_q1">Como posso melhorar minha pontuaï¿½ï¿½o?</a></li>
+<li><a href="#faqs_q2">Tenho que comeï¿½ar desde o princï¿½pio cada vez que jogar? </a></li>
+<li><a href="#faqs_q3">Como destruo os poï¿½os de gravidade?</a></li>
 <li><a href="#faqs_q3">Como consigo melhores armas?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Como posso melhorar minha pontuação?</h3>
-<p>Destrua os asteróides e fique vivo o máximo possível. Também iniciar do primeiro nível melhorará suas chances de obter maior pontuação, já que terá a chance de lutar por todos os níveis.</p>
+<h3>1. Como posso melhorar minha pontuaï¿½ï¿½o?</h3>
+<p>Destrua os asterï¿½ides e fique vivo o mï¿½ximo possï¿½vel. Tambï¿½m iniciar do primeiro nï¿½vel melhorarï¿½ suas chances de obter maior pontuaï¿½ï¿½o, jï¿½ que terï¿½ a chance de lutar por todos os nï¿½veis.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Tenho que começar desde o princípio cada vez que jogar? </h3>
-<p>Não. Mesmo com a conta gratuita, você pode começar o jogo de qualquer nível que tenha alcançado previamente. Pode escolher o nível desejado no menu principal.</p>
+<h3>2. Tenho que comeï¿½ar desde o princï¿½pio cada vez que jogar? </h3>
+<p>Nï¿½o. Mesmo com a conta gratuita, vocï¿½ pode comeï¿½ar o jogo de qualquer nï¿½vel que tenha alcanï¿½ado previamente. Pode escolher o nï¿½vel desejado no menu principal.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Como destruir os poços de gravidade?</h3>
-<p>Um método aconselhável seria concentrar seu poder de fogo neles e manter a impulsão reversa. Há outras maneiras também.</p>
+<h3>3. Como destruir os poï¿½os de gravidade?</h3>
+<p>Um mï¿½todo aconselhï¿½vel seria concentrar seu poder de fogo neles e manter a impulsï¿½o reversa. Hï¿½ outras maneiras tambï¿½m.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Como consigo melhores armas?</h3>
-<p>Quais power-ups vão aparecer depois vai depender dos power-ups previamente recolhidos. Entretanto, as armas mais poderosas requerem uma conta de membro para desbloquear.</p>
+<p>Quais power-ups vï¿½o aparecer depois vai depender dos power-ups previamente recolhidos. Entretanto, as armas mais poderosas requerem uma conta de membro para desbloquear.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>5. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>5. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>1.0 GHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -404,7 +404,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -417,25 +417,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=drphlogistonsavestheearth/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=drphlogistonsavestheearth/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=drphlogistonsavestheearth/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=drphlogistonsavestheearth/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=drphlogistonsavestheearth/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=drphlogistonsavestheearth/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=drphlogistonsavestheearth/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=drphlogistonsavestheearth/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=drphlogistonsavestheearth/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

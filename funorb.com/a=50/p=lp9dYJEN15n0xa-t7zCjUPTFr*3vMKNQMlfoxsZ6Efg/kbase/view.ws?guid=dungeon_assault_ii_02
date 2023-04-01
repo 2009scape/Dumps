@@ -21,10 +21,10 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=50/css/global-24.css);/**/
+  /*\*/@import url(../../../a=50/css/global-24.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=50/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=50/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
@@ -40,7 +40,7 @@ en">
  text-align: center;
  line-height: 26px;
  color: white;
- background: url(http://www.funorb.com/img/images/kbase/dev_diary/header.png);
+ background: url(../../../img/images/kbase/dev_diary/header.png);
 }
 .subheader {
  margin: 1em 0 0.5em;
@@ -50,7 +50,7 @@ en">
  font-weight: bold;
  line-height: 18px;
  color: white;
- background: url(http://www.funorb.com/img/images/kbase/dev_diary/subheader.png);
+ background: url(../../../img/images/kbase/dev_diary/subheader.png);
 }
 .articleBody p {
  padding-left: 2px;
@@ -86,10 +86,10 @@ en">
  right: 8px;
 }
 a.ddprev {
- background: url(http://www.funorb.com/img/images/kbase/dev_diary/prev_hover.png);
+ background: url(../../../img/images/kbase/dev_diary/prev_hover.png);
 }
 a.ddnext {
- background: url(http://www.funorb.com/img/images/kbase/dev_diary/next_hover.png);
+ background: url(../../../img/images/kbase/dev_diary/next_hover.png);
 }
 a.ddprev:hover img, a.ddnext:hover img {
  visibility: hidden;
@@ -110,24 +110,24 @@ a.ddprev:hover img, a.ddnext:hover img {
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws" ><b>
+<img src="../../../img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/img/affil/partners/wildgames.gif" alt="WildGames" />
+<img id="afflogo" src="../../../img/affil/partners/wildgames.gif" alt="WildGames" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -136,9 +136,9 @@ a.ddprev:hover img, a.ddnext:hover img {
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -149,44 +149,44 @@ a.ddprev:hover img, a.ddnext:hover img {
 <li><a href="http://focommunity.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" class="fly">Community Home</a></li>
 <li><a href="
 http://forum-fo.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://achievements.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" class="fly">Achievements</a></li>
 <li><a href="http://hiscore-fo.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://orbcoins.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=dungeon_assault_ii_02" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=dungeon_assault_ii_02" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws">
+<a id="countrydrop" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="English" alt="English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Deutsch" alt="Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -217,20 +217,20 @@ http://forum-fo.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/fo
 <div class="articleBody">
 <h2 id="ddHeader">
 
-<a class="ddprev" href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=dungeon_assault_ii_01" title="Previous">
-<img src="http://www.funorb.com/img/images/kbase/dev_diary/prev.png" alt="Previous" />
+<a class="ddprev" href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/kbase/view.ws?guid=dungeon_assault_ii_01" title="Previous">
+<img src="../../../img/images/kbase/dev_diary/prev.png" alt="Previous" />
 </a>
 
 Dungeon Assault II: Part 2 - Dungeon Makeover
 
-<img class="ddnext" src="http://www.funorb.com/img/images/kbase/dev_diary/next_null.png" alt="" />
+<img class="ddnext" src="../../../img/images/kbase/dev_diary/next_null.png" alt="" />
 
 </h2>
-<img src="http://www.funorb.com/img/images/game/dungeonassaultii/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="Dungeon Assault II developer diary banner" />
-<h3 class="subheader">14th May 2009 – Dungeon Makeover</h3>
+<img src="../../../img/images/game/dungeonassaultii/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="Dungeon Assault II developer diary banner" />
+<h3 class="subheader">14th May 2009 ï¿½ Dungeon Makeover</h3>
 <p>The Dungeon Assault II project began with me and <b><i>Mod Korpz</i></b> prototyping a new dungeon building mechanic. We felt that management in the original game was too limited and we'd like to give players a chance to lay down their very own dungeon floors. You will now have more say in how a raiding party gets from your dungeon's entrance to its hoard room.</p>
 <div class="ddScreens" style="float: right; margin: 8px;">
-<img src="http://www.funorb.com/img/images/game/dungeonassaultii/dev_diary/da2_builder.jpg" alt="Dungeon builder" />
+<img src="../../../img/images/game/dungeonassaultii/dev_diary/da2_builder.jpg" alt="Dungeon builder" />
 <div class="ddCaption" style="margin:auto; width:310px;">The work-in-progress dungeon builder.</div>
 </div>
 <p>This awesome new feature comes with a price: we had to make sure that we could devise ways to prevent people building boring, predictable dungeons. Not only that, we had to make sure that it would be hard to build dungeons that would be easy to repeatedly raid.</p>
@@ -238,7 +238,7 @@ Dungeon Assault II: Part 2 - Dungeon Makeover
 <p>Next we began to experiment with pen and paper prototypes to get a feel for how this new building mechanic was going to work. We even cannibalised a board game we have to see if we could build an interesting layout. Each new dungeon floor starts with its entrance crossroad tile located in the centre. The player is given one tile at a time to place in their dungeon. The tiles will occasionally have traps or monsters already placed on them from a pre-allocated budget. This is to ensure that everyone's dungeon starts out with roughly the same difficulty level and provides a challenge.</p>
 <p>We then had to work out a set of rules that would decide how new tiles would interact with the ones already set down. It was very important to guarantee that it was impossible to build dungeons with unreachable parts. We had to make sure that every new tile could be reached from any existing tile (by knocking through walls if necessary) while at the same time trying to make sure the dungeon didn't become too connected (crossroads everywhere). The answer turned out to be to leave existing doors and walls as much as possible.</p>
 <div class="ddScreens" style="float: left; margin: 8px;">
-<img src="http://www.funorb.com/img/images/game/dungeonassaultii/dev_diary/da2_rooms.jpg" alt="Dungeon rooms" />
+<img src="../../../img/images/game/dungeonassaultii/dev_diary/da2_rooms.jpg" alt="Dungeon rooms" />
 <div class="ddCaption" style="margin:auto; width:310px;">Work-in-progress dungeon tiles from the perspective of a raid.</div>
 </div>
 <p>To prevent people building dungeons that are spiral in shape and boring to raid, we decided to adopt a 'concentric rings' approach to the construction. When you start building a dungeon you may only place tiles in the eight squares neighbouring the centre tile. Once these squares have been filled in you may then move outward and place tiles in the ring of squares surrounding the nine centre tiles. This process continues until the dungeon is filled. The proportion of tile shapes you receive is also an important factor; too many crossroad or t-junction tiles and the dungeon will become too connected. Where you can place the hoard room is also subject to some restrictions. It shouldn't be easily reachable from the dungeon entrance; dungeons are meant to provide some sort of challenge after all!</p>
@@ -249,7 +249,7 @@ Dungeon Assault II: Part 2 - Dungeon Makeover
 <br class="clear" />
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -263,22 +263,22 @@ Dungeon Assault II: Part 2 - Dungeon Makeover
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="English" src="../../../img/images/layout/en.gif">English</a>
+<a href="../../../l=1/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Deutsch" src="../../../img/images/layout/de.gif">Deutsch</a>
+<a href="../../../l=2/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../../l=3/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=50/p=hWDkHLxRj9P0xa-t7zCjUPTFr*3vMKNQIn*bjdDAxnk/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

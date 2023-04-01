@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,19 +17,19 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=stellarshard/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=stellarshard/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=stellarshard/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=stellarshard/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
-<link rel="stylesheet" type="text/css" href="http://www.funorb.com/l=2/css/home-15.css" media="all">
+<link rel="stylesheet" type="text/css" href="../../l=2/css/home-15.css" media="all">
 <script type="text/javascript" src="http://www.jagex.com/l=2/js/jquery/jquery_ui_1_8_6_core_accordion_tabs_effects.js"></script>
 <script type="text/javascript">$(function(){
 
@@ -55,14 +55,14 @@
  });
 
 })</script>
-<script type="text/javascript" src="http://www.funorb.com/l=2/css/swfobject-0.js"></script>
+<script type="text/javascript" src="../../l=2/css/swfobject-0.js"></script>
 <script type="text/javascript">
  var flashver = "6.0.0";
  /* WMODE (necessary for drop down menus to draw above the banner) only implemented by Flash 10 beta and upwards on linux */
  if(navigator.platform && navigator.platform.toLowerCase().indexOf('linux') != -1){
   flashver = "10.0.0";
  }
- swfobject.embedSWF("http://www.funorb.com/l=2/img/images/game/voidhunters/release.swf?1", "releaseBanner", "432", "167", flashver, "", "", {wmode:"opaque"});
+ swfobject.embedSWF("../../l=2/img/images/game/voidhunters/release.swf?1", "releaseBanner", "432", "167", flashver, "", "", {wmode:"opaque"});
 </script>
 <!--[if IE]>
 <style type="text/css">
@@ -86,7 +86,7 @@
   }
  }
 </script>
-<link rel="alternate" type="application/rss+xml" title="FunOrb - Nouveautés" href="http://services.funorb.com/m=news/l=2/g=stellarshard/latest_news.rss">
+<link rel="alternate" type="application/rss+xml" title="FunOrb - Nouveautï¿½s" href="http://services.funorb.com/m=news/l=2/g=stellarshard/latest_news.rss">
 <link type="text/css" rel="stylesheet" href="http://www.jagex.com/l=2/css/cookie_dialog-1.css" />
 <script type="text/javascript" src="http://www.jagex.com/l=2/js/jquery/jquery_tools_min.js"></script>
 <script src="http://www.jagex.com/l=2/js/jagex/jagex_legal_cookies-7.js"></script>
@@ -105,8 +105,8 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=stellarshard/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=stellarshard/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -115,7 +115,7 @@
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=stellarshard/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=stellarshard/messenger.js"></script>
 
@@ -124,51 +124,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=stellarshard/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=stellarshard/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=stellarshard/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=stellarshard/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=stellarshard/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=stellarshard/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=stellarshard/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=stellarshard/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=stellarshard/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=stellarshard/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=stellarshard/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=stellarshard/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=stellarshard/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=stellarshard/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=stellarshard/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=stellarshard/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=stellarshard/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=stellarshard/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=stellarshard/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=stellarshard/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=stellarshard/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=stellarshard/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=stellarshard/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=stellarshard/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=stellarshard/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=stellarshard/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=stellarshard/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=stellarshard/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=stellarshard/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -176,28 +176,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=stellarshard/loginform.ws?mod=www&amp;ssl=0&amp;dest=index.ws" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=stellarshard/index.ws">
+<a id="countrydrop" href="../../l=2/g=stellarshard/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=stellarshard/index.ws"><img title="
+<li><a class="fly" href="../../g=stellarshard/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=stellarshard/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=stellarshard/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=stellarshard/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=stellarshard/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=stellarshard/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=stellarshard/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -208,22 +208,22 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="rght"></div>
 <div style="padding-top:16px;">
 <div id="release">
-<img id="releaseBanner" src="http://www.funorb.com/l=2/img/images/game/voidhunters/release.jpg" alt="" />
-<a onclick="suffixize(this)" class="releasePlayMe" href="http://www.funorb.com/l=2/g=stellarshard/voidhunters/play.ws"></a>
+<img id="releaseBanner" src="../../l=2/img/images/game/voidhunters/release.jpg" alt="" />
+<a onclick="suffixize(this)" class="releasePlayMe" href="../../l=2/g=stellarshard/voidhunters/play.ws"></a>
 <div class="text">
 <div class="title">Void Hunters</div>
 <div class="genre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
 </div>
 </div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=voidhunters"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/g=stellarshard/voidhunters/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=stellarshard/info.ws?game=voidhunters"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/g=stellarshard/voidhunters/play.ws">Jouer</a>
 </div>
 </div>
 <div id="devDiary">
 <h2 id="devTitle">Arm&eacute;es de Gi&eacute;linor</h2>
-<a href="http://www.funorb.com/l=2/g=stellarshard/armiesofgielinor/play.ws"><img src="http://www.funorb.com/l=2/img/images/news/2010-07-06_aog.png" alt="Arm&eacute;es de Gi&eacute;linor" /></a>
+<a href="../../l=2/g=stellarshard/armiesofgielinor/play.ws"><img src="../../l=2/img/images/news/2010-07-06_aog.png" alt="Arm&eacute;es de Gi&eacute;linor" /></a>
 </div>
 </div>
 </div>
@@ -234,7 +234,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <h2 class="sectionTitle">
 <span>Top 10</span>
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws">Tous les jeux</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws">Tous les jeux</a>
 </h2>
 </div>
 </div>
@@ -261,25 +261,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 
 <h3 class="newsHead selected" id="newsHeadFirst"><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3492">Undercroft - jeu iPhone gratuit</a><span><nobr>16-sept.-2010</nobr></span></h3>
 <div class="newsBody" id="newsBodyFirst">
-<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3492"><img src="http://www.funorb.com/l=2/img/news/fo_undercroft_iphone.jpg" alt="" /></a>
-<p><a href="http://www.undercroft.com" target="_blank"> Undercroft</a> est notre tout dernier jeu entièrement gratuit sur iPhone et iPod touch. Nous espérons que ce RPG classique vous plaira grâce à ses quêtes, son histoire et son système de combat stratégique au tour par tour. <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3492">Read&nbsp;More...</a></p>
+<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3492"><img src="../../l=2/img/news/fo_undercroft_iphone.jpg" alt="" /></a>
+<p><a href="http://www.undercroft.com" target="_blank"> Undercroft</a> est notre tout dernier jeu entiï¿½rement gratuit sur iPhone et iPod touch. Nous espï¿½rons que ce RPG classique vous plaira grï¿½ce ï¿½ ses quï¿½tes, son histoire et son systï¿½me de combat stratï¿½gique au tour par tour. <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3492">Read&nbsp;More...</a></p>
 </div>
 
-<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480">Void Hunters – Version complète</a><span><nobr>15-sept.-2010</nobr></span></h3>
+<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480">Void Hunters ï¿½ Version complï¿½te</a><span><nobr>15-sept.-2010</nobr></span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480"><img src="http://www.funorb.com/l=2/img/images/game/voidhunters/news.png" alt="" /></a>
-<p>Nous sommes ravis de vous annoncer la sortie de la version complète de <a href="http://www.funorb.com/l=2/voidhunters/play.ws"> Void Hunters</a> , le jeu de Mod Dunk, disponible dès aujourd’hui. <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480">Read&nbsp;More...</a></p>
+<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480"><img src="../../l=2/img/images/game/voidhunters/news.png" alt="" /></a>
+<p>Nous sommes ravis de vous annoncer la sortie de la version complï¿½te de <a href="../../l=2/voidhunters/play.ws"> Void Hunters</a> , le jeu de Mod Dunk, disponible dï¿½s aujourdï¿½hui. <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3480">Read&nbsp;More...</a></p>
 </div>
 
 <h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3366">Nouveau jeu : Sumoblitz</a><span><nobr>01-sept.-2010</nobr></span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3366"><img src="http://www.funorb.com/l=2/img/images/game/sumoblitz/news.png" alt="" /></a>
+<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3366"><img src="../../l=2/img/images/game/sumoblitz/news.png" alt="" /></a>
 <p>Annonce d'un jeu par un ami qui vous veut du bien. <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3366">Read&nbsp;More...</a></p>
 </div>
 
-<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3371">Résultats du tournoi Kickabout League</a><span><nobr>26-août-2010</nobr></span></h3>
+<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3371">Rï¿½sultats du tournoi Kickabout League</a><span><nobr>26-aoï¿½t-2010</nobr></span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3371"><img src="http://www.funorb.com/l=2/img/news/generic.jpg" alt="" /></a>
+<a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3371"><img src="../../l=2/img/news/generic.jpg" alt="" /></a>
 <p>Quelle partie ! Avec 775 joueurs inscrits au tournoi, il fallait vraiment du talent pour gagner ! <a href="http://services.funorb.com/m=news/l=2/g=stellarshard/newsitem.ws?id=3371">Read&nbsp;More...</a></p>
 </div>
 </div>
@@ -288,169 +288,169 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="community">
-<h2><a href="http://itunes.apple.com/us/app/miner-disturbance/id374275550?mt=8"><img src="http://www.funorb.com/l=2/img/images/home/md_banner.jpg" alt="Miner Disturbance pour iPhone" onmouseover="this.src='http://www.funorb.com/l=2/img/images/home/md_banner_roll.jpg'" onmouseout="this.src='http://www.funorb.com/l=2/img/images/home/md_banner.jpg'" /></a>
+<h2><a href="http://itunes.apple.com/us/app/miner-disturbance/id374275550?mt=8"><img src="../../l=2/img/images/home/md_banner.jpg" alt="Miner Disturbance pour iPhone" onmouseover="this.src='../../l=2/img/images/home/md_banner_roll.jpg'" onmouseout="this.src='../../l=2/img/images/home/md_banner.jpg'" /></a>
 </div>
 </div>
 <ol id="gamesList">
 <li class="gamesBig first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/arcanistsmulti/play.ws" onclick="suffixize(this)">1. Arcanistes</a>
+<a href="../../l=2/g=stellarshard/arcanistsmulti/play.ws" onclick="suffixize(this)">1. Arcanistes</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/arcanistsmulti/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/arcanistsmulti/massive.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/arcanistsmulti/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/arcanistsmulti/massive.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=arcanistsmulti"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/arcanistsmulti/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=arcanistsmulti"><img src="../../l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/arcanistsmulti/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesBig ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/armiesofgielinor/play.ws" onclick="suffixize(this)">2. Armées de Giélinor</a>
+<a href="../../l=2/g=stellarshard/armiesofgielinor/play.ws" onclick="suffixize(this)">2. Armï¿½es de Giï¿½linor</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/armiesofgielinor/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/armiesofgielinor/massive.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/armiesofgielinor/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/armiesofgielinor/massive.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=armiesofgielinor"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/armiesofgielinor/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=armiesofgielinor"><img src="../../l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/armiesofgielinor/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/voidhunters/play.ws" onclick="suffixize(this)">3. Void Hunters</a>
+<a href="../../l=2/g=stellarshard/voidhunters/play.ws" onclick="suffixize(this)">3. Void Hunters</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/voidhunters/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/voidhunters/smedium.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/voidhunters/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/voidhunters/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=voidhunters"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/voidhunters/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=voidhunters"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/voidhunters/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/kickabout/play.ws" onclick="suffixize(this)">4. Kickabout League</a>
+<a href="../../l=2/g=stellarshard/kickabout/play.ws" onclick="suffixize(this)">4. Kickabout League</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/kickabout/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/kickabout/smedium.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/kickabout/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/kickabout/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=sport">Sport</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=sport">Sport</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=kickabout"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/kickabout/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=kickabout"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/kickabout/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/steelsentinels/play.ws" onclick="suffixize(this)">5. Steel Sentinels</a>
+<a href="../../l=2/g=stellarshard/steelsentinels/play.ws" onclick="suffixize(this)">5. Steel Sentinels</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/steelsentinels/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/steelsentinels/smedium.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/steelsentinels/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/steelsentinels/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=steelsentinels"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/steelsentinels/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=steelsentinels"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/steelsentinels/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/minerdisturbance/play.ws" onclick="suffixize(this)">6. Mineur en péril</a>
+<a href="../../l=2/g=stellarshard/minerdisturbance/play.ws" onclick="suffixize(this)">6. Mineur en pï¿½ril</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/minerdisturbance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/minerdisturbance/tiny.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/minerdisturbance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/minerdisturbance/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=minerdisturbance"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/minerdisturbance/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=minerdisturbance"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/minerdisturbance/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/hostilespawn_vengeance/play.ws" onclick="suffixize(this)">7. Hostile Spawn</a>
+<a href="../../l=2/g=stellarshard/hostilespawn_vengeance/play.ws" onclick="suffixize(this)">7. Hostile Spawn</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/hostilespawn_vengeance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/tiny.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/hostilespawn_vengeance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/hostilespawn_vengeance/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=shooter">Jeu de tir</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=shooter">Jeu de tir</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=hostilespawn_vengeance"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/hostilespawn_vengeance/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=hostilespawn_vengeance"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/hostilespawn_vengeance/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/sumoblitz/play.ws" onclick="suffixize(this)">8. Sumoblitz</a>
+<a href="../../l=2/g=stellarshard/sumoblitz/play.ws" onclick="suffixize(this)">8. Sumoblitz</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/sumoblitz/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/sumoblitz/tiny.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/sumoblitz/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/sumoblitz/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=1">Solo</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=sumoblitz"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/sumoblitz/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=sumoblitz"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/sumoblitz/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/tombracer/play.ws" onclick="suffixize(this)">9. Tomb Racer</a>
+<a href="../../l=2/g=stellarshard/tombracer/play.ws" onclick="suffixize(this)">9. Tomb Racer</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/tombracer/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/tombracer/tiny.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/tombracer/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/tombracer/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=tombracer"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/tombracer/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=tombracer"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/tombracer/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/g=stellarshard/dungeonassault/play.ws" onclick="suffixize(this)">10. Dungeon Assault</a>
+<a href="../../l=2/g=stellarshard/dungeonassault/play.ws" onclick="suffixize(this)">10. Dungeon Assault</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/dungeonassault/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/dungeonassault/tiny.jpg?1" alt="" /></a>
+<a href="../../l=2/g=stellarshard/dungeonassault/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../l=2/img/images/game/dungeonassault/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../l=2/g=stellarshard/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../l=2/g=stellarshard/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/g=stellarshard/info.ws?game=dungeonassault"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=stellarshard/dungeonassault/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../l=2/g=stellarshard/info.ws?game=dungeonassault"><img src="../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../l=2/g=stellarshard/dungeonassault/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall" id="gamesAll">
-<div class="gamesName"><a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws">Autres jeux</a></div>
-<a href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/home/games_all.jpg" alt="" /></a>
-<a class="gamesButtons" href="http://www.funorb.com/l=2/g=stellarshard/gamelist.ws">Liste complète</a>
+<div class="gamesName"><a href="../../l=2/g=stellarshard/gamelist.ws">Autres jeux</a></div>
+<a href="../../l=2/g=stellarshard/gamelist.ws"><img class="gamesIcon" src="../../l=2/img/images/home/games_all.jpg" alt="" /></a>
+<a class="gamesButtons" href="../../l=2/g=stellarshard/gamelist.ws">Liste complï¿½te</a>
 </li>
 </ol>
 <br class="clear" />
 <div id="pageContentFooter" class="sectionFooter"><div></div></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=stellarshard/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=stellarshard/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=stellarshard/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=stellarshard/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=stellarshard/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=stellarshard/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=stellarshard/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=stellarshard/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=stellarshard/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=stellarshard/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=stellarshard/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=stellarshard/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=stellarshard/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=stellarshard/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

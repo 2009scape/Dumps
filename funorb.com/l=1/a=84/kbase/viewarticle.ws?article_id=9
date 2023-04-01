@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,15 +23,15 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
-<meta name="description" content="Informationen über Sperrungen, Stummschaltungen und wie man Einspruch erhebt.">
+<meta name="description" content="Informationen ï¿½ber Sperrungen, Stummschaltungen und wie man Einspruch erhebt.">
 <title>Kontosperrungen</title>
 </head>
 <body id="navHelp">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -142,90 +142,90 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="faqsList">
 <ol>
 <li><a href="#offence">Wie kann ich gegen Sperrungen Einspruch einlegen?</a>
-<li><a href="#system">Wie funktioniert das Regelverstoß- und Einspruchs-System?</a>
-<li><a href="#friend">Mein Freund wurde gesperrt. Können Sie ihn wieder freischalten?</a>
+<li><a href="#system">Wie funktioniert das Regelverstoï¿½- und Einspruchs-System?</a>
+<li><a href="#friend">Mein Freund wurde gesperrt. Kï¿½nnen Sie ihn wieder freischalten?</a>
 <li><a href="#black">Was sind Strafpunkte und deren Auswirkungen?</a>
 <li><a href="#why">Warum wurde ich gesperrt oder stummgeschaltet?</a>
 <li><a href="#locked">Warum ist mein Konto blockiert?</a>
 </ol></div>
 <br>
 <a name="offence"></a>
-<span class="title">1. Wie kann ich gegen Sperrungen Einspruch einlegen?</span><br><br> Falls Sie der Meinung sind, dass Sie unrechtmäßig stumm geschaltet oder gesperrt wurden, können Sie gegen die einzelnen Vergehen Einspruch einlegen. Dazu müssen Sie sich einloggen und zum Abschnitt Konto > Kontoverwaltung > Einspruch einlegen wechseln. Bitte erklären Sie die Gründe für Ihr Anliegen im kleinsten Detail und bedenken Sie, dass die darauf folgende Entscheidung <b>ENDGÜLTIG</b> ist. <br><br> Wir können Einsprüche nur bearbeiten, wenn Sie über die Seite 'Einspruch einlegen' eingesandt wurden. Benutzen Sie nicht unsere technische Unterstützung oder Anfragen zur Mitgliedszahlung. Wenn Sie dieses Modul dafür missbrauchen, kann das dazu führen, dass weitere Schritte gegen Ihr Konto eingeleitet werden. Bitte folgen Sie den oben angegebenen Anweisungen und haben Sie etwas Geduld. <br><br>
+<span class="title">1. Wie kann ich gegen Sperrungen Einspruch einlegen?</span><br><br> Falls Sie der Meinung sind, dass Sie unrechtmï¿½ï¿½ig stumm geschaltet oder gesperrt wurden, kï¿½nnen Sie gegen die einzelnen Vergehen Einspruch einlegen. Dazu mï¿½ssen Sie sich einloggen und zum Abschnitt Konto > Kontoverwaltung > Einspruch einlegen wechseln. Bitte erklï¿½ren Sie die Grï¿½nde fï¿½r Ihr Anliegen im kleinsten Detail und bedenken Sie, dass die darauf folgende Entscheidung <b>ENDGï¿½LTIG</b> ist. <br><br> Wir kï¿½nnen Einsprï¿½che nur bearbeiten, wenn Sie ï¿½ber die Seite 'Einspruch einlegen' eingesandt wurden. Benutzen Sie nicht unsere technische Unterstï¿½tzung oder Anfragen zur Mitgliedszahlung. Wenn Sie dieses Modul dafï¿½r missbrauchen, kann das dazu fï¿½hren, dass weitere Schritte gegen Ihr Konto eingeleitet werden. Bitte folgen Sie den oben angegebenen Anweisungen und haben Sie etwas Geduld. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="system"></a>
-<span class="title">2. Wie funktioniert das Regelverstoß- und Einspruchs-System?</span><br><br> Indem Sie Vergehen melden, tragen Sie dazu bei, FunOrb zu einer sicheren und freundlichen Spieleplattform für alle Beteiligten zu machen. Wir nehmen diese Meldungen sehr ernst und handeln schnell gegen Regelbrecher, möchten aber auch nicht pausenlos Rügen verteilen. <br><br> Deshalb geben wir Ihnen die Möglichkeit, eine Liste Ihrer Vergehen einzusehen, sodass Sie ähnliche Situation zukünftig vermeiden können. Das System zur Einreichung von Einsprüchen bietet uns die Möglichkeit sicherzugehen, dass wir die richtige Entscheidung getroffen haben und hilft Ihnen, über Ihre Vergehen nachzudenken. <br><br> Eine Liste Ihrer Vergehen können Sie einsehen, indem Sie die Rubrik Konto > Kontoverwaltung > Einspruch einlegen besuchen. Dort sehen Sie folgende Seite: <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/offence_system/viewoffensehistory.gif" alt="Screenshot der Regelverstoß-Übersicht" title="Screenshot der Regelverstoß-Übersicht">
-<br><br> Ganz oben sehen Sie, mit wie vielen Strafpunkten Ihr Konto bereits belastet ist. Es gibt eine Höchstgrenze von 10 Strafpunkten. Wenn Sie diese erreicht haben, wird Ihr Konto permanent gesperrt. <br><br> Damit Sie auf den ersten Blick erkennen können, wie es um Ihr Konto steht, haben wir farbige Felder hinzugefügt. Es gibt vier verschiedene Farben: <br><br>
+<span class="title">2. Wie funktioniert das Regelverstoï¿½- und Einspruchs-System?</span><br><br> Indem Sie Vergehen melden, tragen Sie dazu bei, FunOrb zu einer sicheren und freundlichen Spieleplattform fï¿½r alle Beteiligten zu machen. Wir nehmen diese Meldungen sehr ernst und handeln schnell gegen Regelbrecher, mï¿½chten aber auch nicht pausenlos Rï¿½gen verteilen. <br><br> Deshalb geben wir Ihnen die Mï¿½glichkeit, eine Liste Ihrer Vergehen einzusehen, sodass Sie ï¿½hnliche Situation zukï¿½nftig vermeiden kï¿½nnen. Das System zur Einreichung von Einsprï¿½chen bietet uns die Mï¿½glichkeit sicherzugehen, dass wir die richtige Entscheidung getroffen haben und hilft Ihnen, ï¿½ber Ihre Vergehen nachzudenken. <br><br> Eine Liste Ihrer Vergehen kï¿½nnen Sie einsehen, indem Sie die Rubrik Konto > Kontoverwaltung > Einspruch einlegen besuchen. Dort sehen Sie folgende Seite: <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/offence_system/viewoffensehistory.gif" alt="Screenshot der Regelverstoï¿½-ï¿½bersicht" title="Screenshot der Regelverstoï¿½-ï¿½bersicht">
+<br><br> Ganz oben sehen Sie, mit wie vielen Strafpunkten Ihr Konto bereits belastet ist. Es gibt eine Hï¿½chstgrenze von 10 Strafpunkten. Wenn Sie diese erreicht haben, wird Ihr Konto permanent gesperrt. <br><br> Damit Sie auf den ersten Blick erkennen kï¿½nnen, wie es um Ihr Konto steht, haben wir farbige Felder hinzugefï¿½gt. Es gibt vier verschiedene Farben: <br><br>
 <table>
 <tr>
 <td style="width: 110px;">
 <br>
-<img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/offence_system/greenzone6.gif" alt="Grüne Zone" title="Grüne Zone"></td>
-<td> <br>Die grüne Zone bedeutet, dass Sie ein perfektes Spielkonto ohne Strafpunkte haben und sich beim Spielen immer an die Regeln halten. Weiter so! Sie sind genau die Art von Spieler, die wir uns wünschen!<br></td>
+<img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/offence_system/greenzone6.gif" alt="Grï¿½ne Zone" title="Grï¿½ne Zone"></td>
+<td> <br>Die grï¿½ne Zone bedeutet, dass Sie ein perfektes Spielkonto ohne Strafpunkte haben und sich beim Spielen immer an die Regeln halten. Weiter so! Sie sind genau die Art von Spieler, die wir uns wï¿½nschen!<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/offence_system/yellowzone6.gif" alt="Gelbe Zone" title="Gelbe Zone"></td>
-<td> Die gelbe Zone bekommen Sie angezeigt, wenn Sie eine oder mehrere Regeln gebrochen haben. Sie müssen sich keine großen Sorgen machen, aber Sie sollten auf alle Fälle vermeiden, solche Fehler noch einmal zu machen.<br></td>
+<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/offence_system/yellowzone6.gif" alt="Gelbe Zone" title="Gelbe Zone"></td>
+<td> Die gelbe Zone bekommen Sie angezeigt, wenn Sie eine oder mehrere Regeln gebrochen haben. Sie mï¿½ssen sich keine groï¿½en Sorgen machen, aber Sie sollten auf alle Fï¿½lle vermeiden, solche Fehler noch einmal zu machen.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/offence_system/orangezone6.gif" alt="Orange Zone" title="Orange Zone"></td>
-<td> Die orange Zone signalisiert, dass Sie schwerwiegend gegen eine oder mehrere Regeln verstoßen haben. Wenn Sie sich in dieser Zone befinden, sollten Sie Ihr Verhalten im Spiel überdenken.<br></td>
+<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/offence_system/orangezone6.gif" alt="Orange Zone" title="Orange Zone"></td>
+<td> Die orange Zone signalisiert, dass Sie schwerwiegend gegen eine oder mehrere Regeln verstoï¿½en haben. Wenn Sie sich in dieser Zone befinden, sollten Sie Ihr Verhalten im Spiel ï¿½berdenken.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/offence_system/redzone6.gif" alt="Rote Zone" title="Rote Zone"></td>
-<td> Falls Ihr Konto sich in der roten Zone befindet, bedeutet das, dass es kurz davor ist, permanent gesperrt zu werden. Sie sollten Ihr Verhalten also umgehend ändern. <br></td>
+<td><img style="height: 110px; display: block;display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/offence_system/redzone6.gif" alt="Rote Zone" title="Rote Zone"></td>
+<td> Falls Ihr Konto sich in der roten Zone befindet, bedeutet das, dass es kurz davor ist, permanent gesperrt zu werden. Sie sollten Ihr Verhalten also umgehend ï¿½ndern. <br></td>
 </tr>
 </table>
 <br><br>
 <h4 style="display: inline;">Einspruch einlegen</h4>
-<br><br> Wenn Sie sich in der gelben, orangen oder roten Zone befinden, können Sie gegen die einzelnen Regelverstöße Einspruch einlegen oder sich dafür entschuldigen. Beim Einloggen werden Sie: <br><br>
+<br><br> Wenn Sie sich in der gelben, orangen oder roten Zone befinden, kï¿½nnen Sie gegen die einzelnen Regelverstï¿½ï¿½e Einspruch einlegen oder sich dafï¿½r entschuldigen. Beim Einloggen werden Sie: <br><br>
 <ul style="margin-top: 0px; margin-bottom: 0px; ">
-<li> Eine Liste der Regelverstöße sehen, die Sie begangen haben<br>
-<li> Einsicht in die Beweise für die Regelverstöße erhalten, sofern welche vorhanden sind<br>
+<li> Eine Liste der Regelverstï¿½ï¿½e sehen, die Sie begangen haben<br>
+<li> Einsicht in die Beweise fï¿½r die Regelverstï¿½ï¿½e erhalten, sofern welche vorhanden sind<br>
 <li> Einen Link namens 'Einspruch' sehen </ul>
-<br><br> Wir empfehlen Ihnen, die Beweise für ein Vergehen <b>eingehend</b> zu studieren. Sie können pro Vergehen nur einen Einspruch einlegen und wir möchten nicht, dass Sie Ihre Zeit damit verbringen, einen Einspruch aus falschen Gründen einzulegen. <br><br> Wenn Sie gegen ein bestimmtes Vergehen noch keinen Einspruch eingelegt haben, erhalten Sie die Gelegenheit, den Vorfall zu erklären und mildernde Umstände vorzubringen. Sie können diesen Link allerdings auch dazu verwenden, um sich für Ihr Verhalten zu entschuldigen. Sollten Sie sich Ihrer Schuld bewusst sein, ist das vermutlich der beste Weg. <br><br> Sollte Ihrem Einspruch stattgegeben werden, werden wir die Strafpunkte für diesen Regelverstoß aus dem System löschen und eventuell daraus resultierte Sperrungen oder Stummschaltungen rückgängig machen. Wenn Ihr Einspruch keinen Erfolg hat, können Sie nicht noch mal einen einlegen und die Strafpunkte sowie Sperrungen oder Stummschaltungen bleiben bestehen. <br><br> Wir können Einsprüche nur bearbeiten, wenn Sie über die Seite 'Einspruch einlegen' eingesandt wurden. Benutzen Sie nicht unsere technische Unterstützung oder Anfragen zur Mitgliedszahlung. Wenn Sie dieses Modul dafür missbrauchen, kann das dazu führen, dass weitere Schritte gegen Ihr Konto eingeleitet werden. Bitte folgen Sie den oben angegebenen Anweisungen und haben Sie etwas Geduld. <br><br> Wenn Sie sich nicht mehr sicher sind, wie die Regeln genau lauten, oder sich noch mal einen Überblick verschaffen wollen, klicken Sie bitte <a href="viewcategory.ws?cat_id=11">hier</a>. <br><br>
+<br><br> Wir empfehlen Ihnen, die Beweise fï¿½r ein Vergehen <b>eingehend</b> zu studieren. Sie kï¿½nnen pro Vergehen nur einen Einspruch einlegen und wir mï¿½chten nicht, dass Sie Ihre Zeit damit verbringen, einen Einspruch aus falschen Grï¿½nden einzulegen. <br><br> Wenn Sie gegen ein bestimmtes Vergehen noch keinen Einspruch eingelegt haben, erhalten Sie die Gelegenheit, den Vorfall zu erklï¿½ren und mildernde Umstï¿½nde vorzubringen. Sie kï¿½nnen diesen Link allerdings auch dazu verwenden, um sich fï¿½r Ihr Verhalten zu entschuldigen. Sollten Sie sich Ihrer Schuld bewusst sein, ist das vermutlich der beste Weg. <br><br> Sollte Ihrem Einspruch stattgegeben werden, werden wir die Strafpunkte fï¿½r diesen Regelverstoï¿½ aus dem System lï¿½schen und eventuell daraus resultierte Sperrungen oder Stummschaltungen rï¿½ckgï¿½ngig machen. Wenn Ihr Einspruch keinen Erfolg hat, kï¿½nnen Sie nicht noch mal einen einlegen und die Strafpunkte sowie Sperrungen oder Stummschaltungen bleiben bestehen. <br><br> Wir kï¿½nnen Einsprï¿½che nur bearbeiten, wenn Sie ï¿½ber die Seite 'Einspruch einlegen' eingesandt wurden. Benutzen Sie nicht unsere technische Unterstï¿½tzung oder Anfragen zur Mitgliedszahlung. Wenn Sie dieses Modul dafï¿½r missbrauchen, kann das dazu fï¿½hren, dass weitere Schritte gegen Ihr Konto eingeleitet werden. Bitte folgen Sie den oben angegebenen Anweisungen und haben Sie etwas Geduld. <br><br> Wenn Sie sich nicht mehr sicher sind, wie die Regeln genau lauten, oder sich noch mal einen ï¿½berblick verschaffen wollen, klicken Sie bitte <a href="viewcategory.ws?cat_id=11">hier</a>. <br><br>
 <h4 style="display: inline;">Gesuche um eine letzte Chance</h4>
-<br><br> Sollten Sie permanent gesperrt sein und bereits Einspruch gegen alle offenen Regelverstöße eingelegt haben, bekommen Sie gegebenenfalls die Möglichkeit, ein Gesuch um eine letzte Chance einzureichen, um ihr Spielkonto zurückzuerhalten. <br><br> Bitte machen Sie sich klar, dass dieser Schritt für Sie die allerletzte Möglichkeit ist, Ihr Spielkonto zurückzuerhalten. Gegen diese letzte Entscheidung werden Sie keinen Einspruch mehr einlegen können und Ihr Spielkonto wird, falls Ihr Gesuch keinen Erfolg hat, permanent (das heißt: für immer!) gesperrt bleiben. Mitteilungen, die dieses Konto betreffen, werden von uns in diesem Fall ebenfalls ignoriert werden. <br><br>
+<br><br> Sollten Sie permanent gesperrt sein und bereits Einspruch gegen alle offenen Regelverstï¿½ï¿½e eingelegt haben, bekommen Sie gegebenenfalls die Mï¿½glichkeit, ein Gesuch um eine letzte Chance einzureichen, um ihr Spielkonto zurï¿½ckzuerhalten. <br><br> Bitte machen Sie sich klar, dass dieser Schritt fï¿½r Sie die allerletzte Mï¿½glichkeit ist, Ihr Spielkonto zurï¿½ckzuerhalten. Gegen diese letzte Entscheidung werden Sie keinen Einspruch mehr einlegen kï¿½nnen und Ihr Spielkonto wird, falls Ihr Gesuch keinen Erfolg hat, permanent (das heiï¿½t: fï¿½r immer!) gesperrt bleiben. Mitteilungen, die dieses Konto betreffen, werden von uns in diesem Fall ebenfalls ignoriert werden. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="friend"></a>
-<span class="title">3. Mein Freund wurde gesperrt. Können Sie ihn wieder freischalten?</span><br><br> Falls Ihr Freund Beweise für mildernde Umstände hat, die für ihn sprechen, muss er uns diese selbst schicken. Wir werden <b>keinerlei</b> Gesuche von <b>irgendjemand außer dem Besitzer des Kontos</b> annehmen, der uns über sein Spielkonto kontaktieren sollte. <br><br>
+<span class="title">3. Mein Freund wurde gesperrt. Kï¿½nnen Sie ihn wieder freischalten?</span><br><br> Falls Ihr Freund Beweise fï¿½r mildernde Umstï¿½nde hat, die fï¿½r ihn sprechen, muss er uns diese selbst schicken. Wir werden <b>keinerlei</b> Gesuche von <b>irgendjemand auï¿½er dem Besitzer des Kontos</b> annehmen, der uns ï¿½ber sein Spielkonto kontaktieren sollte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="black"></a>
-<span class="title">4. Was sind Strafpunkte und deren Auswirkungen?</span><br><br> Strafpunkte sind Jagex' Art und Weise, sich einen Überblick darüber zu verschaffen, wie sich ein Spieler in den FunOrb-Spielen verhält.<br><br>Strafpunkte bekommt man, wenn man gegen die <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> verstößt. Die Anzahl der Punkte, die man pro Verstoß erhält, hängt davon ab, wie schwer der Fall ist.<br><br>Jedes Mal, wenn Sie einen Strafpunkt erhalten, schicken wir Ihnen eine Nachricht in Ihr Mitteilungsfach. Bitte sehen Sie zuerst dort nach, bevor Sie eine Anfrage an die Kundenbetreuung schicken, um zu fragen, wofür Sie Strafpunkte bekommen haben.<br><br>Sobald die Anzahl der Strafpunkte auf Ihrem Konto ein gewisses Höchstmaß erreicht hat, wird das Konto aus dem Spiel entfernt. Bei schwereren Vergehen gibt es manchmal auch mehrere Strafpunkte auf einmal.<br><br>Wenn Sie denken, dass wir Ihr Konto ungerechtfertigt gesperrt haben, können Sie <a href="http://www.funorb.com/l=1/a=84/account_management.ws">hier</a> Einspruch einlegen. <br><br>
+<span class="title">4. Was sind Strafpunkte und deren Auswirkungen?</span><br><br> Strafpunkte sind Jagex' Art und Weise, sich einen ï¿½berblick darï¿½ber zu verschaffen, wie sich ein Spieler in den FunOrb-Spielen verhï¿½lt.<br><br>Strafpunkte bekommt man, wenn man gegen die <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> verstï¿½ï¿½t. Die Anzahl der Punkte, die man pro Verstoï¿½ erhï¿½lt, hï¿½ngt davon ab, wie schwer der Fall ist.<br><br>Jedes Mal, wenn Sie einen Strafpunkt erhalten, schicken wir Ihnen eine Nachricht in Ihr Mitteilungsfach. Bitte sehen Sie zuerst dort nach, bevor Sie eine Anfrage an die Kundenbetreuung schicken, um zu fragen, wofï¿½r Sie Strafpunkte bekommen haben.<br><br>Sobald die Anzahl der Strafpunkte auf Ihrem Konto ein gewisses Hï¿½chstmaï¿½ erreicht hat, wird das Konto aus dem Spiel entfernt. Bei schwereren Vergehen gibt es manchmal auch mehrere Strafpunkte auf einmal.<br><br>Wenn Sie denken, dass wir Ihr Konto ungerechtfertigt gesperrt haben, kï¿½nnen Sie <a href="../../../l=1/a=84/account_management.ws">hier</a> Einspruch einlegen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">5. Warum wurde ich gesperrt oder stumm geschaltet?</span><br><br> Falls Sie permanent oder temporär stumm geschaltet oder gesperrt wurden, können Sie das in der Liste Ihrer Vergehen finden. Dazu müssen Sie nur den Abschnitt Konto > Kontoverwaltung > Einspruch einlegen besuchen. Diese Seite zeigt eine Liste Ihrer Vergehen und Verknüpfungen zu den Beweisen. <br><br> Wenn Sie denken, dass Sie zu Unrecht gesperrt oder stumm geschaltet wurden, dann können Sie <a href="http://www.funorb.com/l=1/a=84/account_management.ws">Einspruch</a> einlegen. <br><br>
+<span class="title">5. Warum wurde ich gesperrt oder stumm geschaltet?</span><br><br> Falls Sie permanent oder temporï¿½r stumm geschaltet oder gesperrt wurden, kï¿½nnen Sie das in der Liste Ihrer Vergehen finden. Dazu mï¿½ssen Sie nur den Abschnitt Konto > Kontoverwaltung > Einspruch einlegen besuchen. Diese Seite zeigt eine Liste Ihrer Vergehen und Verknï¿½pfungen zu den Beweisen. <br><br> Wenn Sie denken, dass Sie zu Unrecht gesperrt oder stumm geschaltet wurden, dann kï¿½nnen Sie <a href="../../../l=1/a=84/account_management.ws">Einspruch</a> einlegen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="locked"></a>
-<span class="title">6. Warum ist mein Konto blockiert?</span><br><br> Falls wir vermuten, dass eine andere Person Ihr Konto benutzt, wird das Konto blockiert. Somit können wir sicher gehen, dass niemand gegen die <a href="viewcategory.ws?cat_id=11">Regeln</a> verstößt. Falls Sie bei einem Einspruch angeben, dass eine andere Person Ihr Konto benutzt hat, wird es ebenfalls blockiert. <a href="viewarticle.ws?article_id=46">Hier</a> finden Sie Informationen dazu, wie Sie Ihr Konto wieder freischalten können. <br>
+<span class="title">6. Warum ist mein Konto blockiert?</span><br><br> Falls wir vermuten, dass eine andere Person Ihr Konto benutzt, wird das Konto blockiert. Somit kï¿½nnen wir sicher gehen, dass niemand gegen die <a href="viewcategory.ws?cat_id=11">Regeln</a> verstï¿½ï¿½t. Falls Sie bei einem Einspruch angeben, dass eine andere Person Ihr Konto benutzt hat, wird es ebenfalls blockiert. <a href="viewarticle.ws?article_id=46">Hier</a> finden Sie Informationen dazu, wie Sie Ihr Konto wieder freischalten kï¿½nnen. <br>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=57">Regelverstoß-Meldungen</a>, <a href="viewarticle.ws?article_id=47">Werbung</a>, Kontosperrungen, <a href="viewarticle.ws?article_id=41">Fehlerhinweise</a>, <a href="viewarticle.ws?article_id=10">Jagex</a></span>
+<a href="viewarticle.ws?article_id=57">Regelverstoï¿½-Meldungen</a>, <a href="viewarticle.ws?article_id=47">Werbung</a>, Kontosperrungen, <a href="viewarticle.ws?article_id=41">Fehlerhinweise</a>, <a href="viewarticle.ws?article_id=10">Jagex</a></span>
 </div>
 </div>
 </div>
@@ -237,11 +237,11 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

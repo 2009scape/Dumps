@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=zombiedawn/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=zombiedawn/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=zombiedawn/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=zombiedawn/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/bachelorfridge/intro.jpg);
+  background-image: url(../../l=1/img/images/game/bachelorfridge/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/bachelorfridge/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/bachelorfridge/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/bachelorfridge/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/bachelorfridge/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=zombiedawn/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=zombiedawn/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=zombiedawn/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=zombiedawn/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=zombiedawn/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=zombiedawn/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=zombiedawn/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawn/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawn/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawn/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawn/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=zombiedawn/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=zombiedawn/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=zombiedawn/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=zombiedawn/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=zombiedawn/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=zombiedawn/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=zombiedawn/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=zombiedawn/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=zombiedawn/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=zombiedawn/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawn/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=zombiedawn/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawn/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=zombiedawn/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=zombiedawn/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=zombiedawn/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=zombiedawn/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=zombiedawn/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=zombiedawn/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=zombiedawn/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=bachelorfridge" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=zombiedawn/index.ws">
+<a id="countrydrop" href="../../l=1/g=zombiedawn/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=zombiedawn/index.ws"><img title="
+<li><a class="fly" href="../../g=zombiedawn/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=zombiedawn/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=zombiedawn/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=zombiedawn/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=zombiedawn/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=zombiedawn/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=zombiedawn/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=zombiedawn/bachelorfridge/play.ws">Bachelor Fridge</a> &gt;
+<a href="../../l=1/g=zombiedawn/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=zombiedawn/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=zombiedawn/bachelorfridge/play.ws">Bachelor Fridge</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=zombiedawn/bachelorfridge/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=zombiedawn/bachelorfridge/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Züchte abgefahrene Kreaturen in einem ekeligen Kühlschrank,<br/>um mit ihnen die Arena zu dominieren! </div>
+<a href="../../l=1/g=zombiedawn/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Zï¿½chte abgefahrene Kreaturen in einem ekeligen Kï¿½hlschrank,<br/>um mit ihnen die Arena zu dominieren! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=zombiedawn/bachelorfridge/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=zombiedawn/bachelorfridge/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/bachelorfridge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bachelorfridge/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bachelorfridge/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bachelorfridge/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bachelorfridge/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawn/display_screenshot.ws?game=bachelorfridge&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bachelorfridge/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -311,8 +311,8 @@ Features von Bachelor Fridge
 <div class="benefitsList">
 <ul>
 
-<li>Kombiniert 14 Nahrungsmittel, um Kreaturen zu züchten</li>
-<li>Online-Mehrspieler für bis zu 4 Personen</li>
+<li>Kombiniert 14 Nahrungsmittel, um Kreaturen zu zï¿½chten</li>
+<li>Online-Mehrspieler fï¿½r bis zu 4 Personen</li>
 <li>3 gruselig gastronomische Spielfelder</li>
 <li>3 spannende Kampfmodi</li>
 <li>Zugang zu Rang-Partien</li>
@@ -333,9 +333,9 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Wie jeder anständige Junggeselle, schmeißt auch ihr nichts in eurem Kühlschrank weg, so wie das indische Curry von vor sechs Monaten oder der Klumpen Käse, der schon seit dem Untergang der Titanic im untersten Fach liegt. In letzter Zeit müsst ihr allerdings feststellen, dass ein paar der Nahrungsmittel ein Eigenleben entwickelt haben, so wie der uralte Schinken, der sich am Salat zu schaffen macht, oder der Döner von Weihnachten 1999, der das Rührei-Brot vertilgt. Bewegt sich da etwas Mysteriöses im Yogurt vom letzten Jahr? Euer Kühlschrank scheint der Nährboden für neue, aggressive und leicht ekelhafte Lebensformen zu werden.</p>
-<p>Bachelor Fridge ist ein Management- und Kampfspiel, bei dem ihr, die Besitzer eines ekelhaften Kühlschranks, Kreaturen aus den verrottenden Lebensmitteln züchtet und sie gegen die Kreaturen anderer Spieler in einem rundenbasierten Mehrspieler-Strategiespiel antreten lasst.</p>
-<p>Mutiert eure trügerisch niedlichen Kreaturen bis sie die hinterhältigsten Angriffe eurer Vorliebe gelernt haben und zerstört dann mit ihnen die Kreaturen anderer Spieler in der Arena. Jede Kreatur kann angepasst werden, indem ihr ihnen bestimmte Nahrungsmittel füttert. Insgesamt stehen euch drei verschiedene Spielfelder mit drei verschiedenen Schlachtmodi in der Arena zur Verfügung, also richtet euch darauf ein, von euren Kreaturen angeekelt und zugleich unterhalten zu werden.</p>
+<p>Wie jeder anstï¿½ndige Junggeselle, schmeiï¿½t auch ihr nichts in eurem Kï¿½hlschrank weg, so wie das indische Curry von vor sechs Monaten oder der Klumpen Kï¿½se, der schon seit dem Untergang der Titanic im untersten Fach liegt. In letzter Zeit mï¿½sst ihr allerdings feststellen, dass ein paar der Nahrungsmittel ein Eigenleben entwickelt haben, so wie der uralte Schinken, der sich am Salat zu schaffen macht, oder der Dï¿½ner von Weihnachten 1999, der das Rï¿½hrei-Brot vertilgt. Bewegt sich da etwas Mysteriï¿½ses im Yogurt vom letzten Jahr? Euer Kï¿½hlschrank scheint der Nï¿½hrboden fï¿½r neue, aggressive und leicht ekelhafte Lebensformen zu werden.</p>
+<p>Bachelor Fridge ist ein Management- und Kampfspiel, bei dem ihr, die Besitzer eines ekelhaften Kï¿½hlschranks, Kreaturen aus den verrottenden Lebensmitteln zï¿½chtet und sie gegen die Kreaturen anderer Spieler in einem rundenbasierten Mehrspieler-Strategiespiel antreten lasst.</p>
+<p>Mutiert eure trï¿½gerisch niedlichen Kreaturen bis sie die hinterhï¿½ltigsten Angriffe eurer Vorliebe gelernt haben und zerstï¿½rt dann mit ihnen die Kreaturen anderer Spieler in der Arena. Jede Kreatur kann angepasst werden, indem ihr ihnen bestimmte Nahrungsmittel fï¿½ttert. Insgesamt stehen euch drei verschiedene Spielfelder mit drei verschiedenen Schlachtmodi in der Arena zur Verfï¿½gung, also richtet euch darauf ein, von euren Kreaturen angeekelt und zugleich unterhalten zu werden.</p>
 </div>
 </div>
 </div>
@@ -351,13 +351,13 @@ Fragen und Antworten
 <div class="faqsList">
 <ol>
 <li><a href="#faqs_q1">Wie funktionieren die Aktionsrunden in der Arena?</a></li>
-<li><a href="#faqs_q2">Wie kann ich meinen Kreaturen neue Angriffe und Züge verleihen?</a></li>
+<li><a href="#faqs_q2">Wie kann ich meinen Kreaturen neue Angriffe und Zï¿½ge verleihen?</a></li>
 <li><a href="#faqs_q3">Wie kann ich mehr Geld bekommen, um mehr Nahrungsmittel zu kaufen?</a></li>
-<li><a href="#faqs_q4">Was muss ich machen, um mehr als acht Kreaturen zu züchten?</a></li>
-<li><a href="#faqs_q5">Warum sehen Kreaturen unterschiedlich aus, obwohl sie aus dem gleichen Essen gezüchtet wurden?</a></li>
+<li><a href="#faqs_q4">Was muss ich machen, um mehr als acht Kreaturen zu zï¿½chten?</a></li>
+<li><a href="#faqs_q5">Warum sehen Kreaturen unterschiedlich aus, obwohl sie aus dem gleichen Essen gezï¿½chtet wurden?</a></li>
 <li><a href="#faqs_q6">Ich habe nur eine Kreatur, die aber richtig toll ist. Kann ich an Mehrspieler-Partien teilnehmen?</a></li>
 <li><a href="#faqs_q7">Was bedeuten die Zahlen links neben der Kreatur, wenn man in der Arena ist?</a></li>
-<li><a href="#faqs_q8">Prügelei, Schmeißen, Ausdauer und Geschwindigkeit... Welches ist das beste Attribut?</a></li>
+<li><a href="#faqs_q8">Prï¿½gelei, Schmeiï¿½en, Ausdauer und Geschwindigkeit... Welches ist das beste Attribut?</a></li>
 <li><a href="#faqs_q9">Was kann man mit den verschiedenen Extras im Spiel machen?</a></li>
 <li><a href="#faqs_q10">Was muss ich bei den verschiedenen Schlachtmodi tun?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
@@ -366,55 +366,55 @@ Fragen und Antworten
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1 Wie funktionieren die Aktionsrunden in der Arena?</h3>
-<p>In der Arena geben alle Spieler zuerst an, wie ihre Kreaturen sich bewegen sollen. Die geplanten Aktionen werden dann gleichzeitig ausgeführt, wobei sich die Kreaturen mit der höchsten Geschwindigkeit zuerst bewegen dürfen. Die Aktionsphase (Kampf) benutzt das gleiche Prinzip. Um erfolgreich zu sein, müsst ihr herausfinden, wann sich die einzelnen Kreaturen bewegen und vorausahnen, welche Pläne eure Gegner gemacht haben.</p>
+<p>In der Arena geben alle Spieler zuerst an, wie ihre Kreaturen sich bewegen sollen. Die geplanten Aktionen werden dann gleichzeitig ausgefï¿½hrt, wobei sich die Kreaturen mit der hï¿½chsten Geschwindigkeit zuerst bewegen dï¿½rfen. Die Aktionsphase (Kampf) benutzt das gleiche Prinzip. Um erfolgreich zu sein, mï¿½sst ihr herausfinden, wann sich die einzelnen Kreaturen bewegen und vorausahnen, welche Plï¿½ne eure Gegner gemacht haben.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Wie kann ich meinen Kreaturen neue Angriffe und Züge verleihen?</h3>
-<p>Ihr könnt euren Kreaturen andere Nahrungsmittel füttern. Die Sprechblasen über den Kreaturen geben euch Hinweise darauf, welche Nahrungsmittel sie gerne essen möchten. Nachdem eine Kreatur etwas gegessen hat, müsst ihr sie nur mit der Lupe anklicken (oder die Kreatur rechtsklicken), um ihre neuen Eigenschaften zu sehen. Um die Kreatur mit ihrer neuen Fähigkeit auszurüsten, müsst ihr nur auf die Fähigkeit klicken. Um eine Fähigkeit zu entfernen, rechtsklickt auf sie.</p>
+<h3>2. Wie kann ich meinen Kreaturen neue Angriffe und Zï¿½ge verleihen?</h3>
+<p>Ihr kï¿½nnt euren Kreaturen andere Nahrungsmittel fï¿½ttern. Die Sprechblasen ï¿½ber den Kreaturen geben euch Hinweise darauf, welche Nahrungsmittel sie gerne essen mï¿½chten. Nachdem eine Kreatur etwas gegessen hat, mï¿½sst ihr sie nur mit der Lupe anklicken (oder die Kreatur rechtsklicken), um ihre neuen Eigenschaften zu sehen. Um die Kreatur mit ihrer neuen Fï¿½higkeit auszurï¿½sten, mï¿½sst ihr nur auf die Fï¿½higkeit klicken. Um eine Fï¿½higkeit zu entfernen, rechtsklickt auf sie.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Wie kann ich mehr Geld bekommen, um mehr Nahrungsmittel zu kaufen?</h3>
-<p>Geld erhaltet ihr, indem ihr eure Kreaturen gegen die eurer Gegner in der Arena antreten lasst. Pro Sieg erhaltet ihr 5€ und bei einer Niederlage nur 1€. Pro errungenem Schlachttitel (von fünf möglichen) erhaltet ihr außerdem 20c. Diese Belohnungen gelten für bewertete und unbewertete Partien.</p>
+<p>Geld erhaltet ihr, indem ihr eure Kreaturen gegen die eurer Gegner in der Arena antreten lasst. Pro Sieg erhaltet ihr 5ï¿½ und bei einer Niederlage nur 1ï¿½. Pro errungenem Schlachttitel (von fï¿½nf mï¿½glichen) erhaltet ihr auï¿½erdem 20c. Diese Belohnungen gelten fï¿½r bewertete und unbewertete Partien.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. Was muss ich machen, um mehr als acht Kreaturen zu züchten?</h3>
-<p>Im Tiefkühlfach könnt ihr bis zu fünf Kreaturen lagern. Mitglieder haben 50 weitere Plätze im Tiefkühlfach. Wenn es voll ist, könnt ihr nur neue Kreaturen züchten, wenn ihr zuvor eines auf den Mülleimer zieht und sie damit zerstört.</p>
+<h3>4. Was muss ich machen, um mehr als acht Kreaturen zu zï¿½chten?</h3>
+<p>Im Tiefkï¿½hlfach kï¿½nnt ihr bis zu fï¿½nf Kreaturen lagern. Mitglieder haben 50 weitere Plï¿½tze im Tiefkï¿½hlfach. Wenn es voll ist, kï¿½nnt ihr nur neue Kreaturen zï¿½chten, wenn ihr zuvor eines auf den Mï¿½lleimer zieht und sie damit zerstï¿½rt.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. Warum sehen Kreaturen unterschiedlich aus, obwohl sie aus dem gleichen Essen gezüchtet wurden?</h3>
-<p>Das Aussehen einer Kreatur hängt davon ab, welche Nahrungsmittel und in welcher Reihenfolge ihr ihr sie füttert. Das erste Nahrungsmittel erschafft die Kreatur, weiteres Essen verändert ihr Aussehen und verleiht ihnen neue Fähigkeiten. Wenn ihr diese Reihenfolge ändert, dann erhalten die Kreaturen ein anderes Aussehen. Experimentiert einfach ein bisschen herum.</p>
+<h3>5. Warum sehen Kreaturen unterschiedlich aus, obwohl sie aus dem gleichen Essen gezï¿½chtet wurden?</h3>
+<p>Das Aussehen einer Kreatur hï¿½ngt davon ab, welche Nahrungsmittel und in welcher Reihenfolge ihr ihr sie fï¿½ttert. Das erste Nahrungsmittel erschafft die Kreatur, weiteres Essen verï¿½ndert ihr Aussehen und verleiht ihnen neue Fï¿½higkeiten. Wenn ihr diese Reihenfolge ï¿½ndert, dann erhalten die Kreaturen ein anderes Aussehen. Experimentiert einfach ein bisschen herum.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
 <h3>6. Ich habe nur eine Kreatur, die aber richtig toll ist. Kann ich an Mehrspieler-Partien teilnehmen?</h3>
-<p>Mehrspieler-Partien können mit drei bis sechs Kreaturen ausgetragen werden. Es ist strategisch günstig, die stärksten Kreaturen für 'Das große Fressen' und 'Fliegenfang' zu verwenden.</p>
+<p>Mehrspieler-Partien kï¿½nnen mit drei bis sechs Kreaturen ausgetragen werden. Es ist strategisch gï¿½nstig, die stï¿½rksten Kreaturen fï¿½r 'Das groï¿½e Fressen' und 'Fliegenfang' zu verwenden.</p>
 <div class="hr"></div>
 <a name="faqs_q7"></a>
 <h3>7. Was bedeuten die Zahlen links neben der Kreatur, wenn man in der Arena ist?</h3>
-<p>Diese Zahlen zeigen an, in welcher Reihenfolge die Kreaturen ihre Befehle ausführen. Der schnellsten Kreatur wird die niedrigste Zahl zugewiesen. Die Stufe der Geschwindigkeit jeder Kreatur könnt ihr sehen, indem ihr euch das Profil der Kreatur anseht (Lupe oder Rechtsklick). Falls Kreaturen die gleiche Stufe in Geschwindigkeit haben, entscheiden ihre Ränge, welche Kreatur zuerst zieht.</p>
+<p>Diese Zahlen zeigen an, in welcher Reihenfolge die Kreaturen ihre Befehle ausfï¿½hren. Der schnellsten Kreatur wird die niedrigste Zahl zugewiesen. Die Stufe der Geschwindigkeit jeder Kreatur kï¿½nnt ihr sehen, indem ihr euch das Profil der Kreatur anseht (Lupe oder Rechtsklick). Falls Kreaturen die gleiche Stufe in Geschwindigkeit haben, entscheiden ihre Rï¿½nge, welche Kreatur zuerst zieht.</p>
 <div class="hr"></div>
 <a name="faqs_q8"></a>
-<h3>8. Prügelei, Schmeißen, Ausdauer und Geschwindigkeit... Welches ist das beste Attribut?</h3>
-<p>Die Attribute sind per Rechtsklick auf die Kreatur einsehbar (oder per Linksklick mit der Lupe). Prügelei zeigt die Nahkampfstärke der Kreatur an. Diese Angriffe werden in roter Schrift links neben den Attributen angezeigt. Schmeißen zeigt die Fernkampfstärke (blau) und Ausdauer bestimmt, wie viele Lebenspunkte eure Kreatur hat. Geschwindigkeit bestimmt die Initiative eurer Kreatur im Kampf und wie weit sie sich pro Runde bewegen kann. All diese Werte werden im Kampfgeschehen verwendet. Ihr solltet beim Training also darauf achten, eine gute Mischung aus verschiedenen Spezialisten zu züchten. Ihr könnt euch natürlich auch nur auf ein Attribut konzentrieren und versuchen, dass Spielgeschehen zu dominieren. Experimentiert mit verschiedenen Teams, um eure bevorzugte Taktik zu entdecken. </p>
+<h3>8. Prï¿½gelei, Schmeiï¿½en, Ausdauer und Geschwindigkeit... Welches ist das beste Attribut?</h3>
+<p>Die Attribute sind per Rechtsklick auf die Kreatur einsehbar (oder per Linksklick mit der Lupe). Prï¿½gelei zeigt die Nahkampfstï¿½rke der Kreatur an. Diese Angriffe werden in roter Schrift links neben den Attributen angezeigt. Schmeiï¿½en zeigt die Fernkampfstï¿½rke (blau) und Ausdauer bestimmt, wie viele Lebenspunkte eure Kreatur hat. Geschwindigkeit bestimmt die Initiative eurer Kreatur im Kampf und wie weit sie sich pro Runde bewegen kann. All diese Werte werden im Kampfgeschehen verwendet. Ihr solltet beim Training also darauf achten, eine gute Mischung aus verschiedenen Spezialisten zu zï¿½chten. Ihr kï¿½nnt euch natï¿½rlich auch nur auf ein Attribut konzentrieren und versuchen, dass Spielgeschehen zu dominieren. Experimentiert mit verschiedenen Teams, um eure bevorzugte Taktik zu entdecken. </p>
 <div class="hr"></div>
 <a name="faqs_q9"></a>
 <h3>9. Was kann man mit den verschiedenen Extras im Spiel machen?</h3>
-<p>Die Extras für Prügelei, Schmeißen und Geschwindigkeit verleihen der Kreatur für 5 Runden einen Bonus auf das entsprechende Attribut (vorausgesetzt die Kreatur hat noch nicht die Maximalstufe erreicht). Das Ausdauer-Extra erhöht die Lebenspunkte der Kreatur um zwei Segmente (40 Lebenspunkte) und unterliegt keinen Rundenbeschränkungen. Wie bereits erwähnt, erhöht sich das Attribut nicht, wenn es bereits auf der Maximalstufe ist. Allerdings lohnt es sich trotzdem, diese Extras einzusammeln, damit eure Gegner sie nicht bekommen können. Wählt sie weise, denn eine Kreatur kann gleichzeitig nur ein Extra benutzen.</p>
+<p>Die Extras fï¿½r Prï¿½gelei, Schmeiï¿½en und Geschwindigkeit verleihen der Kreatur fï¿½r 5 Runden einen Bonus auf das entsprechende Attribut (vorausgesetzt die Kreatur hat noch nicht die Maximalstufe erreicht). Das Ausdauer-Extra erhï¿½ht die Lebenspunkte der Kreatur um zwei Segmente (40 Lebenspunkte) und unterliegt keinen Rundenbeschrï¿½nkungen. Wie bereits erwï¿½hnt, erhï¿½ht sich das Attribut nicht, wenn es bereits auf der Maximalstufe ist. Allerdings lohnt es sich trotzdem, diese Extras einzusammeln, damit eure Gegner sie nicht bekommen kï¿½nnen. Wï¿½hlt sie weise, denn eine Kreatur kann gleichzeitig nur ein Extra benutzen.</p>
 <div class="hr"></div>
 <a name="faqs_q10"></a>
 <h3>10. Was muss ich bei den verschiedenen Schlachtmodi tun?</h3>
-<p>Bei 'Völlige Vernichtung' gewinnt der Spieler, der die letzten Kreaturen auf dem Spielfeld hat. Bei 'Das große Fressen' müsst ihr mindestens die Hälfte aller Kontrollpunkte auf dem Spielfeld erobern und für drei Runden verteidigen. Um sie zu erobern, müsst ihr eine eurer Kreaturen auf das Feld bewegen. Bei 'Fliegenfang' müsst ihr eine Balance zwischen Angriff und Verteidigung anwenden. Fangt eine Fliege eures Gegners und bringt sie zu eurer eigenen, um zu punkten. Eure Fliege darf nicht gefangen worden sein, also verteidigt sie gut. Um eine Fliege zurückzuholen, müsst ihr ihren Träger zerstören. Der Spieler mit den meisten Erfolgen aus fünf Fängen ist der Sieger.</p>
+<p>Bei 'Vï¿½llige Vernichtung' gewinnt der Spieler, der die letzten Kreaturen auf dem Spielfeld hat. Bei 'Das groï¿½e Fressen' mï¿½sst ihr mindestens die Hï¿½lfte aller Kontrollpunkte auf dem Spielfeld erobern und fï¿½r drei Runden verteidigen. Um sie zu erobern, mï¿½sst ihr eine eurer Kreaturen auf das Feld bewegen. Bei 'Fliegenfang' mï¿½sst ihr eine Balance zwischen Angriff und Verteidigung anwenden. Fangt eine Fliege eures Gegners und bringt sie zu eurer eigenen, um zu punkten. Eure Fliege darf nicht gefangen worden sein, also verteidigt sie gut. Um eine Fliege zurï¿½ckzuholen, mï¿½sst ihr ihren Trï¿½ger zerstï¿½ren. Der Spieler mit den meisten Erfolgen aus fï¿½nf Fï¿½ngen ist der Sieger.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>11. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -431,13 +431,13 @@ Vorteile einer Mitgliedschaft
 <p style="padding-bottom: 5px;">Mitglieder-Features:</p>
 <ul style="line-height: 22px;">
 <li>Erweiterte Auswahl aus 50 Nahrungsmitteln</li>
-<li>50 Tiefkühlfach-Plätze, um eure Armee zu lagern</li>
+<li>50 Tiefkï¿½hlfach-Plï¿½tze, um eure Armee zu lagern</li>
 <li>Zugriff auf alle Erfolge</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung beim Spielen</li> <li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=zombiedawn/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -459,7 +459,7 @@ Development Team
 <b>Translation:</b> Gesine P,&nbsp;Heiko J,&nbsp; Matthias P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -472,25 +472,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=zombiedawn/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=zombiedawn/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=zombiedawn/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=zombiedawn/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=zombiedawn/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=zombiedawn/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=zombiedawn/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=zombiedawn/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=zombiedawn/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=zombiedawn/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=zombiedawn/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=zombiedawn/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=zombiedawn/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=zombiedawn/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

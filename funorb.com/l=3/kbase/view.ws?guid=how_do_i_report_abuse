@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,10 +20,10 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=how_do_i_report_abuse" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=how_do_i_report_abuse" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -160,21 +160,21 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="articleBody">
 <div class="faqsList">
 <ol>
-<li><a href="#abuse">Um jogador está me ameaçando ou assediando em um jogo multijogador, o que devo fazer?</a>
-<li><a href="#real">Um jogador está me ameaçando ou assediando no mundo real. O que devo fazer?</a>
+<li><a href="#abuse">Um jogador estï¿½ me ameaï¿½ando ou assediando em um jogo multijogador, o que devo fazer?</a>
+<li><a href="#real">Um jogador estï¿½ me ameaï¿½ando ou assediando no mundo real. O que devo fazer?</a>
 <li><a href="#report">Como devo denunciar abusos?</a>
 <li><a href="#chat">Como funciona o filtro de bate-papo?</a>
-<li><a href="#what">O que é abuso?</a>
+<li><a href="#what">O que ï¿½ abuso?</a>
 </ol></div>
 <br>
 <a name="abuse"></a>
-<span class="title">1. Um jogador está me ameaçando ou assediando em um jogo multijogador. O que devo fazer?</span><br><br> Primeiro, denuncie o jogador utilizando a função de denúcia no jogo. Obtenha mais informações sobre como fazer isso acessando a Questão 3, abaixo. Esse tipo de atividade é algo que levamos muito a sério e trataremos do assunto com muito cuidado.<br><br>Você só precisa enviar um relatório por incidente. Se recebermos vários relatórios do mesmo incidente, levaremos mais tempo para tomar medidas relacionadas a outros relatórios.<br><br>Se um jogador estiver ameaçando roubar sua conta, para certificar-se de que a conta esteja segura, leia e siga as recomendações no documento <a href="viewarticle.ws?article_id=42">Informações de segurança</a>.<br><br>Siga todos os conselhos fornecidos aqui e sua conta permanecerá segura. <br><br>
+<span class="title">1. Um jogador estï¿½ me ameaï¿½ando ou assediando em um jogo multijogador. O que devo fazer?</span><br><br> Primeiro, denuncie o jogador utilizando a funï¿½ï¿½o de denï¿½cia no jogo. Obtenha mais informaï¿½ï¿½es sobre como fazer isso acessando a Questï¿½o 3, abaixo. Esse tipo de atividade ï¿½ algo que levamos muito a sï¿½rio e trataremos do assunto com muito cuidado.<br><br>Vocï¿½ sï¿½ precisa enviar um relatï¿½rio por incidente. Se recebermos vï¿½rios relatï¿½rios do mesmo incidente, levaremos mais tempo para tomar medidas relacionadas a outros relatï¿½rios.<br><br>Se um jogador estiver ameaï¿½ando roubar sua conta, para certificar-se de que a conta esteja segura, leia e siga as recomendaï¿½ï¿½es no documento <a href="viewarticle.ws?article_id=42">Informaï¿½ï¿½es de seguranï¿½a</a>.<br><br>Siga todos os conselhos fornecidos aqui e sua conta permanecerï¿½ segura. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="real"></a>
-<span class="title">2. Um jogador está me ameaçando ou assediando no mundo real. O que devo fazer?</span><br><br> Se você for vítima de assédio ou ameaça no mundo real, quer seja relacionado ao FunOrb ou não, conte isso a alguém, seu pai, mãe ou um professor.<br><br>Diversas informações úteis sobre como prevenir intimidações podem encontram-se nos websites a seguir:<br><br>
+<span class="title">2. Um jogador estï¿½ me ameaï¿½ando ou assediando no mundo real. O que devo fazer?</span><br><br> Se vocï¿½ for vï¿½tima de assï¿½dio ou ameaï¿½a no mundo real, quer seja relacionado ao FunOrb ou nï¿½o, conte isso a alguï¿½m, seu pai, mï¿½e ou um professor.<br><br>Diversas informaï¿½ï¿½es ï¿½teis sobre como prevenir intimidaï¿½ï¿½es podem encontram-se nos websites a seguir:<br><br>
 <a href="http://www.bullying.co.uk" target="_blank">www.bullying.co.uk</a>
 <br><br>
 <a href="http://www.need2know.co.uk" target="_blank">www.need2know.co.uk</a>
@@ -183,53 +183,53 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <br><br>
 <a href="http://www.ceop.gov.uk" target="_blank">www.ceop.gov.uk</a>
 <br><br>
-<br>Se estiver no Reino Unido e quiser falar com alguém, entre em contato com a Childline - o número gratuito de ajuda para jovens em perigo no Reino Unido - telefone 0800 1111.<br><br>Se as linhas telefônicas estiverem ocupadas, continue tentando ou entre em contao por e-mail através do website acima.<br><br>Para casos mais sérios relacionados ao bem-estar de crianças e adolescentes nos Estados Unidos, entre em contato com: <a href="http://www.fbi.gov/contactus.htm" target="_blank">www.fbi.gov/contactus.htm</a><br><br>Para casos sérios no Reino Unido, entre em contato com a força policial local através do número específico. Encontre mais informações aqui: <a href="http://www.police.uk" target="_blank">www.police.uk</a>. Como alternativa, entre em contato com o departamento de assistência social, cujo número pode ser encontrado na lista telefônica.. <br><br>
+<br>Se estiver no Reino Unido e quiser falar com alguï¿½m, entre em contato com a Childline - o nï¿½mero gratuito de ajuda para jovens em perigo no Reino Unido - telefone 0800 1111.<br><br>Se as linhas telefï¿½nicas estiverem ocupadas, continue tentando ou entre em contao por e-mail atravï¿½s do website acima.<br><br>Para casos mais sï¿½rios relacionados ao bem-estar de crianï¿½as e adolescentes nos Estados Unidos, entre em contato com: <a href="http://www.fbi.gov/contactus.htm" target="_blank">www.fbi.gov/contactus.htm</a><br><br>Para casos sï¿½rios no Reino Unido, entre em contato com a forï¿½a policial local atravï¿½s do nï¿½mero especï¿½fico. Encontre mais informaï¿½ï¿½es aqui: <a href="http://www.police.uk" target="_blank">www.police.uk</a>. Como alternativa, entre em contato com o departamento de assistï¿½ncia social, cujo nï¿½mero pode ser encontrado na lista telefï¿½nica.. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="report"></a>
 <span class="title">3. Como devo denunciar um abuso?</span><br><br>
 <b>Antes de denunciar</b>
-<br> Somente denuncie um jogador se tiver de fato sofrido algum tipo de abuso. Isso significa que você deve ter provas da situação ocorrida, do contrário não poderemos tomar medida alguma. Assim, envie a denúncio logo que o fato ocorrer, e não fale com outros jogadores a respeito antes. <br><br> Certifique-se de que a pessoa denunciada realmente está violando nossos códigos de conduta. Garantimos que todas as denúncias de abuso serão investigadas na totalidade e, se você não tiver certeza, poderemos tomar essa decisão por você. Em caso de dúvida, envie um relatório. No entanto, não denuncie alguém que claramente não está violando o <a href="viewcategory.ws?cat_id=11">Código de Conduta</a>, poque isso terá um reflexo negativo sobre você. <br><br> Se o filtro de bate-papo tiver bloqueado uma obscenidade, não há necessidade de enviar um relatório, porque não houve violação das regras. <br><br> Pequenos abusos, como chamar alguém de novato (noob), não é suficiente para denunciar alguém por abuso, porque isso é comum em jogos on-line e não é considerado ofensivo, a menos que esteja combinado com outras palavras ofensivas. <br><br> Quando você é agressivo com outras pessoas e as denuncia após elas revidarem, também está fazendo uso indevido do sistema. Nossos registros mostrarão claramente o ocorrido antes da denúncia e será fácil identificar quem de fato provocou o incidente. <br><br> Enviar boatos nos atrasa e fazer isso repetidamente pode resultar em medidas contra a sua conta. <br><br>
-<b>Como elaborar seu relatório</b>
-<br> Se tiver certeza de que deseja fazer uma denúcia de abuso, utilize o botão Informar Abuso, localizado na parte inferior da janela de bate-papo do FunOrb. <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=3/img/images/kbase/safetyguidelines/report_abuse.gif" alt="Botão Informar Abuso" title="Botão Informar Abuso">
-<br><br> Para usar o botão Informar Abuso, clique nele, insira o nome do jogador e selecione a categoria relevante. O relatório de abuso será enviado automaticamente. <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=3/img/images/kbase/safetyguidelines/reportabusemenu2a.gif" alt="Menu Informar Abuso" title="Menu Informar Abuso">
-<br><br> Envie somente um relatório por incidente. Podemos obter todas as informações necessárias em um simples relatório. O envio de diversos relatórios pode nos impedir de processar as solicitações com eficiência. <br><br>
-<b>Depois do relatório</b>
-<br> Todos os relatórios de abuso serão investigados e medidas serão tomadas. Entretanto, pode ser que não concordemos com seu relatório, porque pode não haver provas suficientes nele e pode ser que tenhamos decidido não adotar medidas contra o jogador. Não envie mensagens sobre o primeiro relatório, porque nossa decisão é FINAL. Também não envie relatórios adicionais, a menos que você veja o jogador violando as regas novamente. <br><br>
+<br> Somente denuncie um jogador se tiver de fato sofrido algum tipo de abuso. Isso significa que vocï¿½ deve ter provas da situaï¿½ï¿½o ocorrida, do contrï¿½rio nï¿½o poderemos tomar medida alguma. Assim, envie a denï¿½ncio logo que o fato ocorrer, e nï¿½o fale com outros jogadores a respeito antes. <br><br> Certifique-se de que a pessoa denunciada realmente estï¿½ violando nossos cï¿½digos de conduta. Garantimos que todas as denï¿½ncias de abuso serï¿½o investigadas na totalidade e, se vocï¿½ nï¿½o tiver certeza, poderemos tomar essa decisï¿½o por vocï¿½. Em caso de dï¿½vida, envie um relatï¿½rio. No entanto, nï¿½o denuncie alguï¿½m que claramente nï¿½o estï¿½ violando o <a href="viewcategory.ws?cat_id=11">Cï¿½digo de Conduta</a>, poque isso terï¿½ um reflexo negativo sobre vocï¿½. <br><br> Se o filtro de bate-papo tiver bloqueado uma obscenidade, nï¿½o hï¿½ necessidade de enviar um relatï¿½rio, porque nï¿½o houve violaï¿½ï¿½o das regras. <br><br> Pequenos abusos, como chamar alguï¿½m de novato (noob), nï¿½o ï¿½ suficiente para denunciar alguï¿½m por abuso, porque isso ï¿½ comum em jogos on-line e nï¿½o ï¿½ considerado ofensivo, a menos que esteja combinado com outras palavras ofensivas. <br><br> Quando vocï¿½ ï¿½ agressivo com outras pessoas e as denuncia apï¿½s elas revidarem, tambï¿½m estï¿½ fazendo uso indevido do sistema. Nossos registros mostrarï¿½o claramente o ocorrido antes da denï¿½ncia e serï¿½ fï¿½cil identificar quem de fato provocou o incidente. <br><br> Enviar boatos nos atrasa e fazer isso repetidamente pode resultar em medidas contra a sua conta. <br><br>
+<b>Como elaborar seu relatï¿½rio</b>
+<br> Se tiver certeza de que deseja fazer uma denï¿½cia de abuso, utilize o botï¿½o Informar Abuso, localizado na parte inferior da janela de bate-papo do FunOrb. <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../l=3/img/images/kbase/safetyguidelines/report_abuse.gif" alt="Botï¿½o Informar Abuso" title="Botï¿½o Informar Abuso">
+<br><br> Para usar o botï¿½o Informar Abuso, clique nele, insira o nome do jogador e selecione a categoria relevante. O relatï¿½rio de abuso serï¿½ enviado automaticamente. <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../l=3/img/images/kbase/safetyguidelines/reportabusemenu2a.gif" alt="Menu Informar Abuso" title="Menu Informar Abuso">
+<br><br> Envie somente um relatï¿½rio por incidente. Podemos obter todas as informaï¿½ï¿½es necessï¿½rias em um simples relatï¿½rio. O envio de diversos relatï¿½rios pode nos impedir de processar as solicitaï¿½ï¿½es com eficiï¿½ncia. <br><br>
+<b>Depois do relatï¿½rio</b>
+<br> Todos os relatï¿½rios de abuso serï¿½o investigados e medidas serï¿½o tomadas. Entretanto, pode ser que nï¿½o concordemos com seu relatï¿½rio, porque pode nï¿½o haver provas suficientes nele e pode ser que tenhamos decidido nï¿½o adotar medidas contra o jogador. Nï¿½o envie mensagens sobre o primeiro relatï¿½rio, porque nossa decisï¿½o ï¿½ FINAL. Tambï¿½m nï¿½o envie relatï¿½rios adicionais, a menos que vocï¿½ veja o jogador violando as regas novamente. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="chat"></a>
-<span class="title">4. Como funciona o filtro do bate-papo?</span><br><br> O filtro de bate-papo detecta palavras ofensivas ou padrões de letras que podem ser utilizados para violar as <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a>. Essas palavras são filtradas e substituídas por estrelas na janela do bate-papo. Sabemos que algumas palavras serão censuradas sem necessidade e nunca tomaremos providências contra estas contas, mesmo quando denunciadas, a não ser que as regras realmente tenham sido violadas. Se você notar que um comentário de outro jogador foi filtrado, não há necessidade de enviar um relatório de abuso, porque o filtro do bate-papo fez seu trabalho.<br><br>Se vir alguém deliberadamente digitando palavras de forma diferente para que elas possam passar pelo filtro do bate-papo e violar as regras, denuncie o jogador por utilização de linguagem ofensiva. Para saber como fazer isso, consulte a pergunta 3. </a> <br><br>
+<span class="title">4. Como funciona o filtro do bate-papo?</span><br><br> O filtro de bate-papo detecta palavras ofensivas ou padrï¿½es de letras que podem ser utilizados para violar as <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a>. Essas palavras sï¿½o filtradas e substituï¿½das por estrelas na janela do bate-papo. Sabemos que algumas palavras serï¿½o censuradas sem necessidade e nunca tomaremos providï¿½ncias contra estas contas, mesmo quando denunciadas, a nï¿½o ser que as regras realmente tenham sido violadas. Se vocï¿½ notar que um comentï¿½rio de outro jogador foi filtrado, nï¿½o hï¿½ necessidade de enviar um relatï¿½rio de abuso, porque o filtro do bate-papo fez seu trabalho.<br><br>Se vir alguï¿½m deliberadamente digitando palavras de forma diferente para que elas possam passar pelo filtro do bate-papo e violar as regras, denuncie o jogador por utilizaï¿½ï¿½o de linguagem ofensiva. Para saber como fazer isso, consulte a pergunta 3. </a> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">5. O que é abuso?</span><br><br> Abusos abrangem, mas não se limitam a:<br>
+<span class="title">5. O que ï¿½ abuso?</span><br><br> Abusos abrangem, mas nï¿½o se limitam a:<br>
 <ul style="margin-top: 0px; margin-bottom: 0px; ">
 <br>
-<li>Linguagem ofensiva. Inclui comentários sobre raça, sexo, orientação sexual, aparência, deficiências, nacionalidade e crenças políticas. <br><br>
+<li>Linguagem ofensiva. Inclui comentï¿½rios sobre raï¿½a, sexo, orientaï¿½ï¿½o sexual, aparï¿½ncia, deficiï¿½ncias, nacionalidade e crenï¿½as polï¿½ticas. <br><br>
 <li>Solicitar senhas de outros jogadores e tentar roubar contas Jagex. <br><br>
 <li>Tentar comprar, vender ou dar uma conta Jagex. <br><br>
-<li>Personificar um <a href="viewcategory.ws?cat_id=10">moderador</a> ou alguém com a capacidade de modificar, editar ou fraudar jogos da Jagex. <br><br>
+<li>Personificar um <a href="viewcategory.ws?cat_id=10">moderador</a> ou alguï¿½m com a capacidade de modificar, editar ou fraudar jogos da Jagex. <br><br>
 <li>Fazer publicidade de qualquer website. <br>
 </ul>
-<br> Para obter uma lista completa do que é considerado abuso, consulte as <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a>. O abuso pode ser direcionado a um jogador, grupo de jogadores ou pode ser um comportamento que cause confusão ou desordem. Leia a pergunta 3 acima para descobrir o que fazer quando você vir alguém violando as regras. <br>
+<br> Para obter uma lista completa do que ï¿½ considerado abuso, consulte as <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a>. O abuso pode ser direcionado a um jogador, grupo de jogadores ou pode ser um comportamento que cause confusï¿½o ou desordem. Leia a pergunta 3 acima para descobrir o que fazer quando vocï¿½ vir alguï¿½m violando as regras. <br>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Mais artigos em <a href="viewcategory.ws?cat_id=2">Suporte ao Cliente</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=15">Membros</a>, Como denunciar abusos, <a href="viewarticle.ws?article_id=47">Publicidade</a>, <a href="viewarticle.ws?article_id=9">Suspensões e vetos</a>, <a href="viewarticle.ws?article_id=41">Relatório de erros</a></span>
+<a href="viewarticle.ws?article_id=15">Membros</a>, Como denunciar abusos, <a href="viewarticle.ws?article_id=47">Publicidade</a>, <a href="viewarticle.ws?article_id=9">Suspensï¿½es e vetos</a>, <a href="viewarticle.ws?article_id=41">Relatï¿½rio de erros</a></span>
 </div>
 </div>
 </div>
@@ -240,17 +240,17 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

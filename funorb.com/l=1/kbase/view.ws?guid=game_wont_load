@@ -10,7 +10,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex Games Studio, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games by Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
@@ -21,10 +21,10 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-26.css);/**/
+  /*\*/@import url(../../l=1/css/global-26.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
@@ -44,15 +44,15 @@ de">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
@@ -63,15 +63,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -80,9 +80,9 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Vorteile einer Mitgliedschaft</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,44 +92,44 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Community-Startseite</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://achievements.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://orbcoins.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=game_wont_load" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=game_wont_load" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -146,7 +146,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=8">Technisches</a> &gt; Spiel lädt nicht</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=8">Technisches</a> &gt; Spiel lï¿½dt nicht</span>
 
 
 </div>
@@ -156,56 +156,56 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionBackground">
 <div class="sectionContent" >
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Spiel lädt nicht</h1>
+<h1 class="articleTitle">Spiel lï¿½dt nicht</h1>
 <div class="articleBody">
 <div class="faqsList">
 <ol>
 <li><a href="#nothing">Ich kann das Spielfenster sehen, aber da steht nur &quot;Lade... Bitte warten...&quot;. Was soll ich unternehmen?</a></li>
 <li><a href="#loading">Ich kann ein FunOrb-Spiel einfach nicht laden. Selbst der Titelbildschirm erscheint nicht. Was soll ich unternehmen?</a></li>
-<li><a href="#crash">Das Spiel hängt sich auf, bevor es fertig geladen hat. Was soll ich tun?</a></li>
-<li><a href="#slow">Die Webseite lädt nur sehr langsam. Was kann ich dagegen unternehmen?</a></li>
+<li><a href="#crash">Das Spiel hï¿½ngt sich auf, bevor es fertig geladen hat. Was soll ich tun?</a></li>
+<li><a href="#slow">Die Webseite lï¿½dt nur sehr langsam. Was kann ich dagegen unternehmen?</a></li>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="nothing"></a>
-<span class="title">1. Ich kann das Spielfenster sehen, aber da steht nur &quot;Lade... Bitte warten...&quot;. Was soll ich unternehmen?</span><br><br> Falls Ihr Rechner mehr als 1 Gigabyte Arbeitsspeicher (RAM) besitzt, kann es zu einem Speicherkonflikt kommen. Die Java-Plattform kann dem FunOrb-Spiel nicht genügend Speicher bereitstellen. Lösen Sie das Problem, indem Sie den folgenden Schritten folgen: <br><br>
-<b>Anmerkung:</b> Bitte folgen Sie diesen Schritten nur, wenn Sie sich technisch gut auskennen oder ein verantwortungsbewusster Erwachsener sind. Jagex übernimmt keine Verantwortung für Datenverluste, die eventuell von dieser Lösung hervorgerufen werden. <br><br> - Öffnen Sie die Windows-Systemsteuerung<br> - Öffnen Sie "Java"<br> - Wählen Sie die Registerkarte "Java"<br> - Betätigen Sie die Schaltfläche "Anzeigen..." unter "Java-<b>Applet</b>-Laufzeiteinstellungen" (nicht die <b>Anwendungs-</b>, sondern die <b>Applet-</b>Optionen) <br><br> Ihre Version des JRE sollte in dieser Liste vorhanden sein. In dem Eingabefeld 'Run-Time-Parameter' geben Sie bitte folgendes ein: <br><br> -Xmx256M<br> Der Bindestrich muss mit eingegeben werden. Durch diese Änderung erhöht sich der für Java verfügbare Arbeitsspeicher auf 256MB. <br> Setzen Sie diesen Wert niemals auf mehr als die Hälfte Ihres gesamten Arbeitspeichers, da es ansonsten zu Problemen mit Windows kommen kann. <br><br> Da FunOrb-Spiele entwickelt wurden, um unter Windows mit Internet Explorer gespielt zu werden, können wir Ihnen nur Hilfe für diese Produkte anbieten. Falls Sie andere Software benutzen, sollten Sie die Anleitung dieser Programme konsultieren, um die dafür notwendigen Schritte in Erfahrung zu bringen. <br><br> Sollte das Problem weiterhin bestehen bleiben, wenden Sie sich bezüglich weiterführender Hilfe bitte an den Kundendienst. Bitte erwähnen Sie alle Leistungsprobleme, die eventuell nach der Durchführung der oben genannten Änderungen aufgetreten sind. Außerdem benötigen wir Informationen über Ihr System (wie beispielsweise CPU-Taktfrequenz, Internet-Verbindungsgeschwindigkeit, Größe des Arbeitsspeichers und freier Festplattenspeicherplatz). <br><br>
+<span class="title">1. Ich kann das Spielfenster sehen, aber da steht nur &quot;Lade... Bitte warten...&quot;. Was soll ich unternehmen?</span><br><br> Falls Ihr Rechner mehr als 1 Gigabyte Arbeitsspeicher (RAM) besitzt, kann es zu einem Speicherkonflikt kommen. Die Java-Plattform kann dem FunOrb-Spiel nicht genï¿½gend Speicher bereitstellen. Lï¿½sen Sie das Problem, indem Sie den folgenden Schritten folgen: <br><br>
+<b>Anmerkung:</b> Bitte folgen Sie diesen Schritten nur, wenn Sie sich technisch gut auskennen oder ein verantwortungsbewusster Erwachsener sind. Jagex ï¿½bernimmt keine Verantwortung fï¿½r Datenverluste, die eventuell von dieser Lï¿½sung hervorgerufen werden. <br><br> - ï¿½ffnen Sie die Windows-Systemsteuerung<br> - ï¿½ffnen Sie "Java"<br> - Wï¿½hlen Sie die Registerkarte "Java"<br> - Betï¿½tigen Sie die Schaltflï¿½che "Anzeigen..." unter "Java-<b>Applet</b>-Laufzeiteinstellungen" (nicht die <b>Anwendungs-</b>, sondern die <b>Applet-</b>Optionen) <br><br> Ihre Version des JRE sollte in dieser Liste vorhanden sein. In dem Eingabefeld 'Run-Time-Parameter' geben Sie bitte folgendes ein: <br><br> -Xmx256M<br> Der Bindestrich muss mit eingegeben werden. Durch diese ï¿½nderung erhï¿½ht sich der fï¿½r Java verfï¿½gbare Arbeitsspeicher auf 256MB. <br> Setzen Sie diesen Wert niemals auf mehr als die Hï¿½lfte Ihres gesamten Arbeitspeichers, da es ansonsten zu Problemen mit Windows kommen kann. <br><br> Da FunOrb-Spiele entwickelt wurden, um unter Windows mit Internet Explorer gespielt zu werden, kï¿½nnen wir Ihnen nur Hilfe fï¿½r diese Produkte anbieten. Falls Sie andere Software benutzen, sollten Sie die Anleitung dieser Programme konsultieren, um die dafï¿½r notwendigen Schritte in Erfahrung zu bringen. <br><br> Sollte das Problem weiterhin bestehen bleiben, wenden Sie sich bezï¿½glich weiterfï¿½hrender Hilfe bitte an den Kundendienst. Bitte erwï¿½hnen Sie alle Leistungsprobleme, die eventuell nach der Durchfï¿½hrung der oben genannten ï¿½nderungen aufgetreten sind. Auï¿½erdem benï¿½tigen wir Informationen ï¿½ber Ihr System (wie beispielsweise CPU-Taktfrequenz, Internet-Verbindungsgeschwindigkeit, Grï¿½ï¿½e des Arbeitsspeichers und freier Festplattenspeicherplatz). <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="loading"></a>
-<span class="title">2. Ich kann ein FunOrb-Spiel einfach nicht laden. Selbst der Titelbildschirm erscheint nicht. Was soll ich unternehmen?</span><br><br> Bitte versuchen Sie alle unten aufgeführten Möglichkeiten in der genannten Reihenfolge, um Ihr technisches Problem zu lösen. Sollte die erste Lösung das Problem nicht beheben, versuchen Sie bitte den darunter aufgeführten Lösungsweg.<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Versuchen Sie, eine Verbindung mit einer anderen 'Spielwelt' herzustellen. Die Liste der Spielwelten für jedes Spiel finden Sie auf der "Weitere Info"-Seite des Spiels, direkt über der Schaltfläche "Beschreibung". Sollte es in einem unserer Rechenzentren zu Problemen gekommen sein, so wird dieser Lösungsversuch für Sie funktionieren, sodass Sie weiterspielen können, bis wir das Problem mit den anderen Welten behoben haben.<br><br>
-<li>Es könnte sein, dass sich noch eine alte Version des Spiels in Ihrem Zwischenspeicher befindet. Sie sollten versuchen, den Zwischenspeicher Ihres Browsers zu löschen. Dazu müssen Sie nur im Internet Explorer aus dem Menü die Option 'Extras &gt; Internetoptionen &gt; Temporäre Dateien löschen' wählen.<br><br>
-<li>Im Menü 'Spiele' auf der FunOrb-Webseite finden Sie einen Link zu den 'Java-Optionen'. Öffnen Sie das Menü auf dieser Seite und wählen Sie 'Digital signiertes Applet mit Suns Java-Version' aus und starten Sie dann das Spiel wie gewohnt. Dies wird das Problem in vielen Fällen beheben.<br><br>
-<li>Stellen Sie sicher, dass Sie den Sicherheitshinweis akzeptiert haben, der ein paar Sekunden nach Auswahl der Spielwelt erscheint. Sollte dieser Hinweis nicht erscheinen, starten Sie Ihren Rechner bitte neu und wählen Sie 'Ja', wenn Sie danach gefragt werden, ob Sie dem FunOrb-Applet vertrauen wollen.<br><br>
-<li>Im Menü 'Spiele' auf der FunOrb-Webseite finden Sie einen Link zu den 'Java-Optionen'. Öffnen Sie auf dieser Seite das Menü und wählen Sie 'Unsigniertes Applet mit voreingestellter Java-Version' aus und starten Sie dann das Spiel wie gewohnt. Dies wird das Problem in vielen Fällen beheben, wenn Sie von einer Schule oder einem Internet-Café aus spielen, wo sie nur eingeschränkten Zugang zu dem Computer haben.<br><br>
+<span class="title">2. Ich kann ein FunOrb-Spiel einfach nicht laden. Selbst der Titelbildschirm erscheint nicht. Was soll ich unternehmen?</span><br><br> Bitte versuchen Sie alle unten aufgefï¿½hrten Mï¿½glichkeiten in der genannten Reihenfolge, um Ihr technisches Problem zu lï¿½sen. Sollte die erste Lï¿½sung das Problem nicht beheben, versuchen Sie bitte den darunter aufgefï¿½hrten Lï¿½sungsweg.<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Versuchen Sie, eine Verbindung mit einer anderen 'Spielwelt' herzustellen. Die Liste der Spielwelten fï¿½r jedes Spiel finden Sie auf der "Weitere Info"-Seite des Spiels, direkt ï¿½ber der Schaltflï¿½che "Beschreibung". Sollte es in einem unserer Rechenzentren zu Problemen gekommen sein, so wird dieser Lï¿½sungsversuch fï¿½r Sie funktionieren, sodass Sie weiterspielen kï¿½nnen, bis wir das Problem mit den anderen Welten behoben haben.<br><br>
+<li>Es kï¿½nnte sein, dass sich noch eine alte Version des Spiels in Ihrem Zwischenspeicher befindet. Sie sollten versuchen, den Zwischenspeicher Ihres Browsers zu lï¿½schen. Dazu mï¿½ssen Sie nur im Internet Explorer aus dem Menï¿½ die Option 'Extras &gt; Internetoptionen &gt; Temporï¿½re Dateien lï¿½schen' wï¿½hlen.<br><br>
+<li>Im Menï¿½ 'Spiele' auf der FunOrb-Webseite finden Sie einen Link zu den 'Java-Optionen'. ï¿½ffnen Sie das Menï¿½ auf dieser Seite und wï¿½hlen Sie 'Digital signiertes Applet mit Suns Java-Version' aus und starten Sie dann das Spiel wie gewohnt. Dies wird das Problem in vielen Fï¿½llen beheben.<br><br>
+<li>Stellen Sie sicher, dass Sie den Sicherheitshinweis akzeptiert haben, der ein paar Sekunden nach Auswahl der Spielwelt erscheint. Sollte dieser Hinweis nicht erscheinen, starten Sie Ihren Rechner bitte neu und wï¿½hlen Sie 'Ja', wenn Sie danach gefragt werden, ob Sie dem FunOrb-Applet vertrauen wollen.<br><br>
+<li>Im Menï¿½ 'Spiele' auf der FunOrb-Webseite finden Sie einen Link zu den 'Java-Optionen'. ï¿½ffnen Sie auf dieser Seite das Menï¿½ und wï¿½hlen Sie 'Unsigniertes Applet mit voreingestellter Java-Version' aus und starten Sie dann das Spiel wie gewohnt. Dies wird das Problem in vielen Fï¿½llen beheben, wenn Sie von einer Schule oder einem Internet-Cafï¿½ aus spielen, wo sie nur eingeschrï¿½nkten Zugang zu dem Computer haben.<br><br>
 <li>Laden Sie Mozilla Firefox unter <a href="http://www.mozilla.org" target="_blank">www.mozilla.org</a> herunter und versuchen Sie anstelle von Internet Explorer damit FunOrb-Spiele zu spielen.<br><br>
-<li>Unsere Server können für Wartungsarbeiten oder eine Spielaktualisierung heruntergefahren werden. Bitte warten Sie eine Stunde und versuchen es dann erneut.<br><br>
-<li>Sie sollten sichergehen, dass Ihr Rechner die Mindestanforderungen für das gewünschte Spiel erfüllt. Jedes Spiel hat eigene Voraussetzungen, die Sie unter 'Weitere Infos' für das jeweilige Spiel einsehen können. Falls Ihr Rechner diese Anforderungen nur knapp erfüllt, sollten Sie alle unnötigen Programme beenden, bevor Sie es spielen.<br></ul>
+<li>Unsere Server kï¿½nnen fï¿½r Wartungsarbeiten oder eine Spielaktualisierung heruntergefahren werden. Bitte warten Sie eine Stunde und versuchen es dann erneut.<br><br>
+<li>Sie sollten sichergehen, dass Ihr Rechner die Mindestanforderungen fï¿½r das gewï¿½nschte Spiel erfï¿½llt. Jedes Spiel hat eigene Voraussetzungen, die Sie unter 'Weitere Infos' fï¿½r das jeweilige Spiel einsehen kï¿½nnen. Falls Ihr Rechner diese Anforderungen nur knapp erfï¿½llt, sollten Sie alle unnï¿½tigen Programme beenden, bevor Sie es spielen.<br></ul>
 <br><br>Falls Sie immer noch Probleme dabei haben, ein Spiel zu laden, dann wenden Sie sich bitte an die <a href ="https://ticketing.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/tech_support.ws">technische Kundenbetreuung</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="crash"></a>
-<span class="title">3. Das Spiel hängt sich auf, bevor es fertig geladen hat. Was soll ich tun?</span><br><br> Falls Sie auf einem Computer mit Vista Home Premium und Internet Explorer spielen, kann es sein, dass Windows im 'geschützten Modus' läuft. Das verursacht, dass FunOrb-Spiele nicht lokal zwischengespeichert werden können und sich deshalb aufhängen. Bitte folgen Sie diesen Schritten, um das Problem zu lösen: <br><br> - Wählen Sie in Internet Explorer den Menüpunkt Werkzeuge > Internetoptionen > Sicherheit > Vertrauenswürdige Seiten und deaktivieren Sie 'Serverprüfung für alle (https:) Seiten in dieser Zone benötigt' - Tippen Sie '*.funorb.de' (ohne die Anführungszeichen) in das Feld 'Diese Website der Zone hinzufügen' und klicken Sie auf 'Hinzufügen'. <br><br> Sie können auch den Mozilla-Browser von <a href="http://www.mozilla.org" target="_blank">www.mozilla.org</a> herunterladen und anstelle von Internet Explorer damit FunOrb-Spiele spielen.<br><br>
+<span class="title">3. Das Spiel hï¿½ngt sich auf, bevor es fertig geladen hat. Was soll ich tun?</span><br><br> Falls Sie auf einem Computer mit Vista Home Premium und Internet Explorer spielen, kann es sein, dass Windows im 'geschï¿½tzten Modus' lï¿½uft. Das verursacht, dass FunOrb-Spiele nicht lokal zwischengespeichert werden kï¿½nnen und sich deshalb aufhï¿½ngen. Bitte folgen Sie diesen Schritten, um das Problem zu lï¿½sen: <br><br> - Wï¿½hlen Sie in Internet Explorer den Menï¿½punkt Werkzeuge > Internetoptionen > Sicherheit > Vertrauenswï¿½rdige Seiten und deaktivieren Sie 'Serverprï¿½fung fï¿½r alle (https:) Seiten in dieser Zone benï¿½tigt' - Tippen Sie '*.funorb.de' (ohne die Anfï¿½hrungszeichen) in das Feld 'Diese Website der Zone hinzufï¿½gen' und klicken Sie auf 'Hinzufï¿½gen'. <br><br> Sie kï¿½nnen auch den Mozilla-Browser von <a href="http://www.mozilla.org" target="_blank">www.mozilla.org</a> herunterladen und anstelle von Internet Explorer damit FunOrb-Spiele spielen.<br><br>
 <br><br> Falls Sie immer noch Probleme dabei haben, ein Spiel zu laden, dann wenden Sie sich bitte an die <a href ="https://ticketing.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/tech_support.ws">technische Kundenbetreuung</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="slow"></a>
-<span class="title">4. Die Website lädt nur sehr langsam. Was kann ich dagegen unternehmen?</span><br><br> Nach einer Aktualisierung ist unsere Webseite manchmal etwas langsam, da sehr viele Spieler gleichzeitig die neuesten Spiele und Erweiterungen herunterladen. Warten Sie eine Weile und versuchen es dann erneut. <br>
+<span class="title">4. Die Website lï¿½dt nur sehr langsam. Was kann ich dagegen unternehmen?</span><br><br> Nach einer Aktualisierung ist unsere Webseite manchmal etwas langsam, da sehr viele Spieler gleichzeitig die neuesten Spiele und Erweiterungen herunterladen. Warten Sie eine Weile und versuchen es dann erneut. <br>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=8">Technisches</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=11">Probleme im Spiel</a>, Spiel lädt nicht, <a href="viewarticle.ws?article_id=49">Sonstiges</a></span>
+<a href="viewarticle.ws?article_id=11">Probleme im Spiel</a>, Spiel lï¿½dt nicht, <a href="viewarticle.ws?article_id=49">Sonstiges</a></span>
 </div>
 </div>
 </div>
@@ -216,17 +216,17 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=1/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

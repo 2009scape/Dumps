@@ -20,10 +20,10 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-22.css);/**/
+  /*\*/@import url(../../css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -44,8 +44,8 @@ en">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" ><b>
+<img src="../../img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -63,15 +63,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -80,9 +80,9 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -93,44 +93,44 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://focommunity.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Community Home</a></li>
 <li><a href="
 http://forum-fo.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://achievements.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Achievements</a></li>
 <li><a href="http://hiscore-fo.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://orbcoins.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws">
+<a id="countrydrop" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="English" alt="English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Deutsch" alt="Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -161,17 +161,17 @@ Terms &amp; Conditions
 
 <p>
 If you were a resident of France when you created your account and you created your account on or after 20th August 2008,
-<a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=74">click here</a>
+<a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=74">click here</a>
 to view the Terms &amp; Conditions which apply to you.
 </p>
 <p>
 If you were a resident of Germany when you created your account and you created your account on or after 14th February 2007,
-<a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=56">click here</a>
+<a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=56">click here</a>
 to view the Terms &amp; Conditions which apply to you.
 </p>
 <p>
 If you were a resident of Brazil when you created your account and you created your account on or after 18th November 2008,
-<a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=31">click here</a>
+<a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws?cty=31">click here</a>
 to view the Terms &amp; Conditions which apply to you.
 </p>
 <hr>
@@ -187,44 +187,44 @@ This website is owned and operated by Jagex Limited ("Jagex"), a company registe
 <p>
 <b>
 Definitions</b><br>
-"Jagex Product(s)" is used as shorthand for all versions of "RuneScape®", "FunOrb®" and any other of our online games including all Jagex websites used to play those games.</p>
+"Jagex Product(s)" is used as shorthand for all versions of "RuneScapeï¿½", "FunOrbï¿½" and any other of our online games including all Jagex websites used to play those games.</p>
 <p>References to "Stopping" an account include all or any of: locking, temporarily or permanently banning, or temporarily or permanently muting the account. If you account is muted, you can continue to play but will not be able to use free text chat. If your account is banned, you will not be able to access your account at all. NB Membership credit continues to expire if accounts are muted or banned.</p>
 <p>
 <b>
 Applicability</b><br>
 Please read these terms and conditions carefully. Your accepting them in full is a condition of your use of a Jagex product (whether or not you subscribe). If you don't agree with any part, please don't accept them or use the Jagex product.</p>
 <p>We may change these terms and conditions at any time. Please check them whenever you use a Jagex product. We will treat your continued use as acceptance of these changes from their effective date as shown above.</p>
-<p>f you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="http://www.funorb.com/img/privacy/lawcontact.gif"> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
+<p>f you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="../../img/privacy/lawcontact.gif"> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
 <p>
 <b>
 Changes</b><br>
-We may change these terms and conditions to reflect: changes in applicable laws; regulatory or security requirements; relevant guidance or codes of practice; technical alterations to Jagex Products; and to improve clarity and consistency. Please check the terms and conditions whenever you use a Jagex Product. If you are not a subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date as shown above. If you are a subscriber, we will treat you as bound by the changes on the first renewal date for your subscription after the effective date and so you should cancel your subscription (as explained below) before this renewal date if you don’t like the proposed changes.</p>
+We may change these terms and conditions to reflect: changes in applicable laws; regulatory or security requirements; relevant guidance or codes of practice; technical alterations to Jagex Products; and to improve clarity and consistency. Please check the terms and conditions whenever you use a Jagex Product. If you are not a subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date as shown above. If you are a subscriber, we will treat you as bound by the changes on the first renewal date for your subscription after the effective date and so you should cancel your subscription (as explained below) before this renewal date if you donï¿½t like the proposed changes.</p>
 <p>
 <b>
 A SPECIAL NOTE ABOUT PRETEENS AND USERS UNDER 18</b><br>
 If you are under 13 you will be able to create an account but unable to disclose personal data through the game or website. If we find out that any personal data we have collected is from someone under 13, we will automatically delete it. We recommend that parents / guardians set up an account and play together with their children. Many parents have reported that playing Jagex Products as a family is fun and rewarding.</p>
-<p>If you are under 13 and subscribe to the members' version of our game you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
-<p>If you are under 18, by using our website you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
+<p>If you are under 13 and subscribe to the members' version of our game you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
+<p>If you are under 18, by using our website you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
 <p>If we are told by a parent / guardian that their child has lied about their age when registering for Jagex Products, we will Stop the account provided we have information which satisfies us that the reporting person is indeed the parent or guardian.</p>
 <p>Parents can find more information about the Game and how to contact us in the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/parents_guide.ws" target="_blank">Parents' Guide</a>.</p>
 <p>
 <b>
 Safety / abuse</b><br>
-Before using any Jagex Product you should read the guides found in our <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=safety_and_security_guidelines">Safety & Security Guidelines</a>. It is particularly important to read the <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=play_safely">Play Safely Guide</a> and the
-<a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=play_safely#warning">Health & Safety Guide</a>.
+Before using any Jagex Product you should read the guides found in our <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=safety_and_security_guidelines">Safety & Security Guidelines</a>. It is particularly important to read the <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=play_safely">Play Safely Guide</a> and the
+<a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=play_safely#warning">Health & Safety Guide</a>.
 Parents should review our safety materials in the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/safety.ws" target="_blank">Player Safety</a> section of the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/parents_guide.ws" target="_blank">Parents' Guide</a>.</p>
 <p>Whilst we reserve the right to monitor and take action if any Jagex Product is used inappropriately (including the posting of objectionable material on the chat facility or otherwise), we cannot promise that any Jagex Product won't contain such content or that we will remove / modify any particular content. Nor can we guarantee that users will comply with our terms and conditions or otherwise behave appropriately.</p>
-<p>If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=how_do_i_report_abuse">"Report abuse"</a> button as well as seeking also seek appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
+<p>If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=how_do_i_report_abuse">"Report abuse"</a> button as well as seeking also seek appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
 <p>
 <b>
 Your account</b><br>
 To use many features of Jagex Products, we require you to create an account. We grant valid account holders a non-exclusive, non-transferable license for the period of membership to use Jagex Products and to download and use our client software and connect to our servers solely to use Jagex Products in accordance with these terms and conditions.</p>
 <p>You must not choose a username that infringes the rights of any third party, impersonates Jagex staff or other users, which is deliberately confusing or which is offensive, racist, obscene, hurtful, unlawful or otherwise inappropriate or which breaches the username requirements specified on our site or our Rules of Conduct. We reserve the right to make such assessment in our sole discretion, change any username for any reason or take such other action as we believe appropriate.</p>
-<p>You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=safety_and_security_guidelines">click here</a>.</p>
+<p>You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=safety_and_security_guidelines">click here</a>.</p>
 <p>
 <b>
 Rules</b><br>
-You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct">linked to here</a>.</p>
+You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct">linked to here</a>.</p>
 <p>
 <b>
 Our rights</b><br>
@@ -233,7 +233,7 @@ If, acting reasonably, we consider that our Terms and Conditions have or may hav
 <p>
 <b>
 Intellectual property rights</b><br>
-Jagex®, RuneScape® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries.</p>
+Jagexï¿½, RuneScapeï¿½ and FunOrbï¿½ are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries.</p>
 <p>You must not reverse-engineer, decompile or modify any Jagex Product client software in any way (except to the extent allowed by applicable law). You must not use a modified/customised version of the client software or attempt to sub-license it. You must not create or provide any other means by which any Jagex Product may be played by others (including, without limitation, replacement or modified client/server software, server emulators).</p>
 <p>Materials (including without limit all information, software, data, text, photographs, graphics, sound and video) placed on any Jagex Product by us or on our behalf are protected by copyright and other intellectual property rights of ourselves or our business partners / suppliers / advertisers. You may not use these materials or any Jagex Product except in accordance with these terms and conditions and for personal (i.e. non-commercial) use only.</p>
 <p>You agree that all intellectual property or other rights in any game character, account and items are and will remain our property.</p>
@@ -242,14 +242,14 @@ Jagex®, RuneScape® and FunOrb® are registered trade marks of Jagex Limited in th
 <p>
 <b>
 Java OpenGL</b><br>
-<p>RuneScape uses parts of the Java OpenGL (JOGL) library. We redistribute JOGL in binary form under <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/jogl.ws" target="_blank">this license</a>.</p>
+<p>RuneScape uses parts of the Java OpenGL (JOGL) library. We redistribute JOGL in binary form under <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/jogl.ws" target="_blank">this license</a>.</p>
 <p>
 <b>
 Subscription</b><br>
 You need a subscription to use certain features of Jagex Products. If you apply for a subscription, you must ensure all the information that you submit is true and accurate (including without limit your credit card number and expiration date, and other payment details) and that you have appropriate parental or guardian consent as applicable. You agree to pay all subscription fees specified when you apply including all applicable taxes. Unless otherwise stated, all prices shown for EU countries include VAT.</p>
 <p>By submitting your order you are making an offer to subscribe to the relevant part of the Jagex Product(s). Your offer is accepted and a binding contract occurs when we send a message to your account mail inbox confirming that your payment has been received or if you log into a subscribers-only part of a Jagex Product (whichever comes first).</p>
 <p><u>All subscription payments will continue to be taken in advance at the relevant intervals (e.g. monthly in the case of monthly subscriptions) until you cancel your subscription (see below).</u></p>
-<p>Payments by credit cards are also subject to our <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
+<p>Payments by credit cards are also subject to our <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
 <p>We reserve the right to alter the amount or terms of our subscription fees at any time. This will only apply to those who, following the change, take out new subscriptions or re-subscribe (their previous subscriptions having expired) and specifically agree to the new fees / terms.</p>
 <p>We reserve the right to charge you for any unauthorized use of your subscription by third parties.</p>
 <p>
@@ -257,11 +257,11 @@ You need a subscription to use certain features of Jagex Products. If you apply 
 Cancellation by you</b><br>
 You may cancel your subscription at any time by <a href="https://billing-core.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/unsubscribe.ws">clicking here</a> or selecting the "Cancel an Existing Subscription" or "Unsubscribe" link on the website of any Jagex Product.</p>
 <p>Upon cancellation you will not be charged any further subscription fees. No payments already made will be refunded (wholly or partly) but you can of course use up any unused membership credit in the account.</p>
-<p>For important information about the legal cancellation rights of EU consumers, please <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/eu.ws" target="_blank">click here</a>.</p>
+<p>For important information about the legal cancellation rights of EU consumers, please <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/eu.ws" target="_blank">click here</a>.</p>
 <p>
 <b>
 Privacy policy</b><br>
-For a description of how we use your personal data, please see our <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">Privacy policy</a>.</p>
+For a description of how we use your personal data, please see our <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws">Privacy policy</a>.</p>
 <p>
 <b>
 Functioning of Jagex Products</b><br>
@@ -292,7 +292,7 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -306,22 +306,22 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="English" src="../../img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Deutsch" src="../../img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Fran&ccedil;ais" src="../../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

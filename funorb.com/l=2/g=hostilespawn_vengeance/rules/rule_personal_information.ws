@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=hostilespawn_vengeance/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=hostilespawn_vengeance/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/g=hostilespawn_vengeance/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/g=hostilespawn_vengeance/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/g=hostilespawn_vengeance/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -55,7 +55,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=hostilespawn_vengeance/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=hostilespawn_vengeance/messenger.js"></script>
 
@@ -64,52 +64,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/g=hostilespawn_vengeance/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/g=hostilespawn_vengeance/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=2/g=hostilespawn_vengeance/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=hostilespawn_vengeance/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/g=hostilespawn_vengeance/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=hostilespawn_vengeance/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=hostilespawn_vengeance/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=hostilespawn_vengeance/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=hostilespawn_vengeance/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/g=hostilespawn_vengeance/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/g=hostilespawn_vengeance/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/g=hostilespawn_vengeance/forums.ws"
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=hostilespawn_vengeance/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_personal_information.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws">
+<a id="countrydrop" href="../../../l=2/g=hostilespawn_vengeance/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img title="
+<li><a class="fly" href="../../../g=hostilespawn_vengeance/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=hostilespawn_vengeance/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=hostilespawn_vengeance/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=hostilespawn_vengeance/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/view.ws?guid=rules_of_conduct">Règles de FunOrb</a> &gt; Demande ou communication de coordonnées 
+<a href="../../../l=2/g=hostilespawn_vengeance/kbase/view.ws?guid=rules_of_conduct">Rï¿½gles de FunOrb</a> &gt; Demande ou communication de coordonnï¿½es 
 </div>
 </div>
 </div>
@@ -164,16 +164,16 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 12 mai 2009</div>
-<p>Pour la sécurité et le respect de la vie privée de nos joueurs, il vous est interdit de solliciter des informations personnelles (nom complet, adresse électronique, pseudonyme de messagerie instantanée, numéro de téléphone, adresse de l'établissement scolaire ou du domicile, âge, etc.). Vous n'êtes pas non plus autorisé à publier les coordonnées de qui que ce soit (y compris les vôtres) sur nos forums ou groupes de discussion de jeux.</p>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 12 mai 2009</div>
+<p>Pour la sï¿½curitï¿½ et le respect de la vie privï¿½e de nos joueurs, il vous est interdit de solliciter des informations personnelles (nom complet, adresse ï¿½lectronique, pseudonyme de messagerie instantanï¿½e, numï¿½ro de tï¿½lï¿½phone, adresse de l'ï¿½tablissement scolaire ou du domicile, ï¿½ge, etc.). Vous n'ï¿½tes pas non plus autorisï¿½ ï¿½ publier les coordonnï¿½es de qui que ce soit (y compris les vï¿½tres) sur nos forums ou groupes de discussion de jeux.</p>
 <br>
 <div class="hr"></div>
-<h4>Questions associées</h4>
-<p>Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.</p>
+<h4>Questions associï¿½es</h4>
+<p>Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.</p>
 <br>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ? </a></li>
+<li><a href="#why">Pourquoi cette rï¿½gle ? </a></li>
 <li><a href="#personal">Que faut-il entendre par informations personnelles ? </a></li>
 <li><a href="#friend">Puis-je demander l'adresse de mes amis ? </a></li>
 </ol>
@@ -181,31 +181,31 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ? </span>
-<p>Nous avons établi cette règle afin de protéger votre vie privée et garantir votre sécurité. En fournissant vos données personnelles à des individus que vous rencontrez sur Internet, vous compromettez non seulement la sécurité de votre compte (qui pourra être utilisé en vue de réaliser une fausse demande de recouvrement de compte) mais votre propre sécurité.</p>
-<p>N'oubliez pas que vous ne connaissez pas ces personnes dans la vraie vie. Tout le monde n'agit pas de la même manière en jeu et dans la vie, c'est pourquoi il est important de garder une distance vis-à-vis des amis rencontrés en ligne.</p>
+<span class="title">1. Pourquoi cette rï¿½gle ? </span>
+<p>Nous avons ï¿½tabli cette rï¿½gle afin de protï¿½ger votre vie privï¿½e et garantir votre sï¿½curitï¿½. En fournissant vos donnï¿½es personnelles ï¿½ des individus que vous rencontrez sur Internet, vous compromettez non seulement la sï¿½curitï¿½ de votre compte (qui pourra ï¿½tre utilisï¿½ en vue de rï¿½aliser une fausse demande de recouvrement de compte) mais votre propre sï¿½curitï¿½.</p>
+<p>N'oubliez pas que vous ne connaissez pas ces personnes dans la vraie vie. Tout le monde n'agit pas de la mï¿½me maniï¿½re en jeu et dans la vie, c'est pourquoi il est important de garder une distance vis-ï¿½-vis des amis rencontrï¿½s en ligne.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="personal"></a>
 <span class="title">2. Que faut-il entendre par informations personnelles ? </span>
-<p>Les informations personnelles incluent les noms, adresses électroniques, informations de messagerie instantanée, coordonnées, numéros de téléphone, adresses d'établissement scolaire ou de domicile, âge, etc.</p>
+<p>Les informations personnelles incluent les noms, adresses ï¿½lectroniques, informations de messagerie instantanï¿½e, coordonnï¿½es, numï¿½ros de tï¿½lï¿½phone, adresses d'ï¿½tablissement scolaire ou de domicile, ï¿½ge, etc.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="friend"></a>
 <span class="title">3. Puis-je demander l'adresse de mes amis ? </span>
-<p>En demandant des données personnelles, vous enfreignez les règles. Par mesure de sécurité, nous vous déconseillons de solliciter ce type d'information. N'oubliez pas que vous allez rencontrer de nombreux joueurs. Gardez à l'esprit votre sécurité lorsque vous jouez et consultez notre <a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/kbase/guid/play_safely">guide de sécurité</a>.</p>
-<p><i>Nous demandons à tout le monde d'observer cette règle pour garantir à chacun une expérience de jeu agréable dans FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, vous risquez une exclusion ou un blocage de la discussion. Les abonnés sous le coup d'une sanction n'ont droit à aucun type de remboursement.</i></p>
+<p>En demandant des donnï¿½es personnelles, vous enfreignez les rï¿½gles. Par mesure de sï¿½curitï¿½, nous vous dï¿½conseillons de solliciter ce type d'information. N'oubliez pas que vous allez rencontrer de nombreux joueurs. Gardez ï¿½ l'esprit votre sï¿½curitï¿½ lorsque vous jouez et consultez notre <a href="../../../l=2/g=hostilespawn_vengeance/kbase/guid/play_safely">guide de sï¿½curitï¿½</a>.</p>
+<p><i>Nous demandons ï¿½ tout le monde d'observer cette rï¿½gle pour garantir ï¿½ chacun une expï¿½rience de jeu agrï¿½able dans FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, vous risquez une exclusion ou un blocage de la discussion. Les abonnï¿½s sous le coup d'une sanction n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -214,25 +214,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../g=hostilespawn_vengeance/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/g=hostilespawn_vengeance/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/g=hostilespawn_vengeance/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/g=hostilespawn_vengeance/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/g=hostilespawn_vengeance/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/g=hostilespawn_vengeance/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=hostilespawn_vengeance/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=hostilespawn_vengeance/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

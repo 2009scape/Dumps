@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=tetralink/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=tetralink/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=tetralink/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=tetralink/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/zombiedawn/intro.jpg);
+  background-image: url(../../l=3/img/images/game/zombiedawn/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/zombiedawn/screen1a.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/zombiedawn/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/zombiedawn/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/zombiedawn/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/zombiedawn/screen1a.jpg?1';
+images[1] = '../../l=3/img/images/game/zombiedawn/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/zombiedawn/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/zombiedawn/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=tetralink/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=tetralink/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=tetralink/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=tetralink/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=tetralink/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=tetralink/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=tetralink/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=tetralink/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=tetralink/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=tetralink/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=tetralink/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=tetralink/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=tetralink/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=tetralink/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=tetralink/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=tetralink/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=tetralink/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=tetralink/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=tetralink/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=tetralink/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=tetralink/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=tetralink/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=tetralink/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=tetralink/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=tetralink/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=tetralink/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=tetralink/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=tetralink/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=tetralink/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=tetralink/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=tetralink/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=tetralink/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=tetralink/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=tetralink/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=tetralink/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=tetralink/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=zombiedawn" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=tetralink/index.ws">
+<a id="countrydrop" href="../../l=3/g=tetralink/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=tetralink/index.ws"><img title="
+<li><a class="fly" href="../../g=tetralink/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=tetralink/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=tetralink/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=tetralink/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=tetralink/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=tetralink/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=tetralink/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws?genreBox=strategy">Estratégia</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=tetralink/zombiedawn/play.ws">Exército dos Zumbis</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=tetralink/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=tetralink/gamelist.ws?genreBox=strategy">Estratï¿½gia</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=tetralink/zombiedawn/play.ws">Exï¿½rcito dos Zumbis</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=tetralink/zombiedawn/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=tetralink/zombiedawn/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=tetralink/gamelist.ws?genreBox=strategy"><span class="genre">Estratégia</span></a><br> Controle multidões de zumbis, espalhe destruição entre os 'não-mortos' e tome o controle do mundo! </div>
+<a href="../../l=3/g=tetralink/gamelist.ws?genreBox=strategy"><span class="genre">Estratï¿½gia</span></a><br> Controle multidï¿½es de zumbis, espalhe destruiï¿½ï¿½o entre os 'nï¿½o-mortos' e tome o controle do mundo! </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=tetralink/zombiedawn/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=tetralink/zombiedawn/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/zombiedawn/screen1a.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/zombiedawn/screen1a.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen1a">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen1a">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen1a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/zombiedawn/screen1a_thumb.jpg?1);">
+<a href="../../l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen1a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/zombiedawn/screen1a_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/zombiedawn/screen2_thumb.jpg?1);">
+<a href="../../l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/zombiedawn/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/zombiedawn/screen3_thumb.jpg?1);">
+<a href="../../l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/zombiedawn/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/zombiedawn/screen4_thumb.jpg?1);">
+<a href="../../l=3/g=tetralink/display_screenshot.ws?game=zombiedawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/zombiedawn/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Recursos de Exército dos Zumbis
+Recursos de Exï¿½rcito dos Zumbis
 </div>
 </div>
 <div class="subsectionContent">
@@ -311,14 +311,14 @@ Recursos de Exército dos Zumbis
 <div class="benefitsList">
 <ul>
 
-<li>24 níveis de destruição cheios de zumbis</li>
-<li>3 níveis de bônus variados</li>
+<li>24 nï¿½veis de destruiï¿½ï¿½o cheios de zumbis</li>
+<li>3 nï¿½veis de bï¿½nus variados</li>
 <li>8 tipos de power-ups</li>
 <li>Zumbifique guardas, detetives e MIBs</li>
 <li>Conquiste a Casa Branca</li>
-<li>Modo Difícil para os mais malvados</li>
-<li>Várias conquistas</li>
-<li>Jogue GRÁTIS!</li>
+<li>Modo Difï¿½cil para os mais malvados</li>
+<li>Vï¿½rias conquistas</li>
+<li>Jogue GRï¿½TIS!</li>
 </ul>
 </div>
 </div>
@@ -329,12 +329,12 @@ Recursos de Exército dos Zumbis
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>O apocalipse dos mortos-vivos chegou... mas, felizmente, você é quem está no comando! Comande o seu grupo de zumbis por 24 níveis de mastigação cerebral de destruição confusa, com o único propósito de atacar a Casa Branca e conquistar a humanidade. E depois, prepare-se para outros 24 níveis enquanto você ataca o Reino Unido (e o palácio de Buckingham) com toda força. Exército dos Zumbis é um jogo cheio de ação, estratégia, desafios e diversão completamente morta-viva.</p>
+<p>O apocalipse dos mortos-vivos chegou... mas, felizmente, vocï¿½ ï¿½ quem estï¿½ no comando! Comande o seu grupo de zumbis por 24 nï¿½veis de mastigaï¿½ï¿½o cerebral de destruiï¿½ï¿½o confusa, com o ï¿½nico propï¿½sito de atacar a Casa Branca e conquistar a humanidade. E depois, prepare-se para outros 24 nï¿½veis enquanto vocï¿½ ataca o Reino Unido (e o palï¿½cio de Buckingham) com toda forï¿½a. Exï¿½rcito dos Zumbis ï¿½ um jogo cheio de aï¿½ï¿½o, estratï¿½gia, desafios e diversï¿½o completamente morta-viva.</p>
 </div>
 </div>
 </div>
@@ -349,63 +349,63 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Qual o objetivo de Exército dos Zumbis?</a></li>
-<li><a href="#faqs_q2">Quais power-ups há?</a></li>
-<li><a href="#faqs_q3">Baguncei o nível, o que devo fazer?</a></li>
-<li><a href="#faqs_q4">De onde vêm os soldados?</a></li>
-<li><a href="#faqs_q5">Como posso melhorar minha pontuação?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_q1">Qual o objetivo de Exï¿½rcito dos Zumbis?</a></li>
+<li><a href="#faqs_q2">Quais power-ups hï¿½?</a></li>
+<li><a href="#faqs_q3">Baguncei o nï¿½vel, o que devo fazer?</a></li>
+<li><a href="#faqs_q4">De onde vï¿½m os soldados?</a></li>
+<li><a href="#faqs_q5">Como posso melhorar minha pontuaï¿½ï¿½o?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Qual o objetivo de Exército dos Zumbis?</h3> <p>O objetivo em cada nível é capturar todos os humanos e torná-los zumbis. Os mortos-vivos não são as criaturas mais obedientes e, quando chegam perto o suficiente de um sobrevivente delicioso, começam a atacá-los incontrolavelmente. Para ganhar, faça com que eles zumbifiquem todos os humanos restantes de cada nível!</p>
+<h3>1. Qual o objetivo de Exï¿½rcito dos Zumbis?</h3> <p>O objetivo em cada nï¿½vel ï¿½ capturar todos os humanos e tornï¿½-los zumbis. Os mortos-vivos nï¿½o sï¿½o as criaturas mais obedientes e, quando chegam perto o suficiente de um sobrevivente delicioso, comeï¿½am a atacï¿½-los incontrolavelmente. Para ganhar, faï¿½a com que eles zumbifiquem todos os humanos restantes de cada nï¿½vel!</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Quais power-ups há?</h3>
-<p>Há um total de 8 power-ups adicionados aos níveis em Washington DC, que são:</p>
+<h3>2. Quais power-ups hï¿½?</h3>
+<p>Hï¿½ um total de 8 power-ups adicionados aos nï¿½veis em Washington DC, que sï¿½o:</p>
 <ul>
-<li>Maldição - transforma um humano em zumbi imediatamente</li>
-<li>Detonação - explode o zumbi e tudo o que esteja por perto</li>
-<li>Disfarce - os humanos não fugirão... até que seja tarde demais</li> <li>Dissolução - o zumbi derrete até ficar uma poça de grude pegajoso, desacelerando os humanos</li>
-<li>Fantasma - deixa uma impressão fantasmagórica que os humanos tratam como um zumbi real</li>
+<li>Maldiï¿½ï¿½o - transforma um humano em zumbi imediatamente</li>
+<li>Detonaï¿½ï¿½o - explode o zumbi e tudo o que esteja por perto</li>
+<li>Disfarce - os humanos nï¿½o fugirï¿½o... atï¿½ que seja tarde demais</li> <li>Dissoluï¿½ï¿½o - o zumbi derrete atï¿½ ficar uma poï¿½a de grude pegajoso, desacelerando os humanos</li>
+<li>Fantasma - deixa uma impressï¿½o fantasmagï¿½rica que os humanos tratam como um zumbi real</li>
 <li>Grito - leva os humanos ao terror por 15 segundos</li>
 <li>Velocidade - dobra a velocidade cambaleante do zumbi</li>
-<li>Forte - precisará de três tiros para matar um zumbi forte</li>
+<li>Forte - precisarï¿½ de trï¿½s tiros para matar um zumbi forte</li>
 </ul>
-<p>Os níveis no Reino Unido contam com mais 6 power-ups:</p>
+<p>Os nï¿½veis no Reino Unido contam com mais 6 power-ups:</p>
 <ul>
 <li>Quebra - faz um buraco na parede e abre um novo caminho</li>
-<li>Medo - faz com que até mesmo o mais bravo dos humanos saia correndo</li> <li>Miasma - cria uma barreira de gás ácido que os humanos não conseguem ver ou se mover por ela</li>
-<li>Tremor - quebra todas as janelas no nível e derruba todos os humanos</li>
+<li>Medo - faz com que atï¿½ mesmo o mais bravo dos humanos saia correndo</li> <li>Miasma - cria uma barreira de gï¿½s ï¿½cido que os humanos nï¿½o conseguem ver ou se mover por ela</li>
+<li>Tremor - quebra todas as janelas no nï¿½vel e derruba todos os humanos</li>
 <li>Amarras - faz com que os humanos e zumbis fiquem mais lentos</li>
 <li>Onda de choque - quebra portas e derruba qualquer humano por perto</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Baguncei o nível, o que devo fazer?</h3>
-<p>Você pode tentar novamente qualquer nível, até um máximo de três tentativas por jogo. Para fazer isso, pressione 'ESC' para abrir o menu de pausa, depois clique em 'Repetir'.</p>
+<h3>3. Baguncei o nï¿½vel, o que devo fazer?</h3>
+<p>Vocï¿½ pode tentar novamente qualquer nï¿½vel, atï¿½ um mï¿½ximo de trï¿½s tentativas por jogo. Para fazer isso, pressione 'ESC' para abrir o menu de pausa, depois clique em 'Repetir'.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. De onde vêm os soldados?</h3>
-<p>Na maioria dos níveis depois do Centro Comercial, você terá que lutar contra o relógio para capturar todos os sobreviventes. Soldados do exército estão se movendo pelos níveis mais baixos e túneis subterrâneos até a sua posição...Quando acabar o tempo, eles sairão do porão para o nível superior.</p>
+<h3>4. De onde vï¿½m os soldados?</h3>
+<p>Na maioria dos nï¿½veis depois do Centro Comercial, vocï¿½ terï¿½ que lutar contra o relï¿½gio para capturar todos os sobreviventes. Soldados do exï¿½rcito estï¿½o se movendo pelos nï¿½veis mais baixos e tï¿½neis subterrï¿½neos atï¿½ a sua posiï¿½ï¿½o...Quando acabar o tempo, eles sairï¿½o do porï¿½o para o nï¿½vel superior.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. Como posso melhorar minha pontuação?</h3>
-<p>Vai tudo muito bem, superando aqueles molóides humanos em número, mas alguns deles podem destruir alguns dos seus serviçais. Tente encontrar uma forma sorrateira para limpar cada nível - quanto mais zumbis ficarem vivos, ou pelo menos se moverem, mais pontos você obterá. Da mesma forma, jogar no modo Difícil lhe dará 50% a mais de pontos por qualquer tempo ou zumbi restante.</p>
+<h3>5. Como posso melhorar minha pontuaï¿½ï¿½o?</h3>
+<p>Vai tudo muito bem, superando aqueles molï¿½ides humanos em nï¿½mero, mas alguns deles podem destruir alguns dos seus serviï¿½ais. Tente encontrar uma forma sorrateira para limpar cada nï¿½vel - quanto mais zumbis ficarem vivos, ou pelo menos se moverem, mais pontos vocï¿½ obterï¿½. Da mesma forma, jogar no modo Difï¿½cil lhe darï¿½ 50% a mais de pontos por qualquer tempo ou zumbi restante.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>6. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>6. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>500 MHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -413,24 +413,24 @@ Perguntas frequentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Benefícios do membro do FunOrb
+Benefï¿½cios do membro do FunOrb
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Se gostou do jogo gratuito, experimente a expansão para membros. Os membros têm:</p>
+<p style="padding-bottom: 5px;">Se gostou do jogo gratuito, experimente a expansï¿½o para membros. Os membros tï¿½m:</p>
 <ul style="line-height: 22px;">
-<li>Mais 24 níveis de zumbificação britânica</li>
-<li>3 níveis de bônus ainda mais variados</li>
+<li>Mais 24 nï¿½veis de zumbificaï¿½ï¿½o britï¿½nica</li>
+<li>3 nï¿½veis de bï¿½nus ainda mais variados</li>
 <li>Mais 6 power-ups</li>
-<li>Novos inimigos que contra-atacam, incluindo caçadores e guardas com granadas</li>
-<li>Capture o palácio de Buckingham</li>
-<li>Grande número de conquistas extras</li>
+<li>Novos inimigos que contra-atacam, incluindo caï¿½adores e guardas com granadas</li>
+<li>Capture o palï¿½cio de Buckingham</li>
+<li>Grande nï¿½mero de conquistas extras</li>
 <li>Modo de tela cheia</li>
-<li>Sem anúncios durante o jogo</li>
+<li>Sem anï¿½ncios durante o jogo</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=3/g=tetralink/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=tetralink/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -452,7 +452,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -465,25 +465,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=tetralink/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=tetralink/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=tetralink/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=tetralink/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=tetralink/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=tetralink/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=tetralink/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=tetralink/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=tetralink/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=tetralink/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=tetralink/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=tetralink/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=tetralink/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=tetralink/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

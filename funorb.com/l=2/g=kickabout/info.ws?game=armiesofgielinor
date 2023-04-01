@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=kickabout/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=kickabout/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=kickabout/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=kickabout/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/armiesofgielinor/intro.jpg);
+  background-image: url(../../l=2/img/images/game/armiesofgielinor/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen5.jpg?1';
+images[0] = '../../l=2/img/images/game/armiesofgielinor/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/armiesofgielinor/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/armiesofgielinor/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/armiesofgielinor/screen5.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=kickabout/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=kickabout/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=kickabout/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=kickabout/messenger.js"></script>
 
@@ -154,51 +154,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=kickabout/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=kickabout/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=kickabout/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=kickabout/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=kickabout/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=kickabout/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=kickabout/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=kickabout/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=kickabout/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=kickabout/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=kickabout/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=kickabout/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=kickabout/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=kickabout/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=kickabout/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=kickabout/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=kickabout/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=kickabout/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=kickabout/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=kickabout/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=kickabout/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=kickabout/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=kickabout/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=kickabout/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=kickabout/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=kickabout/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=kickabout/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=kickabout/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=kickabout/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=kickabout/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=kickabout/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=kickabout/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=kickabout/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=kickabout/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=armiesofgielinor" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=kickabout/index.ws">
+<a id="countrydrop" href="../../l=2/g=kickabout/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=kickabout/index.ws"><img title="
+<li><a class="fly" href="../../g=kickabout/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=kickabout/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=kickabout/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=kickabout/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=kickabout/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=kickabout/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=kickabout/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws?genreBox=strategy">Stratégie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=kickabout/armiesofgielinor/play.ws">Armées de Giélinor</a> &gt;
+<a href="../../l=2/g=kickabout/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/g=kickabout/gamelist.ws?genreBox=strategy">Stratï¿½gie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/g=kickabout/armiesofgielinor/play.ws">Armï¿½es de Giï¿½linor</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=kickabout/armiesofgielinor/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/g=kickabout/armiesofgielinor/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -261,38 +261,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/g=kickabout/gamelist.ws?genreBox=strategy"><span class="genre">Stratégie</span></a><br> Choisissez votre camp et partez guerroyer avec les armées de Giélinor. </div>
+<a href="../../l=2/g=kickabout/gamelist.ws?genreBox=strategy"><span class="genre">Stratï¿½gie</span></a><br> Choisissez votre camp et partez guerroyer avec les armï¿½es de Giï¿½linor. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=kickabout/armiesofgielinor/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/g=kickabout/armiesofgielinor/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/armiesofgielinor/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen1_thumb.jpg?1);">
+<a href="../../l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/armiesofgielinor/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen2_thumb.jpg?1);">
+<a href="../../l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/armiesofgielinor/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen3_thumb.jpg?1);">
+<a href="../../l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/armiesofgielinor/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen5" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/armiesofgielinor/screen5_thumb.jpg?1);">
+<a href="../../l=2/g=kickabout/display_screenshot.ws?game=armiesofgielinor&screenshot=screen5" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/armiesofgielinor/screen5_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Captures d'écran
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Caractéristiques
+Caractï¿½ristiques
 </div>
 </div>
 <div class="subsectionContent">
@@ -311,11 +311,11 @@ Caractéristiques
 <div class="benefitsList">
 <ul>
 
-<li>Inspiré du monde de RuneScape</li>
-<li>27 unités à commander</li>
-<li>Parties en ligne jusqu'à 8 joueurs</li>
-<li>Jouez en équipe (2 contre 2, 3 contre 3, ou 4 contre 4) ou en mêlée générale</li>
-<li>Compétition en parties classées</li>
+<li>Inspirï¿½ du monde de RuneScape</li>
+<li>27 unitï¿½s ï¿½ commander</li>
+<li>Parties en ligne jusqu'ï¿½ 8 joueurs</li>
+<li>Jouez en ï¿½quipe (2 contre 2, 3 contre 3, ou 4 contre 4) ou en mï¿½lï¿½e gï¿½nï¿½rale</li>
+<li>Compï¿½tition en parties classï¿½es</li>
 <li>Jouez la campagne solo Retour de Zamorak.</li>
 <li>GRATUIT !</li>
 </ul>
@@ -333,9 +333,9 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>Armées de Giélinor est un jeu de stratégie multijoueur (jusqu'à 8 joueurs), basé sur un système de tours. C'est également le premier jeu de FunOrb entièrement basé sur le monde de RuneScape, notre jeu d'aventure massivement multijoueur. Giélinor est simplement l'autre nom que l'on donne à cet univers. Vous commencez le jeu avec un chef barbare de bas niveau. À vous ensuite de partir à la conquête d'édifices, d'invoquer de nouvelles créatures et d'affronter vos ennemis pour vous hisser à la tête de la plus puissante des armées de Giélinor.</p>
-<p>Le jeu offre un mode solo qui consiste à effectuer trois campagnes recréant la conquête zamorakienne de la Morytanie, la domination saradoministe d'Asgarnie et le réveil du puissant Guthix en Misthaline. Les 60 missions des trois campagnes mettront vos talents de stratège à l'épreuve et vous feront découvrir de multiples possibilités tactiques.</p>
-<p>Vous pouvez contrôler de nombreux types d'unités. Chacune d'entre elles est au service d'un dieu de Giélinor. Différentes stratégies sont possibles : certaines unités sont redoutables au combat, d'autres peuvent même modifier le paysage du champ de bataille grâce à leurs attaques spéciales. Serez-vous capable de jongler avec les pouvoirs de ces créatures pour construire une armée dévastatrice ?</p>
+<p>Armï¿½es de Giï¿½linor est un jeu de stratï¿½gie multijoueur (jusqu'ï¿½ 8 joueurs), basï¿½ sur un systï¿½me de tours. C'est ï¿½galement le premier jeu de FunOrb entiï¿½rement basï¿½ sur le monde de RuneScape, notre jeu d'aventure massivement multijoueur. Giï¿½linor est simplement l'autre nom que l'on donne ï¿½ cet univers. Vous commencez le jeu avec un chef barbare de bas niveau. ï¿½ vous ensuite de partir ï¿½ la conquï¿½te d'ï¿½difices, d'invoquer de nouvelles crï¿½atures et d'affronter vos ennemis pour vous hisser ï¿½ la tï¿½te de la plus puissante des armï¿½es de Giï¿½linor.</p>
+<p>Le jeu offre un mode solo qui consiste ï¿½ effectuer trois campagnes recrï¿½ant la conquï¿½te zamorakienne de la Morytanie, la domination saradoministe d'Asgarnie et le rï¿½veil du puissant Guthix en Misthaline. Les 60 missions des trois campagnes mettront vos talents de stratï¿½ge ï¿½ l'ï¿½preuve et vous feront dï¿½couvrir de multiples possibilitï¿½s tactiques.</p>
+<p>Vous pouvez contrï¿½ler de nombreux types d'unitï¿½s. Chacune d'entre elles est au service d'un dieu de Giï¿½linor. Diffï¿½rentes stratï¿½gies sont possibles : certaines unitï¿½s sont redoutables au combat, d'autres peuvent mï¿½me modifier le paysage du champ de bataille grï¿½ce ï¿½ leurs attaques spï¿½ciales. Serez-vous capable de jongler avec les pouvoirs de ces crï¿½atures pour construire une armï¿½e dï¿½vastatrice ?</p>
 </div>
 </div>
 </div>
@@ -344,88 +344,88 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Qu'est-ce qu'un jeu de stratégie basé sur un système de tours ?</a></li>
-<li><a href="#faqs_q2">Combien d'unités existe-t-il dans le jeu ?</a></li>
+<li><a href="#faqs_q1">Qu'est-ce qu'un jeu de stratï¿½gie basï¿½ sur un systï¿½me de tours ?</a></li>
+<li><a href="#faqs_q2">Combien d'unitï¿½s existe-t-il dans le jeu ?</a></li>
 <li><a href="#faqs_q3">Besoin d'astuces ?</a></li>
-<li><a href="#faqs_q4">Giélinor, RuneScape ? C'est quoi exactement ?</a></li>
-<li><a href="#faqs_q5">Est-ce que jouer à Armées de Giélinor peut affecter mon personnage dans RuneScape ?</a></li>
-<li><a href="#faqs_q6">À quel moment de l'histoire de RuneScape se réfère Armées de Giélinor ?</a></li>
-<li><a href="#faqs_q7">Pourquoi avez-vous choisi d'inclure ces unités de combat plutôt que d'autres ?</a></li>
-<li><a href="#faqs_q8">Certaines créatures d'Armées de Giélinor n'existent pas dans RuneScape. Rejoindront-elles le jeu par la suite ?</a></li>
-<li><a href="#faqs_q9">Armées de Giélinor et La grande mobilisation (mini-jeu de RuneScape), est-ce la même chose ?</a></li>
+<li><a href="#faqs_q4">Giï¿½linor, RuneScape ? C'est quoi exactement ?</a></li>
+<li><a href="#faqs_q5">Est-ce que jouer ï¿½ Armï¿½es de Giï¿½linor peut affecter mon personnage dans RuneScape ?</a></li>
+<li><a href="#faqs_q6">ï¿½ quel moment de l'histoire de RuneScape se rï¿½fï¿½re Armï¿½es de Giï¿½linor ?</a></li>
+<li><a href="#faqs_q7">Pourquoi avez-vous choisi d'inclure ces unitï¿½s de combat plutï¿½t que d'autres ?</a></li>
+<li><a href="#faqs_q8">Certaines crï¿½atures d'Armï¿½es de Giï¿½linor n'existent pas dans RuneScape. Rejoindront-elles le jeu par la suite ?</a></li>
+<li><a href="#faqs_q9">Armï¿½es de Giï¿½linor et La grande mobilisation (mini-jeu de RuneScape), est-ce la mï¿½me chose ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Qu'est-ce qu'un jeu de stratégie basé sur un système de tours ?</h3>
-<p>Les joueurs ne peuvent se déplacer et attaquer qu'à leur tour. Le but ultime étant, bien sûr, de remporter la victoire.</p>
+<h3>1. Qu'est-ce qu'un jeu de stratï¿½gie basï¿½ sur un systï¿½me de tours ?</h3>
+<p>Les joueurs ne peuvent se dï¿½placer et attaquer qu'ï¿½ leur tour. Le but ultime ï¿½tant, bien sï¿½r, de remporter la victoire.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Combien d'unités existe-t-il dans le jeu ?</h3>
-<p>Il existe 76 unités dans le jeu. Chacun des six dieux dispose de 11 types d'unités et on compte 9 types d'unités neutres. Mais tous les joueurs commencent le jeu avec un seul chef barbare. Et les plus curieux se demandent : qu'en est-il de la neuvième unité neutre ? Il s'agit du dragon rouge, il devient disponible dès qu'un autre joueur a invoqué le Grand dragon noir. Les joueurs non-abonnés ont accès à 27 unités, chef barbare et Grand dragon noir compris.</p>
+<h3>2. Combien d'unitï¿½s existe-t-il dans le jeu ?</h3>
+<p>Il existe 76 unitï¿½s dans le jeu. Chacun des six dieux dispose de 11 types d'unitï¿½s et on compte 9 types d'unitï¿½s neutres. Mais tous les joueurs commencent le jeu avec un seul chef barbare. Et les plus curieux se demandent : qu'en est-il de la neuviï¿½me unitï¿½ neutre ? Il s'agit du dragon rouge, il devient disponible dï¿½s qu'un autre joueur a invoquï¿½ le Grand dragon noir. Les joueurs non-abonnï¿½s ont accï¿½s ï¿½ 27 unitï¿½s, chef barbare et Grand dragon noir compris.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Besoin d'astuces ?</h3>
 <p>Voici quelques astuces :</p>
 <ul>
-<li>Commencez par conquérir un portail...</li>
-<li>... et protégez-le quoi qu'il arrive !</li>
-<li>La conquête des structures est la clé du succès : elle vous permet de gagner des points de victoire et de mana. En plus, les unités que vous placez sur ces structures sont guéries et obtiennent un bonus de défense. Alors emparez-vous du plus grand nombre de structures possible rapidement !</li>
-<li>Seuls les barbares peuvent s'emparer des édifices. Assurez-vous d'avoir suffisamment de barbares au début de chaque partie.</li>
-<li>Utilisez votre chef barbare judicieusement : il s'empare des édifices plus rapidement qu'un barbare normal.</li>
-<li>Lorsqu'une unité meurt, elle laisse derrière elle un tas d'ossements qui peut être utile si vous avez un nécromancien dans votre troupe...</li>
-<li>Utilisez le terrain stratégiquement. Repérez les zones d'embuscades. Et n'oubliez pas : selon le type de terrain, certaines unités se déplaceront moins aisément.</li>
-<li>Les unités à attaques spéciales et les assistants ont un rôle important à jouer.</li>
-<li>Déplacez-vous rapidement : vous obtiendrez des bonus de mana en mettant fin à votre tour plus tôt.</li>
-<li>Emparez-vous des édifices conquis par votre adversaire, sa mana diminuera en conséquence. Évidemment, vous n'êtes pas à l'abri non plus !</li>
-<li>Certaines unités sont plus efficaces contre certains types d'adversaires.</li>
+<li>Commencez par conquï¿½rir un portail...</li>
+<li>... et protï¿½gez-le quoi qu'il arrive !</li>
+<li>La conquï¿½te des structures est la clï¿½ du succï¿½s : elle vous permet de gagner des points de victoire et de mana. En plus, les unitï¿½s que vous placez sur ces structures sont guï¿½ries et obtiennent un bonus de dï¿½fense. Alors emparez-vous du plus grand nombre de structures possible rapidement !</li>
+<li>Seuls les barbares peuvent s'emparer des ï¿½difices. Assurez-vous d'avoir suffisamment de barbares au dï¿½but de chaque partie.</li>
+<li>Utilisez votre chef barbare judicieusement : il s'empare des ï¿½difices plus rapidement qu'un barbare normal.</li>
+<li>Lorsqu'une unitï¿½ meurt, elle laisse derriï¿½re elle un tas d'ossements qui peut ï¿½tre utile si vous avez un nï¿½cromancien dans votre troupe...</li>
+<li>Utilisez le terrain stratï¿½giquement. Repï¿½rez les zones d'embuscades. Et n'oubliez pas : selon le type de terrain, certaines unitï¿½s se dï¿½placeront moins aisï¿½ment.</li>
+<li>Les unitï¿½s ï¿½ attaques spï¿½ciales et les assistants ont un rï¿½le important ï¿½ jouer.</li>
+<li>Dï¿½placez-vous rapidement : vous obtiendrez des bonus de mana en mettant fin ï¿½ votre tour plus tï¿½t.</li>
+<li>Emparez-vous des ï¿½difices conquis par votre adversaire, sa mana diminuera en consï¿½quence. ï¿½videmment, vous n'ï¿½tes pas ï¿½ l'abri non plus !</li>
+<li>Certaines unitï¿½s sont plus efficaces contre certains types d'adversaires.</li>
 <li>Soyez fair-play et surtout, amusez-vous !</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. Giélinor, RuneScape ? C'est quoi exactement ?</h3>
-<p>Le monde de RuneScape est également appelé Giélinor. C'est dans cet univers fantastique que se déroule le jeu d'aventure massivement multijoueur de <a href="http://www.jagex.com" target="_blank">Jagex</a>. Vous n'en n'avez pas entendu parler ? Vous n'avez pas eu le temps d'aller y faire un tour ? Visitez notre site <a href="http://www.runescape.com" target="_blank">RuneScape</a>.</p>
-<p>Pour jouer à RuneScape, vous pouvez utiliser votre nom de connexion et votre mot de passe FunOrb. Une grande partie du jeu est également accessible gratuitement. Si vous souhaitez vous abonner à la fois à FunOrb et RuneScape, nous proposons aussi des abonnements combinés.</p>
+<h3>4. Giï¿½linor, RuneScape ? C'est quoi exactement ?</h3>
+<p>Le monde de RuneScape est ï¿½galement appelï¿½ Giï¿½linor. C'est dans cet univers fantastique que se dï¿½roule le jeu d'aventure massivement multijoueur de <a href="http://www.jagex.com" target="_blank">Jagex</a>. Vous n'en n'avez pas entendu parler ? Vous n'avez pas eu le temps d'aller y faire un tour ? Visitez notre site <a href="http://www.runescape.com" target="_blank">RuneScape</a>.</p>
+<p>Pour jouer ï¿½ RuneScape, vous pouvez utiliser votre nom de connexion et votre mot de passe FunOrb. Une grande partie du jeu est ï¿½galement accessible gratuitement. Si vous souhaitez vous abonner ï¿½ la fois ï¿½ FunOrb et RuneScape, nous proposons aussi des abonnements combinï¿½s.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. Est-ce que jouer à Armées de Giélinor peut affecter mon personnage dans RuneScape ?</h3>
-<p>Armées de Giélinor s'inspire de RuneScape mais c'est le seul lien qui existe entre ces deux jeux. Jouer à Armées de Giélinor n'aura aucun effet sur votre personnage dans RuneScape, et vice-versa.</p>
+<h3>5. Est-ce que jouer ï¿½ Armï¿½es de Giï¿½linor peut affecter mon personnage dans RuneScape ?</h3>
+<p>Armï¿½es de Giï¿½linor s'inspire de RuneScape mais c'est le seul lien qui existe entre ces deux jeux. Jouer ï¿½ Armï¿½es de Giï¿½linor n'aura aucun effet sur votre personnage dans RuneScape, et vice-versa.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
-<h3>6. À quel moment de l'histoire de RuneScape se réfère Armées de Giélinor ?</h3>
-<p>On peut considérer qu'Armées de Giélinor est une référence à la guerre des dieux de RuneScape. Il peut paraître étrange de voir s'allier des fidèles de Saradomin et de Zamorak mais la guerre des dieux était une ère de chaos. On a d'ailleurs vu des factions ennemies former des alliances provisoires pour servir des causes hautement importantes.</p>
+<h3>6. ï¿½ quel moment de l'histoire de RuneScape se rï¿½fï¿½re Armï¿½es de Giï¿½linor ?</h3>
+<p>On peut considï¿½rer qu'Armï¿½es de Giï¿½linor est une rï¿½fï¿½rence ï¿½ la guerre des dieux de RuneScape. Il peut paraï¿½tre ï¿½trange de voir s'allier des fidï¿½les de Saradomin et de Zamorak mais la guerre des dieux ï¿½tait une ï¿½re de chaos. On a d'ailleurs vu des factions ennemies former des alliances provisoires pour servir des causes hautement importantes.</p>
 <div class="hr"></div>
 <a name="faqs_q7"></a>
-<h3>7. Pourquoi avez-vous choisi d'inclure ces unités de combat plutôt que d'autres ?</h3>
-<p>Les unités d'Armées de Giélinor ont été choisies avec le plus grand soin. Nous ne pouvions pas obtenir un jeu à la fois drôle et équilibré en incluant toutes les créatures de RuneScape. Si vos créatures préférées ne sont pas dans Armées de Giélinor, n'hésitez pas à nous faire part de vos suggestions. Et si nous jugeons que vos créatures favorites sont compatibles avec l'esprit du jeu, elles pourront peut-être rejoindre la partie...</p>
+<h3>7. Pourquoi avez-vous choisi d'inclure ces unitï¿½s de combat plutï¿½t que d'autres ?</h3>
+<p>Les unitï¿½s d'Armï¿½es de Giï¿½linor ont ï¿½tï¿½ choisies avec le plus grand soin. Nous ne pouvions pas obtenir un jeu ï¿½ la fois drï¿½le et ï¿½quilibrï¿½ en incluant toutes les crï¿½atures de RuneScape. Si vos crï¿½atures prï¿½fï¿½rï¿½es ne sont pas dans Armï¿½es de Giï¿½linor, n'hï¿½sitez pas ï¿½ nous faire part de vos suggestions. Et si nous jugeons que vos crï¿½atures favorites sont compatibles avec l'esprit du jeu, elles pourront peut-ï¿½tre rejoindre la partie...</p>
 <div class="hr"></div>
 <a name="faqs_q8"></a>
-<h3>8. Certaines créatures d'Armées de Giélinor n'existent pas dans RuneScape. Rejoindront-elles le jeu par la suite ?</h3>
-<p>Non. Notre but était de faire d'Armées de Giélinor un jeu à la fois drôle et équilibré. Nous voulions éviter de manipuler les caractéristiques de créatures existant dans RuneScape uniquement pour qu'elles s'adaptent aux spécificités d'Armées de Giélinor. Nous avons préféré créer de nouvelles créatures dans l'esprit de RuneScape. Il est d'ailleurs possible que ces nouvelles entités prennent le chemin de RuneScape... si une occasion appropriée se présente.</p>
+<h3>8. Certaines crï¿½atures d'Armï¿½es de Giï¿½linor n'existent pas dans RuneScape. Rejoindront-elles le jeu par la suite ?</h3>
+<p>Non. Notre but ï¿½tait de faire d'Armï¿½es de Giï¿½linor un jeu ï¿½ la fois drï¿½le et ï¿½quilibrï¿½. Nous voulions ï¿½viter de manipuler les caractï¿½ristiques de crï¿½atures existant dans RuneScape uniquement pour qu'elles s'adaptent aux spï¿½cificitï¿½s d'Armï¿½es de Giï¿½linor. Nous avons prï¿½fï¿½rï¿½ crï¿½er de nouvelles crï¿½atures dans l'esprit de RuneScape. Il est d'ailleurs possible que ces nouvelles entitï¿½s prennent le chemin de RuneScape... si une occasion appropriï¿½e se prï¿½sente.</p>
 <div class="hr"></div>
 <a name="faqs_q9"></a>
-<h3>9. Armées de Gielienor et La grande mobilisation (mini-jeu de RuneScape), est-ce la même chose ?</h3>
-<p>Non. Armées de Giélinor et La grande mobilisation sont, et ont toujours été, deux jeux complètement différents.</p>
+<h3>9. Armï¿½es de Gielienor et La grande mobilisation (mini-jeu de RuneScape), est-ce la mï¿½me chose ?</h3>
+<p>Non. Armï¿½es de Giï¿½linor et La grande mobilisation sont, et ont toujours ï¿½tï¿½, deux jeux complï¿½tement diffï¿½rents.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>10. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -438,23 +438,23 @@ Avantages de l'abonnement FunOrb
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Les abonnés bénéficient de :</p>
+<p style="padding-bottom: 5px;">Les abonnï¿½s bï¿½nï¿½ficient de :</p>
 <ul style="line-height: 22px;">
-<li>Plus de 40 unités incluant les favoris de RuneScape</li>
-<li>Trois factions supplémentaires : Sérène, Bandos et le panthéon ménaphite</li>
-<li>Équipement : investissez vos runes dans des objets qui feront pencher la bataille de votre côté</li>
-<li>Les trois campagnes solo : Retour de Zamorak, Saradomin attaque et Guthix se réveille.</li>
+<li>Plus de 40 unitï¿½s incluant les favoris de RuneScape</li>
+<li>Trois factions supplï¿½mentaires : Sï¿½rï¿½ne, Bandos et le panthï¿½on mï¿½naphite</li>
+<li>ï¿½quipement : investissez vos runes dans des objets qui feront pencher la bataille de votre cï¿½tï¿½</li>
+<li>Les trois campagnes solo : Retour de Zamorak, Saradomin attaque et Guthix se rï¿½veille.</li>
 <li>Nouvelles armoiries</li>
 <li>Armoiries de prestige</li>
-<li>4 cartes thématiques incluant les zones réservées aux abonnés des terres gelées et des marais du Val sacré.</li>
-<li>Compétition en parties classées</li>
-<li>Accès à tous les exploits</li>
-<li>Mode de fenêtre redimensionnable et plein écran.</li>
+<li>4 cartes thï¿½matiques incluant les zones rï¿½servï¿½es aux abonnï¿½s des terres gelï¿½es et des marais du Val sacrï¿½.</li>
+<li>Compï¿½tition en parties classï¿½es</li>
+<li>Accï¿½s ï¿½ tous les exploits</li>
+<li>Mode de fenï¿½tre redimensionnable et plein ï¿½cran.</li>
 <li>Aucune pub en cours de jeu</li>
-<li>Accès à toutes les extensions abonnés de FunOrb</li>
+<li>Accï¿½s ï¿½ toutes les extensions abonnï¿½s de FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=2/g=kickabout/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/g=kickabout/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -476,7 +476,7 @@ Development Team
 <b>Translation:</b> Linda H,&nbsp;Sophie M,&nbsp;Thomas Le M
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -489,25 +489,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=kickabout/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=kickabout/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=kickabout/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=kickabout/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=kickabout/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=kickabout/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=kickabout/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=kickabout/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=kickabout/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=kickabout/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=kickabout/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=kickabout/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=kickabout/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=kickabout/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

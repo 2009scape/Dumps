@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=hostilespawn_vengeance/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=hostilespawn_vengeance/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=hostilespawn_vengeance/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=hostilespawn_vengeance/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/crazycrystals/intro.jpg);
+  background-image: url(../../l=3/img/images/game/crazycrystals/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/crazycrystals/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/crazycrystals/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/crazycrystals/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/crazycrystals/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/crazycrystals/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/crazycrystals/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/crazycrystals/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/crazycrystals/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=hostilespawn_vengeance/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=hostilespawn_vengeance/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=hostilespawn_vengeance/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=hostilespawn_vengeance/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=hostilespawn_vengeance/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=hostilespawn_vengeance/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=hostilespawn_vengeance/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=hostilespawn_vengeance/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=hostilespawn_vengeance/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=hostilespawn_vengeance/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=hostilespawn_vengeance/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=hostilespawn_vengeance/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=hostilespawn_vengeance/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=hostilespawn_vengeance/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=hostilespawn_vengeance/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=hostilespawn_vengeance/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=crazycrystals" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws">
+<a id="countrydrop" href="../../l=3/g=hostilespawn_vengeance/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img title="
+<li><a class="fly" href="../../g=hostilespawn_vengeance/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=hostilespawn_vengeance/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=hostilespawn_vengeance/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=hostilespawn_vengeance/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/crazycrystals/play.ws">Crazy Crystals</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=hostilespawn_vengeance/crazycrystals/play.ws">Crazy Crystals</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/crazycrystals/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=hostilespawn_vengeance/crazycrystals/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Este jogo de quebra-cabeças duro como uma pedra fará você caçar seus cristais. </div>
+<a href="../../l=3/g=hostilespawn_vengeance/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Este jogo de quebra-cabeï¿½as duro como uma pedra farï¿½ vocï¿½ caï¿½ar seus cristais. </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/crazycrystals/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=hostilespawn_vengeance/crazycrystals/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/crazycrystals/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/crazycrystals/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/crazycrystals/screen1_thumb.jpg?1);">
+<a href="../../l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/crazycrystals/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/crazycrystals/screen2_thumb.jpg?1);">
+<a href="../../l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/crazycrystals/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/crazycrystals/screen3_thumb.jpg?1);">
+<a href="../../l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/crazycrystals/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/crazycrystals/screen4_thumb.jpg?1);">
+<a href="../../l=3/g=hostilespawn_vengeance/display_screenshot.ws?game=crazycrystals&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/crazycrystals/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
- Benefícios dos membros
+ Benefï¿½cios dos membros
 </div>
 </div>
 <div class="subsectionContent">
@@ -314,13 +314,13 @@ Capturas de tela
 <li>Mais de 40 jogos solo</li>
 <li>12 desafios para 2 jogadores</li>
 <li>5 loucos jogos para 3 jogadores</li>
-<li>25 frenéticos níveis de arcade</li>
-<li>Grande número de conquistas extras</li>
+<li>25 frenï¿½ticos nï¿½veis de arcade</li>
+<li>Grande nï¿½mero de conquistas extras</li>
 <li>Modo de tela cheia</li>
-<li>Sem anúncios durante o jogo</li>
+<li>Sem anï¿½ncios durante o jogo</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=hostilespawn_vengeance/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -329,13 +329,13 @@ Capturas de tela
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Crazy Crystals é um jogo de quebra-cabeças no qual você deve recolher todos os cristais em cada nível. Parece fácil, não é? Bem, como todo bom quebra-cabeça, ele começa relativamente fácil, mas os níveis vão ficando diabolicamente mais difíceis. Pedras que caem serão o menor dos seus problemas, já que você também estará lutando contra bombas, aranhas, bolas saltitantes, bolas pegajosas, lasers, espelhos e alguns dos níveis mais retorcidos jamais inventados.</p>
-<p>É um pacote com mais de 100 níveis, divididos em conjuntos de quebra-cabeças de um, dois e três jogadores, assim como níveis de fliperama. Há algo para todo mundo, o jogo manterá os amadores e os mais experientes viciados em quebra-cabeças ocupados por meses.</p>
+<p>Crazy Crystals ï¿½ um jogo de quebra-cabeï¿½as no qual vocï¿½ deve recolher todos os cristais em cada nï¿½vel. Parece fï¿½cil, nï¿½o ï¿½? Bem, como todo bom quebra-cabeï¿½a, ele comeï¿½a relativamente fï¿½cil, mas os nï¿½veis vï¿½o ficando diabolicamente mais difï¿½ceis. Pedras que caem serï¿½o o menor dos seus problemas, jï¿½ que vocï¿½ tambï¿½m estarï¿½ lutando contra bombas, aranhas, bolas saltitantes, bolas pegajosas, lasers, espelhos e alguns dos nï¿½veis mais retorcidos jamais inventados.</p>
+<p>ï¿½ um pacote com mais de 100 nï¿½veis, divididos em conjuntos de quebra-cabeï¿½as de um, dois e trï¿½s jogadores, assim como nï¿½veis de fliperama. Hï¿½ algo para todo mundo, o jogo manterï¿½ os amadores e os mais experientes viciados em quebra-cabeï¿½as ocupados por meses.</p>
 </div>
 </div>
 </div>
@@ -350,50 +350,50 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">O Crazy Crystals é realmente tão difícil?</a></li>
-<li><a href="#faqs_q2">Como posso controlar o meu personagem com maior precisão?</a></li>
-<li><a href="#faqs_q3">Como funciona a pontuação de bônus?</a></li>
-<li><a href="#faqs_q4">É possível jogar os níveis multijogador na Internet?</a></li>
+<li><a href="#faqs_q1">O Crazy Crystals ï¿½ realmente tï¿½o difï¿½cil?</a></li>
+<li><a href="#faqs_q2">Como posso controlar o meu personagem com maior precisï¿½o?</a></li>
+<li><a href="#faqs_q3">Como funciona a pontuaï¿½ï¿½o de bï¿½nus?</a></li>
+<li><a href="#faqs_q4">ï¿½ possï¿½vel jogar os nï¿½veis multijogador na Internet?</a></li>
 <li><a href="#faqs_q5">O que fazem todos os objetos do jogo?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. O Crazy Crystals é realmente tão difícil?</h3>
-<p>A resposta rápida é sim! Quer dizer, todos os quebra-cabeças de um jogador estão agrupados por dificuldade e há uma curva de aprendizagem, por isso todos serão capazes de desfrutar o jogo. Se um nível em particular lhe bloquear, tente voltar para jogar níveis anteriores novamente. Eles podem fazer você recordar truques úteis que lhe ajudarão a superar o nível em que você parou. Ou então tente ir para os níveis de fliperama ou para os quebra-cabeças de dois ou três jogadores.</p>
+<h3>1. O Crazy Crystals ï¿½ realmente tï¿½o difï¿½cil?</h3>
+<p>A resposta rï¿½pida ï¿½ sim! Quer dizer, todos os quebra-cabeï¿½as de um jogador estï¿½o agrupados por dificuldade e hï¿½ uma curva de aprendizagem, por isso todos serï¿½o capazes de desfrutar o jogo. Se um nï¿½vel em particular lhe bloquear, tente voltar para jogar nï¿½veis anteriores novamente. Eles podem fazer vocï¿½ recordar truques ï¿½teis que lhe ajudarï¿½o a superar o nï¿½vel em que vocï¿½ parou. Ou entï¿½o tente ir para os nï¿½veis de fliperama ou para os quebra-cabeï¿½as de dois ou trï¿½s jogadores.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Como posso controlar o meu personagem com maior precisão?</h3>
-<p>O seu personagem só vai parar de se movimentar no centro de um bloco.Se o seu problema é que está errando onde deseja ir, solte a tecla de movimento na hora certa. Um simples e breve toque na tecla moverá o personagem um bloco adiante.</p>
-<p>Outra dica é que você pode manter duas teclas de movimento pressionadas ao mesmo tempo (por exemplo, 'esquerda' e 'para cima') e o personagem se moverá para um destes lados. Isso pode ser útil para navegar rapidamente por corredores estreitos sem parar - útil se uma aranha estiver perseguindo!</p>
-<p>Finalmente, vale a pena saber que o personagem pode ir rapidamente em direção a uma bola, desde que ela não esteja se movendo em direção a você. O personagem então se moverá para esse bloco assim que a bola sair, o que pode ser útil para passar por lacunas estreitas, já que você não precisa contar com o tempo preciso.</p>
+<h3>2. Como posso controlar o meu personagem com maior precisï¿½o?</h3>
+<p>O seu personagem sï¿½ vai parar de se movimentar no centro de um bloco.Se o seu problema ï¿½ que estï¿½ errando onde deseja ir, solte a tecla de movimento na hora certa. Um simples e breve toque na tecla moverï¿½ o personagem um bloco adiante.</p>
+<p>Outra dica ï¿½ que vocï¿½ pode manter duas teclas de movimento pressionadas ao mesmo tempo (por exemplo, 'esquerda' e 'para cima') e o personagem se moverï¿½ para um destes lados. Isso pode ser ï¿½til para navegar rapidamente por corredores estreitos sem parar - ï¿½til se uma aranha estiver perseguindo!</p>
+<p>Finalmente, vale a pena saber que o personagem pode ir rapidamente em direï¿½ï¿½o a uma bola, desde que ela nï¿½o esteja se movendo em direï¿½ï¿½o a vocï¿½. O personagem entï¿½o se moverï¿½ para esse bloco assim que a bola sair, o que pode ser ï¿½til para passar por lacunas estreitas, jï¿½ que vocï¿½ nï¿½o precisa contar com o tempo preciso.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Como funciona a pontuação de bônus?</h3>
-<p>Os pontos são ganhos por recolher cristais, explodir bombas, abrir cofres e matar aranhas. O personagem deve estar envolvido nestas atividades de alguma maneira para ganhar ponto. Por exemplo, se um nível foi definido para matar uma aranha sem que o personagem tenha feito nada, talvez você não receba os pontos. Este sistema permite pontuar com exatidão os quebra-cabeças de dois e três jogadores.</p>
-<p>Você também pode ganhar pontos por realizar ações como matar todas as aranhas em um nível ou expodir todas as bombas. Para ganhar esses bônus, eles devem ser feitos antes de que o último cristal seja recolhido. Existe um bônus 'Ainda vivo' disponível nos quebra-cabeças de dois e três jogadores se o personagem ainda estiver vivo quando o último cristal for recolhido.</p>
+<h3>3. Como funciona a pontuaï¿½ï¿½o de bï¿½nus?</h3>
+<p>Os pontos sï¿½o ganhos por recolher cristais, explodir bombas, abrir cofres e matar aranhas. O personagem deve estar envolvido nestas atividades de alguma maneira para ganhar ponto. Por exemplo, se um nï¿½vel foi definido para matar uma aranha sem que o personagem tenha feito nada, talvez vocï¿½ nï¿½o receba os pontos. Este sistema permite pontuar com exatidï¿½o os quebra-cabeï¿½as de dois e trï¿½s jogadores.</p>
+<p>Vocï¿½ tambï¿½m pode ganhar pontos por realizar aï¿½ï¿½es como matar todas as aranhas em um nï¿½vel ou expodir todas as bombas. Para ganhar esses bï¿½nus, eles devem ser feitos antes de que o ï¿½ltimo cristal seja recolhido. Existe um bï¿½nus 'Ainda vivo' disponï¿½vel nos quebra-cabeï¿½as de dois e trï¿½s jogadores se o personagem ainda estiver vivo quando o ï¿½ltimo cristal for recolhido.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. É possível jogar os níveis multijogador na Internet?</h3>
-<p>Infelizmente não. Os níveis multijogador só podem ser jogados localmente, por você e seus amigos no mesmo computador.</p>
+<h3>4. ï¿½ possï¿½vel jogar os nï¿½veis multijogador na Internet?</h3>
+<p>Infelizmente nï¿½o. Os nï¿½veis multijogador sï¿½ podem ser jogados localmente, por vocï¿½ e seus amigos no mesmo computador.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. O que fazem todos os objetos do jogo?</h3>
-<p>Se há um objeto no jogo com que você não esteja familiarizado, basta clicar como mouse sobre ele e será exibida informação sobre o objeto no painel lateral.</p>
+<p>Se hï¿½ um objeto no jogo com que vocï¿½ nï¿½o esteja familiarizado, basta clicar como mouse sobre ele e serï¿½ exibida informaï¿½ï¿½o sobre o objeto no painel lateral.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>6. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>6. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>1.0 GHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -414,7 +414,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -427,25 +427,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=hostilespawn_vengeance/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=hostilespawn_vengeance/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=hostilespawn_vengeance/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=hostilespawn_vengeance/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=hostilespawn_vengeance/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=hostilespawn_vengeance/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=hostilespawn_vengeance/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=hostilespawn_vengeance/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=hostilespawn_vengeance/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

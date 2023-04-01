@@ -98,10 +98,10 @@ ol li {
  padding:5px;
 }
 .textarea {
- background: #333 url(https://www.funorb.com/img/jagex/textarea.gif) no-repeat;
+ background: #333 url(../../img/jagex/textarea.gif) no-repeat;
 }
 .textarea_hover, .textarea:hover {
- background: #444 url(https://www.funorb.com/img/jagex/textarea.gif) no-repeat right;
+ background: #444 url(../../img/jagex/textarea.gif) no-repeat right;
 }
 .textarea, .textarea_hover {
  width:366px;
@@ -110,10 +110,10 @@ ol li {
 }
 
 .textarea2 {
- background: #333 url(https://www.funorb.com/img/jagex/textarea.gif) no-repeat;
+ background: #333 url(../../img/jagex/textarea.gif) no-repeat;
 }
 .textarea2_hover, .textarea2:hover {
- background: #444 url(https://www.funorb.com/img/jagex/textarea.gif) no-repeat right;
+ background: #444 url(../../img/jagex/textarea.gif) no-repeat right;
 }
 .textarea2, .textarea2_hover {
  width:366px;
@@ -160,12 +160,12 @@ iframe#terms {
 }
 .infoTopCnrs {
  height:4px;
- background: url(https://www.funorb.com/img/jagex/info_cnrs.gif) no-repeat top;
+ background: url(../../img/jagex/info_cnrs.gif) no-repeat top;
  font-size:1px;
 }
 .smallInfoTopCnrs {
  height:4px;
- background: url(https://www.funorb.com/img/jagex/info_cnrs_small.gif) no-repeat top;
+ background: url(../../img/jagex/info_cnrs_small.gif) no-repeat top;
  font-size:1px;
 }
 .infoContent {
@@ -175,12 +175,12 @@ iframe#terms {
 }
 .infoBotCnrs {
  height:4px;
- background: url(https://www.funorb.com/img/jagex/info_cnrs.gif) no-repeat bottom;
+ background: url(../../img/jagex/info_cnrs.gif) no-repeat bottom;
  font-size:1px;
 }
 .smallInfoBotCnrs {
  height:4px;
- background: url(https://www.funorb.com/img/jagex/info_cnrs_small.gif) no-repeat bottom;
+ background: url(../../img/jagex/info_cnrs_small.gif) no-repeat bottom;
  font-size:1px;
 }
 .infoBox p, .smallInfoBox p {
@@ -196,12 +196,12 @@ iframe#terms {
  margin-right:10px;
 }
 .inputLong {
- background: #333 url(https://www.funorb.com/img/jagex/input_long.gif) no-repeat;
+ background: #333 url(../../img/jagex/input_long.gif) no-repeat;
 }
 .inputLong_hover,
 .inputLong:hover
 {
- background: #444 url(https://www.funorb.com/img/jagex/input_long.gif) no-repeat right;
+ background: #444 url(../../img/jagex/input_long.gif) no-repeat right;
 }
 .inputLong,
 .inputLong_hover {
@@ -220,13 +220,13 @@ iframe#terms {
  width:356px;
 }
 .inputMedium {
- background: #333 url(https://www.funorb.com/img/jagex/input_med.gif) no-repeat;
+ background: #333 url(../../img/jagex/input_med.gif) no-repeat;
  width:176px;
 }
 .inputMedium_hover,
 .inputMedium:hover
 {
- background: #444 url(https://www.funorb.com/img/jagex/input_med.gif) no-repeat right;
+ background: #444 url(../../img/jagex/input_med.gif) no-repeat right;
 }
 .inputMedium,
 .inputMedium_hover {
@@ -237,12 +237,12 @@ iframe#terms {
  width:166px;
 }
 .inputSmall {
- background: #333 url(https://www.funorb.com/img/jagex/input_small.gif) no-repeat;
+ background: #333 url(../../img/jagex/input_small.gif) no-repeat;
 }
 .inputSmall_hover,
 .inputSmall:hover
 {
- background: #444 url(https://www.funorb.com/img/jagex/input_small.gif) no-repeat right;
+ background: #444 url(../../img/jagex/input_small.gif) no-repeat right;
 }
 .inputSmall,
 .inputSmall_hover {
@@ -271,7 +271,7 @@ iframe#terms {
  margin-bottom:30px;
 }
 .bullet1 li {
- list-style: url(https://www.funorb.com/img/jagex/bullet_silver.gif);
+ list-style: url(../../img/jagex/bullet_silver.gif);
  margin:15px;
 }
 .bullet2 {
@@ -279,7 +279,7 @@ iframe#terms {
  margin-bottom:30px;
  margin-left:auto;
  margin-right:auto;
- list-style: url(https://www.funorb.com/img/jagex/bullet_gold.gif);
+ list-style: url(../../img/jagex/bullet_gold.gif);
 }
 .bullet2 li {
  margin-bottom:12px;
@@ -294,11 +294,11 @@ b.titleInfo {
  width:600px;
  margin-left:auto;
  margin-right:auto;
- list-style: url(https://www.funorb.com/img/jagex/bullet_gold.gif);
+ list-style: url(../../img/jagex/bullet_gold.gif);
 }
 a.button, input.button, button.button  {
  display:block;
- background: #333 url(https://www.funorb.com/img/jagex/button.gif);
+ background: #333 url(../../img/jagex/button.gif);
  width:109px;
  height:29px;
  color:#fff !important;
@@ -312,10 +312,10 @@ a.button, input.button, button.button  {
  border: none;
 }
 a.buttonlarge, input.buttonlarge, button.buttonlarge {
- background: #333 url(https://www.funorb.com/img/jagex/button2.gif);
+ background: #333 url(../../img/jagex/button2.gif);
 }
 a.buttonlarge2, input.buttonlarge2, button.buttonlarge2 {
- background: #333 url(https://www.funorb.com/img/jagex/button2a.gif);
+ background: #333 url(../../img/jagex/button2a.gif);
 }
 a.buttonlarge, input.buttonlarge, button.buttonlarge, a.buttonlarge2, input.buttonlarge2, button.buttonlarge2 {
  display:block;
@@ -335,7 +335,7 @@ button.buttonlarge, button.buttonlarge2 {
 }
 a.buttonLong, input.buttonLong, button.buttonLong {
  display:block;
- background: #333 url(https://www.funorb.com/img/jagex/button_long.gif);
+ background: #333 url(../../img/jagex/button_long.gif);
  width:195px;
  height:29px;
  color:#fff !important;
@@ -349,10 +349,10 @@ a.buttonLong, input.buttonLong, button.buttonLong {
  border:none;
 }
 a.button250, input.button250, button.button250 {
- background: #333 url(https://www.funorb.com/img/jagex/button_250.gif);
+ background: #333 url(../../img/jagex/button_250.gif);
 }
 input.button250a {
- background: #333 url(https://www.funorb.com/img/jagex/button_250a.gif);
+ background: #333 url(../../img/jagex/button_250a.gif);
 }
 a.button250, input.button250, button.button250, input.button250a {
  display:block;
@@ -403,14 +403,14 @@ a.button:hover,a.buttonlarge:hover,a.buttonlarge2:hover {
  text-decoration:none;
 }
 #contentLeft .title {
- background: #453e33 url(https://www.funorb.com/img/jagex/title_lftCnr.gif) no-repeat top left;
+ background: #453e33 url(../../img/jagex/title_lftCnr.gif) no-repeat top left;
 }
 #contentLeft .title span {
  display:block;
   height:26px;
 }
 #contentRight .title, #contentLeft .title span {
- background: #453e33 url(https://www.funorb.com/img/jagex/title_rghtCnr.gif) no-repeat top right;
+ background: #453e33 url(../../img/jagex/title_rghtCnr.gif) no-repeat top right;
 }
 .title, legend {
  font-size:14px;
@@ -422,7 +422,7 @@ a.button:hover,a.buttonlarge:hover,a.buttonlarge2:hover {
 /* Page Setup */
 body#billingHome #contentRight {
  width:297px;
- background: #453e33 url(https://www.funorb.com/img/jagex/bg_gradient.jpg) repeat-x;
+ background: #453e33 url(../../img/jagex/bg_gradient.jpg) repeat-x;
 }
 body#billingDetails fieldset {
  float:left;
@@ -454,7 +454,7 @@ body#billingInfo #contentLeft {
   margin-bottom:4px;
  }
  #innerHeader {
-  background: url(https://www.funorb.com/img/jagex/header_bg.jpg) repeat-x;
+  background: url(../../img/jagex/header_bg.jpg) repeat-x;
   height:106px;
  }
  #headerNav {
@@ -475,14 +475,14 @@ body#billingInfo #contentLeft {
   list-style:none;
   float:left;
   padding-right:10px;
-  background: url(https://www.funorb.com/img/jagex/header_button_big.jpg) no-repeat;
+  background: url(../../img/jagex/header_button_big.jpg) no-repeat;
   text-align:center;
  }
  #headerNavLarge li {
   list-style:none;
   float:left;
   padding-right:10px;
-  background: url(https://www.funorb.com/img/jagex/header_button_big.jpg) no-repeat;
+  background: url(../../img/jagex/header_button_big.jpg) no-repeat;
   text-align:center;
  }
  #headerNav span {
@@ -519,7 +519,7 @@ body#billingInfo #contentLeft {
  }
  #innerHeaderLogo {
   float:left;
-  background: url(https://www.funorb.com/img/jagex/header_logo_blank.jpg) no-repeat;
+  background: url(../../img/jagex/header_logo_blank.jpg) no-repeat;
   height:106px;
   width:339px;
  }
@@ -527,16 +527,16 @@ body#billingInfo #contentLeft {
   float: left;
  }
  #innerHeaderLogoFunOrb {
-  background-image: url(https://www.funorb.com/img/jagex/header_logo_funorb.jpg);
+  background-image: url(../../img/jagex/header_logo_funorb.jpg);
  }
  #innerHeaderLogoMechScape {
-  background-image: url(https://www.funorb.com/img/jagex/header_logo_mechscape.jpg);
+  background-image: url(../../img/jagex/header_logo_mechscape.jpg);
  }
  #innerHeaderLogoRuneScape {
-  background-image: url(https://www.funorb.com/img/jagex/header_logo_runescape2.jpg);
+  background-image: url(../../img/jagex/header_logo_runescape2.jpg);
  }
  #innerHeaderLogoJagex {
-  background-image: url(https://www.funorb.com/img/jagex/header_logo.jpg?1);
+  background-image: url(../../img/jagex/header_logo.jpg?1);
  }
  #innerHeaderLogoLink {
   display: block;
@@ -547,25 +547,25 @@ body#billingInfo #contentLeft {
 /* Not used... */
  #forgottenButton {
   float:left;
-  background: url(https://www.funorb.com/img/jagex/forgotten_password.gif) no-repeat;
+  background: url(../../img/jagex/forgotten_password.gif) no-repeat;
   height:97px;
   width:349px;
  }
 /* Not used... */
  #stolenButton {
   float:left;
-  background: url(https://www.funorb.com/img/jagex/stolen_password.gif) no-repeat;
+  background: url(../../img/jagex/stolen_password.gif) no-repeat;
   height:97px;
   width:349px;
  }
  #innerHeaderCnr {
-  background: url(https://www.funorb.com/img/jagex/header_rghtCnr.jpg) no-repeat;
+  background: url(../../img/jagex/header_rghtCnr.jpg) no-repeat;
   height:106px;
   width:16px;
   float:right;
  }
  #logoJagex {
-  background: url(https://www.funorb.com/img/jagex/logo_jagex.gif?1) no-repeat;
+  background: url(../../img/jagex/logo_jagex.gif?1) no-repeat;
   height:45px;
   width:132px;
   position:absolute;
@@ -623,10 +623,10 @@ body#billingInfo #contentLeft {
     text-decoration:none;
    }
    .jagexBox .topCnrs {
-    background:url(https://www.funorb.com/img/jagex/jagex_Cnrs.gif) no-repeat top;
+    background:url(../../img/jagex/jagex_Cnrs.gif) no-repeat top;
    }
    .jagexBoxSmall .topCnrs {
-    background:url(https://www.funorb.com/img/jagex/jagex_Cnrs_Small.gif) no-repeat top;
+    background:url(../../img/jagex/jagex_Cnrs_Small.gif) no-repeat top;
    }
    .jagexBox .topCnrs,
    .jagexBoxSmall .topCnrs {
@@ -634,10 +634,10 @@ body#billingInfo #contentLeft {
     font-size:1px;
    }
    .jagexBox .botCnrs {
-    background:url(https://www.funorb.com/img/jagex/jagex_CnrsBot.gif) no-repeat scroll center bottom;
+    background:url(../../img/jagex/jagex_CnrsBot.gif) no-repeat scroll center bottom;
    }
    .jagexBoxSmall .botCnrs {
-    background:url(https://www.funorb.com/img/jagex/jagex_CnrsBot_small.gif) no-repeat scroll center bottom;
+    background:url(../../img/jagex/jagex_CnrsBot_small.gif) no-repeat scroll center bottom;
    }
    .jagexBox .botCnrs,
    .jagexBoxSmall .botCnrs {
@@ -677,7 +677,7 @@ body#billingInfo #contentLeft {
     right:0px;
     width:119px;
     height:25px;
-    background:url(https://www.funorb.com/img/billingv4/billingOption_button.gif) no-repeat;
+    background:url(../../img/billingv4/billingOption_button.gif) no-repeat;
     z-index:100;
     text-align:center;
     line-height:20px;
@@ -691,25 +691,25 @@ body#billingInfo #contentLeft {
   }
   .closeContent div {
    height:10px;
-   background: #201d19 url(https://www.funorb.com/img/jagex/content_footer_lftCnr.gif) no-repeat bottom left;
+   background: #201d19 url(../../img/jagex/content_footer_lftCnr.gif) no-repeat bottom left;
    padding-left:10px;
   }
   .closeContent span {
    display:block;
    height:10px;
-   background: #201d19 url(https://www.funorb.com/img/jagex/content_footer_rghtCnr.gif) no-repeat bottom right;
+   background: #201d19 url(../../img/jagex/content_footer_rghtCnr.gif) no-repeat bottom right;
   }
   /* Close Content*/
  /* Footer */
  #footer {
-  background: #302a21 url(https://www.funorb.com/img/jagex/footer_rghtCnr.gif) no-repeat bottom right;
+  background: #302a21 url(../../img/jagex/footer_rghtCnr.gif) no-repeat bottom right;
   font-size:9px;
   margin-top:4px;
   position:relative;
  }
  #footer ul {
   display:block;
-  background: #302a21 url(https://www.funorb.com/img/jagex/footer_lftCnr.gif) no-repeat bottom left;
+  background: #302a21 url(../../img/jagex/footer_lftCnr.gif) no-repeat bottom left;
   margin:0px;
   padding-left:5px;
   margin-right:100px;

@@ -19,15 +19,15 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/a=135/g=starcannon/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/a=135/g=starcannon/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../a=135/g=starcannon/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../a=135/g=starcannon/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-44.css);/**/
+  /*\*/@import url(../../../a=135/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/a=135/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=135/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
  body {
@@ -88,8 +88,8 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/a=135/g=starcannon/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../a=135/g=starcannon/index.ws" ><b>
+<img src="../../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -107,25 +107,25 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/g=starcannon/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=135/g=starcannon/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=135/g=starcannon/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=135/g=starcannon/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=135/g=starcannon/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=135/g=starcannon/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=135/g=starcannon/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/a=135/g=starcannon/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../a=135/g=starcannon/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/g=starcannon/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../a=135/g=starcannon/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=135/g=starcannon/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../a=135/g=starcannon/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -135,23 +135,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/a=135/g=starcannon/" class="fly">Community Home</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo/a=135/g=starcannon/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../a=135/g=starcannon/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/a=135/g=starcannon/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/a=135/g=starcannon/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/a=135/g=starcannon/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/g=starcannon/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=135/g=starcannon/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/g=starcannon/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/a=135/g=starcannon/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=135/g=starcannon/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=135/g=starcannon/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=135/g=starcannon/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=135/g=starcannon/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=135/g=starcannon/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../../a=135/g=starcannon/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -159,28 +159,28 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/a=135/g=starcannon/loginform.ws?mod=www&amp;ssl=0&amp;dest=starcannon/serverlist.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/g=starcannon/index.ws">
+<a id="countrydrop" href="../../../a=135/g=starcannon/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/g=starcannon/index.ws"><img title="
+<li><a class="fly" href="../../../a=135/g=starcannon/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/g=starcannon/index.ws"><img title="
+English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=135/g=starcannon/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/g=starcannon/index.ws"><img title="
+Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=135/g=starcannon/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/g=starcannon/index.ws"><img title="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=135/g=starcannon/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -196,9 +196,9 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws">Games</a> &gt;
-<a href="http://www.funorb.com/a=135/g=starcannon/gamelist.ws?genreBox=shooter">Shooter</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/a=135/g=starcannon/starcannon/play.ws">StarCannon</a> &gt;
+<a href="../../../a=135/g=starcannon/gamelist.ws">Games</a> &gt;
+<a href="../../../a=135/g=starcannon/gamelist.ws?genreBox=shooter">Shooter</a> &gt;
+<a onclick="suffixize(this)" href="../../../a=135/g=starcannon/starcannon/play.ws">StarCannon</a> &gt;
 Server List
 
 </div>
@@ -271,30 +271,30 @@ United States
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/g=starcannon/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../../a=135/g=starcannon/index.ws"><img alt="
+English" src="../../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=135/g=starcannon/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../../l=1/a=135/g=starcannon/index.ws"><img alt="
+Deutsch" src="../../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/g=starcannon/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../../l=2/a=135/g=starcannon/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/g=starcannon/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../../l=3/a=135/g=starcannon/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/g=starcannon/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/g=starcannon/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=135/g=starcannon/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=135/g=starcannon/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/a=135/g=starcannon/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/a=135/g=starcannon/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

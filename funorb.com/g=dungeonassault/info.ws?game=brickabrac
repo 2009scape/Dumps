@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=dungeonassault/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=dungeonassault/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../g=dungeonassault/favicon.ico">
+<link rel="SHORTCUT ICON" href="../g=dungeonassault/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-44.css);/**/
+  /*\*/@import url(../css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/css/info-8.css");/**/
+ /*\*/@import url("../css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/img/images/game/brickabrac/intro.jpg);
+  background-image: url(../img/images/game/brickabrac/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/img/images/info/button_subscribe.gif);
+  background-image: url(../img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/img/images/game/brickabrac/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/img/images/game/brickabrac/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/img/images/game/brickabrac/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/img/images/game/brickabrac/screen4.jpg?1';
+images[0] = '../img/images/game/brickabrac/screen1.jpg?1';
+images[1] = '../img/images/game/brickabrac/screen2.jpg?1';
+images[2] = '../img/images/game/brickabrac/screen3.jpg?1';
+images[3] = '../img/images/game/brickabrac/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=dungeonassault/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../g=dungeonassault/index.ws" ><b>
+<img src="../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -154,25 +154,25 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=dungeonassault/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=dungeonassault/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../g=dungeonassault/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../g=dungeonassault/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=dungeonassault/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../g=dungeonassault/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../g=dungeonassault/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/g=dungeonassault/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../g=dungeonassault/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../g=dungeonassault/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../g=dungeonassault/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/g=dungeonassault/" class="fly">Community Home</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo/g=dungeonassault/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../g=dungeonassault/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=dungeonassault/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=dungeonassault/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=dungeonassault/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=dungeonassault/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../g=dungeonassault/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=dungeonassault/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=dungeonassault/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../g=dungeonassault/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../g=dungeonassault/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../g=dungeonassault/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=dungeonassault/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=brickabrac" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=dungeonassault/index.ws">
+<a id="countrydrop" href="../g=dungeonassault/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=dungeonassault/index.ws"><img title="
+<li><a class="fly" href="../g=dungeonassault/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img title="
+English" src="../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/g=dungeonassault/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img title="
+Deutsch" src="../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/g=dungeonassault/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img title="
+Fran&ccedil;ais" src="../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/g=dungeonassault/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,13 +243,13 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/g=dungeonassault/gamelist.ws">Games</a> &gt;
-<a href="http://www.funorb.com/g=dungeonassault/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=dungeonassault/brickabrac/play.ws">Brick-À-Brac</a> &gt;
+<a href="../g=dungeonassault/gamelist.ws">Games</a> &gt;
+<a href="../g=dungeonassault/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../g=dungeonassault/brickabrac/play.ws">Brick-ï¿½-Brac</a> &gt;
 More Info
 </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/g=dungeonassault/brickabrac/serverlist.ws">Server List</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../g=dungeonassault/brickabrac/serverlist.ws">Server List</a>
 </span>
 
 </div>
@@ -262,13 +262,13 @@ More Info
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/g=dungeonassault/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br>
+<a href="../g=dungeonassault/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br>
 Destroy bricks with your paddle and ball. Race against your friends!
 </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
 <a class="buttonWide" href="#faqs"><div>FAQs</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/g=dungeonassault/brickabrac/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../g=dungeonassault/brickabrac/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -279,23 +279,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/img/images/game/brickabrac/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../img/images/game/brickabrac/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/img/images/game/brickabrac/screen1_thumb.jpg?1);">
+<a href="../g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../img/images/game/brickabrac/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/img/images/game/brickabrac/screen2_thumb.jpg?1);">
+<a href="../g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../img/images/game/brickabrac/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/img/images/game/brickabrac/screen3_thumb.jpg?1);">
+<a href="../g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../img/images/game/brickabrac/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/img/images/game/brickabrac/screen4_thumb.jpg?1);">
+<a href="../g=dungeonassault/display_screenshot.ws?game=brickabrac&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../img/images/game/brickabrac/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -305,7 +305,7 @@ Screenshots
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Brick-À-Brac Features
+Brick-ï¿½-Brac Features
 </div>
 </div>
 <div class="subsectionContent">
@@ -402,7 +402,7 @@ FunOrb Members' Benefits
 <li>No adverts during gameplay.</li> <li>Complete access to all members-only content on FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -424,7 +424,7 @@ Development Team
 <b>Editing:</b> Stephen R
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -439,22 +439,22 @@ Development Team
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=dungeonassault/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../g=dungeonassault/index.ws"><img alt="
+English" src="../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../l=1/g=dungeonassault/index.ws"><img alt="
+Deutsch" src="../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../l=2/g=dungeonassault/index.ws"><img alt="
+Fran&ccedil;ais" src="../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../l=3/g=dungeonassault/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2015 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
@@ -462,7 +462,7 @@ By using our service you are agreeing to our <a href="http://www.jagex.com/g=dun
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=dungeonassault/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=dungeonassault/" target="_blank"><img src="../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

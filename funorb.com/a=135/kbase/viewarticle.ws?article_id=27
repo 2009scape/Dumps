@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Questions and answers for paying with cash.">
@@ -44,7 +44,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -61,15 +61,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=135/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=135/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=135/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=135/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,37 +97,37 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=135/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=135/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=27" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=27" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/index.ws">
+<a id="countrydrop" href="../../a=135/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+<img alt="English" src="../../a=135/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=135/index.ws"><img title="English" alt="English" src="../../a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="../../a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -170,7 +170,7 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 <li><a href="#provide">What payment options do PayByCash provide?</a>
 <li><a href="#post">What is the address to post the payment to?</a>
 <li><a href="#payment">I no longer wish to send payment. What should I do?</a>
-<li><a href="#member">I have sent my payment, but I’m still not a member. How long will it take?</a>
+<li><a href="#member">I have sent my payment, but Iï¿½m still not a member. How long will it take?</a>
 <li><a href="#mistake">I have sent my payment but realised I have made a mistake. What should I do?</a>
 <li><a href="#credit">How many months of membership credit can I buy at a time?</a>
 <li><a href="#taken">How many payments will be taken?</a>
@@ -182,7 +182,7 @@ PayByCash offer a number of different payment methods including PayPal, bank tra
 <br><br>
 The exact procedure will depend on the payment method you select. Detailed instructions on how to complete your payment will be provided during the subscription process. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="countries"></a>
@@ -191,7 +191,7 @@ PayByCash is available worldwide.
 <br><br>
 Certain payment methods may not, however, be available in your country. Available payment options will be displayed during the subscription process. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="secure"></a>
@@ -200,7 +200,7 @@ PayByCash (Internet Payment Solutions, Inc.) are one of the largest online game 
 <br><br>
 Their commitment to a safe and efficient service is what made them our first choice for covering third-party payment methods. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="cost"></a>
@@ -209,23 +209,23 @@ The cost of membership will depend on the payment method used and the number of 
 <br><br>
 Prices range from USD7.95 for one month of membership to USD65.95 for twelve months of membership. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="service"></a>
 <span class="title">5. Why does the PayByCash service cost more to use?</span><br><br>
 PayByCash is more expensive when compared to paying by credit/debit card because it is more expensive for us to operate this more convenient payment method. We earn the same revenues as with other paying methods. The additional fee goes to PayByCash. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="subscribe"></a>
 <span class="title">6. How do I subscribe or make a one-off payment?</span><br><br>
-Select “Create Account” on <a href="http://www.funorb.com/a=135/">www.funorb.com</a> and select the prompts for using the PayByCash payment method.
+Select ï¿½Create Accountï¿½ on <a href="../../a=135/">www.funorb.com</a> and select the prompts for using the PayByCash payment method.
 <br><br>
 Please be sure to follow the instructions and ensure you understand all the points. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="unsubscribe"></a>
@@ -235,7 +235,7 @@ It is only necessary to cancel direct debit payments, as all the other payment m
 To cancel a direct debit payment, please e-mail customerservice@paybycash.com.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="start"></a>
@@ -244,63 +244,63 @@ The length of time taken for the payment to be processed and the membership cred
 <br><br>
 PayByCash provide details of the <a href="http://www.paybycash.com/paymentmethods.htm" target="_blank">approximate processing time</a> for each type of payment. Please be aware that this is only an indication, and payment can be processed more or less quickly than this. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="refunded"></a>
 <span class="title">9. Why was my payment refunded?</span><br><br>
 We are not provided with specific details as to why a payment has been refunded. You should contact customerservice@paybycash.com to resolve your issue. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="include"></a>
 <span class="title">10. What should I include with my payment?</span><br><br>
 Details of exactly what to provide with your payment will be noted during the subscription process. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="provide"></a>
 <span class="title">11. What payment options do PayByCash provide?</span><br><br>
 PayByCash offer many payment methods, including PayPal, money order, Certa-pay, Western Union and hyperWallet.<br><br>A full list of payment methods and the approximate processing times can be found on the <a href="http://www.paybycash.com" target="_blank">PayByCash website</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="post"></a>
 <span class="title">12. What is the address to post the payment to?</span><br><br>
 The address will depend on your location and will be provided during the subscription process. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="payment"></a>
 <span class="title">13. I no longer wish to send payment. What should I do?</span><br><br>
 You do not enter into a contract until you send the payment. If you have changed your mind and no longer wish to subscribe using PayByCash, simply do nothing. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="member"></a>
-<span class="title">14. I have sent my payment, but I’m still not a member. How long will it take?</span><br><br>
+<span class="title">14. I have sent my payment, but Iï¿½m still not a member. How long will it take?</span><br><br>
 There can sometimes be a delay before PayByCash receives your payment. This is especially true if you have sent the payment by post.<br><br>PayByCash provide details of the usual <a href="http://www.paybycash.com/paymentmethods.htm" target="_blank">payment processing time</a>. If your payment has not been processed 24-48 hours after the time stated on this page, please contact PayByCash at customerservice@paybycash.com to query the status of your payment. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="mistake"></a>
 <span class="title">15. I have sent my payment but realised I have made a mistake. What should I do?</span><br><br>
 You should e-mail PayByCash customer support at customerservice@paybycash.com as soon as possible so they can resolve your issue. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="credit"></a>
 <span class="title">16. How many months of membership credit can I buy at a time?</span><br><br>
 PayByCash offer one, three, six and twelve month options. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="mistake"></a>
@@ -309,7 +309,7 @@ Only one payment will be taken, unless you subscribe using a direct debit. Direc
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -329,22 +329,22 @@ Only one payment will be taken, unless you subscribe using a direct debit. Direc
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../a=135/index.ws"><img alt="English" src="../../a=135/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=135/index.ws"><img alt="Deutsch" src="../../a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

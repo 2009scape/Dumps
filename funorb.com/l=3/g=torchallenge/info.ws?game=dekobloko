@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=torchallenge/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=torchallenge/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=torchallenge/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=torchallenge/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/dekobloko/intro.jpg);
+  background-image: url(../../l=3/img/images/game/dekobloko/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/dekobloko/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/dekobloko/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/dekobloko/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/dekobloko/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/dekobloko/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/dekobloko/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/dekobloko/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/dekobloko/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=torchallenge/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=torchallenge/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=torchallenge/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=torchallenge/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=torchallenge/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=torchallenge/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=torchallenge/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=torchallenge/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=torchallenge/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=torchallenge/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=torchallenge/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=torchallenge/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=torchallenge/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=torchallenge/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=torchallenge/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=torchallenge/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=torchallenge/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=torchallenge/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=torchallenge/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=torchallenge/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=torchallenge/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=torchallenge/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=torchallenge/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=torchallenge/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=torchallenge/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=torchallenge/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=torchallenge/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=torchallenge/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=torchallenge/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=torchallenge/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=torchallenge/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=torchallenge/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=dekobloko" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=torchallenge/index.ws">
+<a id="countrydrop" href="../../l=3/g=torchallenge/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=torchallenge/index.ws"><img title="
+<li><a class="fly" href="../../g=torchallenge/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=torchallenge/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=torchallenge/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=torchallenge/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=torchallenge/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=torchallenge/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=torchallenge/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=torchallenge/dekobloko/play.ws">Deko Bloko</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=torchallenge/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=torchallenge/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=torchallenge/dekobloko/play.ws">Deko Bloko</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=torchallenge/dekobloko/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=torchallenge/dekobloko/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=torchallenge/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Um jogo multijogador colorido de combinação de formas que teimam em voltar! </div>
+<a href="../../l=3/g=torchallenge/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Um jogo multijogador colorido de combinaï¿½ï¿½o de formas que teimam em voltar! </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=torchallenge/dekobloko/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=torchallenge/dekobloko/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/dekobloko/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/dekobloko/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/dekobloko/screen1_thumb.jpg?1);">
+<a href="../../l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/dekobloko/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/dekobloko/screen2_thumb.jpg?1);">
+<a href="../../l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/dekobloko/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/dekobloko/screen3_thumb.jpg?1);">
+<a href="../../l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/dekobloko/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/dekobloko/screen4_thumb.jpg?1);">
+<a href="../../l=3/g=torchallenge/display_screenshot.ws?game=dekobloko&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/dekobloko/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -311,12 +311,12 @@ Recursos de Deko Bloko
 <div class="benefitsList">
 <ul>
 
-<li>Modo de Resistência e Desafio Master.</li>
+<li>Modo de Resistï¿½ncia e Desafio Master.</li>
 <li>Oito temas diferentes.</li>
-<li>Multijogador on-line para até 8 jogadores.</li>
-<li>Dispute jogos qualificatórios ou não qualificatórios.</li>
+<li>Multijogador on-line para atï¿½ 8 jogadores.</li>
+<li>Dispute jogos qualificatï¿½rios ou nï¿½o qualificatï¿½rios.</li>
 <li>Acesse todas as Conquistas.</li>
-<li>Jogue GRÁTIS!</li>
+<li>Jogue GRï¿½TIS!</li>
 </ul>
 </div>
 </div>
@@ -327,13 +327,13 @@ Recursos de Deko Bloko
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Deko Bloko é um jogo de combinação de formas com uma guinada: cada forma que você posiciona é transformada num bloco sólido e enviado a seu oponente! Você verá muitas formas estranhas em jogos multijogador e terá que agir rápido para se livrar delas e enviá-las para outra pessoa. Este jogo multijogador fica muito mais irado quando você tem 8 jogadores juntos, lutando pela primeira posição, especialmente quando você acrescenta power-ups à mistura!</p>
-<p>Há também dois modos para um jogador para atingir os recordes - desafios resistência e master - além de muitos temas coloridos para desbloquear em todos os modos do jogo.</p>
+<p>Deko Bloko ï¿½ um jogo de combinaï¿½ï¿½o de formas com uma guinada: cada forma que vocï¿½ posiciona ï¿½ transformada num bloco sï¿½lido e enviado a seu oponente! Vocï¿½ verï¿½ muitas formas estranhas em jogos multijogador e terï¿½ que agir rï¿½pido para se livrar delas e enviï¿½-las para outra pessoa. Este jogo multijogador fica muito mais irado quando vocï¿½ tem 8 jogadores juntos, lutando pela primeira posiï¿½ï¿½o, especialmente quando vocï¿½ acrescenta power-ups ï¿½ mistura!</p>
+<p>Hï¿½ tambï¿½m dois modos para um jogador para atingir os recordes - desafios resistï¿½ncia e master - alï¿½m de muitos temas coloridos para desbloquear em todos os modos do jogo.</p>
 </div>
 </div>
 </div>
@@ -348,40 +348,40 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">O que é regeneração de formas?</a></li>
+<li><a href="#faqs_q1">O que ï¿½ regeneraï¿½ï¿½o de formas?</a></li>
 <li><a href="#faqs_q2">Como ganhar mais pontos no modo para um jogador?</a></li>
-<li><a href="#faqs_q3">Por que não estou ganhando itens especiais?</a></li> <li><a href="#faqs_q4">Como posso vencer no multijogador?</a></li> <li><a href="#faqs_q5">O que significa Deko Bloko?</a></li> <li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_q3">Por que nï¿½o estou ganhando itens especiais?</a></li> <li><a href="#faqs_q4">Como posso vencer no multijogador?</a></li> <li><a href="#faqs_q5">O que significa Deko Bloko?</a></li> <li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. O que é regeneração de formas?</h3>
-<p>Regeneração de formas é a proporção que as peças que você posiciona se tornam sólidas. Em regeneração de formas nível 1, somente as peças soltas que você posicionou são enviadas a seu oponente. No nível 2, as peças que você posiciona e as formas sólidas que levam junto são combinadas em uma forma sólida e enviadas adiante. No nível 3, até itens especiais enviarão tudo que destruírem para seus oponentes.</p>
+<h3>1. O que ï¿½ regeneraï¿½ï¿½o de formas?</h3>
+<p>Regeneraï¿½ï¿½o de formas ï¿½ a proporï¿½ï¿½o que as peï¿½as que vocï¿½ posiciona se tornam sï¿½lidas. Em regeneraï¿½ï¿½o de formas nï¿½vel 1, somente as peï¿½as soltas que vocï¿½ posicionou sï¿½o enviadas a seu oponente. No nï¿½vel 2, as peï¿½as que vocï¿½ posiciona e as formas sï¿½lidas que levam junto sï¿½o combinadas em uma forma sï¿½lida e enviadas adiante. No nï¿½vel 3, atï¿½ itens especiais enviarï¿½o tudo que destruï¿½rem para seus oponentes.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. Como ganhar mais pontos no modo para um jogador?</h3>
-<p>Você precisa ser sorrateiro e acumular peças para detonar ao mesmo tempo ou em séries. Você também poderia acumular formas e estourá-las com um item especial. Tente elaborar estratégias para cada tema no desafio master e você vai ganhar muitos pontos.</p>
+<p>Vocï¿½ precisa ser sorrateiro e acumular peï¿½as para detonar ao mesmo tempo ou em sï¿½ries. Vocï¿½ tambï¿½m poderia acumular formas e estourï¿½-las com um item especial. Tente elaborar estratï¿½gias para cada tema no desafio master e vocï¿½ vai ganhar muitos pontos.</p>
 <div class="hr"></div>
-<a name="faqs_q3"></a> <h3>3. Por que não estou ganhando itens especiais?</h3>
-<p>Há várias razões para você não ganhar itens especiais. Você precisa destruir duas ou mais formas ao mesmo tempo para receber um item especial. Você não começa a receber itens especiais nos modos resistência e master até eliminar alguns temas - o jogo vai informá-lo quando você poderá fazê-lo. Em multijogador, você precisa ser membro e ativar itens especiais na tela de configuração do jogo.</p>
+<a name="faqs_q3"></a> <h3>3. Por que nï¿½o estou ganhando itens especiais?</h3>
+<p>Hï¿½ vï¿½rias razï¿½es para vocï¿½ nï¿½o ganhar itens especiais. Vocï¿½ precisa destruir duas ou mais formas ao mesmo tempo para receber um item especial. Vocï¿½ nï¿½o comeï¿½a a receber itens especiais nos modos resistï¿½ncia e master atï¿½ eliminar alguns temas - o jogo vai informï¿½-lo quando vocï¿½ poderï¿½ fazï¿½-lo. Em multijogador, vocï¿½ precisa ser membro e ativar itens especiais na tela de configuraï¿½ï¿½o do jogo.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a> <h3>4. Como posso vencer no multijogador?</h3>
-<p>Considere deixar as peças acumularem antes de enviar um grupo de formas sólidas para o próximo jogador. Tente criar fromas não convencionais que irão confundir e frustrar seu oponente. Fique de olho nos outros jogadores e planeje seus movimentos de acordo.</p>
+<p>Considere deixar as peï¿½as acumularem antes de enviar um grupo de formas sï¿½lidas para o prï¿½ximo jogador. Tente criar fromas nï¿½o convencionais que irï¿½o confundir e frustrar seu oponente. Fique de olho nos outros jogadores e planeje seus movimentos de acordo.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a> <h3>5. O que significa Deko Bloko?</h3>
-<p>O nome Deko Bloko deriva da palavra japonesa 'dekoboko', que significa 'irregular' ou 'áspero' e os blocos que caem no jogo. Irregular é certamente uma descrição apropriada para algumas formas sólidas que você verá ao jogar. 'Dekoboko' é normalmente escrito foneticamente em japonês, mas também pode ser escrito desta forma: <img style="display: inline; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=3/img/images/game/dekobloko/dekoboko.jpg" alt="dekoboko" title="dekoboko">.</p>
+<p>O nome Deko Bloko deriva da palavra japonesa 'dekoboko', que significa 'irregular' ou 'ï¿½spero' e os blocos que caem no jogo. Irregular ï¿½ certamente uma descriï¿½ï¿½o apropriada para algumas formas sï¿½lidas que vocï¿½ verï¿½ ao jogar. 'Dekoboko' ï¿½ normalmente escrito foneticamente em japonï¿½s, mas tambï¿½m pode ser escrito desta forma: <img style="display: inline; margin: 0 auto 0 auto;" src="../../l=3/img/images/game/dekobloko/dekoboko.jpg" alt="dekoboko" title="dekoboko">.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>6. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>6. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>1.0 GHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -389,7 +389,7 @@ Perguntas frequentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Benefícios do membro do FunOrb
+Benefï¿½cios do membro do FunOrb
 </div>
 </div>
 <div class="subsectionContent">
@@ -397,10 +397,10 @@ Benefícios do membro do FunOrb
 <p style="padding-bottom: 5px;">Os membros ganham:</p>
 <ul style="line-height: 22px;">
 <li>Modo tela cheia.</li>
-<li>Sem anúncios durante o jogo.</li> <li>Acesso total a todo conteúdo exclusivo para membros do FunOrb.</li>
+<li>Sem anï¿½ncios durante o jogo.</li> <li>Acesso total a todo conteï¿½do exclusivo para membros do FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=3/g=torchallenge/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=torchallenge/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -422,7 +422,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -435,25 +435,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=torchallenge/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=torchallenge/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=torchallenge/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=torchallenge/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=torchallenge/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=torchallenge/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=torchallenge/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=torchallenge/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=torchallenge/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=torchallenge/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=torchallenge/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=torchallenge/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=torchallenge/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=torchallenge/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

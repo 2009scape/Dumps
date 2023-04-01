@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,17 +20,17 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=119/css/global-21.css);/**/
+  /*\*/@import url(../../l=2/a=119/css/global-21.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=119/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/a=119/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/a=119/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/a=119/css/layout.ws"></script>
 
 <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/a=119/css/home-8.css");/**/
+ /*\*/@import url("../../l=2/a=119/css/home-8.css");/**/
 </style>
-<script src="http://www.funorb.com/l=2/a=119/css/AC_OETags-1.css" type="text/javascript"></script>
+<script src="../../l=2/a=119/css/AC_OETags-1.css" type="text/javascript"></script>
 <script type="text/javascript">
  var timer;
 
@@ -39,11 +39,11 @@ fr">
  function topper(obj,dirname){
   var thumb = $('topThumb');
   timer = window.setTimeout(function(){ $('topLoader').style.display = 'block'; }, 60);
-  thumb.src = "http://www.funorb.com/l=2/a=119/img/images/game/"+dirname+"/medium.jpg";
-  var play = "http://www.funorb.com/l=2/a=119/"+dirname+"/play.ws";
+  thumb.src = "../../l=2/a=119/img/images/game/"+dirname+"/medium.jpg";
+  var play = "../../l=2/a=119/"+dirname+"/play.ws";
   thumb.parentNode.href = play;
   $('topPlay').href = play;
-  $('topInfo').href = "http://www.funorb.com/l=2/a=119/info.ws?game="+dirname;
+  $('topInfo').href = "../../l=2/a=119/info.ws?game="+dirname;
   for( i = 0; ( a = obj.parentNode.parentNode.getElementsByTagName("a")[i] ); i++ ) {
    a.className = '';
   }
@@ -91,8 +91,8 @@ fr">
 <div class="container">
 
 <h1 id="logo">
-<a href="http://www.funorb.com/l=2/a=119/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/a=119/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a href="../../l=2/a=119/index.ws" ><b>
+<img src="../../l=2/a=119/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 </h1>
 <div id="shell">
@@ -102,7 +102,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/a=119/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/a=119/messenger.js"></script>
 
@@ -111,28 +111,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=119/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=119/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/a=119/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/a=119/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=119/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/a=119/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/a=119/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/a=119/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/a=119/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/a=119/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=119/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/a=119/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/a=119/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/a=119/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=119/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=119/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -143,41 +143,41 @@ http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws" class="fly">Tous les forums</
 http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=119/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=119/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=119/" class="fly last">Téléchargements</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=119/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=119/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/a=119/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=119/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=119/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/a=119/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/a=119/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/a=119/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/a=119/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/a=119/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/a=119/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=119/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=119/loginapplet/login.ws?mod=www&ssl=0&dest=index.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=119/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/a=119/loginapplet/login.ws?mod=www&ssl=0&dest=index.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=119/index.ws">
+<a id="countrydrop" href="../../l=2/a=119/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=119/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/a=119/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=119/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/a=119/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=119/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/a=119/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=119/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=119/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=119/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/a=119/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=119/index.ws"><img title="English" alt="English" src="../../l=2/a=119/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=119/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/a=119/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=119/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/a=119/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=119/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/a=119/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -187,7 +187,7 @@ http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws?0,1" class="fly">Annonces</a><
 <div class="lft"></div>
 <div class="rght"></div>
 <div style="padding-top:16px;">
-<div id="release" style="background: url(http://www.funorb.com/l=2/a=119/img/images/game/virogrid/release.jpg) no-repeat;">
+<div id="release" style="background: url(../../l=2/a=119/img/images/game/virogrid/release.jpg) no-repeat;">
 <script language="JavaScript" type="text/javascript">
      
      var hasReqestedVersion = null;
@@ -204,7 +204,7 @@ http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws?0,1" class="fly">Annonces</a><
      if (hasReqestedVersion && apple == -1 && linux == -1) {
       
       AC_FL_RunContent(
-       "src", "http://www.funorb.com/l=2/a=119/img/images/game/virogrid/release",
+       "src", "../../l=2/a=119/img/images/game/virogrid/release",
        "width", "432",
        "height", "167",
        "align", "middle",
@@ -219,33 +219,33 @@ http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws?0,1" class="fly">Annonces</a><
       document.getElementById('release').style.background = 'black';
      }
      </script>
-<a onclick="suffixize(this)" class="releasePlayMe" href="http://www.funorb.com/l=2/a=119/virogrid/play.ws"></a>
+<a onclick="suffixize(this)" class="releasePlayMe" href="../../l=2/a=119/virogrid/play.ws"></a>
 <div class="text">
 <div class="title">Virogrid</div>
 <div class="genre">
-<a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 </div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=virogrid"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/virogrid/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=virogrid"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/virogrid/play.ws">Jouer</a>
 </div>
 </div>
 <div id="top">
 <div id="topTitle">Top 10</div>
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=119/armiesofgielinor/play.ws"><img id="topThumb" onload="topLoad()" src="http://www.funorb.com/l=2/a=119/img/images/game/armiesofgielinor/medium.jpg" alt="" /><div id="topLoader"></div></a>
+<a onclick="suffixize(this)" href="../../l=2/a=119/armiesofgielinor/play.ws"><img id="topThumb" onload="topLoad()" src="../../l=2/a=119/img/images/game/armiesofgielinor/medium.jpg" alt="" /><div id="topLoader"></div></a>
 <div id="topButtons">
-<a id="topInfo" class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=armiesofgielinor"></a>
-<a onclick="suffixize(this)" id="topPlay" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/armiesofgielinor/play.ws">Jouer</a>
+<a id="topInfo" class="buttonInfo" href="../../l=2/a=119/info.ws?game=armiesofgielinor"></a>
+<a onclick="suffixize(this)" id="topPlay" class="buttonPlay" href="../../l=2/a=119/armiesofgielinor/play.ws">Jouer</a>
 </div>
 <div id="topList">
-<div  id="top1"><a href="?top=1" onmousedown="topper(this,'armiesofgielinor');" onclick="return false;"  class="selected"><span>1.</span>Armées de Giélinor</a></div>
+<div  id="top1"><a href="?top=1" onmousedown="topper(this,'armiesofgielinor');" onclick="return false;"  class="selected"><span>1.</span>Armï¿½es de Giï¿½linor</a></div>
 <div ><a href="?top=2" onmousedown="topper(this,'arcanistsmulti');" onclick="return false;" ><span>2.</span>Arcanistes</a></div>
-<div ><a href="?top=3" onmousedown="topper(this,'orbdefence');" onclick="return false;" ><span>3.</span>Orbe Défense</a></div>
-<div ><a href="?top=4" onmousedown="topper(this,'zombiedawn');" onclick="return false;" ><span>4.</span>L'armée des zombies</a></div>
-<div ><a href="?top=5" onmousedown="topper(this,'brickabrac');" onclick="return false;" ><span>5.</span>Brique à brac</a></div>
+<div ><a href="?top=3" onmousedown="topper(this,'orbdefence');" onclick="return false;" ><span>3.</span>Orbe Dï¿½fense</a></div>
+<div ><a href="?top=4" onmousedown="topper(this,'zombiedawn');" onclick="return false;" ><span>4.</span>L'armï¿½e des zombies</a></div>
+<div ><a href="?top=5" onmousedown="topper(this,'brickabrac');" onclick="return false;" ><span>5.</span>Brique ï¿½ brac</a></div>
 <div ><a href="?top=6" onmousedown="topper(this,'starcannon');" onclick="return false;" ><span>6.</span>Star Cannon</a></div>
-<div ><a href="?top=7" onmousedown="topper(this,'zombiedawnmulti');" onclick="return false;" ><span>7.</span>L'armée des zombies M</a></div>
+<div ><a href="?top=7" onmousedown="topper(this,'zombiedawnmulti');" onclick="return false;" ><span>7.</span>L'armï¿½e des zombies M</a></div>
 <div ><a href="?top=8" onmousedown="topper(this,'pool');" onclick="return false;" ><span>8.</span>Billard</a></div>
 <div ><a href="?top=9" onmousedown="topper(this,'wizardrun');" onclick="return false;" ><span>9.</span>Super Stella</a></div>
 <div  id="top10"><a href="?top=10" onmousedown="topper(this,'dungeonassault');" onclick="return false;" ><span>10.</span>Dungeon Assault</a></div>
@@ -263,7 +263,7 @@ http://forum-fo-fr.funorb.com/l=2/a=119/forums.ws?0,1" class="fly">Annonces</a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Nouveautés
+Nouveautï¿½s
 
 </div>
 </div>
@@ -275,20 +275,20 @@ Nouveautés
 <div id="newsBackground">
 <div id="newsContent">
 <h3 id="newsTitle">Guerre des mods</h3>
-<span id="newsDate">18-fév-2009</span>
+<span id="newsDate">18-fï¿½v-2009</span>
 <div id="newsRule" class="newsRule"></div>
-<div id="newsIcon"><img src="http://www.funorb.com/l=2/a=119/img/news/icon_default.gif" alt="" /></div>
-<p id="newsSummary">Nous voudrions vous rappeler (ou informer ceux qui n’étaient pas au courant) que deux Guerres des mods auront lieu cette semaine, vendredi et samedi.  <a href="http://news.funorb.com/l=2/a=119/newsitem.ws?id=1674">En savoir&nbsp;plus... </a></p>
+<div id="newsIcon"><img src="../../l=2/a=119/img/news/icon_default.gif" alt="" /></div>
+<p id="newsSummary">Nous voudrions vous rappeler (ou informer ceux qui nï¿½ï¿½taient pas au courant) que deux Guerres des mods auront lieu cette semaine, vendredi et samedi.  <a href="http://news.funorb.com/l=2/a=119/newsitem.ws?id=1674">En savoir&nbsp;plus... </a></p>
 <div class="newsRule"></div>
 <div class="newsSmall">
 <h3 class="newsTitle"><a href="http://news.funorb.com/l=2/a=119/newsitem.ws?id=1655">L'avenir de FunOrb</a></h3>
-<span class="newsDate">11-fév-2009</span>
+<span class="newsDate">11-fï¿½v-2009</span>
 <br class="clear" />
 </div>
 <div class="newsRule"></div>
 <div class="newsSmall">
 <h3 class="newsTitle"><a href="http://news.funorb.com/l=2/a=119/newsitem.ws?id=1646">Virogrid</a></h3>
-<span class="newsDate">09-fév-2009</span>
+<span class="newsDate">09-fï¿½v-2009</span>
 <br class="clear" />
 </div>
 <div class="newsRule"></div>
@@ -302,7 +302,7 @@ Nouveautés
 </div>
 </div>
 <a href="http://www.runescape.com/l=2/a=119/" onclick="javascript:try{pageTracker._trackPageview('/outgoing/www.runescape.com/l=2/');}catch(x){}" target="_blank">
-<img style="margin-top: 8px;" src="http://www.funorb.com/l=2/a=119/img/images/adverts/runescape_advert1.jpg" alt="Publicité RuneScape"></a></div>
+<img style="margin-top: 8px;" src="../../l=2/a=119/img/images/adverts/runescape_advert1.jpg" alt="Publicitï¿½ RuneScape"></a></div>
 <div id="advert">
 <iframe src="http://advert.funorb.com/l=2/a=119/banner.ws?size=302" frameborder="0" scrolling="no" width="300" height="273" allowtransparency="true"></iframe>
 </div>
@@ -315,7 +315,7 @@ Nouveautés
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span style="float:left">Jeux solo</span>
-<a style="float:right;margin-right:5px;font-weight:normal;text-decoration:underline;" href="http://www.funorb.com/l=2/a=119/gamelist.ws?playerBox=1">Afficher tout</a>
+<a style="float:right;margin-right:5px;font-weight:normal;text-decoration:underline;" href="../../l=2/a=119/gamelist.ws?playerBox=1">Afficher tout</a>
 
 </div>
 </div>
@@ -326,39 +326,39 @@ Nouveautés
 <ul style="padding-top: 1px;">
 <li>
 <div class="table">
-<table><tr><td class="name">Orbe Défense</td></tr></table>
+<table><tr><td class="name">Orbe Dï¿½fense</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/orbdefence/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/orbdefence/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=orbdefence"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/orbdefence/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/orbdefence/play.ws"><img src="../../l=2/a=119/img/images/game/orbdefence/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=orbdefence"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/orbdefence/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
-<table><tr><td class="name">L'armée des zombies</td></tr></table>
+<table><tr><td class="name">L'armï¿½e des zombies</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/zombiedawn/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/zombiedawn/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=zombiedawn"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/zombiedawn/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/zombiedawn/play.ws"><img src="../../l=2/a=119/img/images/game/zombiedawn/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=zombiedawn"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/zombiedawn/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Super Stella</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/wizardrun/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/wizardrun/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=wizardrun"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/wizardrun/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/wizardrun/play.ws"><img src="../../l=2/a=119/img/images/game/wizardrun/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=wizardrun"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/wizardrun/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Kristal Folie</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/crazycrystals/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/crazycrystals/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=puzzle">Logique</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=crazycrystals"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/crazycrystals/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/crazycrystals/play.ws"><img src="../../l=2/a=119/img/images/game/crazycrystals/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=puzzle">Logique</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=crazycrystals"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/crazycrystals/play.ws">Jouer</a>
 </li>
 </ul>
 <div class="hr clear"></div>
@@ -368,37 +368,37 @@ Nouveautés
 <div class="table">
 <table><tr><td class="name">Torquing!</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/torquing/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/torquing/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=torquing"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/torquing/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/torquing/play.ws"><img src="../../l=2/a=119/img/images/game/torquing/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=torquing"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/torquing/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
-<table><tr><td class="name">Terra Phénix</td></tr></table>
+<table><tr><td class="name">Terra Phï¿½nix</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/terraphoenix/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/terraphoenix/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=terraphoenix"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/terraphoenix/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/terraphoenix/play.ws"><img src="../../l=2/a=119/img/images/game/terraphoenix/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=terraphoenix"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/terraphoenix/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Invasion Alien</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/hostilespawn/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/hostilespawn/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=shooter">Jeu de tir</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=hostilespawn"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/hostilespawn/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/hostilespawn/play.ws"><img src="../../l=2/a=119/img/images/game/hostilespawn/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=shooter">Jeu de tir</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=hostilespawn"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/hostilespawn/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
-<table><tr><td class="name">Mineur en péril</td></tr></table>
+<table><tr><td class="name">Mineur en pï¿½ril</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/minerdisturbance/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/minerdisturbance/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=minerdisturbance"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/minerdisturbance/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/minerdisturbance/play.ws"><img src="../../l=2/a=119/img/images/game/minerdisturbance/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=minerdisturbance"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/minerdisturbance/play.ws">Jouer</a>
 </li>
 </ul>
 <div class="hr clear"></div>
@@ -408,37 +408,37 @@ Nouveautés
 <div class="table">
 <table><tr><td class="name">Bouncedown</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/bouncedown/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/bouncedown/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=bouncedown"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/bouncedown/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/bouncedown/play.ws"><img src="../../l=2/a=119/img/images/game/bouncedown/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=bouncedown"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/bouncedown/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Star Cannon</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/starcannon/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/starcannon/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=shooter">Jeu de tir</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=starcannon"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/starcannon/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/starcannon/play.ws"><img src="../../l=2/a=119/img/images/game/starcannon/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=shooter">Jeu de tir</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=starcannon"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/starcannon/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Shaolin Kombat</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/torchallenge/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/torchallenge/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=torchallenge"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/torchallenge/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/torchallenge/play.ws"><img src="../../l=2/a=119/img/images/game/torchallenge/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=torchallenge"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/torchallenge/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Transmogrify</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/transmogrify/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/transmogrify/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=word">Mots</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=transmogrify"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/transmogrify/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/transmogrify/play.ws"><img src="../../l=2/a=119/img/images/game/transmogrify/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=word">Mots</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=transmogrify"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/transmogrify/play.ws">Jouer</a>
 </li>
 </ul>
 
@@ -454,7 +454,7 @@ Nouveautés
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span style="float:left">Jeux multijoueur</span>
-<a style="float:right;margin-right:5px;font-weight:normal;text-decoration:underline;" href="http://www.funorb.com/l=2/a=119/gamelist.ws?playerBox=2">Afficher tout</a>
+<a style="float:right;margin-right:5px;font-weight:normal;text-decoration:underline;" href="../../l=2/a=119/gamelist.ws?playerBox=2">Afficher tout</a>
 
 </div>
 </div>
@@ -465,30 +465,30 @@ Nouveautés
 <ul style="padding-top: 1px;">
 <li>
 <div class="table">
-<table><tr><td class="name">L'armée des zombies multijoueur</td></tr></table>
+<table><tr><td class="name">L'armï¿½e des zombies multijoueur</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/zombiedawnmulti/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/zombiedawnmulti/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=zombiedawnmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/zombiedawnmulti/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/zombiedawnmulti/play.ws"><img src="../../l=2/a=119/img/images/game/zombiedawnmulti/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=zombiedawnmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/zombiedawnmulti/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Dungeon Assault</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/dungeonassault/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/dungeonassault/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=dungeonassault"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/dungeonassault/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/dungeonassault/play.ws"><img src="../../l=2/a=119/img/images/game/dungeonassault/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=dungeonassault"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/dungeonassault/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Vertigo 2</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/vertigo2/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/vertigo2/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=vertigo2"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/vertigo2/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/vertigo2/play.ws"><img src="../../l=2/a=119/img/images/game/vertigo2/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=platform">Plateforme</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=vertigo2"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/vertigo2/play.ws">Jouer</a>
 </li>
 </ul>
 <div class="hr clear"></div>
@@ -496,30 +496,30 @@ Nouveautés
 <ul>
 <li>
 <div class="table">
-<table><tr><td class="name">Brique à brac</td></tr></table>
+<table><tr><td class="name">Brique ï¿½ brac</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/brickabrac/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/brickabrac/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=brickabrac"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/brickabrac/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/brickabrac/play.ws"><img src="../../l=2/a=119/img/images/game/brickabrac/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=brickabrac"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/brickabrac/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Offensive galactique</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/shatteredplans/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/shatteredplans/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=shatteredplans"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/shatteredplans/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/shatteredplans/play.ws"><img src="../../l=2/a=119/img/images/game/shatteredplans/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=shatteredplans"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/shatteredplans/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Deko Bloko</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/dekobloko/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/dekobloko/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=dekobloko"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/dekobloko/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/dekobloko/play.ws"><img src="../../l=2/a=119/img/images/game/dekobloko/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=arcade">Arcade</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=dekobloko"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/dekobloko/play.ws">Jouer</a>
 </li>
 </ul>
 <div class="hr clear"></div>
@@ -529,28 +529,28 @@ Nouveautés
 <div class="table">
 <table><tr><td class="name">TetraLink</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/tetralink/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/tetralink/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=tetralink"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/tetralink/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/tetralink/play.ws"><img src="../../l=2/a=119/img/images/game/tetralink/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=tetralink"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/tetralink/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
-<table><tr><td class="name">Échecs</td></tr></table>
+<table><tr><td class="name">ï¿½checs</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/chess/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/chess/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=strategy">Stratégie</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=chess"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/chess/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/chess/play.ws"><img src="../../l=2/a=119/img/images/game/chess/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=chess"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/chess/play.ws">Jouer</a>
 </li>
 <li>
 <div class="table">
 <table><tr><td class="name">Billard</td></tr></table>
 </div>
-<a onclick="suffixize(this)" class="thumbLink" href="http://www.funorb.com/l=2/a=119/pool/play.ws"><img src="http://www.funorb.com/l=2/a=119/img/images/game/pool/small.jpg" width="95" height="70" alt=""></a>
-<div class="genre"><a href="http://www.funorb.com/l=2/a=119/gamelist.ws?genreBox=sport">Sport</a></div>
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=119/info.ws?game=pool"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=119/pool/play.ws">Jouer</a>
+<a onclick="suffixize(this)" class="thumbLink" href="../../l=2/a=119/pool/play.ws"><img src="../../l=2/a=119/img/images/game/pool/small.jpg" width="95" height="70" alt=""></a>
+<div class="genre"><a href="../../l=2/a=119/gamelist.ws?genreBox=sport">Sport</a></div>
+<a class="buttonInfo" href="../../l=2/a=119/info.ws?game=pool"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../l=2/a=119/pool/play.ws">Jouer</a>
 </li>
 </ul>
 
@@ -562,17 +562,17 @@ Nouveautés
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter">Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=119/index.ws"><img alt="English" src="http://www.funorb.com/l=2/a=119/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=119/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/a=119/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=119/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=119/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=119/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/a=119/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter">Choisissez votre langue :&nbsp; <a href="../../a=119/index.ws"><img alt="English" src="../../l=2/a=119/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=119/index.ws"><img alt="Deutsch" src="../../l=2/a=119/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=119/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/a=119/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=119/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/a=119/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p>Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays.</p>
-<p>Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=119/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=119/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>.</p>
+<p>Copyright ï¿½ 2009 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays.</p>
+<p>Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/a=119/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/a=119/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>.</p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/a=119/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/a=119/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

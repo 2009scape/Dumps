@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/a=84/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -44,12 +44,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=84/css/info-2.css");/**/
+ /*\*/@import url("../../l=1/a=84/css/info-2.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/intro.jpg);
+  background-image: url(../../l=1/a=84/img/images/game/crazycrystals/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/a=84/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=1/a=84/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -61,10 +61,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen4.jpg';
+images[0] = '../../l=1/a=84/img/images/game/crazycrystals/screen1.jpg';
+images[1] = '../../l=1/a=84/img/images/game/crazycrystals/screen2.jpg';
+images[2] = '../../l=1/a=84/img/images/game/crazycrystals/screen3.jpg';
+images[3] = '../../l=1/a=84/img/images/game/crazycrystals/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -128,7 +128,7 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -141,15 +141,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -157,8 +157,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -167,33 +167,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=crazycrystals" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=crazycrystals" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../a=84/index.ws"><img src="../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../l=1/a=84/index.ws"><img src="../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -209,13 +209,13 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=84/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=84/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=84/crazycrystals/play.ws">Verrückte Kristalle</a> &gt;
+<a href="../../l=1/a=84/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=84/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
+<a name="link0" id="link0" href="../../l=1/a=84/crazycrystals/play.ws">Verrï¿½ckte Kristalle</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=84/crazycrystals/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=84/crazycrystals/serverlist.ws">Serverliste</a>
 </span>
 </div>
 </div>
@@ -227,12 +227,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=84/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Bei diesem steinharten Puzzlespiel werdet ihr Kristallen nachlaufen. </div>
+<a href="../../l=1/a=84/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Bei diesem steinharten Puzzlespiel werdet ihr Kristallen nachlaufen. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/a=84/"><div>Kontoerstellung</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=84/crazycrystals/play.ws"></a>
+<a name="link1" id="link1" class="buttonPlayBig" href="../../l=1/a=84/crazycrystals/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
@@ -243,23 +243,23 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/a=84/img/images/game/crazycrystals/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen1_thumb.jpg);">
+<a href="../../l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/a=84/img/images/game/crazycrystals/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen2_thumb.jpg);">
+<a href="../../l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/a=84/img/images/game/crazycrystals/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen3_thumb.jpg);">
+<a href="../../l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/a=84/img/images/game/crazycrystals/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/crazycrystals/screen4_thumb.jpg);">
+<a href="../../l=1/a=84/display_screenshot.ws?dirname=crazycrystals&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/a=84/img/images/game/crazycrystals/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -269,7 +269,7 @@ Mehr Infos </span>
 <a name="benefits"></a>
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
-<div class="subsectionTitle">Verrückte Kristalle Mitglieder-Vorteile</div>
+<div class="subsectionTitle">Verrï¿½ckte Kristalle Mitglieder-Vorteile</div>
 </div>
 <div class="subsectionContent">
 <div class="benefitsPadding"></div>
@@ -278,14 +278,14 @@ Mehr Infos </span>
 <ul>
 <li>40+ Einzelspieler-Puzzles</li>
 <li>12 anspruchsvolle Zweispieler-Puzzle</li>
-<li>5 verrückte Dreispieler-Puzzle</li>
+<li>5 verrï¿½ckte Dreispieler-Puzzle</li>
 <li>25 wilde Arcade-Level</li>
-<li>Unzählige Extra-Erfolge</li>
+<li>Unzï¿½hlige Extra-Erfolge</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -298,8 +298,8 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Verrückte Kristalle ist ein teuflisch schweres Puzzlespiel bei dem ihr alle Kristalle in einem Level aufsammeln müsst. Das hört sich einfach an? Das ist es aber ganz und gar nicht. Auf euch herunterfallende Steine sind dabei das kleinste Problem. Ihr müsst euch mit Bomben, Spinnen, Sprungbällen, Klebebällen, Lasern, Spiegeln und den wahnsinnigsten Leveln beschäftigen, die jemals erfunden wurden.</p>
-<p>Das Spiel bietet über 100 Level, die in Einzel-, Zwei-, Dreispieler- und Arcade-Modi aufgeteilt sind. Das Spiel wird also sowohl Puzzle-Neulinge als auch die Profi-Knobler unter euch für Monate beschäftigen.</p>
+<p>Verrï¿½ckte Kristalle ist ein teuflisch schweres Puzzlespiel bei dem ihr alle Kristalle in einem Level aufsammeln mï¿½sst. Das hï¿½rt sich einfach an? Das ist es aber ganz und gar nicht. Auf euch herunterfallende Steine sind dabei das kleinste Problem. Ihr mï¿½sst euch mit Bomben, Spinnen, Sprungbï¿½llen, Klebebï¿½llen, Lasern, Spiegeln und den wahnsinnigsten Leveln beschï¿½ftigen, die jemals erfunden wurden.</p>
+<p>Das Spiel bietet ï¿½ber 100 Level, die in Einzel-, Zwei-, Dreispieler- und Arcade-Modi aufgeteilt sind. Das Spiel wird also sowohl Puzzle-Neulinge als auch die Profi-Knobler unter euch fï¿½r Monate beschï¿½ftigen.</p>
 </div>
 </div>
 </div>
@@ -316,7 +316,7 @@ Mehr Infos </span>
 <li><a href="#faqs_q1">Ist das Spiel wirklich so schwierig?</a></li>
 <li><a href="#faqs_q2">Wie kann ich meine Spielfigur besser kontrollieren?</a></li>
 <li><a href="#faqs_q3">Wie werden Bonuspunkte berechnet?</a></li>
-<li><a href="#faqs_q4">Kann ich die Mehrspieler-Level über das Internet spielen?</a></li>
+<li><a href="#faqs_q4">Kann ich die Mehrspieler-Level ï¿½ber das Internet spielen?</a></li>
 <li><a href="#faqs_q5">Welchen Zweck haben die einzelnen Objekte im Spiel?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
@@ -324,40 +324,40 @@ Mehr Infos </span>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Ist das Spiel wirklich so schwierig?</h3>
-<p>Die kurze Antwort lautet: ja! Die Einzelspieler-Puzzle sind nach Schwierigkeitsgrad geordnet, sodass man die Feinheiten des Spiels leicht erlernen kann. Wenn euch ein Level zu schwierig wird, dann könnt ihr einfach einen vorherigen Level noch mal spielen. Dabei werdet ihr an Tricks erinnert, die euch bei der Lösung des schwierigen Levels helfen können. Ihr könnt auch die Arcade-Level oder die Zwei- beziehungsweise Dreispieler-Level spielen.</p>
+<p>Die kurze Antwort lautet: ja! Die Einzelspieler-Puzzle sind nach Schwierigkeitsgrad geordnet, sodass man die Feinheiten des Spiels leicht erlernen kann. Wenn euch ein Level zu schwierig wird, dann kï¿½nnt ihr einfach einen vorherigen Level noch mal spielen. Dabei werdet ihr an Tricks erinnert, die euch bei der Lï¿½sung des schwierigen Levels helfen kï¿½nnen. Ihr kï¿½nnt auch die Arcade-Level oder die Zwei- beziehungsweise Dreispieler-Level spielen.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Wie kann ich meine Spielfigur besser kontrollieren?</h3>
-<p>Eure Spielfigur hält nur in der Mitte eines Felds an, ihr müsst also die Taste einfach nur früh genug loslassen, wenn ihr zu weit lauft. Ein kurzer Tastendruck bewegt die Figur genau um ein Feld.</p>
-<p>Ihr könnt auch zwei Steuerungstasten drücken und eure Figur wird sich dann in die Richtung bewegen, die verfügbar ist. Somit könnt ihr euch schnell durch Korridore bewegen, wenn beispielsweise eine Spinne hinter euch her ist.</p>
-<p>Ihr könnt auch in einen Ball hineinlaufen, solange er sich nicht in eure Richtung bewegt. Eure Figur wird sich dann in das Feld stellen, sobald der Ball es verlassen hat. Das ist nützlich, wenn ich euch an einer engen Stelle befindet, da ihr dann das Timing nicht genau abstimmen müsst.</p>
+<p>Eure Spielfigur hï¿½lt nur in der Mitte eines Felds an, ihr mï¿½sst also die Taste einfach nur frï¿½h genug loslassen, wenn ihr zu weit lauft. Ein kurzer Tastendruck bewegt die Figur genau um ein Feld.</p>
+<p>Ihr kï¿½nnt auch zwei Steuerungstasten drï¿½cken und eure Figur wird sich dann in die Richtung bewegen, die verfï¿½gbar ist. Somit kï¿½nnt ihr euch schnell durch Korridore bewegen, wenn beispielsweise eine Spinne hinter euch her ist.</p>
+<p>Ihr kï¿½nnt auch in einen Ball hineinlaufen, solange er sich nicht in eure Richtung bewegt. Eure Figur wird sich dann in das Feld stellen, sobald der Ball es verlassen hat. Das ist nï¿½tzlich, wenn ich euch an einer engen Stelle befindet, da ihr dann das Timing nicht genau abstimmen mï¿½sst.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Wie werden Bonuspunkte berechnet?</h3>
-<p>Punkte erhaltet ihr durch das Sammeln von Kristallen, dem Zünden von Bomben, dem Öffnen von Safes und dem Töten von Spinnen. Dein Charakter muss daran teilgenommen haben, um Punkte zu bekommen. Falls ein Level so gebaut wurde, dass eine Spinne getötet wird, ohne dass ihr euch aktiv daran beteiligen müsst, erhaltet ihr dafür auch keine Punkte. Somit können wir in Zwei- oder Dreispieler-Leveln eine gerechte Verteilung der Punkte garantieren.</p>
-<p>Außerdem erhaltet ihr Bonuspunkte für Aktionen wie dem Töten aller Spinnen oder dem Zünden aller Bomben. Um alle diese Boni zu erhalten, müsst ihr diese Ziele erreichen, bevor ihr den letzten Kristall in einem Level einsammelt. Bei Zwei- und Dreispieler-Bonus gibt es einen 'Überlebt'-Bonus, den ihr erhaltet, wenn eure Figur nach dem Einsammeln des letzten Kristalls noch lebt.</p>
+<p>Punkte erhaltet ihr durch das Sammeln von Kristallen, dem Zï¿½nden von Bomben, dem ï¿½ffnen von Safes und dem Tï¿½ten von Spinnen. Dein Charakter muss daran teilgenommen haben, um Punkte zu bekommen. Falls ein Level so gebaut wurde, dass eine Spinne getï¿½tet wird, ohne dass ihr euch aktiv daran beteiligen mï¿½sst, erhaltet ihr dafï¿½r auch keine Punkte. Somit kï¿½nnen wir in Zwei- oder Dreispieler-Leveln eine gerechte Verteilung der Punkte garantieren.</p>
+<p>Auï¿½erdem erhaltet ihr Bonuspunkte fï¿½r Aktionen wie dem Tï¿½ten aller Spinnen oder dem Zï¿½nden aller Bomben. Um alle diese Boni zu erhalten, mï¿½sst ihr diese Ziele erreichen, bevor ihr den letzten Kristall in einem Level einsammelt. Bei Zwei- und Dreispieler-Bonus gibt es einen 'ï¿½berlebt'-Bonus, den ihr erhaltet, wenn eure Figur nach dem Einsammeln des letzten Kristalls noch lebt.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. Kann ich die Mehrspieler-Level über das Internet spielen?</h3>
-<p>Leider nein. Die Mehrspieler-Level sind zusammen an einem Rechner spielbar. Ihr müsst also mit euren Freunden an einer Tastatur spielen.</p>
+<h3>4. Kann ich die Mehrspieler-Level ï¿½ber das Internet spielen?</h3>
+<p>Leider nein. Die Mehrspieler-Level sind zusammen an einem Rechner spielbar. Ihr mï¿½sst also mit euren Freunden an einer Tastatur spielen.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Welchen Zweck haben die einzelnen Objekte im Spiel?</h3>
-<p>Falls ihr ein Objekt noch nie zuvor gesehen habt, müsst ihr es nur anklicken und erhaltet dann eine Erklärung an der rechten Seite des Spielfensters.</p>
+<p>Falls ihr ein Objekt noch nie zuvor gesehen habt, mï¿½sst ihr es nur anklicken und erhaltet dann eine Erklï¿½rung an der rechten Seite des Spielfensters.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<br> Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen. <br><br>
-<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden. <br><br>
-<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
+<br> Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen. <br><br>
+<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden. <br><br>
+<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -371,11 +371,11 @@ Mehr Infos </span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

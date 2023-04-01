@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Objetos do jogo só devem ser trocados por objetos/serviços no jogo.">
+<meta name="description" content="Objetos do jogo sï¿½ devem ser trocados por objetos/serviï¿½os no jogo.">
 </head>
 <body id="navnavHelp">
 <a name="top"></a>
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_12_real_world_item_trading" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_12_real_world_item_trading" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/index.ws">
+<a id="countrydrop" href="../../l=3/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -146,7 +146,7 @@ http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> &gt; Regra 12 - Comércio de objetos do mundo real</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> &gt; Regra 12 - Comï¿½rcio de objetos do mundo real</span>
 
 
 </div>
@@ -156,56 +156,56 @@ http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
 <div class="sectionBackground">
 <div class="sectionContent" >
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Regra 12 - Comércio de objetos do mundo real</h1>
+<h1 class="articleTitle">Regra 12 - Comï¿½rcio de objetos do mundo real</h1>
 <div class="articleBody">
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Data de vigência: 27 de fevereiro de 2008</div>
-<br> Itens de jogos devem ser trocados por outros itens/serviços durante o jogo. Não é permitido trocar itens de jogo por itens ou outros benefícios de outros jogos on-line, dinheiro em espécie ou outros benefícios reais <br>
+<div style="font-weight:bold;" class="effectivedate">Data de vigï¿½ncia: 27 de fevereiro de 2008</div>
+<br> Itens de jogos devem ser trocados por outros itens/serviï¿½os durante o jogo. Nï¿½o ï¿½ permitido trocar itens de jogo por itens ou outros benefï¿½cios de outros jogos on-line, dinheiro em espï¿½cie ou outros benefï¿½cios reais <br>
 <br>
 <div class="hr"></div>
-<b>Questões relacionadas</b><br> Abaixo estão algumas questões relacionadas que podem ajudar a entender e seguir esta regra.<br>
+<b>Questï¿½es relacionadas</b><br> Abaixo estï¿½o algumas questï¿½es relacionadas que podem ajudar a entender e seguir esta regra.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Por que temos esta regra? </a>
-<li><a href="#items">Não sou eu quem deve decidir o que fazer com meus itens e minha conta? </a>
-<li><a href="#ebay">Vi uma conta à venda no Ebay; o que devo fazer? </a>
-<li><a href="#forum">Posso aceitar a assinatura de um fórum como pagamento de um item? </a>
+<li><a href="#items">Nï¿½o sou eu quem deve decidir o que fazer com meus itens e minha conta? </a>
+<li><a href="#ebay">Vi uma conta ï¿½ venda no Ebay; o que devo fazer? </a>
+<li><a href="#forum">Posso aceitar a assinatura de um fï¿½rum como pagamento de um item? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Por que temos esta regra? </span><br><br> Temos esta regra por três motivos: Primeiramente, porque não queremos que você possa comprar a maneira de obter sucesso em nossos jogos. Se permitirmos que os jogadores comecem a fazer isso, nossos jogos serão desvalorizados para outros jogadores. Sentimos que sua condição na vida real não afeta sua habilidade no jogo. Em segundo lugar, não podemos monitorar as transações entre jogadores fora do jogo. E se os jogadores trocam itens por benefícios externos que não conseguimos ver, acreditamos que isso seja semelhante a um comércio suspeito sem equilíbrio. Em terceiro lugar, sempre que jogadores tentam violar esta regra e vendam itens por dinheiro em espécie, os itens são, na verdade, roubados; portanto, você pode acabar tendo problemas por adquirir propriedade roubada. Se você comprou uma conta, ela poderá ser, de uma hora para outra, devolvida ao proprietário original e você é que arcará com o prejuízo. <br><br>
+<span class="title">1. Por que temos esta regra? </span><br><br> Temos esta regra por trï¿½s motivos: Primeiramente, porque nï¿½o queremos que vocï¿½ possa comprar a maneira de obter sucesso em nossos jogos. Se permitirmos que os jogadores comecem a fazer isso, nossos jogos serï¿½o desvalorizados para outros jogadores. Sentimos que sua condiï¿½ï¿½o na vida real nï¿½o afeta sua habilidade no jogo. Em segundo lugar, nï¿½o podemos monitorar as transaï¿½ï¿½es entre jogadores fora do jogo. E se os jogadores trocam itens por benefï¿½cios externos que nï¿½o conseguimos ver, acreditamos que isso seja semelhante a um comï¿½rcio suspeito sem equilï¿½brio. Em terceiro lugar, sempre que jogadores tentam violar esta regra e vendam itens por dinheiro em espï¿½cie, os itens sï¿½o, na verdade, roubados; portanto, vocï¿½ pode acabar tendo problemas por adquirir propriedade roubada. Se vocï¿½ comprou uma conta, ela poderï¿½ ser, de uma hora para outra, devolvida ao proprietï¿½rio original e vocï¿½ ï¿½ que arcarï¿½ com o prejuï¿½zo. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="items"></a>
-<span class="title">2. Não sou eu quem deve decidir o que fazer com meus itens e minha conta? </span><br><br> Não, os termos e as condições declaram que seu personagem, conta e itens são, e continuarão sendo, propriedade da Jagex. <br><br>
+<span class="title">2. Nï¿½o sou eu quem deve decidir o que fazer com meus itens e minha conta? </span><br><br> Nï¿½o, os termos e as condiï¿½ï¿½es declaram que seu personagem, conta e itens sï¿½o, e continuarï¿½o sendo, propriedade da Jagex. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="ebay"></a>
-<span class="title">3. Vi uma conta à venda no Ebay; o que devo fazer? </span><br><br> Tenha a certeza de que membros da equipe Jagex verificam diariamente todos os sites de leilão conhecidos para garantir que nenhuma conta seja vendida por meio de websites de leilão on-line. Lembramos que todas as contas (e itens) serão propriedade permanente da Jagex e não hesitaremos em remover tais itens de nossos jogos se tivermos indícios de que houve violação de regras. <br><br>
+<span class="title">3. Vi uma conta ï¿½ venda no Ebay; o que devo fazer? </span><br><br> Tenha a certeza de que membros da equipe Jagex verificam diariamente todos os sites de leilï¿½o conhecidos para garantir que nenhuma conta seja vendida por meio de websites de leilï¿½o on-line. Lembramos que todas as contas (e itens) serï¿½o propriedade permanente da Jagex e nï¿½o hesitaremos em remover tais itens de nossos jogos se tivermos indï¿½cios de que houve violaï¿½ï¿½o de regras. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="forum"></a>
-<span class="title">4. Posso aceitar a assinatura de um fórum como pagamento de um item? </span><br><br> As assinaturas de fóruns não são itens ou serviços de jogo; portanto, você não poderá aceitá-las como pagamento de um item. <br><br>
-<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Não toleraremos jogadores que atrapalham, e, se você violar nossas regras, provavelmente sua conta será suspensa. Membros suspensos por violar nossas regras não têm direito a nenhum tipo de reembolso.</i></p>
+<span class="title">4. Posso aceitar a assinatura de um fï¿½rum como pagamento de um item? </span><br><br> As assinaturas de fï¿½runs nï¿½o sï¿½o itens ou serviï¿½os de jogo; portanto, vocï¿½ nï¿½o poderï¿½ aceitï¿½-las como pagamento de um item. <br><br>
+<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Nï¿½o toleraremos jogadores que atrapalham, e, se vocï¿½ violar nossas regras, provavelmente sua conta serï¿½ suspensa. Membros suspensos por violar nossas regras nï¿½o tï¿½m direito a nenhum tipo de reembolso.</i></p>
 </div>
 <br style="clear: both;">
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Mais artigos em <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=18">Regra 10 - Uso impróprio do Suporte ao Cliente</a>, <a href="viewarticle.ws?article_id=44">Regra 11 - Propaganda/Website</a>, Regra 12 - Comércio de objetos do mundo real, <a href="viewarticle.ws?article_id=34">Regra 13 - Dados pessoais</a>, <a href="viewarticle.ws?article_id=38">Regra 14 - Uso inadequado dos fóruns oficiais</a></span>
+<a href="viewarticle.ws?article_id=18">Regra 10 - Uso imprï¿½prio do Suporte ao Cliente</a>, <a href="viewarticle.ws?article_id=44">Regra 11 - Propaganda/Website</a>, Regra 12 - Comï¿½rcio de objetos do mundo real, <a href="viewarticle.ws?article_id=34">Regra 13 - Dados pessoais</a>, <a href="viewarticle.ws?article_id=38">Regra 14 - Uso inadequado dos fï¿½runs oficiais</a></span>
 </div>
 </div>
 </div>
@@ -216,17 +216,17 @@ http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

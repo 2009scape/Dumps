@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/a=23/g=zombiedawnmulti/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/a=23/g=zombiedawnmulti/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../../l=1/a=23/g=zombiedawnmulti/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../../l=1/a=23/g=zombiedawnmulti/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=23/css/global-43.css);/**/
+  /*\*/@import url(../../../../l=1/a=23/css/global-43.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=1/a=23/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=23/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../../l=1/a=23/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -56,15 +56,15 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../../l=1/a=23/g=zombiedawnmulti/index.ws" ><b>
+<img src="../../../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/a=23/g=zombiedawnmulti/messengercommon0.js"></script>
@@ -75,15 +75,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../../l=1/a=23/g=zombiedawnmulti/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../../l=1/a=23/g=zombiedawnmulti/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,9 +92,9 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=1/a=23/g=zombiedawnmulti/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -105,23 +105,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/a=23/g=zombiedawnmulti/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/a=23/g=zombiedawnmulti/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/a=23/g=zombiedawnmulti/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/a=23/g=zombiedawnmulti/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/a=23/g=zombiedawnmulti/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../../../l=1/a=23/g=zombiedawnmulti/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -130,28 +130,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=23/g=zombiedawnmulti/forums.ws" c
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/a=23/g=zombiedawnmulti/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/index.ws">
+<a id="countrydrop" href="../../../../l=1/a=23/g=zombiedawnmulti/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=23/g=zombiedawnmulti/index.ws"><img title="
+<li><a class="fly" href="../../../../a=23/g=zombiedawnmulti/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/index.ws"><img title="
+English" src="../../../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../../l=1/a=23/g=zombiedawnmulti/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=23/g=zombiedawnmulti/index.ws"><img title="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../../l=2/a=23/g=zombiedawnmulti/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=23/g=zombiedawnmulti/index.ws"><img title="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../../l=3/a=23/g=zombiedawnmulti/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -167,7 +167,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Geschäftsbedingungen
+Geschï¿½ftsbedingungen
 
 </div>
 </div>
@@ -178,12 +178,12 @@ Geschäftsbedingungen
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Frankreich gelebt haben und es am oder nach dem 20. August 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=74">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Deutschland gelebt haben und es am oder nach dem 14. Februar 2007 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=56">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Brasilien gelebt haben und es am oder nach dem 18. November 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=31">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Frankreich gelebt haben und es am oder nach dem 20. August 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=74">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Deutschland gelebt haben und es am oder nach dem 14. Februar 2007 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=56">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Brasilien gelebt haben und es am oder nach dem 18. November 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=31">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
 <hr/>
 
-<p align=right>Gültig ab: 19. Januar 2010</p>
+<p align=right>Gï¿½ltig ab: 19. Januar 2010</p>
 <p>
 <b>
 Terms &amp; Conditions</b></p>
@@ -200,7 +200,7 @@ Definitions</b><br/>
 <b>
 Applicability</b><br/>
 Please read these terms and conditions carefully. Your accepting them in full is a condition of your use of a Jagex product (whether or not you subscribe). If you don't agree with any part, please don't accept them or use the Jagex product.</p>
-<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="http://www.funorb.com/l=1/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
+<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="../../../../l=1/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
 <p>
 <b>
 Changes</b><br/>
@@ -216,21 +216,21 @@ If you are under 13 you will be able to create an account but unable to disclose
 <p>
 <b>
 Safety / abuse</b><br/>
-Before using any Jagex Product you should read the guides found in our <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/safety_and_security_guidelines">Safety &amp; Security Guidelines</a>. It is particularly important to read the <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/play_safely">Play Safely Guide</a> and the
-<a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/play_safely#warning">Health &amp; Safety Guide</a>.
+Before using any Jagex Product you should read the guides found in our <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/safety_and_security_guidelines">Safety &amp; Security Guidelines</a>. It is particularly important to read the <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/play_safely">Play Safely Guide</a> and the
+<a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/play_safely#warning">Health &amp; Safety Guide</a>.
 Parents should review our safety materials in the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/safety.ws" target="_blank">Player Safety</a> section of the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/parents_guide.ws" target="_blank">Parents' Guide</a>.</p>
 <p>Whilst we reserve the right to monitor and take action if any Jagex Product is used inappropriately (including the posting of objectionable material on the chat facility or otherwise), we cannot promise that any Jagex Product won't contain such content or that we will remove / modify any particular content. Nor can we guarantee that users will comply with our terms and conditions or otherwise behave appropriately.</p>
-<p>If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/how_do_i_report_abuse">"Report abuse"</a> button as well as seeking appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
+<p>If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/how_do_i_report_abuse">"Report abuse"</a> button as well as seeking appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
 <p>
 <b>
 Your account</b><br/>
 To use many features of Jagex Products, we require you to create an account. We grant valid account holders a non-exclusive, non-transferable license for the period of membership to use Jagex Products and to download and use our client software and connect to our servers solely to use Jagex Products in accordance with these terms and conditions.</p>
 <p>You must not choose a username that infringes the rights of any third party, impersonates Jagex staff or other users, which is deliberately confusing or which is offensive, racist, obscene, hurtful, unlawful or otherwise inappropriate or which breaches the username requirements specified on our site or our Rules of Conduct. We reserve the right to make such assessment in our sole discretion, change any username for any reason or take such other action as we believe appropriate.</p>
-<p>You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/safety_and_security_guidelines">click here</a>.</p>
+<p>You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/safety_and_security_guidelines">click here</a>.</p>
 <p>
 <b>
 Rules</b><br/>
-You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/rules_of_conduct">linked to here</a>.</p>
+You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/rules_of_conduct">linked to here</a>.</p>
 <p>
 <b>
 Our rights</b><br/>
@@ -239,7 +239,7 @@ If, acting reasonably, we consider that our Terms and Conditions have or may hav
 <p>
 <b>
 Intellectual property rights</b><br/>
-Jagex®, RuneScape® and FunOrb® are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries.</p>
+Jagexï¿½, RuneScapeï¿½ and FunOrbï¿½ are registered trade marks of Jagex Limited in the United Kingdom, the United States and other countries.</p>
 <p>You must not reverse-engineer, decompile or modify any Jagex Product client software in any way (except to the extent allowed by applicable law). You must not use a modified/customised version of the client software or attempt to sub-license it. You must not create or provide any other means by which any Jagex Product may be played by others (including, without limitation, replacement or modified client/server software, server emulators).</p>
 <p>Materials (including without limit all information, software, data, text, photographs, graphics, sound and video) placed on any Jagex Product by us or on our behalf are protected by copyright and other intellectual property rights of ourselves or our business partners / suppliers / advertisers. You may not use these materials or any Jagex Product except in accordance with these terms and conditions and for personal (i.e. non-commercial) use only.</p>
 <p>You agree that all intellectual property or other rights in any game character, account and items are and will remain our property.</p>
@@ -251,7 +251,7 @@ Subscription</b><br/>
 You need a subscription to use certain features of Jagex Products. If you apply for a subscription, you must ensure all the information that you submit is true and accurate (including without limit your credit card number and expiration date, and other payment details) and that you have appropriate parental or guardian consent as applicable. You agree to pay all subscription fees specified when you apply including all applicable taxes. Unless otherwise stated, all prices shown for EU countries include VAT.</p>
 <p>By submitting your order you are making an offer to subscribe to the relevant part of the Jagex Product(s). Your offer is accepted and a binding contract occurs when we send a message to your account mail inbox confirming that your payment has been received or if you log into a subscribers-only part of a Jagex Product (whichever comes first).</p>
 <p><u>All subscription payments will continue to be taken in advance at the relevant intervals (e.g. monthly in the case of monthly subscriptions) until you cancel your subscription (see below).</u></p>
-<p>Payments by credit cards are also subject to our <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/kbase/guid/credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
+<p>Payments by credit cards are also subject to our <a href="../../../../l=1/a=23/g=zombiedawnmulti/kbase/guid/credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
 <p>We reserve the right to alter the amount or terms of our subscription fees at any time. This will only apply to those who, following the change, take out new subscriptions or re-subscribe (their previous subscriptions having expired) and specifically agree to the new fees / terms.</p>
 <p>We reserve the right to charge you for any unauthorized use of your subscription by third parties.</p>
 <p>
@@ -259,7 +259,7 @@ You need a subscription to use certain features of Jagex Products. If you apply 
 Cancellation by you</b><br/>
 You may cancel your subscription at any time by <a href="https://secure.funorb.com/m=billing_core/l=1/a=23/g=zombiedawnmulti/unsubscribe.ws">clicking here</a> or selecting the "Cancel Subscription" link from the account management section on the website of any Jagex Product.</p>
 <p>Upon cancellation you will not be charged any further subscription fees. No payments already made will be refunded (wholly or partly) but you can of course use up any unused membership credit in the account.</p>
-<p>For important information about the legal cancellation rights of EU consumers, please <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/terms/eu.ws">click here</a>.</p>
+<p>For important information about the legal cancellation rights of EU consumers, please <a href="../../../../l=1/a=23/g=zombiedawnmulti/terms/eu.ws">click here</a>.</p>
 <p>
 <b>
 JCredits</b><br/>
@@ -305,7 +305,7 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -317,25 +317,25 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=23/g=zombiedawnmulti/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../../a=23/g=zombiedawnmulti/index.ws"><img alt="
+English" src="../../../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../../../l=1/a=23/g=zombiedawnmulti/index.ws"><img alt="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=23/g=zombiedawnmulti/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../../../l=2/a=23/g=zombiedawnmulti/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=23/g=zombiedawnmulti/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../../../l=3/a=23/g=zombiedawnmulti/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2010 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=23/g=zombiedawnmulti/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../../l=1/a=23/g=zombiedawnmulti/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../../l=1/a=23/g=zombiedawnmulti/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/a=23/g=zombiedawnmulti/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/a=23/g=zombiedawnmulti/" target="_blank"><img src="../../../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

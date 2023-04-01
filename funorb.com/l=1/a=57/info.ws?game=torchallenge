@@ -9,7 +9,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
@@ -20,12 +20,12 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=57/css/global-8.css);/**/
+  /*\*/@import url(../../l=1/a=57/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=57/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=57/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=57/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/a=57/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -41,12 +41,12 @@ de">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=57/css/info-3.css");/**/
+ /*\*/@import url("../../l=1/a=57/css/info-3.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/intro.jpg);
+  background-image: url(../../l=1/a=57/img/images/game/torchallenge/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/a=57/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=1/a=57/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -58,10 +58,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen4.jpg';
+images[0] = '../../l=1/a=57/img/images/game/torchallenge/screen1.jpg';
+images[1] = '../../l=1/a=57/img/images/game/torchallenge/screen2.jpg';
+images[2] = '../../l=1/a=57/img/images/game/torchallenge/screen3.jpg';
+images[3] = '../../l=1/a=57/img/images/game/torchallenge/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -125,13 +125,13 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=57/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=1/a=57/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=57/messengercommon0.js"></script>
@@ -142,15 +142,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=57/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=57/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=57/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=57/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/a=57/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -158,8 +158,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=57/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=57/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -169,40 +169,40 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=1/a=57/" class="fly">Community-Startseite</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=57/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/a=57/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://orbcoins.funorb.com/l=1/a=57/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=57/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=57/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/a=57/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=57/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=57/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=torchallenge" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/a=57/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=torchallenge" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=57/index.ws">
-<img alt="Englisch" src="http://www.funorb.com/l=1/a=57/img/images/layout/en.gif">
+<a href="../../a=57/index.ws">
+<img alt="Englisch" src="../../l=1/a=57/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=57/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/l=1/a=57/img/images/layout/de.gif">
+<a href="../../l=1/a=57/index.ws">
+<img alt="Deutsch" src="../../l=1/a=57/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=57/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=57/img/images/layout/fr.gif">
+<a href="../../l=2/a=57/index.ws">
+<img alt="Fran&ccedil;ais" src="../../l=1/a=57/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -219,13 +219,13 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws?genreBox=platform">Plattform</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=57/torchallenge/play.ws">Der Turm</a> &gt;
+<a href="../../l=1/a=57/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=57/gamelist.ws?genreBox=platform">Plattform</a> &gt;
+<a name="link0" id="link0" href="../../l=1/a=57/torchallenge/play.ws">Der Turm</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=57/torchallenge/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=57/torchallenge/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -238,12 +238,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws?genreBox=platform"><span class="genre">Plattform</span></a><br> Erklimm hohe Türme und bezwing die Meistermönche, die zwischen dir und deiner Erleuchtung stehen. </div>
+<a href="../../l=1/a=57/gamelist.ws?genreBox=platform"><span class="genre">Plattform</span></a><br> Erklimm hohe Tï¿½rme und bezwing die Meistermï¿½nche, die zwischen dir und deiner Erleuchtung stehen. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/a=57/"><div>Kontoerstellung</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=57/torchallenge/play.ws"></a>
+<a name="link1" id="link1" class="buttonPlayBig" href="../../l=1/a=57/torchallenge/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
@@ -254,23 +254,23 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/a=57/img/images/game/torchallenge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen1_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/torchallenge/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen2_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/torchallenge/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen3_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/torchallenge/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/torchallenge/screen4_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=torchallenge&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/torchallenge/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -287,16 +287,16 @@ Mehr Infos </span>
 <div class="benefitsContent">
 <div class="benefitsList">
 <ul>
-<li>Kämpf dich durch 4 weitere Türme</li>
-<li>Stell dich allen 3 Meistermönchen</li>
+<li>Kï¿½mpf dich durch 4 weitere Tï¿½rme</li>
+<li>Stell dich allen 3 Meistermï¿½nchen</li>
 <li>Sammle 20 weitere Siegel</li>
-<li>Entdeck die mysteriösen Jade-Münzen</li>
-<li>Unzählige Extra-Erfolge</li>
+<li>Entdeck die mysteriï¿½sen Jade-Mï¿½nzen</li>
+<li>Unzï¿½hlige Extra-Erfolge</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -309,7 +309,7 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Die frischgebackenen Mönche Henhui, Ziren und Damin müssen sich sechs Türme hochkämpfen. In jedem Turm gibt es fünf mystische Siegel, über welche die Mönche ihre Erleuchtung erreichen können. Nur unter Aufbietung all ihrer Geschicklichkeit und ihrer einzigartigen Kampftechniken können die Novizen die mystischen Kreaturen und Meistermönche besiegen, die in den Türmen lauern.</p>
+<p>Die frischgebackenen Mï¿½nche Henhui, Ziren und Damin mï¿½ssen sich sechs Tï¿½rme hochkï¿½mpfen. In jedem Turm gibt es fï¿½nf mystische Siegel, ï¿½ber welche die Mï¿½nche ihre Erleuchtung erreichen kï¿½nnen. Nur unter Aufbietung all ihrer Geschicklichkeit und ihrer einzigartigen Kampftechniken kï¿½nnen die Novizen die mystischen Kreaturen und Meistermï¿½nche besiegen, die in den Tï¿½rmen lauern.</p>
 </div>
 </div>
 </div>
@@ -324,51 +324,51 @@ Mehr Infos </span>
 <div class="faqsList">
 <ol>
 <li><a href="#faqs_q1">Was passiert nach meinem Tod mit den Siegeln, dich ich gesammelt habe?</a></li>
-<li><a href="#faqs_q2">Welcher Mönch ist der beste?</a></li>
-<li><a href="#faqs_q3">Ich werde mit den vielen Gegnern in den späteren Türmen nicht mehr fertig.</a></li>
+<li><a href="#faqs_q2">Welcher Mï¿½nch ist der beste?</a></li>
+<li><a href="#faqs_q3">Ich werde mit den vielen Gegnern in den spï¿½teren Tï¿½rmen nicht mehr fertig.</a></li>
 <li><a href="#faqs_q4">Was soll ich machen, wenn ich nicht alle Siegel in einem Turm finde?</a></li>
-<li><a href="#faqs_q5">Warum werden die Siegel, die ich mit einem Mönch gesammelt habe, nicht angezeigt, wenn ich einen anderen spiele?</a></li>
+<li><a href="#faqs_q5">Warum werden die Siegel, die ich mit einem Mï¿½nch gesammelt habe, nicht angezeigt, wenn ich einen anderen spiele?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Was passiert nach meinem Tod mit den Siegeln, dich ich gesammelt habe?</h3>
-<p>Wenn du alle deine Leben verlierst oder das Spiel verlässt, bevor du das Level vollendet hast, werden die gesammelten Siegel gespeichert.</p>
+<p>Wenn du alle deine Leben verlierst oder das Spiel verlï¿½sst, bevor du das Level vollendet hast, werden die gesammelten Siegel gespeichert.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Welcher Mönch ist der beste?</h3>
-<p>Jeder Mönch hat eine andere Kampftechnik und individuelle Stärken und Schwächen: <ul>
-<li>Henhui ist ein Alleskönner. Er ist geschickt und stark. Sein Sturmangriff pustet ihm den Weg frei.</li>
-<li>Ziren ist schnell und geschickt, aber ihre Angriffe sind schwächer. Mit ihrem Luftangriff kann man die ahnungslosen Gegner überraschen.</li>
-<li>Damin ist langsam, aber mächtig. Sein Sturmangriff ist ein durchschlagender Erfolg und bringt die Gegner aus dem Gleichgewicht.</li>
+<h3>2. Welcher Mï¿½nch ist der beste?</h3>
+<p>Jeder Mï¿½nch hat eine andere Kampftechnik und individuelle Stï¿½rken und Schwï¿½chen: <ul>
+<li>Henhui ist ein Alleskï¿½nner. Er ist geschickt und stark. Sein Sturmangriff pustet ihm den Weg frei.</li>
+<li>Ziren ist schnell und geschickt, aber ihre Angriffe sind schwï¿½cher. Mit ihrem Luftangriff kann man die ahnungslosen Gegner ï¿½berraschen.</li>
+<li>Damin ist langsam, aber mï¿½chtig. Sein Sturmangriff ist ein durchschlagender Erfolg und bringt die Gegner aus dem Gleichgewicht.</li>
 </ul> </p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Ich werde mit den vielen Gegnern in den späteren Türmen nicht mehr fertig.</h3>
-<p>Falls ihr in den späteren Türmen auf Schwierigkeiten stoßt, solltet ihr zu den früheren zurückkehren und dort alle Siegel aufsammeln. Für jedes fünfte Siegel, das ihr mit einem Mönch aufsammelt, steigert sich die Lebenskraft des betreffenden Mönchs. Dann lassen sich die späteren Türme auch leichter bewerkstelligen.</p>
+<h3>3. Ich werde mit den vielen Gegnern in den spï¿½teren Tï¿½rmen nicht mehr fertig.</h3>
+<p>Falls ihr in den spï¿½teren Tï¿½rmen auf Schwierigkeiten stoï¿½t, solltet ihr zu den frï¿½heren zurï¿½ckkehren und dort alle Siegel aufsammeln. Fï¿½r jedes fï¿½nfte Siegel, das ihr mit einem Mï¿½nch aufsammelt, steigert sich die Lebenskraft des betreffenden Mï¿½nchs. Dann lassen sich die spï¿½teren Tï¿½rme auch leichter bewerkstelligen.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Was soll ich machen, wenn ich nicht alle Siegel in einem Turm finde?</h3>
-<p>Die Siegel, die du in einem Turm aufsammeln kannst, werden in der oberen rechten Ecke des Spielfensters angezeigt. Sie sind aufsteigend, von links nach rechts, sortiert - vom untersten Siegel im Turm bis zum höchsten. Dadurch kannst du erraten, wo sich im Turm noch Siegel verbergen.</p>
+<p>Die Siegel, die du in einem Turm aufsammeln kannst, werden in der oberen rechten Ecke des Spielfensters angezeigt. Sie sind aufsteigend, von links nach rechts, sortiert - vom untersten Siegel im Turm bis zum hï¿½chsten. Dadurch kannst du erraten, wo sich im Turm noch Siegel verbergen.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. Warum werden die Siegel, die ich mit einem Mönch gesammelt habe, nicht angezeigt, wenn ich einen anderen spiele?</h3>
-<p>Jeder Mönch verfolgt seine eigene Erleuchtung und braucht alle Siegel, die er oder sie findet, selbst. Es gibt sogar einen Erfolg dafür, mit allen Mönchen alle Siegel aufzusammeln.</p>
+<h3>5. Warum werden die Siegel, die ich mit einem Mï¿½nch gesammelt habe, nicht angezeigt, wenn ich einen anderen spiele?</h3>
+<p>Jeder Mï¿½nch verfolgt seine eigene Erleuchtung und braucht alle Siegel, die er oder sie findet, selbst. Es gibt sogar einen Erfolg dafï¿½r, mit allen Mï¿½nchen alle Siegel aufzusammeln.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<br> Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen. <br><br>
-<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden. <br><br>
-<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
+<br> Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen. <br><br>
+<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden. <br><br>
+<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/a=57/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -382,11 +382,11 @@ Mehr Infos </span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=57/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=57/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=57/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=57/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

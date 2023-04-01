@@ -10,8 +10,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -21,10 +21,10 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=32/css/global-24.css);/**/
+  /*\*/@import url(../../l=2/a=32/css/global-24.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=32/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/a=32/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -42,24 +42,24 @@ fr">
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/l=2/a=32/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/a=32/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=2/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../l=2/img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/a=32/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -67,58 +67,58 @@ fr">
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/a=32/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/a=32/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/a=32/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://focommunity.funorb.com/l=2/a=32/" class="fly">Coin communauté</a></li>
+<li><a href="http://focommunity.funorb.com/l=2/a=32/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=32/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=32/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Téléchargements</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/a=32/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=32/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=parents.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/a=32/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=parents.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=32/index.ws">
+<a id="countrydrop" href="../../l=2/a=32/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=32/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=32/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=32/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=32/index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=32/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=32/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=32/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -145,7 +145,7 @@ hr {
 }
 
 .safetylogo {
- background: transparent url(http://www.funorb.com/l=2/img/images/kbase/parents_guide/safety.gif?1) no-repeat;
+ background: transparent url(../../l=2/img/images/kbase/parents_guide/safety.gif?1) no-repeat;
  height: 97px;
  margin:auto;
  position:relative;
@@ -176,11 +176,11 @@ Guide parental
 <div class="sectionContent" >
 <div style="padding:5px;background:black;margin-left:4px;margin-right:4px;">
 <div style="padding:5px;background:#0B2540;">
-<div class="parents"><a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/parents_guide.ws" target="_blank"><img src="http://www.funorb.com/l=2/img/images/kbase/parents_guide/parents.jpg?1" alt=""></a></div>
-<p>Nos jeux sont conçus pour un public adulte, mais attirent également un public plus jeune. Nous prenons la sécurité de nos joueurs très au sérieux. C'est pourquoi nous mettons tout en œuvre pour garantir que FunOrb constitue un moment de jeu agréable pour tous.</p>
-<p>Pour en savoir plus sur les mesures que nous mettons en place afin de protéger nos joueurs en ligne ou pour obtenir des conseils sur la sécurité de votre compte et l'abonnement à nos jeux, cliquez <a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/parents_guide.ws" target="_blank">ici</a>. Vous serez redirigé vers le site Web de Jagex, où vous trouverez un Guide parental prévu pour répondre à toutes ces questions.</p>
-<p>Afin d'empêcher nos jeunes joueurs de divulguer des informations personnelles, nous avons mis au point une nouvelle protection. Le système de messagerie rapide est automatiquement imposé à tout utilisateur indiquant avoir moins de 13 ans. Ce système offre aux joueurs une sélection de mots et de phrases leur permettant de discuter avec d'autres sans pouvoir taper leur propres message ni donc communiquer des détails personnels.</p>
-<p><b>Si vous souhaitez donner accès à votre enfant au système de messagerie normal avant son 13e anniversaire, nous vous demandons de bien vouloir nous envoyer un formulaire d'accord parental. Pour obtenir plus d'informations sur l'obtention d'une copie d'un formulaire d'accord parental, cliquez <a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/contact.ws" target="_blank">ici</a>.</b></p>
+<div class="parents"><a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/parents_guide.ws" target="_blank"><img src="../../l=2/img/images/kbase/parents_guide/parents.jpg?1" alt=""></a></div>
+<p>Nos jeux sont conï¿½us pour un public adulte, mais attirent ï¿½galement un public plus jeune. Nous prenons la sï¿½curitï¿½ de nos joueurs trï¿½s au sï¿½rieux. C'est pourquoi nous mettons tout en ï¿½uvre pour garantir que FunOrb constitue un moment de jeu agrï¿½able pour tous.</p>
+<p>Pour en savoir plus sur les mesures que nous mettons en place afin de protï¿½ger nos joueurs en ligne ou pour obtenir des conseils sur la sï¿½curitï¿½ de votre compte et l'abonnement ï¿½ nos jeux, cliquez <a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/parents_guide.ws" target="_blank">ici</a>. Vous serez redirigï¿½ vers le site Web de Jagex, oï¿½ vous trouverez un Guide parental prï¿½vu pour rï¿½pondre ï¿½ toutes ces questions.</p>
+<p>Afin d'empï¿½cher nos jeunes joueurs de divulguer des informations personnelles, nous avons mis au point une nouvelle protection. Le systï¿½me de messagerie rapide est automatiquement imposï¿½ ï¿½ tout utilisateur indiquant avoir moins de 13 ans. Ce systï¿½me offre aux joueurs une sï¿½lection de mots et de phrases leur permettant de discuter avec d'autres sans pouvoir taper leur propres message ni donc communiquer des dï¿½tails personnels.</p>
+<p><b>Si vous souhaitez donner accï¿½s ï¿½ votre enfant au systï¿½me de messagerie normal avant son 13e anniversaire, nous vous demandons de bien vouloir nous envoyer un formulaire d'accord parental. Pour obtenir plus d'informations sur l'obtention d'une copie d'un formulaire d'accord parental, cliquez <a href="http://www.jagex.com/l=2/a=32/corporate/Parents_Guide/contact.ws" target="_blank">ici</a>.</b></p>
 <br class="clear">
 <hr>
 <p>Cliquez sur l'un des logos pour en savoir plus sur les organismes avec lesquels nous travaillons.</p>
@@ -206,17 +206,17 @@ Guide parental
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=32/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=32/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=32/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=32/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../a=32/index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=32/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=32/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=32/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

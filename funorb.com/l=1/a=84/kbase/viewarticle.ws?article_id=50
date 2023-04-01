@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,15 +23,15 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
-<meta name="description" content="Alle Spielfehler müssen sofort an Jagex weitergeleitet werden.">
+<meta name="description" content="Alle Spielfehler mï¿½ssen sofort an Jagex weitergeleitet werden.">
 <title>Regel 4 - Cheats/Missbrauch von Spielfehlern</title>
 </head>
 <body id="navHelp">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=50" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=50" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -140,55 +140,55 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="articleBody">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;">Gültig ab: 27. Februar 2008</div>
-<br> Sie dürfen keinerlei Cheats gebrauchen oder Spielfehler ausnutzen, die Sie in unserer Software finden. <br>
+<div style="font-weight:bold;">Gï¿½ltig ab: 27. Februar 2008</div>
+<br> Sie dï¿½rfen keinerlei Cheats gebrauchen oder Spielfehler ausnutzen, die Sie in unserer Software finden. <br>
 <br>
 <div class="hr"></div>
-<b>Diesbezügliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen können, diese Regel besser zu verstehen.<br>
+<b>Diesbezï¿½gliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen kï¿½nnen, diese Regel besser zu verstehen.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Warum gibt es diese Regel? </a>
-<li><a href="#accident">Und wenn ich zufälligerweise einen Spielfehler finde? Mein Spielkonto kann doch nicht gesperrt werden, wenn ich durch Zufall über einen Spielfehler stolpere, oder? </a>
+<li><a href="#accident">Und wenn ich zufï¿½lligerweise einen Spielfehler finde? Mein Spielkonto kann doch nicht gesperrt werden, wenn ich durch Zufall ï¿½ber einen Spielfehler stolpere, oder? </a>
 <li><a href="#how">Wie melde ich einen Spielfehler? </a>
 <li><a href="#where">Wie kann ich vorhandene Spielfehler, die bereits gemeldet wurden, einsehen? </a>
-<li><a href="#cheats">Gibt es Cheats für Jagex-Spiele? </a>
+<li><a href="#cheats">Gibt es Cheats fï¿½r Jagex-Spiele? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Warum gibt es diese Regel? </span><br><br> Wir haben sehr viel Aufwand betrieben, um die Spiele fair zu gestalten, sodass sie allen Spielern so viel Spaß wie möglich machen. <br><br> Unbeabsichtigte Spielfehler können den Spielspaß verderben, also wollen wir versuchen, sie so schnell wie möglich zu beheben. Wenn Sie einen Spielfehler mit Absicht ausnutzen, um die Spiel-Ökonomie zu stören oder die Leistungen anderer Spieler abzuwerten, dann verstößt das gegen die Regeln. <br><br>
+<span class="title">1. Warum gibt es diese Regel? </span><br><br> Wir haben sehr viel Aufwand betrieben, um die Spiele fair zu gestalten, sodass sie allen Spielern so viel Spaï¿½ wie mï¿½glich machen. <br><br> Unbeabsichtigte Spielfehler kï¿½nnen den Spielspaï¿½ verderben, also wollen wir versuchen, sie so schnell wie mï¿½glich zu beheben. Wenn Sie einen Spielfehler mit Absicht ausnutzen, um die Spiel-ï¿½konomie zu stï¿½ren oder die Leistungen anderer Spieler abzuwerten, dann verstï¿½ï¿½t das gegen die Regeln. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="accident"></a>
-<span class="title">2. Und wenn ich zufälligerweise einen Spielfehler finde? Mein Spielkonto kann doch nicht gesperrt werden, wenn ich durch Zufall über einen Spielfehler stolpere, oder? </span><br><br> Solange Sie uns den Spielfehler sofort mitteilen und ihn niemandem verraten, bevor wir ihn behoben haben, werden Sie NICHT in Schwierigkeiten geraten. Im Gegenteil, wir wären Ihnen sogar sehr dankbar. Wenn Sie ihn uns aber nicht mitteilen oder ihn weiterhin absichtlich ausnutzen, dann verstoßen Sie gegen die Regel. <br><br>
+<span class="title">2. Und wenn ich zufï¿½lligerweise einen Spielfehler finde? Mein Spielkonto kann doch nicht gesperrt werden, wenn ich durch Zufall ï¿½ber einen Spielfehler stolpere, oder? </span><br><br> Solange Sie uns den Spielfehler sofort mitteilen und ihn niemandem verraten, bevor wir ihn behoben haben, werden Sie NICHT in Schwierigkeiten geraten. Im Gegenteil, wir wï¿½ren Ihnen sogar sehr dankbar. Wenn Sie ihn uns aber nicht mitteilen oder ihn weiterhin absichtlich ausnutzen, dann verstoï¿½en Sie gegen die Regel. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="how"></a>
-<span class="title">3. Wie melde ich einen Spielfehler? </span><br><br> Sie können uns einen Spielfehler melden, indem Sie auf der Seite des Spiels auf den Punkt Fehlerhinweis im Menü klicken. <br><br> Wenn Sie das Formular für den Fehlerhinweis ausfüllen, geben Sie uns bitte so viele Informationen und Details wie möglich. Das wird uns dabei helfen, den Fehler zu finden und ihn so schnell wie möglich zu beheben. Das Formular wird nach dem Versenden an einen Jagex-Mitarbeiter weitergeleitet, der Ihre Meldung bearbeiten wird. Bitte haben Sie Verständnis dafür, dass Jagex Spieler für Fehlerhinweise nicht belohnen kann. <br><br>
+<span class="title">3. Wie melde ich einen Spielfehler? </span><br><br> Sie kï¿½nnen uns einen Spielfehler melden, indem Sie auf der Seite des Spiels auf den Punkt Fehlerhinweis im Menï¿½ klicken. <br><br> Wenn Sie das Formular fï¿½r den Fehlerhinweis ausfï¿½llen, geben Sie uns bitte so viele Informationen und Details wie mï¿½glich. Das wird uns dabei helfen, den Fehler zu finden und ihn so schnell wie mï¿½glich zu beheben. Das Formular wird nach dem Versenden an einen Jagex-Mitarbeiter weitergeleitet, der Ihre Meldung bearbeiten wird. Bitte haben Sie Verstï¿½ndnis dafï¿½r, dass Jagex Spieler fï¿½r Fehlerhinweise nicht belohnen kann. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="where"></a>
-<span class="title">4. Wie kann ich vorhandene Spielfehler, die bereits gemeldet wurden, einsehen? </span><br><br> Indem Sie den Link 'Kundenbetreuung' auf unserer Webseite besuchen und dann im Abschnitt 'Fehlerhinweis' nachsehen, ob ein Spielfehler bereits in die Liste aufgenommen wurde. Dort sehen Sie bestätigte Fehler, die bereits behoben werden, behoben wurden und aufgespielt werden müssen, oder bereits vollständig behoben wurden. Wenn wir der Meinung sind, dass ein Fehler ausgenutzt werden kann, so behalten wir uns das Recht vor, ihn nicht in die Liste mit aufzunehmen. Bitte melden Sie uns keine Spielfehler, die bereits auf der Liste zu finden sind. <br><br>
+<span class="title">4. Wie kann ich vorhandene Spielfehler, die bereits gemeldet wurden, einsehen? </span><br><br> Indem Sie den Link 'Kundenbetreuung' auf unserer Webseite besuchen und dann im Abschnitt 'Fehlerhinweis' nachsehen, ob ein Spielfehler bereits in die Liste aufgenommen wurde. Dort sehen Sie bestï¿½tigte Fehler, die bereits behoben werden, behoben wurden und aufgespielt werden mï¿½ssen, oder bereits vollstï¿½ndig behoben wurden. Wenn wir der Meinung sind, dass ein Fehler ausgenutzt werden kann, so behalten wir uns das Recht vor, ihn nicht in die Liste mit aufzunehmen. Bitte melden Sie uns keine Spielfehler, die bereits auf der Liste zu finden sind. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="cheats"></a>
-<span class="title">5. Gibt es Cheats für Jagex-Spiele? </span><br><br> Es gibt keine Cheat-Codes für Jagex-Spiele und wir würden auch niemals welche in das Spiel einbauen. Ihr Charakter muss ehrlich und durch faires Spielen verbessert werden. Das Ausnutzen von Cheats oder Fehlern im Spielcode, oder der Versuch, Cheats oder Fehler im Spielcode zu finden, ist ein Verstoß gegen unsere <a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct">Verhaltensregeln</a>. <br><br> Bitte schicken Sie uns keine Anfragen bezüglich solcher Informationen. Wenn Sie uns trotzdem fragen, dann könnte Ihr Spielkonto aufgrund von versuchtem Kundenbetreuungs-Missbrauch oder Fehler-Missbrauch gesperrt werden. <br><br>
-<p><i>Wir sind ständig bestrebt, die Atmosphäre auf FunOrb für alle Spieler so angenehm wie möglich zu gestalten. Bitte halten Sie sich also an diese Regel. Störende Spieler werden nicht geduldet und bei Regelverstößen kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rückerstattung der von ihnen bezahlten Gebühren.</i></p>
+<span class="title">5. Gibt es Cheats fï¿½r Jagex-Spiele? </span><br><br> Es gibt keine Cheat-Codes fï¿½r Jagex-Spiele und wir wï¿½rden auch niemals welche in das Spiel einbauen. Ihr Charakter muss ehrlich und durch faires Spielen verbessert werden. Das Ausnutzen von Cheats oder Fehlern im Spielcode, oder der Versuch, Cheats oder Fehler im Spielcode zu finden, ist ein Verstoï¿½ gegen unsere <a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct">Verhaltensregeln</a>. <br><br> Bitte schicken Sie uns keine Anfragen bezï¿½glich solcher Informationen. Wenn Sie uns trotzdem fragen, dann kï¿½nnte Ihr Spielkonto aufgrund von versuchtem Kundenbetreuungs-Missbrauch oder Fehler-Missbrauch gesperrt werden. <br><br>
+<p><i>Wir sind stï¿½ndig bestrebt, die Atmosphï¿½re auf FunOrb fï¿½r alle Spieler so angenehm wie mï¿½glich zu gestalten. Bitte halten Sie sich also an diese Regel. Stï¿½rende Spieler werden nicht geduldet und bei Regelverstï¿½ï¿½en kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rï¿½ckerstattung der von ihnen bezahlten Gebï¿½hren.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -206,11 +206,11 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

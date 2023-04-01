@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,20 +17,20 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=dekobloko/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=dekobloko/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=dekobloko/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=dekobloko/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/gamelist-3.css");/**/
+ /*\*/@import url("../../l=2/css/gamelist-3.css");/**/
 </style>
 <script type="text/javascript">
  function ajax_debug(text) {
@@ -1213,10 +1213,10 @@ function callback_request(url, callback) {
   }
   var guide = document.getElementById('guide');
   if(nogames) {
-   guide.innerHTML = 'Aucun jeu ne correspond à votre recherche. Veuillez effectuer une nouvelle recherche.';
+   guide.innerHTML = 'Aucun jeu ne correspond ï¿½ votre recherche. Veuillez effectuer une nouvelle recherche.';
    guide.style.color = '#f00';
   } else {
-   guide.innerHTML = 'Veuillez utiliser les menus déroulants pour sélectionner le type de jeu qui vous intéresse.';
+   guide.innerHTML = 'Veuillez utiliser les menus dï¿½roulants pour sï¿½lectionner le type de jeu qui vous intï¿½resse.';
    guide.style.color = '#DAD6D5';
   }
  }
@@ -1264,8 +1264,8 @@ function callback_request(url, callback) {
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=dekobloko/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=dekobloko/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -1274,7 +1274,7 @@ function callback_request(url, callback) {
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=dekobloko/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=dekobloko/messenger.js"></script>
 
@@ -1283,51 +1283,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=dekobloko/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=dekobloko/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=dekobloko/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=dekobloko/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=dekobloko/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=dekobloko/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=dekobloko/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=dekobloko/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=dekobloko/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=dekobloko/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=dekobloko/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=dekobloko/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=dekobloko/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=dekobloko/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=dekobloko/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=dekobloko/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=dekobloko/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=dekobloko/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=dekobloko/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=dekobloko/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=dekobloko/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=dekobloko/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=dekobloko/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=dekobloko/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dekobloko/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=dekobloko/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=dekobloko/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=dekobloko/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=dekobloko/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=dekobloko/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=dekobloko/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1335,28 +1335,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=dekobloko/loginform.ws?mod=www&amp;ssl=0&amp;dest=gamelist.ws?playerBox=0" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=dekobloko/index.ws">
+<a id="countrydrop" href="../../l=2/g=dekobloko/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=dekobloko/index.ws"><img title="
+<li><a class="fly" href="../../g=dekobloko/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=dekobloko/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=dekobloko/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=dekobloko/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=dekobloko/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=dekobloko/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=dekobloko/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -1384,12 +1384,12 @@ Liste des jeux
 <div class="subsection" id="gamelist" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-<div id="guide">Veuillez utiliser les menus déroulants pour sélectionner le type de jeu qui vous intéresse.</div>
+<div id="guide">Veuillez utiliser les menus dï¿½roulants pour sï¿½lectionner le type de jeu qui vous intï¿½resse.</div>
 </div>
 </div>
 <div class="subsectionContent">
 <form id="filterform" action="gamelist.ws">
-<label for="playerBox">Joueurs :</label>
+<label for="playerBox">Joueursï¿½:</label>
 <select onchange="updateFilters()" name="playerBox" id="playerBox">
 <option value="0">Tous</option>
 
@@ -1397,7 +1397,7 @@ Liste des jeux
 
 <option value="2">Multijoueur</option>
 </select>
-<label for="genreBox">Genre :</label>
+<label for="genreBox">Genreï¿½:</label>
 <select onchange="updateFilters()" name="genreBox" id="genreBox">
 <option value="0" selected="selected">Tous</option>
 
@@ -1414,7 +1414,7 @@ Jeux de tir</option>
 Sport</option>
 
 <option value="strategy">
-Stratégie</option>
+Stratï¿½gie</option>
 
 <option value="mmo">
 MMO</option>
@@ -1424,709 +1424,709 @@ Autre</option>
 </select>
 <input class="button" id="filtersumbit" type="submit" value="Soumettre des filtres">
 <script type="text/javascript">document.getElementById('filtersumbit').style.display = 'none';</script>
-<span id="multigenre">Certains jeux peuvent appartenir à plusieurs genres.</span>
+<span id="multigenre">Certains jeux peuvent appartenir ï¿½ plusieurs genres.</span>
 </form>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/aceofskies/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/aceofskies/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/aceofskies/play.ws">
+<img src="../../l=2/img/images/game/aceofskies/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/aceofskies/play.ws">Ace of Skies</a></div>
-<div class="gamedesc">Devenez pilote de guerre dans l'armée de l'air</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/aceofskies/play.ws">Ace of Skies</a></div>
+<div class="gamedesc">Devenez pilote de guerre dans l'armï¿½e de l'air</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=aceofskies"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/aceofskies/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=aceofskies"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/aceofskies/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/arcanistsmulti/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/arcanistsmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/arcanistsmulti/play.ws">
+<img src="../../l=2/img/images/game/arcanistsmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/arcanistsmulti/play.ws">Arcanistes</a></div>
-<div class="gamedesc">Compétitions de magie et tournois multijoueur.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/arcanistsmulti/play.ws">Arcanistes</a></div>
+<div class="gamedesc">Compï¿½titions de magie et tournois multijoueur.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=arcanistsmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/arcanistsmulti/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=arcanistsmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/arcanistsmulti/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/armiesofgielinor/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/armiesofgielinor/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/armiesofgielinor/play.ws">
+<img src="../../l=2/img/images/game/armiesofgielinor/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/armiesofgielinor/play.ws">Armées de Giélinor</a></div>
-<div class="gamedesc">Guerroyez avec Armées de Giélinor</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/armiesofgielinor/play.ws">Armï¿½es de Giï¿½linor</a></div>
+<div class="gamedesc">Guerroyez avec Armï¿½es de Giï¿½linor</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=armiesofgielinor"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/armiesofgielinor/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=armiesofgielinor"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/armiesofgielinor/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/holdtheline/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/holdtheline/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/holdtheline/play.ws">
+<img src="../../l=2/img/images/game/holdtheline/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/holdtheline/play.ws">As du volant</a></div>
-<div class="gamedesc">Décrochez la pole position avec un bolide optimisé.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/holdtheline/play.ws">As du volant</a></div>
+<div class="gamedesc">Dï¿½crochez la pole position avec un bolide optimisï¿½.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=holdtheline"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/holdtheline/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=holdtheline"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/holdtheline/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/bachelorfridge/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/bachelorfridge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/bachelorfridge/play.ws">
+<img src="../../l=2/img/images/game/bachelorfridge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/bachelorfridge/play.ws">Bachelor Fridge</a></div>
-<div class="gamedesc">Maniaques de l'hygiène s'abstenir.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/bachelorfridge/play.ws">Bachelor Fridge</a></div>
+<div class="gamedesc">Maniaques de l'hygiï¿½ne s'abstenir.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=bachelorfridge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/bachelorfridge/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=bachelorfridge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/bachelorfridge/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/pool/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/pool/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/pool/play.ws">
+<img src="../../l=2/img/images/game/pool/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/pool/play.ws">Billard</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/pool/play.ws">Billard</a></div>
 <div class="gamedesc">Le grand classique des jeux d'adresse</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=pool"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/pool/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=pool"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/pool/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/bouncedown/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/bouncedown/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/bouncedown/play.ws">
+<img src="../../l=2/img/images/game/bouncedown/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/bouncedown/play.ws">Bouncedown</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/bouncedown/play.ws">Bouncedown</a></div>
 <div class="gamedesc">Survivez le plus longtemps sur ces plates-formes.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=bouncedown"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/bouncedown/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=bouncedown"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/bouncedown/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/brickabrac/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/brickabrac/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/brickabrac/play.ws">
+<img src="../../l=2/img/images/game/brickabrac/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/brickabrac/play.ws">Brique à brac</a></div>
-<div class="gamedesc">Casse-brique traditionnel avec Brique à brac.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/brickabrac/play.ws">Brique ï¿½ brac</a></div>
+<div class="gamedesc">Casse-brique traditionnel avec Brique ï¿½ brac.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=brickabrac"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/brickabrac/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=brickabrac"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/brickabrac/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/solknight/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/solknight/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/solknight/play.ws">
+<img src="../../l=2/img/images/game/solknight/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/solknight/play.ws">Chevalier solaire</a></div>
-<div class="gamedesc">Protégez le système solaire contre des (kilo)tonnes d'astéroïdes.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/solknight/play.ws">Chevalier solaire</a></div>
+<div class="gamedesc">Protï¿½gez le systï¿½me solaire contre des (kilo)tonnes d'astï¿½roï¿½des.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=solknight"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/solknight/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=solknight"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/solknight/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/confined/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/confined/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/confined/play.ws">
+<img src="../../l=2/img/images/game/confined/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/confined/play.ws">Confined</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/confined/play.ws">Confined</a></div>
 <div class="gamedesc">Fly down alien tunnels with some serious guns.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=confined"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/confined/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=confined"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/confined/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/dekobloko/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/dekobloko/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/dekobloko/play.ws">
+<img src="../../l=2/img/images/game/dekobloko/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/dekobloko/play.ws">Deko Bloko</a></div>
-<div class="gamedesc">Parties multijoueur de folie avec des pièces qui reviennent vous hanter&nbsp;!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/dekobloko/play.ws">Deko Bloko</a></div>
+<div class="gamedesc">Parties multijoueur de folie avec des piï¿½ces qui reviennent vous hanter&nbsp;!</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=dekobloko"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/dekobloko/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=dekobloko"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/dekobloko/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">
+<img src="../../l=2/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">Dr P. sauve la Terre</a></div>
-<div class="gamedesc">Sauvez la Terre dans ce jeu de tir à défilement horizontal.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">Dr P. sauve la Terre</a></div>
+<div class="gamedesc">Sauvez la Terre dans ce jeu de tir ï¿½ dï¿½filement horizontal.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=drphlogistonsavestheearth"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=drphlogistonsavestheearth"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/drphlogistonsavestheearth/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/dungeonassault/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/dungeonassault/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/dungeonassault/play.ws">
+<img src="../../l=2/img/images/game/dungeonassault/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/dungeonassault/play.ws">Dungeon Assault</a></div>
-<div class="gamedesc">Défendez votre trésor. Devenez le roi des dragons.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/dungeonassault/play.ws">Dungeon Assault</a></div>
+<div class="gamedesc">Dï¿½fendez votre trï¿½sor. Devenez le roi des dragons.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=dungeonassault"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/dungeonassault/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=dungeonassault"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/dungeonassault/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/chess/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/chess/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/chess/play.ws">
+<img src="../../l=2/img/images/game/chess/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/chess/play.ws">Échecs</a></div>
-<div class="gamedesc">Affrontez vos amis dans ce grand classique des jeux de stratégie.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/chess/play.ws">ï¿½checs</a></div>
+<div class="gamedesc">Affrontez vos amis dans ce grand classique des jeux de stratï¿½gie.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=chess"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/chess/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=chess"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/chess/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/geoblox/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/geoblox/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/geoblox/play.ws">
+<img src="../../l=2/img/images/game/geoblox/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/geoblox/play.ws">Geoblox</a></div>
-<div class="gamedesc">Connectez trois blocs de même forme ou de même couleur.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/geoblox/play.ws">Geoblox</a></div>
+<div class="gamedesc">Connectez trois blocs de mï¿½me forme ou de mï¿½me couleur.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=geoblox"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/geoblox/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=geoblox"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/geoblox/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/hostilespawn_vengeance/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/hostilespawn_vengeance/play.ws">
+<img src="../../l=2/img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
-<div class="gamedesc">Détruisez les hordes d'Aliens.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
+<div class="gamedesc">Dï¿½truisez les hordes d'Aliens.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=hostilespawn_vengeance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/hostilespawn_vengeance/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=hostilespawn_vengeance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/hostilespawn_vengeance/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/kickabout/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/kickabout/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/kickabout/play.ws">
+<img src="../../l=2/img/images/game/kickabout/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/kickabout/play.ws">Kickabout League</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/kickabout/play.ws">Kickabout League</a></div>
 <div class="gamedesc">Devenez un pro du football.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=kickabout"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/kickabout/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=kickabout"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/kickabout/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/crazycrystals/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/crazycrystals/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/crazycrystals/play.ws">
+<img src="../../l=2/img/images/game/crazycrystals/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/crazycrystals/play.ws">Kristal Folie</a></div>
-<div class="gamedesc">Un jeu de réflexion qui risque de vous faire mal à la tête.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/crazycrystals/play.ws">Kristal Folie</a></div>
+<div class="gamedesc">Un jeu de rï¿½flexion qui risque de vous faire mal ï¿½ la tï¿½te.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=crazycrystals"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/crazycrystals/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=crazycrystals"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/crazycrystals/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/trackcontroller/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/trackcontroller/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/trackcontroller/play.ws">
+<img src="../../l=2/img/images/game/trackcontroller/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/trackcontroller/play.ws">L'aiguilleur</a></div>
-<div class="gamedesc">Placez les rails au bon endroit pour terminer votre voie ferrée.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/trackcontroller/play.ws">L'aiguilleur</a></div>
+<div class="gamedesc">Placez les rails au bon endroit pour terminer votre voie ferrï¿½e.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=trackcontroller"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/trackcontroller/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=trackcontroller"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/trackcontroller/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawn/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/zombiedawn/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/zombiedawn/play.ws">
+<img src="../../l=2/img/images/game/zombiedawn/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawn/play.ws">L'armée des zombies</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/zombiedawn/play.ws">L'armï¿½e des zombies</a></div>
 <div class="gamedesc">Organisez l'invasion des morts-vivants.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=zombiedawn"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawn/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=zombiedawn"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/zombiedawn/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawnmulti/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/zombiedawnmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/zombiedawnmulti/play.ws">
+<img src="../../l=2/img/images/game/zombiedawnmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawnmulti/play.ws">L'armée des zombies M</a></div>
-<div class="gamedesc">Bataille des morts-vivants&nbsp;: capturez des humains pour vos infâmes recherches&nbsp;!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/zombiedawnmulti/play.ws">L'armï¿½e des zombies M</a></div>
+<div class="gamedesc">Bataille des morts-vivants&nbsp;: capturez des humains pour vos infï¿½mes recherches&nbsp;!</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=zombiedawnmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/zombiedawnmulti/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=zombiedawnmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/zombiedawnmulti/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/lexicominos/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/lexicominos/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/lexicominos/play.ws">
+<img src="../../l=2/img/images/game/lexicominos/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/lexicominos/play.ws">Lexicominos</a></div>
-<div class="gamedesc">Combien réussirez-vous à former de mots avec les blocs en chute&nbsp;?</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/lexicominos/play.ws">Lexicominos</a></div>
+<div class="gamedesc">Combien rï¿½ussirez-vous ï¿½ former de mots avec les blocs en chute&nbsp;?</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=lexicominos"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/lexicominos/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=lexicominos"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/lexicominos/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/minerdisturbance/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/minerdisturbance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/minerdisturbance/play.ws">
+<img src="../../l=2/img/images/game/minerdisturbance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/minerdisturbance/play.ws">Mineur en péril</a></div>
-<div class="gamedesc">Explorez les profondeurs d'un volcan rempli de trésors.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/minerdisturbance/play.ws">Mineur en pï¿½ril</a></div>
+<div class="gamedesc">Explorez les profondeurs d'un volcan rempli de trï¿½sors.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=minerdisturbance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/minerdisturbance/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=minerdisturbance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/minerdisturbance/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/monkeypuzzle2/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/monkeypuzzle2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/monkeypuzzle2/play.ws">
+<img src="../../l=2/img/images/game/monkeypuzzle2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
-<div class="gamedesc">Catapultez des noix de coco colorées sur les singes pour les faire tomber.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
+<div class="gamedesc">Catapultez des noix de coco colorï¿½es sur les singes pour les faire tomber.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=monkeypuzzle2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/monkeypuzzle2/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=monkeypuzzle2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/monkeypuzzle2/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/shatteredplans/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/shatteredplans/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/shatteredplans/play.ws">
+<img src="../../l=2/img/images/game/shatteredplans/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/shatteredplans/play.ws">Offensive galactique</a></div>
-<div class="gamedesc">Dominez des mondes et partez à la conquête de la galaxie.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/shatteredplans/play.ws">Offensive galactique</a></div>
+<div class="gamedesc">Dominez des mondes et partez ï¿½ la conquï¿½te de la galaxie.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=shatteredplans"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/shatteredplans/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=shatteredplans"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/shatteredplans/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/orbdefence/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/orbdefence/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/orbdefence/play.ws">
+<img src="../../l=2/img/images/game/orbdefence/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/orbdefence/play.ws">Orbe Défense</a></div>
-<div class="gamedesc">Défendez-vous contre l'invasion des Norbes.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/orbdefence/play.ws">Orbe Dï¿½fense</a></div>
+<div class="gamedesc">Dï¿½fendez-vous contre l'invasion des Norbes.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=orbdefence"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/orbdefence/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=orbdefence"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/orbdefence/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/pixelate/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/pixelate/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/pixelate/play.ws">
+<img src="../../l=2/img/images/game/pixelate/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/pixelate/play.ws">Pixel'Art</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/pixelate/play.ws">Pixel'Art</a></div>
 <div class="gamedesc">Les blocs ne se contentent pas de tomber&nbsp;!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=pixelate"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/pixelate/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=pixelate"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/pixelate/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/fleacircus/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/fleacircus/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/fleacircus/play.ws">
+<img src="../../l=2/img/images/game/fleacircus/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/fleacircus/play.ws">Puces savantes</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/fleacircus/play.ws">Puces savantes</a></div>
 <div class="gamedesc">Domptez les puces dans leur mini-cirque.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=fleacircus"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/fleacircus/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=fleacircus"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/fleacircus/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/torchallenge/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/torchallenge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/torchallenge/play.ws">
+<img src="../../l=2/img/images/game/torchallenge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/torchallenge/play.ws">Shaolin Kombat</a></div>
-<div class="gamedesc">Devenez le maître des tours pour atteindre l'illumination.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/torchallenge/play.ws">Shaolin Kombat</a></div>
+<div class="gamedesc">Devenez le maï¿½tre des tours pour atteindre l'illumination.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=torchallenge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/torchallenge/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=torchallenge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/torchallenge/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/starcannon/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/starcannon/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/starcannon/play.ws">
+<img src="../../l=2/img/images/game/starcannon/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/starcannon/play.ws">Star Cannon</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/starcannon/play.ws">Star Cannon</a></div>
 <div class="gamedesc">Pilotez le vaisseau spatial le plus puissant de tous les temps.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=starcannon"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/starcannon/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=starcannon"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/starcannon/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/steelsentinels/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/steelsentinels/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/steelsentinels/play.ws">
+<img src="../../l=2/img/images/game/steelsentinels/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/steelsentinels/play.ws">Steel Sentinels</a></div>
-<div class="gamedesc">Construisez et commandez des robots géants pour imposer votre domination.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/steelsentinels/play.ws">Steel Sentinels</a></div>
+<div class="gamedesc">Construisez et commandez des robots gï¿½ants pour imposer votre domination.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=steelsentinels"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/steelsentinels/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=steelsentinels"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/steelsentinels/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/stellarshard/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/stellarshard/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/stellarshard/play.ws">
+<img src="../../l=2/img/images/game/stellarshard/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/stellarshard/play.ws">Stellar Shard</a></div>
-<div class="gamedesc">Nettoyez le champ d'astéroïdes grâce à une puissance de feu croissante.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/stellarshard/play.ws">Stellar Shard</a></div>
+<div class="gamedesc">Nettoyez le champ d'astï¿½roï¿½des grï¿½ce ï¿½ une puissance de feu croissante.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=shooter">Jeu de tir</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=stellarshard"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/stellarshard/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=stellarshard"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/stellarshard/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/sumoblitz/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/sumoblitz/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/sumoblitz/play.ws">
+<img src="../../l=2/img/images/game/sumoblitz/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/sumoblitz/play.ws">Sumoblitz</a></div>
-<div class="gamedesc"><span style="font-weight:bold;color:red">GyojiBot</span> exige votre présence.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/sumoblitz/play.ws">Sumoblitz</a></div>
+<div class="gamedesc"><span style="font-weight:bold;color:red">GyojiBot</span> exige votre prï¿½sence.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=sumoblitz"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/sumoblitz/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=sumoblitz"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/sumoblitz/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/wizardrun/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/wizardrun/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/wizardrun/play.ws">
+<img src="../../l=2/img/images/game/wizardrun/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/wizardrun/play.ws">Super Stella</a></div>
-<div class="gamedesc">Lancez des étoiles sur vos ennemis dans cet amusant jeu de plate-forme.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/wizardrun/play.ws">Super Stella</a></div>
+<div class="gamedesc">Lancez des ï¿½toiles sur vos ennemis dans cet amusant jeu de plate-forme.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=wizardrun"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/wizardrun/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=wizardrun"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/wizardrun/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/terraphoenix/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/terraphoenix/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/terraphoenix/play.ws">
+<img src="../../l=2/img/images/game/terraphoenix/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/terraphoenix/play.ws">Terra Phénix</a></div>
-<div class="gamedesc">Commandez vos troupes d'élite dans ce jeu de stratégie.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/terraphoenix/play.ws">Terra Phï¿½nix</a></div>
+<div class="gamedesc">Commandez vos troupes d'ï¿½lite dans ce jeu de stratï¿½gie.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=terraphoenix"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/terraphoenix/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=terraphoenix"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/terraphoenix/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/tetralink/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/tetralink/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/tetralink/play.ws">
+<img src="../../l=2/img/images/game/tetralink/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/tetralink/play.ws">TetraLink</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/tetralink/play.ws">TetraLink</a></div>
 <div class="gamedesc">Alignez quatre jetons avant votre adversaire.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=tetralink"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/tetralink/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=tetralink"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/tetralink/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/tombracer/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/tombracer/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/tombracer/play.ws">
+<img src="../../l=2/img/images/game/tombracer/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/tombracer/play.ws">Tomb Racer</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/tombracer/play.ws">Tomb Racer</a></div>
 <div class="gamedesc">Faites la course dans les temples tortueux du tourment</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=tombracer"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/tombracer/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=tombracer"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/tombracer/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/torquing/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/torquing/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/torquing/play.ws">
+<img src="../../l=2/img/images/game/torquing/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/torquing/play.ws">Torquing!</a></div>
-<div class="gamedesc">Vitesse et hamsters ne font pas bon ménage - sauf ici.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/torquing/play.ws">Torquing!</a></div>
+<div class="gamedesc">Vitesse et hamsters ne font pas bon mï¿½nage - sauf ici.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=torquing"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/torquing/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=torquing"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/torquing/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/escapevector/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/escapevector/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/escapevector/play.ws">
+<img src="../../l=2/img/images/game/escapevector/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/escapevector/play.ws">Tracto Vector</a></div>
-<div class="gamedesc">À vous de récupérer la technologie terrestre.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/escapevector/play.ws">Tracto Vector</a></div>
+<div class="gamedesc">ï¿½ vous de rï¿½cupï¿½rer la technologie terrestre.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=escapevector"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/escapevector/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=escapevector"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/escapevector/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/transmogrify/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/transmogrify/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/transmogrify/play.ws">
+<img src="../../l=2/img/images/game/transmogrify/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/transmogrify/play.ws">Transmogrify</a></div>
-<div class="gamedesc">Passez à la télé et formez un maximum d'anagrammes.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/transmogrify/play.ws">Transmogrify</a></div>
+<div class="gamedesc">Passez ï¿½ la tï¿½lï¿½ et formez un maximum d'anagrammes.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=transmogrify"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/transmogrify/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=transmogrify"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/transmogrify/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/36cardtrick/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/36cardtrick/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/36cardtrick/play.ws">
+<img src="../../l=2/img/images/game/36cardtrick/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/36cardtrick/play.ws">Trente-six cactus</a></div>
-<div class="gamedesc">Un grand classique des jeux de mémoire, en plus épineux.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/36cardtrick/play.ws">Trente-six cactus</a></div>
+<div class="gamedesc">Un grand classique des jeux de mï¿½moire, en plus ï¿½pineux.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=puzzle">Logique</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=36cardtrick"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/36cardtrick/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=36cardtrick"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/36cardtrick/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/vertigo2/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/vertigo2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/vertigo2/play.ws">
+<img src="../../l=2/img/images/game/vertigo2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/vertigo2/play.ws">Vertigo 2</a></div>
-<div class="gamedesc">Jeu de plateforme en 3D où le violet est à l'honneur.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/vertigo2/play.ws">Vertigo 2</a></div>
+<div class="gamedesc">Jeu de plateforme en 3D oï¿½ le violet est ï¿½ l'honneur.</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=vertigo2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/vertigo2/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=vertigo2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/vertigo2/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/virogrid/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/virogrid/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/virogrid/play.ws">
+<img src="../../l=2/img/images/game/virogrid/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/virogrid/play.ws">Virogrid</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/virogrid/play.ws">Virogrid</a></div>
 <div class="gamedesc">Dominez la grille pour remporter la victoire.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratégie</a></div></div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=strategy">Stratï¿½gie</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=virogrid"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/virogrid/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=virogrid"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/virogrid/play.ws">Jouer</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/voidhunters/play.ws">
-<img src="http://www.funorb.com/l=2/img/images/game/voidhunters/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=2/g=dekobloko/voidhunters/play.ws">
+<img src="../../l=2/img/images/game/voidhunters/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dekobloko/voidhunters/play.ws">Void Hunters</a></div>
-<div class="gamedesc">Construisez un vaisseau et détruisez vos amis</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=2/g=dekobloko/voidhunters/play.ws">Void Hunters</a></div>
+<div class="gamedesc">Construisez un vaisseau et dï¿½truisez vos amis</div>
+<div class="genre"><div><a href="../../l=2/g=dekobloko/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/g=dekobloko/info.ws?game=voidhunters"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=2/g=dekobloko/voidhunters/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../l=2/g=dekobloko/info.ws?game=voidhunters"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=2/g=dekobloko/voidhunters/play.ws">Jouer</a>
 </div>
 </div>
 </div>
@@ -2141,25 +2141,25 @@ Autre</option>
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=dekobloko/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=dekobloko/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=dekobloko/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=dekobloko/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=dekobloko/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=dekobloko/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=dekobloko/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=dekobloko/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=dekobloko/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=dekobloko/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=dekobloko/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=dekobloko/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=dekobloko/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=dekobloko/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

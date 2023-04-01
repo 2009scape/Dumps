@@ -19,16 +19,16 @@ de">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=vertigo2/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=vertigo2/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=1/g=vertigo2/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=1/g=vertigo2/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,15 +45,15 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=vertigo2/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=1/g=vertigo2/index.ws" ><b>
+<img src="../../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf Jetzt Spielen und dann auf Kostenloses Spielkonto erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=vertigo2/messengercommon0.js"></script>
@@ -64,25 +64,25 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=vertigo2/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=vertigo2/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/g=vertigo2/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/g=vertigo2/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/g=vertigo2/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/g=vertigo2/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../../l=1/g=vertigo2/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../../l=1/g=vertigo2/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=vertigo2/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=1/g=vertigo2/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../../l=1/g=vertigo2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/g=vertigo2/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../../l=1/g=vertigo2/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -93,23 +93,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=vertigo2/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/g=vertigo2/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../../l=1/g=vertigo2/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=vertigo2/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=vertigo2/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=vertigo2/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=vertigo2/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/g=vertigo2/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=vertigo2/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/g=vertigo2/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/g=vertigo2/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/g=vertigo2/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/g=vertigo2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/g=vertigo2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../../l=1/g=vertigo2/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/g=vertigo2/forums.ws" class="fly">F
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=vertigo2/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_advert_blocking.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=vertigo2/index.ws">
+<a id="countrydrop" href="../../../l=1/g=vertigo2/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=vertigo2/index.ws"><img title="
+<li><a class="fly" href="../../../g=vertigo2/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=vertigo2/index.ws"><img title="
+English" src="../../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=vertigo2/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=vertigo2/index.ws"><img title="
+Deutsch" src="../../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=vertigo2/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=vertigo2/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=vertigo2/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=1/g=vertigo2/kbase/view.ws?guid=rules_of_conduct">Regeln von FunOrb</a> &gt; Sperren von Werbung 
+<a href="../../../l=1/g=vertigo2/kbase/view.ws?guid=rules_of_conduct">Regeln von FunOrb</a> &gt; Sperren von Werbung 
 </div>
 </div>
 </div>
@@ -164,12 +164,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Gültig ab: 12. Mai 2009</div>
-<p>Wenn Sie Software benutzen, die Werbung ausblendet oder sperrt, dann deaktivieren Sie sie bitte für unsere Webseite. Die Werbung über den kostenlosen Spielen ermöglicht es uns, diese auch weiterhin kostenlos anzubieten.</p>
+<div style="font-weight:bold;" class="effectivedate">Gï¿½ltig ab: 12. Mai 2009</div>
+<p>Wenn Sie Software benutzen, die Werbung ausblendet oder sperrt, dann deaktivieren Sie sie bitte fï¿½r unsere Webseite. Die Werbung ï¿½ber den kostenlosen Spielen ermï¿½glicht es uns, diese auch weiterhin kostenlos anzubieten.</p>
 <br>
 <div class="hr"></div>
-<h4>Diesbezügliche Fragen</h4>
-<p>Hier finden Sie ein paar Fragen, die Ihnen dabei helfen können, diese Regel besser zu verstehen.</h4>
+<h4>Diesbezï¿½gliche Fragen</h4>
+<p>Hier finden Sie ein paar Fragen, die Ihnen dabei helfen kï¿½nnen, diese Regel besser zu verstehen.</h4>
 <br>
 <div class="faqsList">
 <ol>
@@ -182,33 +182,33 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="hr"></div>
 <a name="why"></a>
 <span class="title">1. Warum gibt es diese Regel? </span>
-<p>Die Werbung über den kostenlosen Spielen ermöglicht es uns, diese auch weiterhin kostenlos anzubieten. Die Anbieter der Werbung sind diejenigen, die es Ihnen ermöglichen, die Spiele kostenlos zu spielen, also sperren Sie bitte nicht ihre Werbung.</p>
+<p>Die Werbung ï¿½ber den kostenlosen Spielen ermï¿½glicht es uns, diese auch weiterhin kostenlos anzubieten. Die Anbieter der Werbung sind diejenigen, die es Ihnen ermï¿½glichen, die Spiele kostenlos zu spielen, also sperren Sie bitte nicht ihre Werbung.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="advert"></a>
 <span class="title">2. Was kann ich denn machen, wenn ich eine Werbung unangebracht finde? </span>
-<p>Wenn Sie der Meinung sind, dass eine Werbung unpassend oder unangebracht ist, dann klicken Sie bitte auf das Fragezeichen rechts unten neben der Werbung. Das wird ein Fenster öffnen, das Ihnen nähere Informationen über das Melden von unangebrachter Werbung gibt.</p>
-<p>Sobald wir diese Meldung von Ihnen bekommen haben, können wir den Inhalt der Werbung überprüfen. Wir möchten nicht, dass die Werbung auf unserer Seite von unseren Spielern als unangebracht oder unpassend empfunden wird.</p>
+<p>Wenn Sie der Meinung sind, dass eine Werbung unpassend oder unangebracht ist, dann klicken Sie bitte auf das Fragezeichen rechts unten neben der Werbung. Das wird ein Fenster ï¿½ffnen, das Ihnen nï¿½here Informationen ï¿½ber das Melden von unangebrachter Werbung gibt.</p>
+<p>Sobald wir diese Meldung von Ihnen bekommen haben, kï¿½nnen wir den Inhalt der Werbung ï¿½berprï¿½fen. Wir mï¿½chten nicht, dass die Werbung auf unserer Seite von unseren Spielern als unangebracht oder unpassend empfunden wird.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="slow"></a>
 <span class="title">3. Und wenn diese Werbung meinen PC langsamer macht? </span>
-<p>Bestimmte animierte Werbungen können Ihren PC langsamer machen, während sie angezeigt werden. Das liegt daran, dass der PC die Animation abspielt und daher weniger Ressourcen für das Spiel zur Verfügung stehen.</p>
-<p>Die meisten Werbungen werden keinen bemerkbaren Effekt haben, aber ein paar Werbungen benutzen komplexe Animationen, bei denen es zu Verzögerungen im Spielfluss kommen kann. Um diesen Effekt zu verringern, müssen Sie diese Art von Werbung nur rechtsklicken und die Option 'niedrige Qualität' im Kontextmenü auswählen.</p>
-<p>Wenn Sie der Meinung sind, dass eine Werbung auch danach noch negativen Einfluss auf die Spielqualität hat, dann melden Sie sie uns bitte. Klicken Sie auf das Fragezeichen rechts unten neben der Werbung. Das wird ein Fenster öffnen, das Ihnen nähere Informationen über das Melden von Werbung gibt.</p>
-<p>Um mehr über die Werbung zu erfahren, <a href="http://www.funorb.com/l=1/g=vertigo2/kbase/guid/advertising">hier klicken</a>.</p>
-<p><i>Wir sind ständig bestrebt, die Atmosphäre auf FunOrb für alle Spieler so angenehm wie möglich zu gestalten. Bitte halten Sie sich also an diese Regel. Störende Spieler werden nicht geduldet und bei Regelverstößen kann es passieren, dass Ihr Spielkonto permanent gesperrt oder stummgeschaltet wird. Mitglieder, deren Spielkonto gesperrt oder stummgeschaltet wurde, haben keinen Anspruch auf Rückerstattung der von ihnen bezahlten Gebühren.</i></p>
+<p>Bestimmte animierte Werbungen kï¿½nnen Ihren PC langsamer machen, wï¿½hrend sie angezeigt werden. Das liegt daran, dass der PC die Animation abspielt und daher weniger Ressourcen fï¿½r das Spiel zur Verfï¿½gung stehen.</p>
+<p>Die meisten Werbungen werden keinen bemerkbaren Effekt haben, aber ein paar Werbungen benutzen komplexe Animationen, bei denen es zu Verzï¿½gerungen im Spielfluss kommen kann. Um diesen Effekt zu verringern, mï¿½ssen Sie diese Art von Werbung nur rechtsklicken und die Option 'niedrige Qualitï¿½t' im Kontextmenï¿½ auswï¿½hlen.</p>
+<p>Wenn Sie der Meinung sind, dass eine Werbung auch danach noch negativen Einfluss auf die Spielqualitï¿½t hat, dann melden Sie sie uns bitte. Klicken Sie auf das Fragezeichen rechts unten neben der Werbung. Das wird ein Fenster ï¿½ffnen, das Ihnen nï¿½here Informationen ï¿½ber das Melden von Werbung gibt.</p>
+<p>Um mehr ï¿½ber die Werbung zu erfahren, <a href="../../../l=1/g=vertigo2/kbase/guid/advertising">hier klicken</a>.</p>
+<p><i>Wir sind stï¿½ndig bestrebt, die Atmosphï¿½re auf FunOrb fï¿½r alle Spieler so angenehm wie mï¿½glich zu gestalten. Bitte halten Sie sich also an diese Regel. Stï¿½rende Spieler werden nicht geduldet und bei Regelverstï¿½ï¿½en kann es passieren, dass Ihr Spielkonto permanent gesperrt oder stummgeschaltet wird. Mitglieder, deren Spielkonto gesperrt oder stummgeschaltet wurde, haben keinen Anspruch auf Rï¿½ckerstattung der von ihnen bezahlten Gebï¿½hren.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -217,25 +217,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=vertigo2/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../g=vertigo2/index.ws"><img alt="
+English" src="../../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=vertigo2/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../../l=1/g=vertigo2/index.ws"><img alt="
+Deutsch" src="../../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=vertigo2/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../../l=2/g=vertigo2/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=vertigo2/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../../l=3/g=vertigo2/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/g=vertigo2/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/g=vertigo2/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/g=vertigo2/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/g=vertigo2/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=vertigo2/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=vertigo2/" target="_blank"><img src="../../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

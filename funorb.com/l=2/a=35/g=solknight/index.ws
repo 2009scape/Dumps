@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2010 Jagex Ltd, www.jagex.com">
@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/a=35/g=solknight/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/a=35/g=solknight/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/a=35/g=solknight/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/a=35/g=solknight/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=35/css/global-41.css);/**/
+  /*\*/@import url(../../../l=2/a=35/css/global-41.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=2/a=35/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=35/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/a=35/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -35,7 +35,7 @@
 
 </style>
 
-<link rel="stylesheet" type="text/css" href="http://www.funorb.com/l=2/a=35/css/home-13.css" media="all">
+<link rel="stylesheet" type="text/css" href="../../../l=2/a=35/css/home-13.css" media="all">
 <script type="text/javascript" src="http://www.jagex.com/l=2/a=35/js/jquery/jquery_ui_1_8_2_core_accordion_tabs_effects.js"></script>
 <script type="text/javascript">$(function(){
 
@@ -61,14 +61,14 @@
  });
 
 })</script>
-<script type="text/javascript" src="http://www.funorb.com/l=2/a=35/css/swfobject-0.js"></script>
+<script type="text/javascript" src="../../../l=2/a=35/css/swfobject-0.js"></script>
 <script type="text/javascript">
  var flashver = "6.0.0";
  /* WMODE (necessary for drop down menus to draw above the banner) only implemented by Flash 10 beta and upwards on linux */
  if(navigator.platform && navigator.platform.toLowerCase().indexOf('linux') != -1){
   flashver = "10.0.0";
  }
- swfobject.embedSWF("http://www.funorb.com/l=2/img/images/game/voidhunters/release.swf?1", "releaseBanner", "432", "167", flashver, "", "", {wmode:"opaque"});
+ swfobject.embedSWF("../../../l=2/img/images/game/voidhunters/release.swf?1", "releaseBanner", "432", "167", flashver, "", "", {wmode:"opaque"});
 </script>
 <!--[if IE]>
 <style type="text/css">
@@ -92,7 +92,7 @@
   }
  }
 </script>
-<link rel="alternate" type="application/rss+xml" title="FunOrb - Nouveautés" href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/latest_news.rss">
+<link rel="alternate" type="application/rss+xml" title="FunOrb - Nouveautï¿½s" href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/latest_news.rss">
 </head>
 <body id="navHome">
 <a name="top"></a>
@@ -103,7 +103,7 @@
 <div class="affiliate_header">
 <p>En association avec</p>
 <a target="_parent" href="http://www.wildgames.com">
-<img src="http://www.funorb.com/l=2/img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="Logo HP Laptop"/>
+<img src="../../../l=2/img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="Logo HP Laptop"/>
 </a>
 </div>
 <div class="bodyBackground">
@@ -115,25 +115,25 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="affiliate">
-<a id="logo" href="http://www.funorb.com/l=2/a=35/g=solknight/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/a=35/g=solknight/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=2/img/affil/partners/hp.gif" alt="HP Laptop" />
+<img id="afflogo" src="../../../l=2/img/affil/partners/hp.gif" alt="HP Laptop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=35/g=solknight/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/a=35/g=solknight/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/a=35/g=solknight/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -141,67 +141,67 @@
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="https://secure.funorb.com/m=create/l=2/a=35/g=solknight/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="https://secure.funorb.com/m=create/l=2/a=35/g=solknight/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=35/g=solknight/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=35/g=solknight/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/a=35/g=solknight/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/a=35/g=solknight/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/a=35/g=solknight/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/a=35/g=solknight/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/a=35/g=solknight/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=35/g=solknight/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=35/g=solknight/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=35/g=solknight/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/a=35/g=solknight/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/a=35/g=solknight/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/a=35/g=solknight/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://secure.funorb.com/m=create/l=2/a=35/g=solknight/" id="register" class="top_link"><span>Créer un compte</span></a></li>
+<li class="top p7"><a href="https://secure.funorb.com/m=create/l=2/a=35/g=solknight/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/a=35/g=solknight/loginform.ws?mod=www&amp;ssl=0&amp;dest=index.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=35/g=solknight/index.ws">
+<a id="countrydrop" href="../../../l=2/a=35/g=solknight/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=35/g=solknight/index.ws"><img title="
+<li><a class="fly" href="../../../a=35/g=solknight/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=35/g=solknight/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=35/g=solknight/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=35/g=solknight/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=35/g=solknight/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=35/g=solknight/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=35/g=solknight/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -212,22 +212,22 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="rght"></div>
 <div style="padding-top:16px;">
 <div id="release">
-<img id="releaseBanner" src="http://www.funorb.com/l=2/img/images/game/voidhunters/release.jpg" alt="" />
-<a onclick="suffixize(this)" class="releasePlayMe" href="http://www.funorb.com/l=2/a=35/g=solknight/voidhunters/play.ws"></a>
+<img id="releaseBanner" src="../../../l=2/img/images/game/voidhunters/release.jpg" alt="" />
+<a onclick="suffixize(this)" class="releasePlayMe" href="../../../l=2/a=35/g=solknight/voidhunters/play.ws"></a>
 <div class="text">
 <div class="title">Void Hunters</div>
 <div class="genre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
 </div>
 </div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=voidhunters"></a>
-<a onclick="suffixize(this)" class="buttonPlay" href="http://www.funorb.com/l=2/a=35/g=solknight/voidhunters/play.ws">Jouer</a>
+<a class="buttonInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=voidhunters"></a>
+<a onclick="suffixize(this)" class="buttonPlay" href="../../../l=2/a=35/g=solknight/voidhunters/play.ws">Jouer</a>
 </div>
 </div>
 <div id="devDiary">
 <h2 id="devTitle">Arm&eacute;es de Gi&eacute;linor</h2>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/armiesofgielinor/play.ws"><img src="http://www.funorb.com/l=2/img/images/news/2010-07-06_aog.png" alt="Arm&eacute;es de Gi&eacute;linor" /></a>
+<a href="../../../l=2/a=35/g=solknight/armiesofgielinor/play.ws"><img src="../../../l=2/img/images/news/2010-07-06_aog.png" alt="Arm&eacute;es de Gi&eacute;linor" /></a>
 </div>
 </div>
 </div>
@@ -238,7 +238,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <h2 class="sectionTitle">
 <span>Top 10</span>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws">Tous les jeux</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws">Tous les jeux</a>
 </h2>
 </div>
 </div>
@@ -263,28 +263,28 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionBackground">
 <div class="sectionContent" >
 
-<h3 class="newsHead selected" id="newsHeadFirst"><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3239">Réservé aux abonnés : bêta de Void Hunters</a><span>21-juil-2010</span></h3>
+<h3 class="newsHead selected" id="newsHeadFirst"><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3239">Rï¿½servï¿½ aux abonnï¿½s : bï¿½ta de Void Hunters</a><span>21-juil-2010</span></h3>
 <div class="newsBody" id="newsBodyFirst">
-<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3239"><img src="http://www.funorb.com/l=2/img/images/game/voidhunters/news.png" alt="" /></a>
+<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3239"><img src="../../../l=2/img/images/game/voidhunters/news.png" alt="" /></a>
 <p>Dans Void Hunters, construisez votre vaisseau et rejoignez l'immense champ de bataille spatial. <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3239">En savoir&nbsp;plus... </a></p>
 </div>
 
 <h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3228">Journal intime de Tom Bracer</a><span>15-juil-2010</span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3228"><img src="http://www.funorb.com/l=2/img/images/game/tombracer/news.png" alt="" /></a>
-<p>(Euh, en fait, ce n'est pas un journal intime, c'est juste le journal des développeurs de Tomb Racer !) <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3228">En savoir&nbsp;plus... </a></p>
+<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3228"><img src="../../../l=2/img/images/game/tombracer/news.png" alt="" /></a>
+<p>(Euh, en fait, ce n'est pas un journal intime, c'est juste le journal des dï¿½veloppeurs de Tomb Racer !) <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3228">En savoir&nbsp;plus... </a></p>
 </div>
 
 <h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3210">MAJ de Miner Disturbance sur iPhone</a><span>08-juil-2010</span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3210"><img src="http://www.funorb.com/l=2/img/news/fo_minerdisturbance_iphone.png" alt="" /></a>
-<p>Nous avons mis à jour notre dernier jeu iPhone, Miner Disturbance (Mineur en péril). Venez découvrir tout un tas de nouveautés ! <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3210">En savoir&nbsp;plus... </a></p>
+<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3210"><img src="../../../l=2/img/news/fo_minerdisturbance_iphone.png" alt="" /></a>
+<p>Nous avons mis ï¿½ jour notre dernier jeu iPhone, Miner Disturbance (Mineur en pï¿½ril). Venez dï¿½couvrir tout un tas de nouveautï¿½s ! <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3210">En savoir&nbsp;plus... </a></p>
 </div>
 
-<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198">Les jeux FunOrb de l'été approchent</a><span>05-juil-2010</span></h3>
+<h3 class="newsHead " ><a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198">Les jeux FunOrb de l'ï¿½tï¿½ approchent</a><span>05-juil-2010</span></h3>
 <div class="newsBody" >
-<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198"><img src="http://www.funorb.com/l=2/img/news/generic.jpg" alt="" /></a>
-<p>Alors que certains d’entre vous courent encore sur les terrains de Kickabout League, nous profitons de la folie football pour vous annoncer l’événement FunOrb de l’été : les jeux de l’été ! <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198">En savoir&nbsp;plus... </a></p>
+<a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198"><img src="../../../l=2/img/news/generic.jpg" alt="" /></a>
+<p>Alors que certains dï¿½entre vous courent encore sur les terrains de Kickabout League, nous profitons de la folie football pour vous annoncer lï¿½ï¿½vï¿½nement FunOrb de lï¿½ï¿½tï¿½ : les jeux de lï¿½ï¿½tï¿½ ! <a href="http://services.funorb.com/m=news/l=2/a=35/g=solknight/newsitem.ws?id=3198">En savoir&nbsp;plus... </a></p>
 </div>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -292,169 +292,169 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="community">
-<h2><a href="http://services.funorb.com/m=forum_fo/l=2/a=35/g=solknight/forums.ws?82,83,5,70456"><img src="http://www.funorb.com/l=2/img/images/home/arcanist_ad.png" alt="Win a Dell laptop!" onmouseover="this.src='http://www.funorb.com/l=2/img/images/home/arcanist_ad_roll.png'" onmouseout="this.src='http://www.funorb.com/l=2/img/images/home/arcanist_ad.png'" /></a>
+<h2><a href="http://services.funorb.com/m=forum_fo/l=2/a=35/g=solknight/forums.ws?82,83,5,70456"><img src="../../../l=2/img/images/home/arcanist_ad.png" alt="Win a Dell laptop!" onmouseover="this.src='../../../l=2/img/images/home/arcanist_ad_roll.png'" onmouseout="this.src='../../../l=2/img/images/home/arcanist_ad.png'" /></a>
 </div>
 </div>
 <ol id="gamesList">
 <li class="gamesBig first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/arcanistsmulti/play.ws" onclick="suffixize(this)">1. Arcanistes</a>
+<a href="../../../l=2/a=35/g=solknight/arcanistsmulti/play.ws" onclick="suffixize(this)">1. Arcanistes</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/arcanistsmulti/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/arcanistsmulti/massive.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/arcanistsmulti/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/arcanistsmulti/massive.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=arcanistsmulti"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/arcanistsmulti/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=arcanistsmulti"><img src="../../../l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/arcanistsmulti/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesBig ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/armiesofgielinor/play.ws" onclick="suffixize(this)">2. Armées de Giélinor</a>
+<a href="../../../l=2/a=35/g=solknight/armiesofgielinor/play.ws" onclick="suffixize(this)">2. Armï¿½es de Giï¿½linor</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/armiesofgielinor/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/armiesofgielinor/massive.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/armiesofgielinor/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/armiesofgielinor/massive.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=armiesofgielinor"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/armiesofgielinor/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=armiesofgielinor"><img src="../../../l=2/img/images/home/games_buttons_big_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/armiesofgielinor/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/kickabout/play.ws" onclick="suffixize(this)">3. Kickabout League</a>
+<a href="../../../l=2/a=35/g=solknight/kickabout/play.ws" onclick="suffixize(this)">3. Kickabout League</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/kickabout/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/kickabout/smedium.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/kickabout/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/kickabout/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=sport">Sport</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=sport">Sport</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=kickabout"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/kickabout/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=kickabout"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/kickabout/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/tombracer/play.ws" onclick="suffixize(this)">4. Tomb Racer</a>
+<a href="../../../l=2/a=35/g=solknight/tombracer/play.ws" onclick="suffixize(this)">4. Tomb Racer</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/tombracer/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/tombracer/smedium.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/tombracer/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/tombracer/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=tombracer"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/tombracer/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=tombracer"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/tombracer/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesMedium ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/steelsentinels/play.ws" onclick="suffixize(this)">5. Steel Sentinels</a>
+<a href="../../../l=2/a=35/g=solknight/steelsentinels/play.ws" onclick="suffixize(this)">5. Steel Sentinels</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/steelsentinels/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/steelsentinels/smedium.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/steelsentinels/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/steelsentinels/smedium.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=steelsentinels"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/steelsentinels/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=steelsentinels"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/steelsentinels/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall first">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws" onclick="suffixize(this)">6. Hostile Spawn</a>
+<a href="../../../l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws" onclick="suffixize(this)">6. Hostile Spawn</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/tiny.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/hostilespawn_vengeance/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=1">Solo</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=shooter">Jeu de tir</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=1">Solo</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=shooter">Jeu de tir</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=hostilespawn_vengeance"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=hostilespawn_vengeance"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/hostilespawn_vengeance/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/pixelate/play.ws" onclick="suffixize(this)">7. Pixel'Art</a>
+<a href="../../../l=2/a=35/g=solknight/pixelate/play.ws" onclick="suffixize(this)">7. Pixel'Art</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/pixelate/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/pixelate/tiny.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/pixelate/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/pixelate/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=puzzle">Logique</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=0">Solo/Multi</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=puzzle">Logique</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=pixelate"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/pixelate/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=pixelate"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/pixelate/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/bachelorfridge/play.ws" onclick="suffixize(this)">8. Bachelor Fridge</a>
+<a href="../../../l=2/a=35/g=solknight/bachelorfridge/play.ws" onclick="suffixize(this)">8. Bachelor Fridge</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/bachelorfridge/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/bachelorfridge/tiny.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/bachelorfridge/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/bachelorfridge/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=bachelorfridge"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/bachelorfridge/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=bachelorfridge"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/bachelorfridge/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/minerdisturbance/play.ws" onclick="suffixize(this)">9. Mineur en péril</a>
+<a href="../../../l=2/a=35/g=solknight/minerdisturbance/play.ws" onclick="suffixize(this)">9. Mineur en pï¿½ril</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/minerdisturbance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/minerdisturbance/tiny.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/minerdisturbance/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/minerdisturbance/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=1">Solo</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=1">Solo</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=action">Action</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=minerdisturbance"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/minerdisturbance/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=minerdisturbance"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/minerdisturbance/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall ">
 <div class="gamesName"><table><tr><td>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/dungeonassault/play.ws" onclick="suffixize(this)">10. Dungeon Assault</a>
+<a href="../../../l=2/a=35/g=solknight/dungeonassault/play.ws" onclick="suffixize(this)">10. Dungeon Assault</a>
 </td></tr></table></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/dungeonassault/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/game/dungeonassault/tiny.jpg?1" alt="" /></a>
+<a href="../../../l=2/a=35/g=solknight/dungeonassault/play.ws" onclick="suffixize(this)"><img class="gamesIcon" src="../../../l=2/img/images/game/dungeonassault/tiny.jpg?1" alt="" /></a>
 <div class="gamesGenre">
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratégie</a>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws?playerBox=2">Multijoueur</a> - <a href="../../../l=2/a=35/g=solknight/gamelist.ws?genreBox=strategy">Stratï¿½gie</a>
 </div>
 <div class="gamesButtons">
-<a class="gamesInfo" href="http://www.funorb.com/l=2/a=35/g=solknight/info.ws?game=dungeonassault"><img src="http://www.funorb.com/l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
-<a class="gamesPlay" onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=35/g=solknight/dungeonassault/play.ws">Jouer</a>
+<a class="gamesInfo" href="../../../l=2/a=35/g=solknight/info.ws?game=dungeonassault"><img src="../../../l=2/img/images/home/games_buttons_info.png" alt="En savoir plus..." /></a>
+<a class="gamesPlay" onclick="suffixize(this)" href="../../../l=2/a=35/g=solknight/dungeonassault/play.ws">Jouer</a>
 </div>
 </li>
 <li class="gamesSmall" id="gamesAll">
-<div class="gamesName"><a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws">Autres jeux</a></div>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws"><img class="gamesIcon" src="http://www.funorb.com/l=2/img/images/home/games_all.jpg" alt="" /></a>
-<a class="gamesButtons" href="http://www.funorb.com/l=2/a=35/g=solknight/gamelist.ws">Liste complète</a>
+<div class="gamesName"><a href="../../../l=2/a=35/g=solknight/gamelist.ws">Autres jeux</a></div>
+<a href="../../../l=2/a=35/g=solknight/gamelist.ws"><img class="gamesIcon" src="../../../l=2/img/images/home/games_all.jpg" alt="" /></a>
+<a class="gamesButtons" href="../../../l=2/a=35/g=solknight/gamelist.ws">Liste complï¿½te</a>
 </li>
 </ol>
 <br class="clear" />
 <div id="pageContentFooter" class="sectionFooter"><div></div></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=35/g=solknight/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../a=35/g=solknight/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=35/g=solknight/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/a=35/g=solknight/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=35/g=solknight/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/a=35/g=solknight/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=35/g=solknight/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/a=35/g=solknight/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2010 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=35/g=solknight/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=35/g=solknight/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/a=35/g=solknight/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/a=35/g=solknight/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/a=35/g=solknight/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/a=35/g=solknight/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=18/css/global-3.css);/**/
+  /*\*/@import url(../../l=1/a=18/css/global-3.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=18/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=18/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=18/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/a=18/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -44,12 +44,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=18/css/info-2.css");/**/
+ /*\*/@import url("../../l=1/a=18/css/info-2.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/intro.jpg);
+  background-image: url(../../l=1/a=18/img/images/game/zombiedawn/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/a=18/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=1/a=18/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -61,10 +61,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen4.jpg';
+images[0] = '../../l=1/a=18/img/images/game/zombiedawn/screen1.jpg';
+images[1] = '../../l=1/a=18/img/images/game/zombiedawn/screen2.jpg';
+images[2] = '../../l=1/a=18/img/images/game/zombiedawn/screen3.jpg';
+images[3] = '../../l=1/a=18/img/images/game/zombiedawn/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -128,7 +128,7 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=1/a=18/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -141,15 +141,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=18/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=18/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=18/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=18/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=18/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=18/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=18/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/a=18/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/a=18/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -157,8 +157,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=18/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=18/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -167,33 +167,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=18/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=18/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=18/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=18/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=18/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=18/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=18/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=18/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=18/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
+<li><a href="../../l=1/a=18/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=18/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/a=18/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=18/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=zombiedawn" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=zombiedawn" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../a=18/index.ws"><img src="../../l=1/a=18/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../l=1/a=18/index.ws"><img src="../../l=1/a=18/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -209,13 +209,13 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=18/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=18/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=18/zombiedawn/play.ws">Zombie-Meister</a> &gt;
+<a href="../../l=1/a=18/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=18/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a name="link0" id="link0" href="../../l=1/a=18/zombiedawn/play.ws">Zombie-Meister</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=18/zombiedawn/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=18/zombiedawn/serverlist.ws">Serverliste</a>
 </span>
 </div>
 </div>
@@ -227,12 +227,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=18/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kontrolliert Zombie-Horden, stiftet Chaos unter den 'Nicht-Toten' und erobert die Welt! </div>
+<a href="../../l=1/a=18/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kontrolliert Zombie-Horden, stiftet Chaos unter den 'Nicht-Toten' und erobert die Welt! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/a=18/"><div>Kontoerstellung</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=18/zombiedawn/play.ws"></a>
+<a name="link1" id="link1" class="buttonPlayBig" href="../../l=1/a=18/zombiedawn/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
@@ -243,23 +243,23 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/a=18/img/images/game/zombiedawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen1_thumb.jpg);">
+<a href="../../l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/a=18/img/images/game/zombiedawn/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen2_thumb.jpg);">
+<a href="../../l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/a=18/img/images/game/zombiedawn/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen3_thumb.jpg);">
+<a href="../../l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/a=18/img/images/game/zombiedawn/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=18/img/images/game/zombiedawn/screen4_thumb.jpg);">
+<a href="../../l=1/a=18/display_screenshot.ws?dirname=zombiedawn&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/a=18/img/images/game/zombiedawn/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -278,13 +278,13 @@ Mehr Infos </span>
 <ul>
 <li>24 Level voller Zombiechaos</li>
 <li>3 unterschiedliche Bonus-Level</li>
-<li>Erobert das Weiße Haus</li>
-<li>Unzählige Extra-Erfolge</li>
+<li>Erobert das Weiï¿½e Haus</li>
+<li>Unzï¿½hlige Extra-Erfolge</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -297,7 +297,7 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Die Apokalypse der Untoten ist nah... und ihr müsst sie zu Ende führen... Als Befehlshaber über eine Zombie-Horde müsst ihr euch durch ein Einkaufszentrum, ein Kraftwerk, eine Polizeistation schlurfen, um schließlich das Weiße Haus zu stürmen und die Menschheit zu überwältigen. Zombie-Meister ist voller Action, Strategie, Puzzle und Untoten-Spaß!</p>
+<p>Die Apokalypse der Untoten ist nah... und ihr mï¿½sst sie zu Ende fï¿½hren... Als Befehlshaber ï¿½ber eine Zombie-Horde mï¿½sst ihr euch durch ein Einkaufszentrum, ein Kraftwerk, eine Polizeistation schlurfen, um schlieï¿½lich das Weiï¿½e Haus zu stï¿½rmen und die Menschheit zu ï¿½berwï¿½ltigen. Zombie-Meister ist voller Action, Strategie, Puzzle und Untoten-Spaï¿½!</p>
 </div>
 </div>
 </div>
@@ -328,39 +328,39 @@ Mehr Infos </span>
 <p>Es gibt insgesamt 8 Extras:</p>
 <ul>
 <li>Fluch - verwandelt einen Menschen sofort in einem Zombie</li>
-<li>Explosion - Zombie und alles in der Nähe explodiert</li>
-<li>Verkleidung - Menschen laufen nicht davon... bis es zu spät ist</li> <li>Schmelze - Zombie schmilzt zu einer klebrigen Masse, welche Menschen verlangsamt</li>
-<li>Phantom - hinterlässt einen Geist des Zombies, den Menschen wie normale Zombies ansehen</li>
-<li>Schrei - Menschen bleiben für 15 Sekunden wie angewurzelt stehen</li>
+<li>Explosion - Zombie und alles in der Nï¿½he explodiert</li>
+<li>Verkleidung - Menschen laufen nicht davon... bis es zu spï¿½t ist</li> <li>Schmelze - Zombie schmilzt zu einer klebrigen Masse, welche Menschen verlangsamt</li>
+<li>Phantom - hinterlï¿½sst einen Geist des Zombies, den Menschen wie normale Zombies ansehen</li>
+<li>Schrei - Menschen bleiben fï¿½r 15 Sekunden wie angewurzelt stehen</li>
 <li>Geschwindigkeit - verdoppelt die Schlurfgeschwindigkeit deiner Zombies</li>
-<li>Stärke - es werden 3 Schüsse benötigt, um einen Zombie zu zerstören</li>
+<li>Stï¿½rke - es werden 3 Schï¿½sse benï¿½tigt, um einen Zombie zu zerstï¿½ren</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Ich habe den Level vermasselt. Was soll ich unternehmen?</h3>
-<p>Du kannst den Level bis zu drei mal neustarten. Dazu musst du nur 'ESC' drücken und 'Neustart' auswählen.</p>
+<p>Du kannst den Level bis zu drei mal neustarten. Dazu musst du nur 'ESC' drï¿½cken und 'Neustart' auswï¿½hlen.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Wo kommen die Soldaten her?</h3>
-<p>Auf fast jedem Level nach dem Einkaufszentrum müsst ihr das Zeitlimit einhalten, um alle Menschen zu zombifizieren. Die Soldaten positionieren sich zwischenzeitlich in den Tunneln und Kellern unter dem Level und stürmen aus der Luke, sobald die Zeit abgelaufen ist.</p>
+<p>Auf fast jedem Level nach dem Einkaufszentrum mï¿½sst ihr das Zeitlimit einhalten, um alle Menschen zu zombifizieren. Die Soldaten positionieren sich zwischenzeitlich in den Tunneln und Kellern unter dem Level und stï¿½rmen aus der Luke, sobald die Zeit abgelaufen ist.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Wie kann ich mein Ergebnis verbessern?</h3>
-<p>Die verängstigten Menschen sollten mit deiner übermächtigen Menge an Zombies überwältigt werden, aber ein paar von ihnen kämpfen auch zurück und zerstören deine Schlurfer. Versuche einen Level mit einer heimlicheren Taktik abzuschließen. Je mehr Zombies überleben, desto mehr Punkte erhältst du. Die Geschwindigkeit, in der ein Level abgeschlossen wird ist auch sehr wichtig.</p>
+<p>Die verï¿½ngstigten Menschen sollten mit deiner ï¿½bermï¿½chtigen Menge an Zombies ï¿½berwï¿½ltigt werden, aber ein paar von ihnen kï¿½mpfen auch zurï¿½ck und zerstï¿½ren deine Schlurfer. Versuche einen Level mit einer heimlicheren Taktik abzuschlieï¿½en. Je mehr Zombies ï¿½berleben, desto mehr Punkte erhï¿½ltst du. Die Geschwindigkeit, in der ein Level abgeschlossen wird ist auch sehr wichtig.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>500 MHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<br> Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen. <br><br>
-<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden. <br><br>
-<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
+<br> Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen. <br><br>
+<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden. <br><br>
+<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/a=18/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -374,11 +374,11 @@ Mehr Infos </span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=18/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=18/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=18/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=18/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/a=18/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

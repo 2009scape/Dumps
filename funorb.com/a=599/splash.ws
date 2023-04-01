@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/a=599/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/a=599/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../a=599/favicon.ico">
+<link rel="SHORTCUT ICON" href="../a=599/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=599/css/global-44.css);/**/
+  /*\*/@import url(../a=599/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/a=599/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=599/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../a=599/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
  body {
@@ -51,7 +51,7 @@
   width: 776px;
   height: 540px;
   margin: 15px 0px 0px 0px;
-  background: black url(http://www.funorb.com/img/images/splash/splashdrop.jpg) no-repeat;
+  background: black url(../img/images/splash/splashdrop.jpg) no-repeat;
   font-size: 0px; /* Stop IE adding gap due to whitespace between #title and #list */
   position: relative;
  }
@@ -80,7 +80,7 @@
 
  #splashList li {
   padding: 0px 0px 14px 18px;
-  background: transparent url(http://www.funorb.com/img/images/splash/bullet.gif) no-repeat 0px 3px;
+  background: transparent url(../img/images/splash/bullet.gif) no-repeat 0px 3px;
  }
 
  #splashPlayNow {
@@ -90,7 +90,7 @@
   left: 16px;
   width: 314px;
   height: 101px;
-  background: transparent url(http://www.funorb.com/img/images/splash/playnow.jpg) top no-repeat;
+  background: transparent url(../img/images/splash/playnow.jpg) top no-repeat;
  }
 
  #splashPlayNow:hover {
@@ -110,7 +110,7 @@
   left: 335px;
   width: 440px;
   height: 100px;
-  background: transparent url(http://www.funorb.com/img/images/splash/createnow.jpg) top no-repeat;
+  background: transparent url(../img/images/splash/createnow.jpg) top no-repeat;
  }
 
  #splashCreateNow:hover {
@@ -130,7 +130,7 @@
   left: 64px;
   width: 648px;
   height: 100px;
-  background: transparent url(http://www.funorb.com/img/images/splash/createonly.jpg) top no-repeat;
+  background: transparent url(../img/images/splash/createonly.jpg) top no-repeat;
  }
 
  #splashCreateOnly:hover {
@@ -173,7 +173,7 @@
 <div id="container">
 <div>
 <div id="splash">
-<a id="splashLogo" href="http://www.funorb.com/a=599/" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/Title'); } catch(err){}"><img src="http://www.funorb.com/img/images/splash/splashlogo.jpg" alt="FunOrb"></a>
+<a id="splashLogo" href="../a=599/" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/Title'); } catch(err){}"><img src="../img/images/splash/splashlogo.jpg" alt="FunOrb"></a>
 <ul id="splashList">
 <li>The new online gaming portal </li>
 <li>Explore a huge range of single and multiplayer games</li>
@@ -184,37 +184,37 @@
 <li>Access and play new content with regular updates</li>
 <li>Improve your scores anywhere, any time!</li>
 </ul>
-<a id="splashPlayNow" href="http://www.funorb.com/a=599/gamelist.ws" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/PlayFree'); } catch(err){}"><img id="splashPlayNowText" src="http://www.funorb.com/img/images/splash/PlayNowText.png" alt="Play for free now"></a>
-<a id="splashCreateNow" href="https://secure.funorb.com/m=create/a=599/" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/CreateAccount'); } catch(err){}"><img id="splashCreateNowText" src="http://www.funorb.com/img/images/splash/CreateNowText.png" alt="Create a free account now"></a>
+<a id="splashPlayNow" href="../a=599/gamelist.ws" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/PlayFree'); } catch(err){}"><img id="splashPlayNowText" src="../img/images/splash/PlayNowText.png" alt="Play for free now"></a>
+<a id="splashCreateNow" href="https://secure.funorb.com/m=create/a=599/" onClick="javascript: try { pageTracker._trackPageview('/splashpage/l=0/CreateAccount'); } catch(err){}"><img id="splashCreateNowText" src="../img/images/splash/CreateNowText.png" alt="Create a free account now"></a>
 </div>
 </div>
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=599/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../a=599/index.ws"><img alt="
+English" src="../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=599/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../l=1/a=599/index.ws"><img alt="
+Deutsch" src="../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=599/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../l=2/a=599/index.ws"><img alt="
+Fran&ccedil;ais" src="../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=599/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../l=3/a=599/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=599/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=599/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../a=599/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../a=599/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/a=599/p=ftVUb3ZTtpPB7H6LqG1ya8HsfouobXJrfmTNLYm4TtE/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/a=599/p=ftVUb3ZTtpPB7H6LqG1ya8HsfouobXJrfmTNLYm4TtE/" target="_blank"><img src="../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

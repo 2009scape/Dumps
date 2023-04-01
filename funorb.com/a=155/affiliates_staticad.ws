@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>RuneScape - the massive online adventure game by Jagex Ltd.</title>
-<script src="http://www.funorb.com/a=155/css/AC_OETags-1.js" type="text/javascript"></script>
+<script src="../a=155/css/AC_OETags-1.js" type="text/javascript"></script>
 <style type="text/css">
    html{margin:0;padding:0;}
    body{margin:0;padding:0;background:transparent;}
@@ -13,7 +13,7 @@
 </head>
 <body>
 <a href="http://www.runescape.com/a=155/" target="_blank">
-<img src="http://www.funorb.com/img/images/adverts/runescape_banner.jpg" alt="RuneScape - Play Now!">
+<img src="../img/images/adverts/runescape_banner.jpg" alt="RuneScape - Play Now!">
 </a>
 </body>
 </html>

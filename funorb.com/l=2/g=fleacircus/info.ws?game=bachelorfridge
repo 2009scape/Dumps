@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=fleacircus/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=fleacircus/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=fleacircus/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=fleacircus/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/bachelorfridge/intro.jpg);
+  background-image: url(../../l=2/img/images/game/bachelorfridge/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen4.jpg?1';
+images[0] = '../../l=2/img/images/game/bachelorfridge/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/bachelorfridge/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/bachelorfridge/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/bachelorfridge/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=fleacircus/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=fleacircus/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=fleacircus/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=fleacircus/messenger.js"></script>
 
@@ -154,51 +154,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=fleacircus/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=fleacircus/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=fleacircus/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=fleacircus/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=fleacircus/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=fleacircus/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=fleacircus/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=fleacircus/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=fleacircus/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=fleacircus/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=fleacircus/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=fleacircus/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=fleacircus/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=fleacircus/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=fleacircus/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=fleacircus/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=fleacircus/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=fleacircus/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=fleacircus/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=fleacircus/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=fleacircus/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=fleacircus/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=fleacircus/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=fleacircus/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=fleacircus/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=fleacircus/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=fleacircus/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=fleacircus/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=fleacircus/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=fleacircus/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=bachelorfridge" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=fleacircus/index.ws">
+<a id="countrydrop" href="../../l=2/g=fleacircus/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=fleacircus/index.ws"><img title="
+<li><a class="fly" href="../../g=fleacircus/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=fleacircus/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=fleacircus/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=fleacircus/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=fleacircus/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=fleacircus/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=fleacircus/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws?genreBox=strategy">Stratégie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=fleacircus/bachelorfridge/play.ws">Bachelor Fridge</a> &gt;
+<a href="../../l=2/g=fleacircus/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/g=fleacircus/gamelist.ws?genreBox=strategy">Stratï¿½gie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/g=fleacircus/bachelorfridge/play.ws">Bachelor Fridge</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=fleacircus/bachelorfridge/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/g=fleacircus/bachelorfridge/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -261,38 +261,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/g=fleacircus/gamelist.ws?genreBox=strategy"><span class="genre">Stratégie</span></a><br> Faites l'élevage de créatures dans cet infect frigo<br/>pour devenir le champion de l'arène ! </div>
+<a href="../../l=2/g=fleacircus/gamelist.ws?genreBox=strategy"><span class="genre">Stratï¿½gie</span></a><br> Faites l'ï¿½levage de crï¿½atures dans cet infect frigo<br/>pour devenir le champion de l'arï¿½ne ! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=fleacircus/bachelorfridge/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/g=fleacircus/bachelorfridge/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/bachelorfridge/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen1_thumb.jpg?1);">
+<a href="../../l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/bachelorfridge/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen2_thumb.jpg?1);">
+<a href="../../l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/bachelorfridge/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen3_thumb.jpg?1);">
+<a href="../../l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/bachelorfridge/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/bachelorfridge/screen4_thumb.jpg?1);">
+<a href="../../l=2/g=fleacircus/display_screenshot.ws?game=bachelorfridge&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/bachelorfridge/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Captures d'écran
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Caractéristiques
+Caractï¿½ristiques
 </div>
 </div>
 <div class="subsectionContent">
@@ -311,12 +311,12 @@ Caractéristiques
 <div class="benefitsList">
 <ul>
 
-<li>Créez et faites muter des créatures en combinant jusqu'à 14 aliments</li>
-<li>Parties en ligne jusqu'à 4 joueurs</li>
-<li>3 infâmes plateaux gastronomiques</li>
+<li>Crï¿½ez et faites muter des crï¿½atures en combinant jusqu'ï¿½ 14 aliments</li>
+<li>Parties en ligne jusqu'ï¿½ 4 joueurs</li>
+<li>3 infï¿½mes plateaux gastronomiques</li>
 <li>3 modes de combat</li>
-<li>Compétition en parties classées</li>
-<li>Exploits à collectionner</li>
+<li>Compï¿½tition en parties classï¿½es</li>
+<li>Exploits ï¿½ collectionner</li>
 <li>GRATUIT !</li>
 </ul>
 </div>
@@ -333,9 +333,9 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>En bon célibataire qui se respecte, vous ne videz jamais votre frigo. Votre morceau de fromage très coulant et votre beignet poisseux indécollable sont partis pour rester. Mais depuis quelque temps, il s'y passe de drôles de choses. La saucisse s'est mis à grignoter la salade, les restes de dinde de Noël 1999 ont dévoré votre sandwich au jambon, et quelque chose baigne dans le yaourt de l'année dernière. Il semblerait que de nouvelles formes de vie émergent dans votre frigo sale, toutes aussi agressives que dégoûtantes.</p>
-<p>Bachelor Fridge est un jeu de gestion et de combat qui permet aux propriétaires de frigos effarants de créer des créatures à partir de nourriture moisie, et de les faire participer à des matchs stratégiques multijoueurs.</p>
-<p>Faites muter vos créatures d'une fraîcheur plus que trompeuse, pour leur donner des attaques vicieuses qui vous permettront d'écraser des joueurs du monde entier. Chaque créature est personnalisable selon les aliments qui lui sont donnés. Il y a trois arènes, avec trois modes de combat au choix. Préparez-vous à l'écœurement et au plaisir le plus total avec vos affreuses créatures.</p>
+<p>En bon cï¿½libataire qui se respecte, vous ne videz jamais votre frigo. Votre morceau de fromage trï¿½s coulant et votre beignet poisseux indï¿½collable sont partis pour rester. Mais depuis quelque temps, il s'y passe de drï¿½les de choses. La saucisse s'est mis ï¿½ grignoter la salade, les restes de dinde de Noï¿½l 1999 ont dï¿½vorï¿½ votre sandwich au jambon, et quelque chose baigne dans le yaourt de l'annï¿½e derniï¿½re. Il semblerait que de nouvelles formes de vie ï¿½mergent dans votre frigo sale, toutes aussi agressives que dï¿½goï¿½tantes.</p>
+<p>Bachelor Fridge est un jeu de gestion et de combat qui permet aux propriï¿½taires de frigos effarants de crï¿½er des crï¿½atures ï¿½ partir de nourriture moisie, et de les faire participer ï¿½ des matchs stratï¿½giques multijoueurs.</p>
+<p>Faites muter vos crï¿½atures d'une fraï¿½cheur plus que trompeuse, pour leur donner des attaques vicieuses qui vous permettront d'ï¿½craser des joueurs du monde entier. Chaque crï¿½ature est personnalisable selon les aliments qui lui sont donnï¿½s. Il y a trois arï¿½nes, avec trois modes de combat au choix. Prï¿½parez-vous ï¿½ l'ï¿½cï¿½urement et au plaisir le plus total avec vos affreuses crï¿½atures.</p>
 </div>
 </div>
 </div>
@@ -344,78 +344,78 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Sur quel système de tour les combats dans l'arène fonctionnent-ils ?</a></li>
-<li><a href="#faqs_q2">Comment donner à mes créatures plus de compétences d'attaque et de déplacement ?</a></li>
+<li><a href="#faqs_q1">Sur quel systï¿½me de tour les combats dans l'arï¿½ne fonctionnent-ils ?</a></li>
+<li><a href="#faqs_q2">Comment donner ï¿½ mes crï¿½atures plus de compï¿½tences d'attaque et de dï¿½placement ?</a></li>
 <li><a href="#faqs_q3">Comment gagner plus d'argent pour acheter des aliments ?</a></li>
-<li><a href="#faqs_q4">J'ai déjà huit créatures dans mon frigo, mais j'en voudrais d'autres. Comment faire ?</a></li>
-<li><a href="#faqs_q5">J'ai donné les mêmes aliments à ma créature que mes amis, mais la leur est différente. Pourquoi ?</a></li>
-<li><a href="#faqs_q6">Je n'ai qu'une créature, mais elle est super. Est-ce que je peux faire un match multi-joueur ?</a></li>
-<li><a href="#faqs_q7">Que signifient les chiffres à la gauche des créatures pendant un combat ?</a></li>
-<li><a href="#faqs_q8">Bagarre, Projectiles, Énergie et Vitesse... laquelle de ces stats est la plus importante ?</a></li>
-<li><a href="#faqs_q9">À quoi servent les power-ups dans le jeu ?</a></li>
+<li><a href="#faqs_q4">J'ai dï¿½jï¿½ huit crï¿½atures dans mon frigo, mais j'en voudrais d'autres. Comment faire ?</a></li>
+<li><a href="#faqs_q5">J'ai donnï¿½ les mï¿½mes aliments ï¿½ ma crï¿½ature que mes amis, mais la leur est diffï¿½rente. Pourquoi ?</a></li>
+<li><a href="#faqs_q6">Je n'ai qu'une crï¿½ature, mais elle est super. Est-ce que je peux faire un match multi-joueur ?</a></li>
+<li><a href="#faqs_q7">Que signifient les chiffres ï¿½ la gauche des crï¿½atures pendant un combat ?</a></li>
+<li><a href="#faqs_q8">Bagarre, Projectiles, ï¿½nergie et Vitesse... laquelle de ces stats est la plus importante ?</a></li>
+<li><a href="#faqs_q9">ï¿½ quoi servent les power-ups dans le jeu ?</a></li>
 <li><a href="#faqs_q10">En quoi consiste chaque type de partie ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Sur quel système de tour les combats dans l'arène fonctionnent-ils ?</h3>
-<p>Les parties se déroulent sur un principe de tours durant lesquels chaque joueur prépare simultanément les déplacements de leurs créatures dans l'ordre de leur vitesse, puis leurs attaques. Pour réussir dans ce jeu, il faut réussir à prévoir quand votre créature va bouger et anticiper les actions de vos adversaires.</p>
+<h3>1. Sur quel systï¿½me de tour les combats dans l'arï¿½ne fonctionnent-ils ?</h3>
+<p>Les parties se dï¿½roulent sur un principe de tours durant lesquels chaque joueur prï¿½pare simultanï¿½ment les dï¿½placements de leurs crï¿½atures dans l'ordre de leur vitesse, puis leurs attaques. Pour rï¿½ussir dans ce jeu, il faut rï¿½ussir ï¿½ prï¿½voir quand votre crï¿½ature va bouger et anticiper les actions de vos adversaires.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Comment donner à mes créatures plus de compétences d'attaque et de déplacement ?</h3>
-<p>Vous pouvez développer votre créature en la nourrissant. Pour connaître son aliment préféré, il suffit de surveiller les petites bulles qui expriment ses envies. Une fois que la créature est nourrie, vous pouvez voir les caractéristiques qu'elle a gagnées en faisant un clic droit dessus ou en utilisant la loupe sur elle. Pour utiliser les attaques ou déplacements, cliquez dessus pour les équiper. Pour les déséquiper, il suffit de faire un clic droit.</p>
+<h3>2. Comment donner ï¿½ mes crï¿½atures plus de compï¿½tences d'attaque et de dï¿½placement ?</h3>
+<p>Vous pouvez dï¿½velopper votre crï¿½ature en la nourrissant. Pour connaï¿½tre son aliment prï¿½fï¿½rï¿½, il suffit de surveiller les petites bulles qui expriment ses envies. Une fois que la crï¿½ature est nourrie, vous pouvez voir les caractï¿½ristiques qu'elle a gagnï¿½es en faisant un clic droit dessus ou en utilisant la loupe sur elle. Pour utiliser les attaques ou dï¿½placements, cliquez dessus pour les ï¿½quiper. Pour les dï¿½sï¿½quiper, il suffit de faire un clic droit.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Comment gagner plus d'argent pour acheter des aliments ?</h3>
-<p>Pour gagner de l'argent, il faut vous battre contre les créatures d'autres joueurs dans l'arène multi-joueur. Une victoire rapporte 5 euros et une défaite 1 euro. Vous pouvez améliorer vos gains grâce aux titres attribués aux joueurs dans un match, qui valent 20 centimes chacun. Vous gagnez de l'argent dans les parties classées et non-classées.</p>
+<p>Pour gagner de l'argent, il faut vous battre contre les crï¿½atures d'autres joueurs dans l'arï¿½ne multi-joueur. Une victoire rapporte 5 euros et une dï¿½faite 1 euro. Vous pouvez amï¿½liorer vos gains grï¿½ce aux titres attribuï¿½s aux joueurs dans un match, qui valent 20 centimes chacun. Vous gagnez de l'argent dans les parties classï¿½es et non-classï¿½es.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. J'ai déjà huit créatures dans mon frigo, mais j'en voudrais d'autres. Comment faire ?</h3>
-<p>Il y a 5 emplacements supplémentaires dans le freezer du frigo (les abonnés ont droit à 50 emplacements supplémentaires). Lorsque le freezer est plein, faites de la place en mettant des créatures à la poubelle.</p>
+<h3>4. J'ai dï¿½jï¿½ huit crï¿½atures dans mon frigo, mais j'en voudrais d'autres. Comment faire ?</h3>
+<p>Il y a 5 emplacements supplï¿½mentaires dans le freezer du frigo (les abonnï¿½s ont droit ï¿½ 50 emplacements supplï¿½mentaires). Lorsque le freezer est plein, faites de la place en mettant des crï¿½atures ï¿½ la poubelle.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. J'ai donné les mêmes aliments à ma créature que mes amis, mais la leur est différente. Pourquoi ?</h3>
-<p>L'apparence d'une créature est déterminée à la fois par les aliments qu'elle mange et l'ordre dans lequel elle les mange. L'aliment d'origine crée la créature centrale qui peut ensuite gagner certaines caractéristiques et changer d'apparence en fonction des aliments qu'elle mange. Les mêmes aliments donnés dans un ordre différent produiront des résultats différents. À vous de faire des essais !</p>
+<h3>5. J'ai donnï¿½ les mï¿½mes aliments ï¿½ ma crï¿½ature que mes amis, mais la leur est diffï¿½rente. Pourquoi ?</h3>
+<p>L'apparence d'une crï¿½ature est dï¿½terminï¿½e ï¿½ la fois par les aliments qu'elle mange et l'ordre dans lequel elle les mange. L'aliment d'origine crï¿½e la crï¿½ature centrale qui peut ensuite gagner certaines caractï¿½ristiques et changer d'apparence en fonction des aliments qu'elle mange. Les mï¿½mes aliments donnï¿½s dans un ordre diffï¿½rent produiront des rï¿½sultats diffï¿½rents. ï¿½ vous de faire des essais !</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
-<h3>6. Je n'ai qu'une créature, mais elle est super. Est-ce que je peux faire un match multi-joueur ?</h3>
-<p>Vous pouvez participer à des combats multijoueurs avec trois à six créatures, et utiliser votre créature la plus forte pour «&nbsp;Chasser l'asticot&nbsp;» ou «&nbsp;Capturer la mouche&nbsp;».</p>
+<h3>6. Je n'ai qu'une crï¿½ature, mais elle est super. Est-ce que je peux faire un match multi-joueur ?</h3>
+<p>Vous pouvez participer ï¿½ des combats multijoueurs avec trois ï¿½ six crï¿½atures, et utiliser votre crï¿½ature la plus forte pour ï¿½&nbsp;Chasser l'asticot&nbsp;ï¿½ ou ï¿½&nbsp;Capturer la mouche&nbsp;ï¿½.</p>
 <div class="hr"></div>
 <a name="faqs_q7"></a>
-<h3>7. Que signifient les chiffres à gauche des créatures pendant un combat ?</h3>
-<p>Ces chiffres indiquent l'ordre dans lequel les créatures se déplaceront ou attaqueront. Le chiffre le plus bas correspond à la créature la plus rapide qui se déplacera ou attaquera donc la première. Cette statistique est visible dans le frigo en faisant un clic droit sur la créature ou en utilisant la loupe. Lorsque plusieurs créatures ont la même statistique de vitesse, l'ordre d'action sera calculé aléatoirement.</p>
+<h3>7. Que signifient les chiffres ï¿½ gauche des crï¿½atures pendant un combat ?</h3>
+<p>Ces chiffres indiquent l'ordre dans lequel les crï¿½atures se dï¿½placeront ou attaqueront. Le chiffre le plus bas correspond ï¿½ la crï¿½ature la plus rapide qui se dï¿½placera ou attaquera donc la premiï¿½re. Cette statistique est visible dans le frigo en faisant un clic droit sur la crï¿½ature ou en utilisant la loupe. Lorsque plusieurs crï¿½atures ont la mï¿½me statistique de vitesse, l'ordre d'action sera calculï¿½ alï¿½atoirement.</p>
 <div class="hr"></div>
 <a name="faqs_q8"></a>
-<h3>8. Bagarre, Projectiles, Énergie et Vitesse... laquelle de ces stats est la plus importante ?</h3>
-<p>Pour afficher les statistiques de chaque créature, faites un clic droit dessus ou utilisez la loupe. Le niveau Bagarre indique la force des attaques rapprochées. Ces attaques sont indiquées en rouge à gauche des statistiques. Le niveau Projectiles indique la force des attaques à distance (en bleu). Le niveau Énergie indique le niveau de vie de la créature. Le niveau Vitesse indique la vitesse et la portée de déplacement de votre créature. Toutes ces statistiques sont utiles en combat. À vous de choisir entre une équipe mixte (compétences variées) ou une équipe spécialisée (dans une compétence). Essayez différentes équipes pour voir ce qui vous convient le mieux. </p>
+<h3>8. Bagarre, Projectiles, ï¿½nergie et Vitesse... laquelle de ces stats est la plus importante ?</h3>
+<p>Pour afficher les statistiques de chaque crï¿½ature, faites un clic droit dessus ou utilisez la loupe. Le niveau Bagarre indique la force des attaques rapprochï¿½es. Ces attaques sont indiquï¿½es en rouge ï¿½ gauche des statistiques. Le niveau Projectiles indique la force des attaques ï¿½ distance (en bleu). Le niveau ï¿½nergie indique le niveau de vie de la crï¿½ature. Le niveau Vitesse indique la vitesse et la portï¿½e de dï¿½placement de votre crï¿½ature. Toutes ces statistiques sont utiles en combat. ï¿½ vous de choisir entre une ï¿½quipe mixte (compï¿½tences variï¿½es) ou une ï¿½quipe spï¿½cialisï¿½e (dans une compï¿½tence). Essayez diffï¿½rentes ï¿½quipes pour voir ce qui vous convient le mieux. </p>
 <div class="hr"></div>
 <a name="faqs_q9"></a>
-<h3>9. À quoi servent les power-ups dans le jeu ?</h3>
-<p>Les power-ups Bagarre, Projectiles et Vitesse font passer la compétence correspondante au niveau supérieur pendant cinq tours, sauf si vous êtes déjà au niveau maximum. Le power-up Énergie augmente la vie de la créature de l'équivalent de 40 points, sans limite de tours. Si vous ramassez un power-up d'une compétence déjà au maximum, vous ne bénéficierez d'aucun effet particulier, mais vous empêcherez un autre joueur d'en profiter. Choisissez-les prudemment, car ils ne sont utilisables qu'une fois.</p>
+<h3>9. ï¿½ quoi servent les power-ups dans le jeu ?</h3>
+<p>Les power-ups Bagarre, Projectiles et Vitesse font passer la compï¿½tence correspondante au niveau supï¿½rieur pendant cinq tours, sauf si vous ï¿½tes dï¿½jï¿½ au niveau maximum. Le power-up ï¿½nergie augmente la vie de la crï¿½ature de l'ï¿½quivalent de 40 points, sans limite de tours. Si vous ramassez un power-up d'une compï¿½tence dï¿½jï¿½ au maximum, vous ne bï¿½nï¿½ficierez d'aucun effet particulier, mais vous empï¿½cherez un autre joueur d'en profiter. Choisissez-les prudemment, car ils ne sont utilisables qu'une fois.</p>
 <div class="hr"></div>
 <a name="faqs_q10"></a>
 <h3>10. En quoi consiste chaque type de partie ?</h3>
-<p>En mode Annihilation, c'est la dernière créature qui reste qui gagne. Dans une partie de Chasse à l'asticot, le but est de s'emparer de plus de la moitié des points clés sur la carte (indiqués par un asticot) en plaçant une créature dessus et d'en garder le contrôle pendant trois tours consécutifs. Les parties de Capture de la mouche demandent une stratégie à la fois d'attaque et de défense. Vous devez voler la mouche de l'adversaire et la rapporter dans votre camp. La capture ne compte que si vous avez toujours votre propre mouche, alors défendez-la férocement ! Pour libérer une mouche chez l'adversaire, il suffit de tuer la créature qui la garde. Le joueur ayant capturé le plus de mouches gagne.</p>
+<p>En mode Annihilation, c'est la derniï¿½re crï¿½ature qui reste qui gagne. Dans une partie de Chasse ï¿½ l'asticot, le but est de s'emparer de plus de la moitiï¿½ des points clï¿½s sur la carte (indiquï¿½s par un asticot) en plaï¿½ant une crï¿½ature dessus et d'en garder le contrï¿½le pendant trois tours consï¿½cutifs. Les parties de Capture de la mouche demandent une stratï¿½gie ï¿½ la fois d'attaque et de dï¿½fense. Vous devez voler la mouche de l'adversaire et la rapporter dans votre camp. La capture ne compte que si vous avez toujours votre propre mouche, alors dï¿½fendez-la fï¿½rocement ! Pour libï¿½rer une mouche chez l'adversaire, il suffit de tuer la crï¿½ature qui la garde. Le joueur ayant capturï¿½ le plus de mouches gagne.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>11. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -423,21 +423,21 @@ Questions fréquentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Avantages abonnés
+Avantages abonnï¿½s
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Les abonnés bénéficient de :</p>
+<p style="padding-bottom: 5px;">Les abonnï¿½s bï¿½nï¿½ficient de :</p>
 <ul style="line-height: 22px;">
-<li>50 aliments à acheter et à faire muter</li>
-<li>50 espaces de freezer supplémentaires pour loger votre armée</li>
-<li>Accès à tous les exploits</li>
-<li>Mode plein écran</li>
-<li>Aucune pub en cours de jeu</li> <li>Accès à toutes les extensions abonnés de FunOrb</li>
+<li>50 aliments ï¿½ acheter et ï¿½ faire muter</li>
+<li>50 espaces de freezer supplï¿½mentaires pour loger votre armï¿½e</li>
+<li>Accï¿½s ï¿½ tous les exploits</li>
+<li>Mode plein ï¿½cran</li>
+<li>Aucune pub en cours de jeu</li> <li>Accï¿½s ï¿½ toutes les extensions abonnï¿½s de FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=2/g=fleacircus/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/g=fleacircus/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -456,10 +456,10 @@ Development Team
 <b>Graphics:</b>  Jamie S,&nbsp;Laura W,&nbsp;David H,&nbsp;Kristian F,&nbsp;Adam S,&nbsp;Jess H,&nbsp;Anthony A<br>
 <b>Audio:</b> Grace D<br>
 <b>Quality Assurance:</b> Joe C,&nbsp;Ken W L,&nbsp;Faye G,&nbsp;Scott M,&nbsp;Sally R,&nbsp;Michael T<br>
-<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frédérique B
+<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frï¿½dï¿½rique B
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -472,25 +472,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=fleacircus/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=fleacircus/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=fleacircus/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=fleacircus/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=fleacircus/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=fleacircus/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=fleacircus/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=fleacircus/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=fleacircus/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=fleacircus/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=fleacircus/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=fleacircus/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=fleacircus/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=fleacircus/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

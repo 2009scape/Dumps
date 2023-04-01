@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="Hilfe bei technischen Problemen.">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=11" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=11" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -144,49 +144,49 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="#hear">Warum kann ich niemanden sprechen sehen?</a></li>
 <li><a href="#username">Beim Einloggen bekomme ich die Meldung, dass mein Spielkonto bereits benutzt wird. Was ist los?</a></li>
 <li><a href="#unable">Ich versuche, mich einzuloggen, erhalte aber die Meldung 'Verbindung zum Server konnte nicht hergestellt werden'. Was soll ich unternehmen?</a></li>
-<li><a href="#crashes">Das Spiel stürzt ab, wenn ich mich in bestimmte Bereiche begebe. Was kann ich dagegen unternehmen?</a></li>
+<li><a href="#crashes">Das Spiel stï¿½rzt ab, wenn ich mich in bestimmte Bereiche begebe. Was kann ich dagegen unternehmen?</a></li>
 <li><a href="#sound">Beim Spielen eines FunOrb-Spiels treten Soundprobleme auf. Was soll ich tun?</a></li>
 </ol></div>
 <br>
 <a name="hear"></a>
-<span class="title">1. Warum kann ich niemanden sprechen sehen?</span><br><br> Überprüfen Sie, ob Sie nicht versehentlich die Chat-Optionen im Spiel geändert haben, sodass Sie keinen Chat sehen können. Das könnte daran liegen, das ihr öffentlicher und privater Chat auf 'AUS' gestellt wurde. Das können Sie am unteren Rand des Spielfensters einstellen. <br><br>
+<span class="title">1. Warum kann ich niemanden sprechen sehen?</span><br><br> ï¿½berprï¿½fen Sie, ob Sie nicht versehentlich die Chat-Optionen im Spiel geï¿½ndert haben, sodass Sie keinen Chat sehen kï¿½nnen. Das kï¿½nnte daran liegen, das ihr ï¿½ffentlicher und privater Chat auf 'AUS' gestellt wurde. Das kï¿½nnen Sie am unteren Rand des Spielfensters einstellen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="username"></a>
-<span class="title">2. Beim Einloggen bekomme ich die Meldung, dass mein Spielkonto bereits benutzt wird. Was ist los?</span><br><br> Dafür gibt es zwei mögliche Ursachen: <br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Falls Sie vor ein paar Minuten noch gespielt haben und sich nicht richtig ausgeloggt haben, könnte es sein, dass Sie noch nicht aus dem Spiel ausgeloggt wurden. Das passiert aber nach einiger Zeit automatisch. Sie müssen also nur ein paar Minuten warten und es dann erneut versuchen. Sie sollten sich immer über die Schaltfläche 'Beenden' aus den Spielen abmelden, da alle anderen Methoden dazu führen könnten, dass Sie Ihren Spielstand verlieren.<br><br><li>Falls die Spielwelten für alle anderen normal funktionieren und Sie sich nach ein paar Minuten immer noch nicht einloggen können, besteht die Gefahr, dass jemand Ihr Passwort in Erfahrung gebracht hat und Ihr Spielkonto benutzt. Um weitere Informationen zu erhalten, wie Sie Ihr Spielkonto wiederherstellen können, klicken Sie bitte <a href="viewarticle.ws?article_id=46">hier</a>.</ul>
+<span class="title">2. Beim Einloggen bekomme ich die Meldung, dass mein Spielkonto bereits benutzt wird. Was ist los?</span><br><br> Dafï¿½r gibt es zwei mï¿½gliche Ursachen: <br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Falls Sie vor ein paar Minuten noch gespielt haben und sich nicht richtig ausgeloggt haben, kï¿½nnte es sein, dass Sie noch nicht aus dem Spiel ausgeloggt wurden. Das passiert aber nach einiger Zeit automatisch. Sie mï¿½ssen also nur ein paar Minuten warten und es dann erneut versuchen. Sie sollten sich immer ï¿½ber die Schaltflï¿½che 'Beenden' aus den Spielen abmelden, da alle anderen Methoden dazu fï¿½hren kï¿½nnten, dass Sie Ihren Spielstand verlieren.<br><br><li>Falls die Spielwelten fï¿½r alle anderen normal funktionieren und Sie sich nach ein paar Minuten immer noch nicht einloggen kï¿½nnen, besteht die Gefahr, dass jemand Ihr Passwort in Erfahrung gebracht hat und Ihr Spielkonto benutzt. Um weitere Informationen zu erhalten, wie Sie Ihr Spielkonto wiederherstellen kï¿½nnen, klicken Sie bitte <a href="viewarticle.ws?article_id=46">hier</a>.</ul>
 <br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="unable"></a>
-<span class="title">3. Ich versuche, mich einzuloggen, erhalte aber die Meldung 'Verbindung zum Server konnte nicht hergestellt werden'. Was soll ich unternehmen?</span><br><br> Versuchen Sie, eine Verbindung mit einer anderen Spielwelt herzustellen. Eine Auswahl erhalten Sie unter 'Weitere Infos' für das jeweilige Spiel. Sollte es in einem unserer Rechenzentren zu Problemen gekommen sein, so wird dieser Lösungsversuch für Sie funktionieren, sodass Sie weiterspielen können, bis wir das Problem mit den anderen Welten behoben haben.<br><br><b>Falls das Ihr Problem nicht beheben sollte:</b><br>Es kann allerdings auch passieren, dass eine Firewall in Ihrem Netzwerk die Verbindung zu unseren Servern sperrt. Bitten Sie Ihren Netzwerkadministrator oder Ihren Internetprovider darum, die Ports 43594 und 43595 (sowohl für eingehende als auch ausgehende TCP-Verbindung) zu öffnen, da diese von FunOrb verwendet werden. Wir sind leider nicht in der Lage, Ihnen mit diesem Problem zu helfen, da wir keinen Einfluss auf die Konfiguration Ihres Netzwerks haben und es kein Problem ist, das mit FunOrb in Verbindung steht.<br><br><b>Falls das Ihr Problem nicht beheben sollte:</b><br>Unsere Server können für Wartungsarbeiten oder eine Spielaktualisierung heruntergefahren werden. Bitte warten Sie eine Stunde und versuchen es dann erneut. <br>
+<span class="title">3. Ich versuche, mich einzuloggen, erhalte aber die Meldung 'Verbindung zum Server konnte nicht hergestellt werden'. Was soll ich unternehmen?</span><br><br> Versuchen Sie, eine Verbindung mit einer anderen Spielwelt herzustellen. Eine Auswahl erhalten Sie unter 'Weitere Infos' fï¿½r das jeweilige Spiel. Sollte es in einem unserer Rechenzentren zu Problemen gekommen sein, so wird dieser Lï¿½sungsversuch fï¿½r Sie funktionieren, sodass Sie weiterspielen kï¿½nnen, bis wir das Problem mit den anderen Welten behoben haben.<br><br><b>Falls das Ihr Problem nicht beheben sollte:</b><br>Es kann allerdings auch passieren, dass eine Firewall in Ihrem Netzwerk die Verbindung zu unseren Servern sperrt. Bitten Sie Ihren Netzwerkadministrator oder Ihren Internetprovider darum, die Ports 43594 und 43595 (sowohl fï¿½r eingehende als auch ausgehende TCP-Verbindung) zu ï¿½ffnen, da diese von FunOrb verwendet werden. Wir sind leider nicht in der Lage, Ihnen mit diesem Problem zu helfen, da wir keinen Einfluss auf die Konfiguration Ihres Netzwerks haben und es kein Problem ist, das mit FunOrb in Verbindung steht.<br><br><b>Falls das Ihr Problem nicht beheben sollte:</b><br>Unsere Server kï¿½nnen fï¿½r Wartungsarbeiten oder eine Spielaktualisierung heruntergefahren werden. Bitte warten Sie eine Stunde und versuchen es dann erneut. <br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="crashes"></a>
-<span class="title">4. Das Spiel stürzt ab, wenn ich mich in bestimmte Bereiche begebe. Was kann ich dagegen unternehmen?</span><br><br> Falls Ihr Rechner über mehr als 1GB Arbeitsspeicher (RAM) verfügt und Sie Suns Java-Version benutzen, dann könnte dies das Problem auslösen, da Suns Java nicht korrekt bestimmen kann, wie viel Speicher Ihr Rechner besitzt. <br><br>Falls das nicht zutreffen sollte, so spielen Sie bitte über die 'niedrige Detailstufe' und überprüfen Sie, ob das Problem für das Spielgebiet damit behoben wurde. Falls es nur ein bestimmtes Gebiet ist, das dieses Problem verursacht, so melden Sie es uns bitte über einen <a href ="http://www.funorb.com/l=1/a=84/bugtracker.ws">Fehlerhinweis</a>. <br><br> Um das oben genannte Problem mit inkorrekter Speichererkennung zu beheben: <br><ul style="margin-top: 0px; margin-bottom: 0px; ">
-<br><li>Klicken Sie auf Start und dann auf 'Einstellungen' &gt; 'Systemsteuerung'. <br><br><li>Wählen Sie 'Java' in der Systemsteuerung. Das öffnet die Java-Systemsteuerung. <br><br><li>Unter 'Java-Applet-Laufzeiteinstellungen' klicken Sie auf die Schaltfläche 'Anzeigen'. <br><br><li>Fügen Sie folgendes unter Java-Runtime-Parameter ein: -Xmx256M. <br><br><li>Drücken Sie auf 'Übernehmen', um die Einstellung zu speichern. <br><br><li>Führen Sie einen Neustart Ihres Rechners durch, um die Einstellungen zu aktivieren. <br></ul>
+<span class="title">4. Das Spiel stï¿½rzt ab, wenn ich mich in bestimmte Bereiche begebe. Was kann ich dagegen unternehmen?</span><br><br> Falls Ihr Rechner ï¿½ber mehr als 1GB Arbeitsspeicher (RAM) verfï¿½gt und Sie Suns Java-Version benutzen, dann kï¿½nnte dies das Problem auslï¿½sen, da Suns Java nicht korrekt bestimmen kann, wie viel Speicher Ihr Rechner besitzt. <br><br>Falls das nicht zutreffen sollte, so spielen Sie bitte ï¿½ber die 'niedrige Detailstufe' und ï¿½berprï¿½fen Sie, ob das Problem fï¿½r das Spielgebiet damit behoben wurde. Falls es nur ein bestimmtes Gebiet ist, das dieses Problem verursacht, so melden Sie es uns bitte ï¿½ber einen <a href ="../../../l=1/a=84/bugtracker.ws">Fehlerhinweis</a>. <br><br> Um das oben genannte Problem mit inkorrekter Speichererkennung zu beheben: <br><ul style="margin-top: 0px; margin-bottom: 0px; ">
+<br><li>Klicken Sie auf Start und dann auf 'Einstellungen' &gt; 'Systemsteuerung'. <br><br><li>Wï¿½hlen Sie 'Java' in der Systemsteuerung. Das ï¿½ffnet die Java-Systemsteuerung. <br><br><li>Unter 'Java-Applet-Laufzeiteinstellungen' klicken Sie auf die Schaltflï¿½che 'Anzeigen'. <br><br><li>Fï¿½gen Sie folgendes unter Java-Runtime-Parameter ein: -Xmx256M. <br><br><li>Drï¿½cken Sie auf 'ï¿½bernehmen', um die Einstellung zu speichern. <br><br><li>Fï¿½hren Sie einen Neustart Ihres Rechners durch, um die Einstellungen zu aktivieren. <br></ul>
 <br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="sound"></a>
-<span class="title">5. Beim Spielen eines FunOrb-Spiels treten Soundprobleme auf. Was soll ich tun?</span><br><br> Falls beim Spielen eines FunOrb-Spiels Soundprobleme auftreten, müssen Sie überprüfen, ob die aktuellsten Treiber für Ihre Soundkarte installiert sind. Besuchen Sie dazu die Website Ihres Kartenherstellers. <br>
+<span class="title">5. Beim Spielen eines FunOrb-Spiels treten Soundprobleme auf. Was soll ich tun?</span><br><br> Falls beim Spielen eines FunOrb-Spiels Soundprobleme auftreten, mï¿½ssen Sie ï¿½berprï¿½fen, ob die aktuellsten Treiber fï¿½r Ihre Soundkarte installiert sind. Besuchen Sie dazu die Website Ihres Kartenherstellers. <br>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=8">Technisches</a> : </b>
 <span class="articleMore">
-Probleme im Spiel, <a href="viewarticle.ws?article_id=22">Spiel lädt nicht</a>, <a href="viewarticle.ws?article_id=49">Sonstiges</a></span>
+Probleme im Spiel, <a href="viewarticle.ws?article_id=22">Spiel lï¿½dt nicht</a>, <a href="viewarticle.ws?article_id=49">Sonstiges</a></span>
 </div>
 </div>
 </div>
@@ -198,11 +198,11 @@ Probleme im Spiel, <a href="viewarticle.ws?article_id=22">Spiel lädt nicht</a>, 
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

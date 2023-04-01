@@ -10,8 +10,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -21,10 +21,10 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=32/css/global-24.css);/**/
+  /*\*/@import url(../../l=2/a=32/css/global-24.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=32/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/a=32/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -73,7 +73,7 @@ fr">
   float: right;
   height: 21px;
   width: 135px;
-  background: transparent url(http://www.funorb.com/l=2/img/images/layout/button_blue_mini_135.gif) no-repeat top left;
+  background: transparent url(../../l=2/img/images/layout/button_blue_mini_135.gif) no-repeat top left;
   cursor: pointer;
   line-height: 21px;
   vertical-align: middle;
@@ -105,24 +105,24 @@ fr">
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=2/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../l=2/img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -130,58 +130,58 @@ fr">
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="https://create.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://focommunity.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Coin communauté</a></li>
+<li><a href="http://focommunity.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://forum-fo-fr.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly last">Téléchargements</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=account_management.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=account_management.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws">
+<a id="countrydrop" href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -212,36 +212,36 @@ Gestion de votre abonnement
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Si vous ne l'avez pas déjà fait, pourquoi ne pas vous abonner afin de bénéficier des nombreux avantages offerts ? Vous pouvez vous abonner uniquement à FunOrb ou profiter de l'offre combinée avec l'abonnement à RuneScape. Si vous disposez déjà d'un abonnement, vous pouvez le renouveler ou le résilier ici. <br><br><i>Pour créer un compte, cliquez sur le lien Créer un compte situé à droite de la barre de menu en haut de la page.</i>
+<p class="blurb"> Si vous ne l'avez pas dï¿½jï¿½ fait, pourquoi ne pas vous abonner afin de bï¿½nï¿½ficier des nombreux avantages offerts ? Vous pouvez vous abonner uniquement ï¿½ FunOrb ou profiter de l'offre combinï¿½e avec l'abonnement ï¿½ RuneScape. Si vous disposez dï¿½jï¿½ d'un abonnement, vous pouvez le renouveler ou le rï¿½silier ici. <br><br><i>Pour crï¿½er un compte, cliquez sur le lien Crï¿½er un compte situï¿½ ï¿½ droite de la barre de menu en haut de la page.</i>
 </p>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_startsubscription.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
+<img src="../../l=2/img/images/account_management/icon_startsubscription.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">S'abonner/Renouveler un abonnement</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">S'abonner/Renouveler un abonnement</a></h3>
 <p>Page d'abonnement.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">S'abonner</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">S'abonner</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_information.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws">
+<img src="../../l=2/img/images/account_management/icon_information.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Informations sur le compte</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Informations sur le compte</a></h3>
 <p>Affichage des informations sur votre abonnement actuel.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Afficher</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=userdetails.ws">Afficher</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_cancelsubscription.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">
+<img src="../../l=2/img/images/account_management/icon_cancelsubscription.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Résilier l'abonnement</a></h3>
-<p>Résiliation d'un abonnement existant.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Rï¿½silier l'abonnement</a></h3>
+<p>Rï¿½siliation d'un abonnement existant.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Résilier l'abonnement</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws">Rï¿½silier l'abonnement</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -256,71 +256,71 @@ Gestion du compte
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Nous vous recommandons de modifier régulièrement votre mot de passe. Si vous avez été exclu ou avez commis une infraction, vous pouvez contester la décision en question (voir ci-dessous). Par ailleurs, en cliquant sur Lire les messages ci-dessous, vous pouvez consulter les messages provenant de Jagex. Notez que Jagex ne vous demandera jamais vos informations de compte. </p>
+<p class="blurb"> Nous vous recommandons de modifier rï¿½guliï¿½rement votre mot de passe. Si vous avez ï¿½tï¿½ exclu ou avez commis une infraction, vous pouvez contester la dï¿½cision en question (voir ci-dessous). Par ailleurs, en cliquant sur Lire les messages ci-dessous, vous pouvez consulter les messages provenant de Jagex. Notez que Jagex ne vous demandera jamais vos informations de compte. </p>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_changepassword.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">
+<img src="../../l=2/img/images/account_management/icon_changepassword.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">Mot de passe</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">Mot de passe</a></h3>
 <p>Modifiez votre mot de passe plusieurs fois par an.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">Mot de passe</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=password_history&amp;dest=password.ws">Mot de passe</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_appealoffence.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">
+<img src="../../l=2/img/images/account_management/icon_appealoffence.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">Contester</a></h3>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">Contester</a></h3>
 <p>Contestation d'une infraction/exclusion.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">Contester</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=offenceappeal&dest=viewoffencehistory.ws">Contester</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_readmessages.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">
+<img src="../../l=2/img/images/account_management/icon_readmessages.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Lire les messages</a></h3>
-<p>Consultation des messages envoyés par Jagex.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Lire les messages</a></h3>
+<p>Consultation des messages envoyï¿½s par Jagex.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Lire les messages</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=ticketing&amp;dest=inbox.ws">Lire les messages</a>
 </span>
 </div></div>
 <br class="clear" />
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_register.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">
+<img src="../../l=2/img/images/account_management/icon_register.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">Adresse électronique</a></div>
-<p>Enregistrer ou changer votre adresse électronique. <a href="http://www.funorb.com/l=2/a=32/email_registration.ws">Aide</a></p>
+<div class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">Adresse ï¿½lectronique</a></div>
+<p>Enregistrer ou changer votre adresse ï¿½lectronique. <a href="../../l=2/a=32/email_registration.ws">Aide</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">Adresse électronique</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=set_address.ws">Adresse ï¿½lectronique</a>
 </span>
 </div>
 </div>
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_settings.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">
+<img src="../../l=2/img/images/account_management/icon_settings.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">Paramètres courriel</a></div>
-<p>Voir ou modifier vos préférences courriel. <a href="http://www.funorb.com/l=2/a=32/email_registration.ws">Aide</a></p>
+<div class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">Paramï¿½tres courriel</a></div>
+<p>Voir ou modifier vos prï¿½fï¿½rences courriel. <a href="../../l=2/a=32/email_registration.ws">Aide</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">Paramètres courriel</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=change_settings.ws">Paramï¿½tres courriel</a>
 </span>
 </div>
 </div>
 <div class="listBoxSmall">
 <div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_confirmation.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">
+<img src="../../l=2/img/images/account_management/icon_confirmation.gif" alt="" class="listBoxIcon" />
 </a>
-<div class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code de confirmation</a></div>
-<p>Où saisir le code de confirmation. <a href="http://www.funorb.com/l=2/a=32/email_registration.ws">Aide</a></p>
+<div class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code de confirmation</a></div>
+<p>Oï¿½ saisir le code de confirmation. <a href="../../l=2/a=32/email_registration.ws">Aide</a></p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code de confirmation</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=email-register&amp;dest=enter_code.ws">Code de confirmation</a>
 </span>
 </div>
 </div>
@@ -332,29 +332,29 @@ Gestion du compte
 <div class="subsection" id="accountSecurity" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Sécurité du compte
+Sï¿½curitï¿½ du compte
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Nous vous recommandons vivement de choisir vos questions secrètes le plus vite possible. Ces questions servent à recouvrer votre compte si vous oubliez votre mot de passe ou si votre compte est piraté. Si vous pensez que quelqu'un s'est emparé de votre mot de passe et a modifié vos questions secrètes, vous pouvez annuler ces questions dans les 14 jours (puis modifier votre mot de passe). </p>
+<p class="blurb"> Nous vous recommandons vivement de choisir vos questions secrï¿½tes le plus vite possible. Ces questions servent ï¿½ recouvrer votre compte si vous oubliez votre mot de passe ou si votre compte est piratï¿½. Si vous pensez que quelqu'un s'est emparï¿½ de votre mot de passe et a modifiï¿½ vos questions secrï¿½tes, vous pouvez annuler ces questions dans les 14 jours (puis modifier votre mot de passe). </p>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_setrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">
+<img src="../../l=2/img/images/account_management/icon_setrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Choisir les questions secrètes</a></h3>
-<p>Choisir des questions secrètes servant à récupérer un mot de passe perdu ou un compte volé.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Choisir les questions secrï¿½tes</a></h3>
+<p>Choisir des questions secrï¿½tes servant ï¿½ rï¿½cupï¿½rer un mot de passe perdu ou un compte volï¿½.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Choisir les questions</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=add_recoveries.ws">Choisir les questions</a>
 </span>
 </div></div>
 <div class="listBox"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_cancelrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">
+<img src="../../l=2/img/images/account_management/icon_cancelrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Annuler les questions secrètes</a></h3>
-<p>Annuler les questions secrètes en attente.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Annuler les questions secrï¿½tes</a></h3>
+<p>Annuler les questions secrï¿½tes en attente.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Annuler les questions</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=recovery_questions&amp;dest=cancel_recoveries.ws">Annuler les questions</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -369,35 +369,35 @@ Recouvrement de compte
 </div>
 </div>
 <div class="subsectionContent">
-<p class="blurb"> Si vous avez oublié votre mot de passe ou si quelqu'un a volé votre compte, vous pouvez utiliser l'option Recouvrer un mot de passe ci-dessous pour récupérer votre mot de passe. Si nous pensons que votre compte a été volé, nous pouvons le bloquer. Utilisez la deuxième option pour recouvrer un compte bloqué. Si vous avez déjà effectué une demande de recouvrement de compte, vous pouvez utiliser l'option Suivre le recouvrement ci-dessous pour suivre sa progression. </p>
+<p class="blurb"> Si vous avez oubliï¿½ votre mot de passe ou si quelqu'un a volï¿½ votre compte, vous pouvez utiliser l'option Recouvrer un mot de passe ci-dessous pour rï¿½cupï¿½rer votre mot de passe. Si nous pensons que votre compte a ï¿½tï¿½ volï¿½, nous pouvons le bloquer. Utilisez la deuxiï¿½me option pour recouvrer un compte bloquï¿½. Si vous avez dï¿½jï¿½ effectuï¿½ une demande de recouvrement de compte, vous pouvez utiliser l'option Suivre le recouvrement ci-dessous pour suivre sa progression. </p>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_recoverpassword.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">
+<img src="../../l=2/img/images/account_management/icon_recoverpassword.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">Recouvrer un mot de passe</a></h3>
-<p>Récupération d'un mot de passe oublié ou volé.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">Recouvrer un mot de passe</a></h3>
+<p>Rï¿½cupï¿½ration d'un mot de passe oubliï¿½ ou volï¿½.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">Recouvrer maintenant</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=passwordchoice.ws">Recouvrer maintenant</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_recoveraccount.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">
+<img src="../../l=2/img/images/account_management/icon_recoveraccount.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">Recouvrer un compte</a></h3>
-<p>Recouvrement d'un compte bloqué.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">Recouvrer un compte</a></h3>
+<p>Recouvrement d'un compte bloquï¿½.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">Recouvrer maintenant</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws">Recouvrer maintenant</a>
 </span>
 </div></div>
 <div class="listBoxSmall"><div class="listBoxContainer">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">
-<img src="http://www.funorb.com/l=2/img/images/account_management/icon_trackrecovery.gif" alt="" class="listBoxIcon" />
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">
+<img src="../../l=2/img/images/account_management/icon_trackrecovery.gif" alt="" class="listBoxIcon" />
 </a>
-<h3 class="listBoxTitle"><a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Suivre le recouvrement</a></h3>
-<p>Suivi du procédé de recouvrement d'un compte.</p>
+<h3 class="listBoxTitle"><a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Suivre le recouvrement</a></h3>
+<p>Suivi du procï¿½dï¿½ de recouvrement d'un compte.</p>
 <span class="listBoxButton">
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Suivre maintenant</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/redirect.ws?mod=accountappeal&amp;dest=trackinginput.ws">Suivre maintenant</a>
 </span>
 </div></div>
 <br class="clear" />
@@ -410,17 +410,17 @@ Recouvrement de compte
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/a=32/p=*fShjZZ8OAv0xa-t7zCjUPTFr*3vMKNQoaERSnJi2J4/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

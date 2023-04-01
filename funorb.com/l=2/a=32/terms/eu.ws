@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,12 +20,12 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=32/css/global-10.css);/**/
+  /*\*/@import url(../../../l=2/a=32/css/global-10.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=32/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/a=32/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/a=32/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=2/a=32/css/layout.ws"></script>
 
 <style type="text/css">
  #article b { color: white; }
@@ -44,35 +44,35 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="affiliate">
-<a href="http://www.funorb.com/l=2/a=32/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=2/a=32/index.ws" id="logo"><span>FunOrb</span></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=2/a=32/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../../l=2/a=32/img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/a=32/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/a=32/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../../l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/a=32/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -83,37 +83,37 @@ http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws" class="fly">Tous les forums</a
 http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=32/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=32/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Téléchargements FunOrb</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Tï¿½lï¿½chargements FunOrb</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../../l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/a=32/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../../l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=32/loginapplet/login.ws?mod=www&ssl=0&dest=terms/eu.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../../l=2/a=32/loginapplet/login.ws?mod=www&ssl=0&dest=terms/eu.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=32/index.ws">
-<img alt="English" src="http://www.funorb.com/l=2/a=32/img/images/layout/en.gif">
+<a href="../../../a=32/index.ws">
+<img alt="English" src="../../../l=2/a=32/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=32/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/l=2/a=32/img/images/layout/de.gif">
+<a href="../../../l=1/a=32/index.ws">
+<img alt="Deutsch" src="../../../l=2/a=32/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=32/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=32/img/images/layout/fr.gif">
+<a href="../../../l=2/a=32/index.ws">
+<img alt="Fran&ccedil;ais" src="../../../l=2/a=32/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -141,15 +141,15 @@ EU Cancellation
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p align=right>Date d'entrée en vigueur : 27 février 2008</p>
+<p align=right>Date d'entrï¿½e en vigueur : 27 fï¿½vrier 2008</p>
 <p>
-<b> Droit d'annulation selon la réglementation sur la vente à distance (Distance Selling Regulations)</b><br>
-<p>Si vous êtes un consommateur de l'UE, vous pouvez annuler votre commande sous 7 jours ouvrés (anglais) après l'avoir passée et nous vous rembourserons l'intégralité du paiement de l'abonnement.</p>
-<p>Pour annuler une commande afin d'être remboursé, envoyez un message électronique à l'adresse <img style="vertical-align: bottom" src="http://www.funorb.com/l=2/a=32/img/privacy/billingsupport.gif"> ou adressez-nous un avis écrit tel que spécifié dans la réglementation britannique Consumer Protection (Distance Selling) Regulations 2000. Vous pouvez consulter cette réglementation sur le site <a href="http://www.opsi.gov.uk" target=_new>www.opsi.gov.uk</a>.</p>
-<p>Cependant, ce droit d'annulation ne s'applique pas une fois que vous avez commencé à utiliser nos services d'abonnement en vous connectant à un espace réservé aux abonnés.</p>
+<b> Droit d'annulation selon la rï¿½glementation sur la vente ï¿½ distance (Distance Selling Regulations)</b><br>
+<p>Si vous ï¿½tes un consommateur de l'UE, vous pouvez annuler votre commande sous 7 jours ouvrï¿½s (anglais) aprï¿½s l'avoir passï¿½e et nous vous rembourserons l'intï¿½gralitï¿½ du paiement de l'abonnement.</p>
+<p>Pour annuler une commande afin d'ï¿½tre remboursï¿½, envoyez un message ï¿½lectronique ï¿½ l'adresse <img style="vertical-align: bottom" src="../../../l=2/a=32/img/privacy/billingsupport.gif"> ou adressez-nous un avis ï¿½crit tel que spï¿½cifiï¿½ dans la rï¿½glementation britannique Consumer Protection (Distance Selling) Regulations 2000. Vous pouvez consulter cette rï¿½glementation sur le site <a href="http://www.opsi.gov.uk" target=_new>www.opsi.gov.uk</a>.</p>
+<p>Cependant, ce droit d'annulation ne s'applique pas une fois que vous avez commencï¿½ ï¿½ utiliser nos services d'abonnement en vous connectant ï¿½ un espace rï¿½servï¿½ aux abonnï¿½s.</p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -162,11 +162,11 @@ EU Cancellation
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=2/a=32/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

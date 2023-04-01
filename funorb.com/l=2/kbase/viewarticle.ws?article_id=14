@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,16 +20,16 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-14.css);/**/
+  /*\*/@import url(../../l=2/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Il est interdit de demander à un joueur son mot de passe.">
-<title>Règle 3 - Extorsion de mot de passe</title>
+<meta name="description" content="Il est interdit de demander ï¿½ un joueur son mot de passe.">
+<title>Rï¿½gle 3 - Extorsion de mot de passe</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -44,7 +44,7 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=2/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=2/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -52,7 +52,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
 
@@ -61,28 +61,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -93,41 +93,41 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Tous les forums</a></li
 http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements FunOrb</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Tï¿½lï¿½chargements FunOrb</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=14" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=14" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<a id="countrydrop" href="../../l=2/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -143,7 +143,7 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Règle 3 - Extorsion de mot de passe</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Rï¿½gle 3 - Extorsion de mot de passe</span>
 
 </div>
 </div>
@@ -152,65 +152,65 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Règle 3 - Extorsion de mot de passe</h1>
+<h1 class="articleTitle">Rï¿½gle 3 - Extorsion de mot de passe</h1>
 <div class="articleBody">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 27 février 2008</div>
-<br> Essayer de persuader un autre joueur de vous donner son mot de passe pour quelque raison que ce soit va à l'encontre des règles et ne sera pas toléré. <br>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 27 fï¿½vrier 2008</div>
+<br> Essayer de persuader un autre joueur de vous donner son mot de passe pour quelque raison que ce soit va ï¿½ l'encontre des rï¿½gles et ne sera pas tolï¿½rï¿½. <br>
 <br>
 <div class="hr"></div>
-<b>Questions associées</b><br> Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.<br>
+<b>Questions associï¿½es</b><br> Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.<br>
 <br>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ? </a>
-<li><a href="#what">Et si j'essaie d'obtenir le mot de passe d'un joueur mais que j'échoue ? Ai-je enfreint la règle ? </a>
+<li><a href="#why">Pourquoi cette rï¿½gle ? </a>
+<li><a href="#what">Et si j'essaie d'obtenir le mot de passe d'un joueur mais que j'ï¿½choue ? Ai-je enfreint la rï¿½gle ? </a>
 <li><a href="#language">Et si je demande dans une autre langue ? </a>
-<li><a href="#actioned">J'ai envoyé une demande de mot de passe parce que j'ai oublié le mien. Pourquoi rien n'a-t-il encore été fait à ce sujet ? </a>
-<li><a href="#bank">On m'a demandé mon code confidentiel bancaire ainsi que d'autres informations telles que les réponses à mes questions de sécurité. Est-ce normal ? </a>
+<li><a href="#actioned">J'ai envoyï¿½ une demande de mot de passe parce que j'ai oubliï¿½ le mien. Pourquoi rien n'a-t-il encore ï¿½tï¿½ fait ï¿½ ce sujet ? </a>
+<li><a href="#bank">On m'a demandï¿½ mon code confidentiel bancaire ainsi que d'autres informations telles que les rï¿½ponses ï¿½ mes questions de sï¿½curitï¿½. Est-ce normal ? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ? </span><br><br> Nous avons établi cette règle pour protéger les comptes de nos joueurs. Bien évidemment, il nous est impossible de faire la différence entre votre « emprunt » de compte et le vol d'un compte par un joueur malintentionné. Demander aux joueurs leur mot de passe sera donc pris TRÈS au sérieux. <br><br>
+<span class="title">1. Pourquoi cette rï¿½gle ? </span><br><br> Nous avons ï¿½tabli cette rï¿½gle pour protï¿½ger les comptes de nos joueurs. Bien ï¿½videmment, il nous est impossible de faire la diffï¿½rence entre votre ï¿½ emprunt ï¿½ de compte et le vol d'un compte par un joueur malintentionnï¿½. Demander aux joueurs leur mot de passe sera donc pris TRï¿½S au sï¿½rieux. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">2. Et si j'essaie d'obtenir le mot de passe d'un joueur mais que j'échoue ? Ai-je enfreint la règle ? </span><br><br> Oui, vous transgressez la règle. Même si vous échouez, votre tentative entraînera probablement l'exclusion permanente de votre compte. Vous ne devez même pas essayer d'obtenir le mot de passe d'un joueur ! <br><br>
+<span class="title">2. Et si j'essaie d'obtenir le mot de passe d'un joueur mais que j'ï¿½choue ? Ai-je enfreint la rï¿½gle ? </span><br><br> Oui, vous transgressez la rï¿½gle. Mï¿½me si vous ï¿½chouez, votre tentative entraï¿½nera probablement l'exclusion permanente de votre compte. Vous ne devez mï¿½me pas essayer d'obtenir le mot de passe d'un joueur ! <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="language"></a>
-<span class="title">3. Et si je demande dans une autre langue ? </span><br><br> Les règles s'appliquent à toutes les langues, sans distinction. En conséquence, vous transgresseriez les règles du jeu. <br><br>
+<span class="title">3. Et si je demande dans une autre langue ? </span><br><br> Les rï¿½gles s'appliquent ï¿½ toutes les langues, sans distinction. En consï¿½quence, vous transgresseriez les rï¿½gles du jeu. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="actioned"></a>
-<span class="title">4. J'ai envoyé une demande de mot de passe parce que j'ai oublié le mien. Pourquoi rien n'a-t-il encore été fait ? </span><br><br> Vous devez envoyer suffisamment d'informations précises au service clientèle pour que nous puissions vous fournir à nouveau votre mot de passe. Si les informations que vous nous faites parvenir ne garantissent pas que vous êtes le propriétaire d'origine du compte, nous ne vous en donnerons pas le contrôle. <br><br> Veuillez ne pas envoyer plusieurs demandes de mot de passe au service clientèle à moins que vous ne souhaitiez apporter une preuve supplémentaire irréfutable que le compte vous appartient. L'envoi de plusieurs messages sans informations précises risque d'être considéré comme une utilisation abusive du service clientèle, qui peut alors être supprimé de votre compte. <br><br>
+<span class="title">4. J'ai envoyï¿½ une demande de mot de passe parce que j'ai oubliï¿½ le mien. Pourquoi rien n'a-t-il encore ï¿½tï¿½ fait ? </span><br><br> Vous devez envoyer suffisamment d'informations prï¿½cises au service clientï¿½le pour que nous puissions vous fournir ï¿½ nouveau votre mot de passe. Si les informations que vous nous faites parvenir ne garantissent pas que vous ï¿½tes le propriï¿½taire d'origine du compte, nous ne vous en donnerons pas le contrï¿½le. <br><br> Veuillez ne pas envoyer plusieurs demandes de mot de passe au service clientï¿½le ï¿½ moins que vous ne souhaitiez apporter une preuve supplï¿½mentaire irrï¿½futable que le compte vous appartient. L'envoi de plusieurs messages sans informations prï¿½cises risque d'ï¿½tre considï¿½rï¿½ comme une utilisation abusive du service clientï¿½le, qui peut alors ï¿½tre supprimï¿½ de votre compte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="bank"></a>
-<span class="title">5. On m'a demandé mon code confidentiel bancaire ainsi que d'autres informations telles que les réponses à mes questions de sécurité. Est-ce normal ? </span><br><br> La demande d'un code confidentiel bancaire ou de toute autre information de sécurité est toute aussi grave que celle d'un mot de passe, car elle donne accès à l'espace bancaire des joueurs. Dans aucun cas, vous ne devez communiquer votre mot de passe, votre code confidentiel ou toute autre information personnelle relative à votre compte. <br><br>
-<p><i>Vous devez observer cette règle pour que chacun continue à trouver du plaisir à jouer à FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, votre compte sera fermé. Les membres exclus pour violation de nos règles n'ont droit à aucun type de remboursement.</i></p>
+<span class="title">5. On m'a demandï¿½ mon code confidentiel bancaire ainsi que d'autres informations telles que les rï¿½ponses ï¿½ mes questions de sï¿½curitï¿½. Est-ce normal ? </span><br><br> La demande d'un code confidentiel bancaire ou de toute autre information de sï¿½curitï¿½ est toute aussi grave que celle d'un mot de passe, car elle donne accï¿½s ï¿½ l'espace bancaire des joueurs. Dans aucun cas, vous ne devez communiquer votre mot de passe, votre code confidentiel ou toute autre information personnelle relative ï¿½ votre compte. <br><br>
+<p><i>Vous devez observer cette rï¿½gle pour que chacun continue ï¿½ trouver du plaisir ï¿½ jouer ï¿½ FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, votre compte sera fermï¿½. Les membres exclus pour violation de nos rï¿½gles n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Autres rubriques dans <a href="viewcategory.ws?cat_id=11">Code de conduite</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=54">Règle 1 - Propos outranciers</a>, <a href="viewarticle.ws?article_id=37">Règle 2 - Extorsion d'objets</a>, Règle 3 - Extorsion de mot de passe, <a href="viewarticle.ws?article_id=50">Règle 4 - Triche/Exploitation de bug</a>, <a href="viewarticle.ws?article_id=21">Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex</a></span>
+<a href="viewarticle.ws?article_id=54">Rï¿½gle 1 - Propos outranciers</a>, <a href="viewarticle.ws?article_id=37">Rï¿½gle 2 - Extorsion d'objets</a>, Rï¿½gle 3 - Extorsion de mot de passe, <a href="viewarticle.ws?article_id=50">Rï¿½gle 4 - Triche/Exploitation de bug</a>, <a href="viewarticle.ws?article_id=21">Rï¿½gle 5 - Usurpation de l'identitï¿½ d'un membre du personnel de Jagex</a></span>
 </div>
 </div>
 </div>
@@ -221,17 +221,17 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

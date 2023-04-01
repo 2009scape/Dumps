@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-14.css);/**/
+  /*\*/@import url(../css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/css/layout.ws"></script>
+<script type="text/javascript" src="../css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Questions and answers for paying by text message.">
@@ -44,7 +44,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -61,15 +61,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,37 +97,37 @@ http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=31" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=31" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/index.ws">
+<a id="countrydrop" href="../index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../index.ws"><img title="English" alt="English" src="../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -178,7 +178,7 @@ http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
 <span class="title">1. How does the PayBySMS payment method work?</span><br><br>
 You send a text message to the PayBySMS service and receive a reply with a PIN to redeem on our website. This will provide you with one month of membership.<br><br>The cost of the message will be added to your telephone bill if you have a contract. Otherwise it will be taken from the credit on your phone.<br><br>Please be aware that your network provider may also charge for the text you send. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="cost"></a>
@@ -186,7 +186,7 @@ You send a text message to the PayBySMS service and receive a reply with a PIN t
 The cost of membership is GBP5.00 for UK customers and USD$9.99 for players from the USA, per month, plus any charges made by your mobile phone operator.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="networks"></a>
@@ -199,57 +199,57 @@ The cost of membership is GBP5.00 for UK customers and USD$9.99 for players from
 <td style="width: 100px;"><b>Austria</b></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/3_logo.gif" alt="3 logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/sprint_logo.gif" alt="Sprint logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/debitel_logo.gif" alt="Debitel logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/3_logo.gif" alt="3 logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/sprint_logo.gif" alt="Sprint logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/debitel_logo.gif" alt="Debitel logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/o2_logo.gif" alt="O2 logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/alltel_logo.gif" alt="Alltel logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/eplus_logo.gif" alt="E-Plus+ logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/a1_logo.gif" alt="A1 logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/o2_logo.gif" alt="O2 logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/alltel_logo.gif" alt="Alltel logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/eplus_logo.gif" alt="E-Plus+ logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/a1_logo.gif" alt="A1 logo"></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/orange_logo.gif" alt="Orange logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/nextel_logo.gif" alt="Nextel logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/quam_logo.gif" alt="Quam logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/one_logo.gif" alt="ONE logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/orange_logo.gif" alt="Orange logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/nextel_logo.gif" alt="Nextel logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/quam_logo.gif" alt="Quam logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/one_logo.gif" alt="ONE logo"></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/dobson_logo.gif" alt="Dobson logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/mobilcom_logo.gif" alt="Mobilcom logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/3_logo.gif" alt="3 logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/dobson_logo.gif" alt="Dobson logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/mobilcom_logo.gif" alt="Mobilcom logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/3_logo.gif" alt="3 logo"></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/virgin_logo.gif" alt="Virgin logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/cingular_logo.gif" alt="Cingular logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/o2_logo.gif" alt="O2 logo"></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/telering_logo.gif" alt="Telering logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/virgin_logo.gif" alt="Virgin logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/cingular_logo.gif" alt="Cingular logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/o2_logo.gif" alt="O2 logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/telering_logo.gif" alt="Telering logo"></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/vodafone_logo.gif" alt="Vodafone logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/vodafone_logo.gif" alt="Vodafone logo"></td>
 <td></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
-<td></td>
-</tr>
-<tr style="height: 40px;" class="row_b">
-<td></td>
-<td></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/vodafone_logo.gif" alt="Vodafone logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/tmobile_logo.gif" alt="T-Mobile logo"></td>
 <td></td>
 </tr>
 <tr style="height: 40px;" class="row_b">
 <td></td>
 <td></td>
-<td><img style="display: inline;" src="http://www.funorb.com/img/images/kbase/category_pages/billing/talkline_logo.gif" alt="Talkline logo"></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/vodafone_logo.gif" alt="Vodafone logo"></td>
+<td></td>
+</tr>
+<tr style="height: 40px;" class="row_b">
+<td></td>
+<td></td>
+<td><img style="display: inline;" src="../img/images/kbase/category_pages/billing/talkline_logo.gif" alt="Talkline logo"></td>
 <td></td>
 </tr>
 </table>
 <br style="clear: both;"> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="method"></a>
@@ -257,7 +257,7 @@ The cost of membership is GBP5.00 for UK customers and USD$9.99 for players from
 The PayBySMS service is currently available to players from the UK, USA, Austria, Belgium, Germany and the Netherlands.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="membership"></a>
@@ -265,28 +265,28 @@ The PayBySMS service is currently available to players from the UK, USA, Austria
 You will need to wait 15 minutes after the call has been made before you can redeem your PIN. As soon as the PIN is redeemed, the membership credit will be added to your account. <br><br>
 If you receive a PIN but cannot, for any reason, redeem it, please contact Billing support before purchasing another. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="number"></a>
 <span class="title">6. What number do I need to send the text message to?</span><br><br>
 The number to send the text message to will be displayed during the subscription process. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="subscribe"></a>
 <span class="title">7. How do I make a payment?</span><br><br>
-Simply start a new subscription by going to our <a href="http://www.funorb.com/">website</a>, click on 'Start a new subscription' and follow the prompts for using the PayBySMS payment method.<br><br>Please be sure to follow the instructions and ensure you understand all the points. <br><br>
+Simply start a new subscription by going to our <a href="../">website</a>, click on 'Start a new subscription' and follow the prompts for using the PayBySMS payment method.<br><br>Please be sure to follow the instructions and ensure you understand all the points. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="unsubscribe"></a>
 <span class="title">8. How do I cancel my membership?</span><br><br>
 Payment will only be taken when you send a message to the PayBySMS service and are issued with a PIN. If you no longer wish to continue membership on your account, simply do not resubscribe. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="months"></a>
@@ -294,42 +294,42 @@ Payment will only be taken when you send a message to the PayBySMS service and a
 You may buy more than one month of credit at a time. However, you can only add PayBySMS membership to three accounts at any given time. We, therefore, recommend that you do not exceed this limit as you will not be able to make use of your additional purchased credit.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="taken"></a>
 <span class="title">10. How many payments will be taken?</span><br><br>
 Only one payment will be taken each time you use the PayBySMS service. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="country"></a>
 <span class="title">11. The PayByPhone service is not available in my country, what can I do?</span><br><br>
 We are always looking to add new payment options for our players. If PayBySMS has not currently been implemented in your country, please do not submit a query regarding this; instead, keep an eye on our Billing pages for any new billing options, as and when we offer them.<br><br>In the meantime, you may wish to consider one of the other payment methods we offer. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="pin"></a>
 <span class="title">12. My PIN does not work. What can I do?</span><br><br>
 First, please double check you have waited 15 minutes and are entering the correct PIN.<br><br>If the PIN still does not work, please submit a billing query. You will need to provide the telephone number the call was made from, the PIN you were issued with and the date and time the call was made. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="display"></a>
 <span class="title">13. I live in a country that PayBySMS supports, but the PayBySMS logo is not displayed when I try to subscribe. Why?</span><br><br>
 You will only be able to purchase membership using PayBySMS if your account has less than 14 days of membership credit remaining on it.<br><br>If you wish to use this payment method, you will need to wait until your account has less than 14 days of membership credit left. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="wrong"></a>
 <span class="title">14. I have sent a text to the service but have not received a PIN. What is wrong?</span><br><br>
 A PIN is sent to every user who texts the PayBySMS service. We operate a reverse billing procedure, where you are only charged when we successfully send you a PIN. If you have not received the PIN, you will not be charged.<br><br>The four main reasons that this occurs are:<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> Your network provider blocks inbound premium rate text messages.<br><li> There was not enough money on your mobile phone to pay for a full month of membership.<br><li> Your text message inbox was full meaning the PIN could not be received.<br><li> Your mobile phone service provider was unable to send the PIN due to loss of service.</ul> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="mobile"></a>
@@ -337,7 +337,7 @@ A PIN is sent to every user who texts the PayBySMS service. We operate a reverse
 You are allowed to subscribe a maximum of three accounts using the same telephone line, at any one time.<br><br>Jagex reserves the right to withhold/suspend crediting an account, without refund, if you attempt to maintain more than the allowed number of Jagex subscriptions per phone line. </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -357,22 +357,22 @@ You are allowed to subscribe a maximum of three accounts using the same telephon
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../index.ws"><img alt="English" src="../img/images/layout/en.gif">English</a>
+<a href="../l=1/index.ws"><img alt="Deutsch" src="../img/images/layout/de.gif">Deutsch</a>
+<a href="../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../../a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../../a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="How to deal with disruptive players.">
@@ -44,7 +44,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -61,15 +61,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,37 +97,37 @@ http://forum-fo.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/f
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=how_do_i_report_abuse" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=how_do_i_report_abuse" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws">
+<a id="countrydrop" href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+<img alt="English" src="../../../a=135/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="English" alt="English" src="../../../a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Deutsch" alt="Deutsch" src="../../../a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../../a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../../a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -169,7 +169,7 @@ http://forum-fo.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/f
 Firstly, you should report the player by using our in-game report function. You can find out how to do this by going to Question 3, below. This sort of activity is something that we take very seriously and, as such, we will look into this matter very carefully.<br><br>You only need to send in one report for each incident. If we receive several reports of the same incident then this means that we may take longer to action other reports.<br><br>If a player is threatening to steal your account then, to ensure that your account is secure from any possible hijack attempt, we would ask you to read and follow the information found in our <a href="viewarticle.ws?article_id=42">Security Information </a>document.<br><br>Follow all the advice in there and we are totally confident that your account will remain secure.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="real"></a>
@@ -185,7 +185,7 @@ If anyone is bullying you or threatening you in the real world, whether it is re
 <br><br>
 <br>If you are in the UK and you feel you would like to talk to someone, then you can contact Childline - the UK's free, 24-hour helpline for young people in trouble or danger - on 0800 1111.<br><br>The lines can be busy, so please keep trying, or you can email them through their website, above.<br><br>For serious cases related to Child Protection in the United States, please report it to: <a href="http://www.fbi.gov/contactus.htm" target="_blank">www.fbi.gov/contactus.htm</a><br><br>For serious cases in the UK, contact your local police force via their station number of find more information here: <a href="http://www.police.uk" target="_blank">www.police.uk</a>. Alternatively, contact the Social Services, whose phone number you can find in the phone book. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="report"></a>
@@ -208,11 +208,11 @@ Sending in hoax reports slows us down, and repeatedly doing so is likely to resu
 <br>
 If you are sure you want to make an abuse report then please use the Report Abuse button, which is located in the bottom of the FunOrb chat window.
 <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/safetyguidelines/report_abuse.gif" alt="Report Abuse button" title="Report Abuse button">
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../a=135/img/images/kbase/safetyguidelines/report_abuse.gif" alt="Report Abuse button" title="Report Abuse button">
 <br><br>
 To use the Report Abuse button, simply click it, enter the player's name and select the relevant category - your abuse report will be sent automatically.
 <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/safetyguidelines/reportabusemenu2a.gif" alt="Report Abuse menu" title="Report Abuse menu">
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../a=135/img/images/kbase/safetyguidelines/reportabusemenu2a.gif" alt="Report Abuse menu" title="Report Abuse menu">
 <br><br>
 Please only send in one report for each incident. We can get all of the information that we need from the single report and sending in many simply stops us being able to process your reports as quickly.
 <br><br>
@@ -221,14 +221,14 @@ Please only send in one report for each incident. We can get all of the informat
 All abuse reports that we receive are looked into and actioned; however, it may be that we do not agree with your report or there is not enough evidence in the report and have decided to take no further action against the player. Please do not send in messages about the first report as our decision is FINAL. Also, please do not send in any additional reports unless you see the player breaking the rules again.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="chat"></a>
 <span class="title">4. How does the chat filter work?</span><br><br>
 The chat filter works by detecting certain offensive words or patterns of letters which we deem are only used to break the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a>. These are then filtered out and replaced with stars in the chat window. We are aware that some words will be censored unnecessarily and we will never take action against an account, even if it has been reported, unless it has actually broken the Rules. If you see that a player's comment has been filtered, then it is not necessary to submit an abuse report as, essentially, the chat filter has done its job.<br><br>If you see anyone deliberately spelling words differently so that they can circumvent the chat filter and break the Rules then you should report them for Offensive Language. To find out how, take a look at Question 3, above. </a> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
@@ -252,7 +252,7 @@ For a full list of what is considered abuse, please check our <a href="viewcateg
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -272,22 +272,22 @@ For a full list of what is considered abuse, please check our <a href="viewcateg
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="English" src="../../../a=135/img/images/layout/en.gif">English</a>
+<a href="../../../l=1/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Deutsch" src="../../../a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../../l=2/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Fran&ccedil;ais" src="../../../a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../../l=3/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../../a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=135/p=v57KIm3Y48b0xa-t7zCjUPTFr*3vMKNQ7hflRmDAIlQ/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

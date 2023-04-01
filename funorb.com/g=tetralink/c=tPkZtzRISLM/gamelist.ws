@@ -19,19 +19,19 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=tetralink/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=tetralink/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../g=tetralink/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../g=tetralink/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-40.css);/**/
+  /*\*/@import url(../../css/global-40.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/js/jquery/jquery_1_3_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/css/gamelist-3.css");/**/
+ /*\*/@import url("../../css/gamelist-3.css");/**/
 </style>
 <script type="text/javascript">
  function ajax_debug(text) {
@@ -1199,18 +1199,18 @@ function callback_request(url, callback) {
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=tetralink/index.ws" ><b>
+<a id="logo" href="../../g=tetralink/index.ws" ><b>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="203" height="80">
-<param name="movie" value="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.swf" />
-<param name="FlashVars" value="homePath=http://www.funorb.com/g=tetralink/" />
+<param name="movie" value="../../img/images/layout/logo_funorb_tombracer.swf" />
+<param name="FlashVars" value="homePath=../../g=tetralink/" />
 <param name="AllowScriptAccess" value="always" />
 <!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
-<param name="FlashVars" value="homePath=http://www.funorb.com/g=tetralink/" />
+<object type="application/x-shockwave-flash" data="../../img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
+<param name="FlashVars" value="homePath=../../g=tetralink/" />
 <param name="AllowScriptAccess" value="always" />
 <!--<![endif]-->
 <!-- Non Flash alternative -->
-<img src="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
+<img src="../../img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
 <!--[if !IE]>-->
 </object>
 <!--<![endif]-->
@@ -1233,15 +1233,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=tetralink/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=tetralink/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../g=tetralink/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../g=tetralink/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=tetralink/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../g=tetralink/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../g=tetralink/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../g=tetralink/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../g=tetralink/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1250,9 +1250,9 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/g=tetralink/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../g=tetralink/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../g=tetralink/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../g=tetralink/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1263,23 +1263,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://services.funorb.com/m=focommunity/g=tetralink/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/g=tetralink/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../g=tetralink/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=tetralink/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=tetralink/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=tetralink/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=tetralink/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../g=tetralink/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=tetralink/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=tetralink/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../g=tetralink/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../g=tetralink/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../g=tetralink/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../g=tetralink/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../g=tetralink/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../g=tetralink/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1288,28 +1288,28 @@ http://services.funorb.com/m=forum_fo/g=tetralink/forums.ws" class="fly">Forums<
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=tetralink/loginform.ws?mod=www&amp;ssl=0&amp;dest=gamelist.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=tetralink/index.ws">
+<a id="countrydrop" href="../../g=tetralink/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=tetralink/index.ws"><img title="
+<li><a class="fly" href="../../g=tetralink/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=tetralink/index.ws"><img title="
+English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=tetralink/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=tetralink/index.ws"><img title="
+Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=tetralink/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=tetralink/index.ws"><img title="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=tetralink/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -1381,657 +1381,657 @@ Other</option>
 </form>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/aceofskies/play.ws">
-<img src="http://www.funorb.com/img/images/game/aceofskies/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/aceofskies/play.ws">
+<img src="../../img/images/game/aceofskies/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/aceofskies/play.ws">Ace of Skies</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/aceofskies/play.ws">Ace of Skies</a></div>
 <div class="gamedesc">Aerial dare-devilry with a stiff upper lip</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=aceofskies"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/aceofskies/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=aceofskies"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/aceofskies/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/arcanistsmulti/play.ws">
-<img src="http://www.funorb.com/img/images/game/arcanistsmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/arcanistsmulti/play.ws">
+<img src="../../img/images/game/arcanistsmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/arcanistsmulti/play.ws">Arcanists</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/arcanistsmulti/play.ws">Arcanists</a></div>
 <div class="gamedesc">Magic and mayhem-filled multiplayer matches.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=arcanistsmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/arcanistsmulti/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=arcanistsmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/arcanistsmulti/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/armiesofgielinor/play.ws">
-<img src="http://www.funorb.com/img/images/game/armiesofgielinor/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/armiesofgielinor/play.ws">
+<img src="../../img/images/game/armiesofgielinor/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/armiesofgielinor/play.ws">Armies of Gielinor</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/armiesofgielinor/play.ws">Armies of Gielinor</a></div>
 <div class="gamedesc">Wage war with the Armies of Gielinor</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=armiesofgielinor"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/armiesofgielinor/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=armiesofgielinor"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/armiesofgielinor/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/bachelorfridge/play.ws">
-<img src="http://www.funorb.com/img/images/game/bachelorfridge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/bachelorfridge/play.ws">
+<img src="../../img/images/game/bachelorfridge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/bachelorfridge/play.ws">Bachelor Fridge</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/bachelorfridge/play.ws">Bachelor Fridge</a></div>
 <div class="gamedesc">Where health and safety dare not tread.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=bachelorfridge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/bachelorfridge/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=bachelorfridge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/bachelorfridge/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/bouncedown/play.ws">
-<img src="http://www.funorb.com/img/images/game/bouncedown/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/bouncedown/play.ws">
+<img src="../../img/images/game/bouncedown/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/bouncedown/play.ws">Bouncedown</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/bouncedown/play.ws">Bouncedown</a></div>
 <div class="gamedesc">How long can you last in this platform-filled fun fest?</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=bouncedown"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/bouncedown/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=bouncedown"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/bouncedown/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/brickabrac/play.ws">
-<img src="http://www.funorb.com/img/images/game/brickabrac/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/brickabrac/play.ws">
+<img src="../../img/images/game/brickabrac/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/brickabrac/play.ws">Brick-À-Brac</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/brickabrac/play.ws">Brick-ï¿½-Brac</a></div>
 <div class="gamedesc">Classic brick destruction with Brick and Brac.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=brickabrac"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/brickabrac/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=brickabrac"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/brickabrac/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/chess/play.ws">
-<img src="http://www.funorb.com/img/images/game/chess/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/chess/play.ws">
+<img src="../../img/images/game/chess/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/chess/play.ws">Chess</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/chess/play.ws">Chess</a></div>
 <div class="gamedesc">Play the classic strategy game with your friends.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=chess"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/chess/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=chess"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/chess/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/crazycrystals/play.ws">
-<img src="http://www.funorb.com/img/images/game/crazycrystals/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/crazycrystals/play.ws">
+<img src="../../img/images/game/crazycrystals/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/crazycrystals/play.ws">Crazy Crystals</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/crazycrystals/play.ws">Crazy Crystals</a></div>
 <div class="gamedesc">Rock-hard tile-based puzzle game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=crazycrystals"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/crazycrystals/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=crazycrystals"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/crazycrystals/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/dekobloko/play.ws">
-<img src="http://www.funorb.com/img/images/game/dekobloko/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/dekobloko/play.ws">
+<img src="../../img/images/game/dekobloko/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/dekobloko/play.ws">Deko Bloko</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/dekobloko/play.ws">Deko Bloko</a></div>
 <div class="gamedesc">Multiplayer mayhem with shapes that keep coming back!</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=dekobloko"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/dekobloko/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=dekobloko"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/dekobloko/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/drphlogistonsavestheearth/play.ws">
-<img src="http://www.funorb.com/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/drphlogistonsavestheearth/play.ws">
+<img src="../../img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/drphlogistonsavestheearth/play.ws">Dr P. Saves the Earth</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/drphlogistonsavestheearth/play.ws">Dr P. Saves the Earth</a></div>
 <div class="gamedesc">Save the Earth in this side-scrolling shooter.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=drphlogistonsavestheearth"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/drphlogistonsavestheearth/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=drphlogistonsavestheearth"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/drphlogistonsavestheearth/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/dungeonassault/play.ws">
-<img src="http://www.funorb.com/img/images/game/dungeonassault/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/dungeonassault/play.ws">
+<img src="../../img/images/game/dungeonassault/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/dungeonassault/play.ws">Dungeon Assault</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/dungeonassault/play.ws">Dungeon Assault</a></div>
 <div class="gamedesc">Defend your hoard. Become the Dragon King!</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=dungeonassault"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/dungeonassault/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=dungeonassault"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/dungeonassault/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/escapevector/play.ws">
-<img src="http://www.funorb.com/img/images/game/escapevector/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/escapevector/play.ws">
+<img src="../../img/images/game/escapevector/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/escapevector/play.ws">Escape Vector</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/escapevector/play.ws">Escape Vector</a></div>
 <div class="gamedesc">Fly through twisty caves to reclaim Earth's stolen tech.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=escapevector"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/escapevector/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=escapevector"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/escapevector/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/fleacircus/play.ws">
-<img src="http://www.funorb.com/img/images/game/fleacircus/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/fleacircus/play.ws">
+<img src="../../img/images/game/fleacircus/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/fleacircus/play.ws">Flea Circus</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/fleacircus/play.ws">Flea Circus</a></div>
 <div class="gamedesc">Guide your fleas through their tiny little circus.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=fleacircus"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/fleacircus/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=fleacircus"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/fleacircus/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/geoblox/play.ws">
-<img src="http://www.funorb.com/img/images/game/geoblox/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/geoblox/play.ws">
+<img src="../../img/images/game/geoblox/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/geoblox/play.ws">Geoblox</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/geoblox/play.ws">Geoblox</a></div>
 <div class="gamedesc">Match the shapes or colours, three-of-a-kind.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=geoblox"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/geoblox/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=geoblox"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/geoblox/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/holdtheline/play.ws">
-<img src="http://www.funorb.com/img/images/game/holdtheline/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/holdtheline/play.ws">
+<img src="../../img/images/game/holdtheline/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/holdtheline/play.ws">Hold the Line</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/holdtheline/play.ws">Hold the Line</a></div>
 <div class="gamedesc">Fight for pole position in this powered-up racer.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=holdtheline"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/holdtheline/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=holdtheline"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/holdtheline/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/hostilespawn_vengeance/play.ws">
-<img src="http://www.funorb.com/img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/hostilespawn_vengeance/play.ws">
+<img src="../../img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
 <div class="gamedesc">Defeat the hordes of alien spawn.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=hostilespawn_vengeance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/hostilespawn_vengeance/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=hostilespawn_vengeance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/hostilespawn_vengeance/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/kickabout/play.ws">
-<img src="http://www.funorb.com/img/images/game/kickabout/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/kickabout/play.ws">
+<img src="../../img/images/game/kickabout/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/kickabout/play.ws">Kickabout League</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/kickabout/play.ws">Kickabout League</a></div>
 <div class="gamedesc">From jumpers-for-goalposts to the Diamond Division...</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=kickabout"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/kickabout/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=kickabout"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/kickabout/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/lexicominos/play.ws">
-<img src="http://www.funorb.com/img/images/game/lexicominos/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/lexicominos/play.ws">
+<img src="../../img/images/game/lexicominos/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/lexicominos/play.ws">Lexicominos</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/lexicominos/play.ws">Lexicominos</a></div>
 <div class="gamedesc">How many words can you make from falling blocks?</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=lexicominos"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/lexicominos/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=lexicominos"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/lexicominos/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/minerdisturbance/play.ws">
-<img src="http://www.funorb.com/img/images/game/minerdisturbance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/minerdisturbance/play.ws">
+<img src="../../img/images/game/minerdisturbance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/minerdisturbance/play.ws">Miner Disturbance</a></div>
-<div class="gamedesc">Plunder the depths of a loot–filled volcano.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/minerdisturbance/play.ws">Miner Disturbance</a></div>
+<div class="gamedesc">Plunder the depths of a lootï¿½filled volcano.</div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=minerdisturbance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/minerdisturbance/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=minerdisturbance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/minerdisturbance/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/monkeypuzzle2/play.ws">
-<img src="http://www.funorb.com/img/images/game/monkeypuzzle2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/monkeypuzzle2/play.ws">
+<img src="../../img/images/game/monkeypuzzle2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
 <div class="gamedesc">Catapult coloured coconuts to dislodge the monkeys.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=monkeypuzzle2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/monkeypuzzle2/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=monkeypuzzle2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/monkeypuzzle2/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/orbdefence/play.ws">
-<img src="http://www.funorb.com/img/images/game/orbdefence/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/orbdefence/play.ws">
+<img src="../../img/images/game/orbdefence/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/orbdefence/play.ws">Orb Defence</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/orbdefence/play.ws">Orb Defence</a></div>
 <div class="gamedesc">Defend against the Norb invasion.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=orbdefence"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/orbdefence/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=orbdefence"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/orbdefence/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/pixelate/play.ws">
-<img src="http://www.funorb.com/img/images/game/pixelate/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/pixelate/play.ws">
+<img src="../../img/images/game/pixelate/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/pixelate/play.ws">Pixelate</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/pixelate/play.ws">Pixelate</a></div>
 <div class="gamedesc">It's a falling block game - with a twist!</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=pixelate"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/pixelate/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=pixelate"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/pixelate/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/pool/play.ws">
-<img src="http://www.funorb.com/img/images/game/pool/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/pool/play.ws">
+<img src="../../img/images/game/pool/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/pool/play.ws">Pool</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/pool/play.ws">Pool</a></div>
 <div class="gamedesc">The classic game of angular skill.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=pool"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/pool/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=pool"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/pool/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/shatteredplans/play.ws">
-<img src="http://www.funorb.com/img/images/game/shatteredplans/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/shatteredplans/play.ws">
+<img src="../../img/images/game/shatteredplans/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/shatteredplans/play.ws">Shattered Plans</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/shatteredplans/play.ws">Shattered Plans</a></div>
 <div class="gamedesc">Bend worlds to your will and conquer the galaxy.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=shatteredplans"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/shatteredplans/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=shatteredplans"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/shatteredplans/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/solknight/play.ws">
-<img src="http://www.funorb.com/img/images/game/solknight/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/solknight/play.ws">
+<img src="../../img/images/game/solknight/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/solknight/play.ws">Sol-Knight</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/solknight/play.ws">Sol-Knight</a></div>
 <div class="gamedesc">Protect the solar system from (kilo)tons of asteroids.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=solknight"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/solknight/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=solknight"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/solknight/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/starcannon/play.ws">
-<img src="http://www.funorb.com/img/images/game/starcannon/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/starcannon/play.ws">
+<img src="../../img/images/game/starcannon/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/starcannon/play.ws">StarCannon</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/starcannon/play.ws">StarCannon</a></div>
 <div class="gamedesc">Pilot the most powerful space fighter ever made.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=starcannon"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/starcannon/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=starcannon"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/starcannon/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/steelsentinels/play.ws">
-<img src="http://www.funorb.com/img/images/game/steelsentinels/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/steelsentinels/play.ws">
+<img src="../../img/images/game/steelsentinels/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/steelsentinels/play.ws">Steel Sentinels</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/steelsentinels/play.ws">Steel Sentinels</a></div>
 <div class="gamedesc">Build and control giant robots and battle for supremacy.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=steelsentinels"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/steelsentinels/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=steelsentinels"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/steelsentinels/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/stellarshard/play.ws">
-<img src="http://www.funorb.com/img/images/game/stellarshard/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/stellarshard/play.ws">
+<img src="../../img/images/game/stellarshard/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/stellarshard/play.ws">Stellar Shard</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/stellarshard/play.ws">Stellar Shard</a></div>
 <div class="gamedesc">Clear the asteroid field with ever-increasing fire power.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=stellarshard"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/stellarshard/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=stellarshard"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/stellarshard/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/terraphoenix/play.ws">
-<img src="http://www.funorb.com/img/images/game/terraphoenix/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/terraphoenix/play.ws">
+<img src="../../img/images/game/terraphoenix/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/terraphoenix/play.ws">TerraPhoenix</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/terraphoenix/play.ws">TerraPhoenix</a></div>
 <div class="gamedesc">Command your elite troops in this strategy game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=terraphoenix"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/terraphoenix/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=terraphoenix"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/terraphoenix/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/tetralink/play.ws">
-<img src="http://www.funorb.com/img/images/game/tetralink/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/tetralink/play.ws">
+<img src="../../img/images/game/tetralink/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/tetralink/play.ws">TetraLink</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/tetralink/play.ws">TetraLink</a></div>
 <div class="gamedesc">Get four counters in a row before your opponent.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=tetralink"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/tetralink/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=tetralink"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/tetralink/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/trackcontroller/play.ws">
-<img src="http://www.funorb.com/img/images/game/trackcontroller/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/trackcontroller/play.ws">
+<img src="../../img/images/game/trackcontroller/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/trackcontroller/play.ws">The Track Controller</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/trackcontroller/play.ws">The Track Controller</a></div>
 <div class="gamedesc">Push the pieces into place to finish your train track.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=trackcontroller"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/trackcontroller/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=trackcontroller"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/trackcontroller/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/36cardtrick/play.ws">
-<img src="http://www.funorb.com/img/images/game/36cardtrick/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/36cardtrick/play.ws">
+<img src="../../img/images/game/36cardtrick/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/36cardtrick/play.ws">Thirty-Six Card Trick</a></div>
-<div class="gamedesc">The classic pair-matching game – with a slight twist.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/36cardtrick/play.ws">Thirty-Six Card Trick</a></div>
+<div class="gamedesc">The classic pair-matching game ï¿½ with a slight twist.</div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=36cardtrick"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/36cardtrick/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=36cardtrick"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/36cardtrick/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/tombracer/play.ws">
-<img src="http://www.funorb.com/img/images/game/tombracer/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/tombracer/play.ws">
+<img src="../../img/images/game/tombracer/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/tombracer/play.ws">Tomb Racer</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/tombracer/play.ws">Tomb Racer</a></div>
 <div class="gamedesc">Race online in the Tortuous Temples of Torment</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=tombracer"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/tombracer/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=tombracer"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/tombracer/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/torchallenge/play.ws">
-<img src="http://www.funorb.com/img/images/game/torchallenge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/torchallenge/play.ws">
+<img src="../../img/images/game/torchallenge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/torchallenge/play.ws">Tor Challenge</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/torchallenge/play.ws">Tor Challenge</a></div>
 <div class="gamedesc">Conquer the towers and attain enlightenment.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=torchallenge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/torchallenge/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=torchallenge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/torchallenge/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/torquing/play.ws">
-<img src="http://www.funorb.com/img/images/game/torquing/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/torquing/play.ws">
+<img src="../../img/images/game/torquing/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/torquing/play.ws">Torquing!</a></div>
-<div class="gamedesc">Momentum and hamsters don't mix – except here!</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/torquing/play.ws">Torquing!</a></div>
+<div class="gamedesc">Momentum and hamsters don't mix ï¿½ except here!</div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=torquing"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/torquing/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=torquing"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/torquing/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/transmogrify/play.ws">
-<img src="http://www.funorb.com/img/images/game/transmogrify/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/transmogrify/play.ws">
+<img src="../../img/images/game/transmogrify/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/transmogrify/play.ws">Transmogrify</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/transmogrify/play.ws">Transmogrify</a></div>
 <div class="gamedesc">Anagrams aplenty in this quiz-show-themed puzzler.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=transmogrify"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/transmogrify/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=transmogrify"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/transmogrify/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/vertigo2/play.ws">
-<img src="http://www.funorb.com/img/images/game/vertigo2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/vertigo2/play.ws">
+<img src="../../img/images/game/vertigo2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/vertigo2/play.ws">Vertigo 2</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/vertigo2/play.ws">Vertigo 2</a></div>
 <div class="gamedesc">Paint the blocks purple in this 3D platform game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=vertigo2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/vertigo2/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=vertigo2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/vertigo2/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/virogrid/play.ws">
-<img src="http://www.funorb.com/img/images/game/virogrid/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/virogrid/play.ws">
+<img src="../../img/images/game/virogrid/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/virogrid/play.ws">Virogrid</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/virogrid/play.ws">Virogrid</a></div>
 <div class="gamedesc">Dominate the grid to achieve victory.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=virogrid"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/virogrid/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=virogrid"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/virogrid/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/wizardrun/play.ws">
-<img src="http://www.funorb.com/img/images/game/wizardrun/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/wizardrun/play.ws">
+<img src="../../img/images/game/wizardrun/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/wizardrun/play.ws">Wizard Run</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/wizardrun/play.ws">Wizard Run</a></div>
 <div class="gamedesc">Fling stars at your enemies in this fun platform game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=action">Action</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=wizardrun"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/wizardrun/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=wizardrun"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/wizardrun/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/zombiedawn/play.ws">
-<img src="http://www.funorb.com/img/images/game/zombiedawn/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/zombiedawn/play.ws">
+<img src="../../img/images/game/zombiedawn/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/zombiedawn/play.ws">Zombie Dawn</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/zombiedawn/play.ws">Zombie Dawn</a></div>
 <div class="gamedesc">Mastermind an invasion of the undead.</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=zombiedawn"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/zombiedawn/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=zombiedawn"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/zombiedawn/play.ws">Play</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/zombiedawnmulti/play.ws">
-<img src="http://www.funorb.com/img/images/game/zombiedawnmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../g=tetralink/zombiedawnmulti/play.ws">
+<img src="../../img/images/game/zombiedawnmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/g=tetralink/zombiedawnmulti/play.ws">Zombie Dawn Multi</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../g=tetralink/zombiedawnmulti/play.ws">Zombie Dawn Multi</a></div>
 <div class="gamedesc">Fight of the living dead: capture humans for your evil research!</div>
-<div class="genre"><div><a href="http://www.funorb.com/g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../../g=tetralink/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/g=tetralink/info.ws?game=zombiedawnmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/g=tetralink/zombiedawnmulti/play.ws">Play</a>
+<a class="buttonInfo" href="../../g=tetralink/info.ws?game=zombiedawnmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../g=tetralink/zombiedawnmulti/play.ws">Play</a>
 </div>
 </div>
 </div>
@@ -2048,30 +2048,30 @@ Other</option>
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=tetralink/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../g=tetralink/index.ws"><img alt="
+English" src="../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=tetralink/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../l=1/g=tetralink/index.ws"><img alt="
+Deutsch" src="../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=tetralink/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../l=2/g=tetralink/index.ws"><img alt="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=tetralink/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../l=3/g=tetralink/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/g=tetralink/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/g=tetralink/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../g=tetralink/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../g=tetralink/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=tetralink/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=tetralink/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

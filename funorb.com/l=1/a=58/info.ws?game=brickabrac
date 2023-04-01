@@ -19,14 +19,14 @@ de">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/a=58/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/a=58/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/a=58/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/a=58/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=58/css/global-33.css);/**/
+  /*\*/@import url(../../l=1/a=58/css/global-33.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=58/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=58/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -58,12 +58,12 @@ de">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=58/css/info-7.css");/**/
+ /*\*/@import url("../../l=1/a=58/css/info-7.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/brickabrac/intro.jpg);
+  background-image: url(../../l=1/img/images/game/brickabrac/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -75,10 +75,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/brickabrac/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/brickabrac/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/brickabrac/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/brickabrac/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/brickabrac/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/brickabrac/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/brickabrac/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/brickabrac/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -138,7 +138,7 @@ function imageGoto(self, img){
 <div class="affiliate_header">
 <p>In Zusammenarbeit mit</p>
 <a target="_parent" href="http://www.wildgames.com">
-<img src="http://www.funorb.com/l=1/img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="HP IPG-Logo"/>
+<img src="../../l=1/img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="HP IPG-Logo"/>
 </a>
 </div>
 <div class="bodyBackground">
@@ -151,24 +151,24 @@ function imageGoto(self, img){
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/l=1/a=58/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_funOrb_xmas09.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/a=58/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_funOrb_xmas09.jpg" alt="FunOrb" />
 </b></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=1/img/affil/partners/hp.gif" alt="HP IPG" />
+<img id="afflogo" src="../../l=1/img/affil/partners/hp.gif" alt="HP IPG" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=58/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=58/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=58/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=58/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=58/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=58/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=58/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/a=58/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/a=58/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -177,9 +177,9 @@ function imageGoto(self, img){
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=1/a=58/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/a=58/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=58/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/a=58/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -190,23 +190,23 @@ function imageGoto(self, img){
 <li><a href="http://services.funorb.com/m=focommunity/l=1/a=58/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/a=58/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/a=58/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/a=58/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/a=58/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/a=58/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=58/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=58/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=58/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=58/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=58/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=58/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/a=58/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=58/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=58/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/a=58/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -215,19 +215,19 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=58/forums.ws" class="fly">Forum</
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/a=58/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=brickabrac" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=58/index.ws">
+<a id="countrydrop" href="../../l=1/a=58/index.ws">
 <span>
-<img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=58/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=58/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=58/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=58/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=58/index.ws"><img title="English" alt="English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=58/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=58/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=58/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -242,12 +242,12 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=58/forums.ws" class="fly">Forum</
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=58/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=58/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/a=58/brickabrac/play.ws">Brick-A-Brac</a> &gt;
+<a href="../../l=1/a=58/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=58/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/a=58/brickabrac/play.ws">Brick-A-Brac</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=58/brickabrac/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=58/brickabrac/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -260,12 +260,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=58/gamelist.ws?genreBox=arcade"><span class="genre">Arcade</span></a><br> Zerstört Steine mit einem Schläger und einer Kugel. Spielt mit euren Freunden um die Wette! </div>
+<a href="../../l=1/a=58/gamelist.ws?genreBox=arcade"><span class="genre">Arcade</span></a><br> Zerstï¿½rt Steine mit einem Schlï¿½ger und einer Kugel. Spielt mit euren Freunden um die Wette! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://secure.funorb.com/m=create/l=1/a=58/"><div>Kontoerstellung</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=58/brickabrac/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/a=58/brickabrac/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/brickabrac/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/brickabrac/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/brickabrac/screen1_thumb.jpg?1);">
+<a href="../../l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/brickabrac/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/brickabrac/screen2_thumb.jpg?1);">
+<a href="../../l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/brickabrac/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/brickabrac/screen3_thumb.jpg?1);">
+<a href="../../l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/brickabrac/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/brickabrac/screen4_thumb.jpg?1);">
+<a href="../../l=1/a=58/display_screenshot.ws?game=brickabrac&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/brickabrac/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -313,8 +313,8 @@ Features - Brick-A-Brac
 
 <li>30 Einzelspieler-Levels</li>
 <li>16 Powerups</li>
-<li>Lokaler Mehrspielermodus für 2 Spieler</li>
-<li>Online-Mehrspieler für bis zu 5 Personen</li>
+<li>Lokaler Mehrspielermodus fï¿½r 2 Spieler</li>
+<li>Online-Mehrspieler fï¿½r bis zu 5 Personen</li>
 <li>Bewertete und unbewertete Partien</li>
 <li>Zugang zu allen Erfolgen</li>
 <li>KOSTENLOS</li>
@@ -333,7 +333,7 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Brick-a-Brac ist ein klassisches Arcadespiel im FunOrb-Gewand. Es gibt 30 Einzelspieler-Levels in verschiedensten Varianten, voller Powerups, beweglicher Steine, Schalter und Teleporter - ideal für die Jagd nach Highscores. Dazu gibt es einen Mehrspielermodus, der zu zweit an einem Computer oder online mit bis zu fünf Spielern gespielt werden kann. In einem Wettlauf mit der Zeit (und euren Gegnern) müsst ihr so viele Steine wie möglich zu zerstören und euren Gegnern fiese Powerups zuspielen, die ihnen das Steine zerstören schwer machen.</p>
+<p>Brick-a-Brac ist ein klassisches Arcadespiel im FunOrb-Gewand. Es gibt 30 Einzelspieler-Levels in verschiedensten Varianten, voller Powerups, beweglicher Steine, Schalter und Teleporter - ideal fï¿½r die Jagd nach Highscores. Dazu gibt es einen Mehrspielermodus, der zu zweit an einem Computer oder online mit bis zu fï¿½nf Spielern gespielt werden kann. In einem Wettlauf mit der Zeit (und euren Gegnern) mï¿½sst ihr so viele Steine wie mï¿½glich zu zerstï¿½ren und euren Gegnern fiese Powerups zuspielen, die ihnen das Steine zerstï¿½ren schwer machen.</p>
 </div>
 </div>
 </div>
@@ -348,33 +348,33 @@ Fragen und Antworten
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Wie werden die Punkte gezählt?</a></li>
+<li><a href="#faqs_q1">Wie werden die Punkte gezï¿½hlt?</a></li>
 <li><a href="#faqs_q2">Wie funktioniert der Mehrspieler-Modus?</a></li>
 <li><a href="#faqs_q3">Wie funktionieren Powerups im Mehrspieler-Modus?</a></li> <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Wie werden die Punkte gezählt?</h3>
-<p>Punkte gibt es nur im Einzelspieler-Modus. Der erste Stein, den die Kugel nach Kontakt mit dem Schläger zerstört, ist 10 Punkte wert. So lange die Kugel nicht wieder den Schläger berührt, steigt der Wert der Steine mit jedem weiteren zerstörten Stein um einen Punkt. Wenn also die Kugel zum Beispiel drei Steine zerstört, bevor ihr sie mit dem Schläger abfangt, sind diese Steine 10, 11 und 12 Punkte wert, was euch insgesamt 33 Punkte einbringt. Zusätzlich dazu erhaltet ihr 100 Bonuspunkte, wenn ihr ein positives Powerup einsammelt, und als Entschädigung für das Einsammeln negativer Powerups sogar 500 Punkte! Nehmt ihr das Risiko auf euch, für die Bonuspunkte ein negatives Powerup einzusammeln und seine Wirkung hinzunehmen? </p>
+<h3>1. Wie werden die Punkte gezï¿½hlt?</h3>
+<p>Punkte gibt es nur im Einzelspieler-Modus. Der erste Stein, den die Kugel nach Kontakt mit dem Schlï¿½ger zerstï¿½rt, ist 10 Punkte wert. So lange die Kugel nicht wieder den Schlï¿½ger berï¿½hrt, steigt der Wert der Steine mit jedem weiteren zerstï¿½rten Stein um einen Punkt. Wenn also die Kugel zum Beispiel drei Steine zerstï¿½rt, bevor ihr sie mit dem Schlï¿½ger abfangt, sind diese Steine 10, 11 und 12 Punkte wert, was euch insgesamt 33 Punkte einbringt. Zusï¿½tzlich dazu erhaltet ihr 100 Bonuspunkte, wenn ihr ein positives Powerup einsammelt, und als Entschï¿½digung fï¿½r das Einsammeln negativer Powerups sogar 500 Punkte! Nehmt ihr das Risiko auf euch, fï¿½r die Bonuspunkte ein negatives Powerup einzusammeln und seine Wirkung hinzunehmen? </p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. Wie funktioniert der Mehrspieler-Modus?</h3>
-<p>Euer Charakter (der rechts unten auf dem Bildschirm angezeigt wird) ist auf der Rennstrecke um das Spielfeld mit einer kleinen Version seines Kopfes dargestellt. Ihr könnt mit euren Konkurrenten aufholen, indem ihr Steine zerstört. Wenn ein Spieler überholt wird, hat er 10 Sekunden Zeit, um seine Position wieder zurück zu erlangen, ansonsten scheidet er aus. In Spielen ohne Levelbegrenzung geht das Spiel so lange weiter, bis nur noch ein Spieler übrig ist. Wenn eine Höchstanzahl an Levels vorgegeben ist, könnt ihr auch gewinnen, indem ihr vor euren Gegnern das letzte Level abschließt.</p>
+<p>Euer Charakter (der rechts unten auf dem Bildschirm angezeigt wird) ist auf der Rennstrecke um das Spielfeld mit einer kleinen Version seines Kopfes dargestellt. Ihr kï¿½nnt mit euren Konkurrenten aufholen, indem ihr Steine zerstï¿½rt. Wenn ein Spieler ï¿½berholt wird, hat er 10 Sekunden Zeit, um seine Position wieder zurï¿½ck zu erlangen, ansonsten scheidet er aus. In Spielen ohne Levelbegrenzung geht das Spiel so lange weiter, bis nur noch ein Spieler ï¿½brig ist. Wenn eine Hï¿½chstanzahl an Levels vorgegeben ist, kï¿½nnt ihr auch gewinnen, indem ihr vor euren Gegnern das letzte Level abschlieï¿½t.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a> <h3>3. Wie funktionieren Powerups im Mehrspieler-Modus?</h3>
-<p>Wie im Einzelspieler-Modus gibt es auch hier positive und negative Powerups. Die positiven beeinflussen nur euch selbst, aber anders als im Einzelspieler-Modus wirken die negativen Powerups auf eure Gegner - schnappt euch also so viele ihr könnt, um eure Chancen zu erhöhen! Als Beispiel wird das "Wachsen"-Powerup nur euren Schläger größer machen, das "Schrumpfen"-Powerup dagegen die aller eurer Gegner verkleinern.</p>
+<p>Wie im Einzelspieler-Modus gibt es auch hier positive und negative Powerups. Die positiven beeinflussen nur euch selbst, aber anders als im Einzelspieler-Modus wirken die negativen Powerups auf eure Gegner - schnappt euch also so viele ihr kï¿½nnt, um eure Chancen zu erhï¿½hen! Als Beispiel wird das "Wachsen"-Powerup nur euren Schlï¿½ger grï¿½ï¿½er machen, das "Schrumpfen"-Powerup dagegen die aller eurer Gegner verkleinern.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>4. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -395,7 +395,7 @@ Vorteile einer Mitgliedschaft
 <li>Keine Werbung</li> <li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/a=58/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=58/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -413,11 +413,11 @@ Entwicklung
 <b>Entwicklung:</b> Richard B<br>
 <b>Grafik:</b> Adam S<br>
 <b>Audio:</b> Iain H<br>
-<b>Qualitätssicherung:</b> Michael T,&nbsp;Joe C,&nbsp;Alex P,&nbsp;Sally R<br>
-<b>Deutsche Übersetzung :</b> Heiko J,&nbsp;Florian P,&nbsp;Matthias P
+<b>Qualitï¿½tssicherung:</b> Michael T,&nbsp;Joe C,&nbsp;Alex P,&nbsp;Sally R<br>
+<b>Deutsche ï¿½bersetzung :</b> Heiko J,&nbsp;Florian P,&nbsp;Matthias P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -430,17 +430,17 @@ Entwicklung
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=58/index.ws"><img alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=58/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=58/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=58/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../a=58/index.ws"><img alt="English" src="../../l=1/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=58/index.ws"><img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=58/index.ws"><img alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=58/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Ltd in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=58/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=58/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Ltd in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=58/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=58/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

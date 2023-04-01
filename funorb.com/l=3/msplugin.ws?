@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,10 +20,10 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -63,8 +63,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../l=3/index.ws" ><b>
+<img src="../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -73,7 +73,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messenger.js"></script>
 
@@ -82,15 +82,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../l=3/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -99,9 +99,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../l=3/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -111,45 +111,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../l=3/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../l=3/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../l=3/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=msplugin.ws?" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=msplugin.ws?" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/index.ws">
+<a id="countrydrop" href="../l=3/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../index.ws"><img title="English" alt="English" src="../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -178,13 +178,13 @@ Usando o plug-in do Microsoft Java
 <div class="subsection" id="games" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Antes de começar
+Antes de comeï¿½ar
 </div>
 </div>
 <div class="subsectionContent">
 <div style="background: #0B2540;">
 <div style="margin-left: 5px; margin-right: 5px;">
-<p> SOMENTE siga estas etapas se as outras versões do Java não funcionarem ou funcionarem muito mal. Não há a menor necssidade de tentar este procedimento se os jogos do FunOrb estiverem funcionando bem! <p> Observação: se estiver usando o Windows 2000, Windows XP ou Windows 2003, talvez você não tenha o plug-in do MIcrosoft Java. Se for esse o caso, estas etapas não funcionarão e você precisará escolher uma outra versão do Java na página de seleção detalhada. </p>
+<p> SOMENTE siga estas etapas se as outras versï¿½es do Java nï¿½o funcionarem ou funcionarem muito mal. Nï¿½o hï¿½ a menor necssidade de tentar este procedimento se os jogos do FunOrb estiverem funcionando bem! <p> Observaï¿½ï¿½o: se estiver usando o Windows 2000, Windows XP ou Windows 2003, talvez vocï¿½ nï¿½o tenha o plug-in do MIcrosoft Java. Se for esse o caso, estas etapas nï¿½o funcionarï¿½o e vocï¿½ precisarï¿½ escolher uma outra versï¿½o do Java na pï¿½gina de seleï¿½ï¿½o detalhada. </p>
 </div></div>
 </div>
 </div>
@@ -195,7 +195,7 @@ Antes de começar
 <div class="subsection" id="games" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Instruções passo a passo
+Instruï¿½ï¿½es passo a passo
 </div>
 </div>
 <div class="subsectionContent">
@@ -203,14 +203,14 @@ Instruções passo a passo
 <div style="margin-left: 5px; margin-right: 5px;">
 <p>
 <b>Etapa 1:</b><br>
-<a href="http://www.windowsupdate.com" target="_blank">Clique aqui</a> e complete o processo de atualização do Windows para garantir que possui a última versão do plug-in do MIcrosoft Java. <p>
+<a href="http://www.windowsupdate.com" target="_blank">Clique aqui</a> e complete o processo de atualizaï¿½ï¿½o do Windows para garantir que possui a ï¿½ltima versï¿½o do plug-in do MIcrosoft Java. <p>
 <b>Etapa 2:</b><br> Desative Sun java.<br>
 <p>
-<img style="vertical-align: middle" src='http://www.funorb.com/l=3/img/images/msplugin/msplug1.gif'> Acesse o menu 'Ferramentas' no Internet Explorer e selecione 'Opções de Internet' <p> Clique na guia 'Avançado' na janela que exibida <img style="vertical-align: middle" src='http://www.funorb.com/l=3/img/images/msplugin/msplug2.gif'>
+<img style="vertical-align: middle" src='../l=3/img/images/msplugin/msplug1.gif'> Acesse o menu 'Ferramentas' no Internet Explorer e selecione 'Opï¿½ï¿½es de Internet' <p> Clique na guia 'Avanï¿½ado' na janela que exibida <img style="vertical-align: middle" src='../l=3/img/images/msplugin/msplug2.gif'>
 <p>
-<img style="vertical-align: middle" src='http://www.funorb.com/l=3/img/images/msplugin/msplug3.gif'> Efetue rolagem para baixo até ver a opção Java (Sun). Desmarque a caixa desta opção. <p> Observação: se não encontrar a opção mostrada na imagem, omita esta etapa. <p>
+<img style="vertical-align: middle" src='../l=3/img/images/msplugin/msplug3.gif'> Efetue rolagem para baixo atï¿½ ver a opï¿½ï¿½o Java (Sun). Desmarque a caixa desta opï¿½ï¿½o. <p> Observaï¿½ï¿½o: se nï¿½o encontrar a opï¿½ï¿½o mostrada na imagem, omita esta etapa. <p>
 <b>Etapa 3:</b><br> Reinicialize o computador <p>
-<b>Etapa 4:</b><br> Volte para o FunOrb.com e escolha a opção 'Miniaplicativo assinado usando java padrão'. Os jogos agora deverão ser carregados usando o Microsoft Java. <p> Se mais tarde decidir que deseja restaurar Sun Java como padrão, simplesmente assinale novamente a opção 'Usar Java2' que você desativou na Etapa 2. </div></div>
+<b>Etapa 4:</b><br> Volte para o FunOrb.com e escolha a opï¿½ï¿½o 'Miniaplicativo assinado usando java padrï¿½o'. Os jogos agora deverï¿½o ser carregados usando o Microsoft Java. <p> Se mais tarde decidir que deseja restaurar Sun Java como padrï¿½o, simplesmente assinale novamente a opï¿½ï¿½o 'Usar Java2' que vocï¿½ desativou na Etapa 2. </div></div>
 </div>
 </div>
 </div>
@@ -221,17 +221,17 @@ Instruções passo a passo
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../index.ws"><img alt="English" src="../l=3/img/images/layout/en.gif">English</a>
+<a href="../l=1/index.ws"><img alt="Deutsch" src="../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../l=3/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../l=3/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

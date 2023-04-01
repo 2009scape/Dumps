@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/a=23/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/a=23/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/a=23/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/a=23/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=23/css/global-43.css);/**/
+  /*\*/@import url(../../l=1/a=23/css/global-43.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=1/a=23/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=23/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=23/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -57,12 +57,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=23/css/info-7.css");/**/
+ /*\*/@import url("../../l=1/a=23/css/info-7.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/tombracer/intro.jpg);
+  background-image: url(../../l=1/img/images/game/tombracer/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -74,10 +74,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/tombracer/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/tombracer/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/tombracer/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/tombracer/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/tombracer/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/tombracer/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/tombracer/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/tombracer/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -145,15 +145,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/a=23/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/a=23/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/a=23/messengercommon0.js"></script>
@@ -164,15 +164,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=23/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=23/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=23/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=23/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=23/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=23/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=23/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/a=23/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/a=23/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,9 +181,9 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=1/a=23/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/a=23/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=23/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/a=23/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -194,23 +194,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/a=23/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/a=23/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/a=23/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/a=23/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/a=23/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/a=23/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=23/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=23/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=23/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=23/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=23/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=23/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/a=23/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=23/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=23/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/a=23/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -219,28 +219,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=23/forums.ws" class="fly">Forum</
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/a=23/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=tombracer" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=23/index.ws">
+<a id="countrydrop" href="../../l=1/a=23/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=23/index.ws"><img title="
+<li><a class="fly" href="../../a=23/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=23/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=23/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=23/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=23/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=23/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=23/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -255,12 +255,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=23/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=23/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/a=23/tombracer/play.ws">Tomb Racer</a> &gt;
+<a href="../../l=1/a=23/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=23/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/a=23/tombracer/play.ws">Tomb Racer</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=23/tombracer/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=23/tombracer/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -273,12 +273,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=23/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Nur mit Verstand und schnellen Reflexen könnt ihr aus Jagex' Tempel des Todes entkommen. </div>
+<a href="../../l=1/a=23/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Nur mit Verstand und schnellen Reflexen kï¿½nnt ihr aus Jagex' Tempel des Todes entkommen. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://secure.funorb.com/m=create/l=1/a=23/"><div>Kontoerstellung</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=23/tombracer/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/a=23/tombracer/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -289,23 +289,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/tombracer/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/tombracer/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/tombracer/screen1_thumb.jpg?1);">
+<a href="../../l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/tombracer/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/tombracer/screen2_thumb.jpg?1);">
+<a href="../../l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/tombracer/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/tombracer/screen3_thumb.jpg?1);">
+<a href="../../l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/tombracer/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/tombracer/screen4_thumb.jpg?1);">
+<a href="../../l=1/a=23/display_screenshot.ws?game=tombracer&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/tombracer/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -324,7 +324,7 @@ Features von Tomb Racer
 <div class="benefitsList">
 <ul>
 
-<li>Mehrspieler-Partien für bis zu 4 Personen</li>
+<li>Mehrspieler-Partien fï¿½r bis zu 4 Personen</li>
 <li>4 KOSTENLOSE Tempel des Todes</li>
 <li>32 herausfordernde Erfolge</li>
 </ul>
@@ -342,15 +342,15 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p><b>Feuerspeiende Totems! Pfeileschleudernde Büsten! Todbringende Felsbrocken!</b></p>
-<p>All das und mehr erwartet euch in Jagex<b>Tempel des Todes</b>, in den euch das Spiel <b>Tomb Racer</b> entführt.</p>
+<p><b>Feuerspeiende Totems! Pfeileschleudernde Bï¿½sten! Todbringende Felsbrocken!</b></p>
+<p>All das und mehr erwartet euch in Jagex<b>Tempel des Todes</b>, in den euch das Spiel <b>Tomb Racer</b> entfï¿½hrt.</p>
 <ul>
-<li>Könnt ihr den Fallen entkommen, bevor die <b>Zeit abläuft</b>?</li>
+<li>Kï¿½nnt ihr den Fallen entkommen, bevor die <b>Zeit ablï¿½uft</b>?</li>
 <li>Sucht nach Beute, um <b>Punkte</b> zu sammeln.</li>
-<li>Entkommt den kalten Händen der <b>Skelette</b>.</li>
-<li>Wärmt euch auf mit einem Rennen gegen die Zeit im Probemodus auf und tretet dann im <b>Online-Mehrspieler-Modus</b> gegen andere Abenteurer an.</li>
+<li>Entkommt den kalten Hï¿½nden der <b>Skelette</b>.</li>
+<li>Wï¿½rmt euch auf mit einem Rennen gegen die Zeit im Probemodus auf und tretet dann im <b>Online-Mehrspieler-Modus</b> gegen andere Abenteurer an.</li>
 </ul>
-<p>Seid ihr bereit für <b>makabere Rätsel</b> und <b>erbarmungslose Fallen</b>? Dann beeilt euch. Wer nicht rechtzeitig entkommt, steckt auf ewig im <b>Tempel des Tods</b> fest.</p>
+<p>Seid ihr bereit fï¿½r <b>makabere Rï¿½tsel</b> und <b>erbarmungslose Fallen</b>? Dann beeilt euch. Wer nicht rechtzeitig entkommt, steckt auf ewig im <b>Tempel des Tods</b> fest.</p>
 </div>
 </div>
 </div>
@@ -365,7 +365,7 @@ Fragen und Antworten
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Wie kann ich im Einzelspieler-Modus weitere Räume freischalten?</a></li>
+<li><a href="#faqs_q1">Wie kann ich im Einzelspieler-Modus weitere Rï¿½ume freischalten?</a></li>
 <li><a href="#faqs_q2">Wie kann ich im Einzelspieler-Modus Medaillen gewinnen?</a></li>
 <li><a href="#faqs_q3">Wie schalte ich weitere Charaktere frei?</a></li>
 <li><a href="#faqs_q4">Wie funktioniert der Mehrspieler-Modus?</a></li>
@@ -374,36 +374,36 @@ Fragen und Antworten
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Wie kann ich im Einzelspieler-Modus weitere Räume freischalten?</h3>
-<p>Dazu müsst ihr schnell genug aus einem Tempelraum fliehen, um den nächsten Raum freizuschalten. Wenn ihr alle Räume eines Levels abgeschlossen habt, könnt ihr die Räume in der nächsten Schwierigkeitsstufe erforschen.</p>
+<h3>1. Wie kann ich im Einzelspieler-Modus weitere Rï¿½ume freischalten?</h3>
+<p>Dazu mï¿½sst ihr schnell genug aus einem Tempelraum fliehen, um den nï¿½chsten Raum freizuschalten. Wenn ihr alle Rï¿½ume eines Levels abgeschlossen habt, kï¿½nnt ihr die Rï¿½ume in der nï¿½chsten Schwierigkeitsstufe erforschen.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Wie kann ich im Einzelspieler-Modus Medaillen gewinnen?</h3>
-<p>Ihr könnt Medaillen gewinnen, indem ihr aus Tempelräumen entkommt. Je schneller ihr vorankommt, desto <b>höhere Medaillen</b> werden euch verliehen. Zeit ist Gold in Tomb Racer!</p>
+<p>Ihr kï¿½nnt Medaillen gewinnen, indem ihr aus Tempelrï¿½umen entkommt. Je schneller ihr vorankommt, desto <b>hï¿½here Medaillen</b> werden euch verliehen. Zeit ist Gold in Tomb Racer!</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Wie schalte ich weitere Charaktere frei?</h3>
-<p>Ihr könnt weitere Charaktere freischalten, indem ihr Goldmedaillen im Einzelspieler-Modus gewinnt.</p>
+<p>Ihr kï¿½nnt weitere Charaktere freischalten, indem ihr Goldmedaillen im Einzelspieler-Modus gewinnt.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Wie funktioniert der Mehrspieler-Modus?</h3>
-<p>Das Ziel einer Mehrspieler-Partie ist, die meisten Schätze zu sammeln - und dabei so fix wie möglich durch den Tempel zu rasen. Wer zuerst fertig ist, bekommt zusätzliche Boni, die den Wert eurer Schätze noch weiter erhöhen.</p>
+<p>Das Ziel einer Mehrspieler-Partie ist, die meisten Schï¿½tze zu sammeln - und dabei so fix wie mï¿½glich durch den Tempel zu rasen. Wer zuerst fertig ist, bekommt zusï¿½tzliche Boni, die den Wert eurer Schï¿½tze noch weiter erhï¿½hen.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>5. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Wenn eure Grafikkarte vor dem Jahr 2001 hergestellt wurde, empfehlen wir folgende Mindestvoraussetzungen:</p>
 <ul>
-<li>1.5 GHz P4-Prozessor oder ähnliches</li>
+<li>1.5 GHz P4-Prozessor oder ï¿½hnliches</li>
 <li>1GB Arbeitsspeicher</li>
 </ul>
 <p>Falls eure 3D-Grafikkarte neueren Alters ist (ab GeForce 3), empfehlen wir Folgendes:</p>
 <ul>
-<li>1.5 GHz P4-Prozessor oder ähnliches</li>
+<li>1.5 GHz P4-Prozessor oder ï¿½hnliches</li>
 <li>256MB Arbeitsspeicher</li>
 </ul>
-<p>Unten findet ihr eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten findet ihr eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klickt <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java herunterzuladen.</p>
 </div>
 </div>
@@ -424,7 +424,7 @@ Vorteile einer Mitgliedschaft
 <li>Keine Werbung.</li> <li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/a=23/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=23/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -442,11 +442,11 @@ Entwicklung
 <b>Entwicklung:</b> Dan F,&nbsp;Mel H,&nbsp;Pedro R,&nbsp;Mark T,&nbsp;Iain S,&nbsp;Tom P,&nbsp;Thomas D R,&nbsp;Gabriel M<br>
 <b>Grafik:</b> Laura W,&nbsp;Adam S,&nbsp;David H,&nbsp;Peter S,&nbsp;Anthony A,&nbsp;Kristian F,&nbsp;Jess H<br>
 <b>Audio:</b> Adam R<br>
-<b>Qualitätssicherung:</b> Joe C,&nbsp;Michael T,&nbsp;Sally R,&nbsp;Ken W L,&nbsp;Mirza J<br>
-<b>Deutsche Übersetzung :</b> Heiko J,&nbsp;Florian P,&nbsp;Frank B
+<b>Qualitï¿½tssicherung:</b> Joe C,&nbsp;Michael T,&nbsp;Sally R,&nbsp;Ken W L,&nbsp;Mirza J<br>
+<b>Deutsche ï¿½bersetzung :</b> Heiko J,&nbsp;Florian P,&nbsp;Frank B
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -459,25 +459,25 @@ Entwicklung
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=23/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../a=23/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=23/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/a=23/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=23/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/a=23/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=23/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/a=23/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2010 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=23/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=23/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=23/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=23/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/a=23/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/a=23/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

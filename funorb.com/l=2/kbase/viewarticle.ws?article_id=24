@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,16 +20,16 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-14.css);/**/
+  /*\*/@import url(../../l=2/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Vous ne devez pas utiliser un autre logiciel afin de tricher dans nos jeux.">
-<title>Règle 7 - Utilisation d'un logiciel tiers</title>
+<title>Rï¿½gle 7 - Utilisation d'un logiciel tiers</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -44,7 +44,7 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=2/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=2/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -52,7 +52,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
 
@@ -61,28 +61,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -93,41 +93,41 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Tous les forums</a></li
 http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements FunOrb</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Tï¿½lï¿½chargements FunOrb</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=24" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=24" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<a id="countrydrop" href="../../l=2/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -143,7 +143,7 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Règle 7 - Utilisation d'un logiciel tiers</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=11">Code de conduite</a> &gt; Rï¿½gle 7 - Utilisation d'un logiciel tiers</span>
 
 </div>
 </div>
@@ -152,73 +152,73 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Règle 7 - Utilisation d'un logiciel tiers</h1>
+<h1 class="articleTitle">Rï¿½gle 7 - Utilisation d'un logiciel tiers</h1>
 <div class="articleBody">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 27 février 2008</div>
-<br> Vous n'êtes pas autorisé à utiliser d'autres logiciels dans le but d'obtenir un avantage déloyal, notamment les outils d'automatisation, les macros, les robots et les programmes de rédaction automatique. Il est interdit de contourner nos mécanismes, quels qu'ils soient, conçus pour déconnecter automatiquement les utilisateurs inactifs. <br><br> Vous n'êtes pas non plus autorisé à utiliser des logiciels tiers spécifiques aux jeux qui encouragent la transgression de nos règles, contournent la navigation normale de notre site Web, demandent automatiquement des pages de notre site Web ou exposent des comptes utilisateur. <br>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 27 fï¿½vrier 2008</div>
+<br> Vous n'ï¿½tes pas autorisï¿½ ï¿½ utiliser d'autres logiciels dans le but d'obtenir un avantage dï¿½loyal, notamment les outils d'automatisation, les macros, les robots et les programmes de rï¿½daction automatique. Il est interdit de contourner nos mï¿½canismes, quels qu'ils soient, conï¿½us pour dï¿½connecter automatiquement les utilisateurs inactifs. <br><br> Vous n'ï¿½tes pas non plus autorisï¿½ ï¿½ utiliser des logiciels tiers spï¿½cifiques aux jeux qui encouragent la transgression de nos rï¿½gles, contournent la navigation normale de notre site Web, demandent automatiquement des pages de notre site Web ou exposent des comptes utilisateur. <br>
 <br>
 <div class="hr"></div>
-<b>Questions associées</b><br> Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.<br>
+<b>Questions associï¿½es</b><br> Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.<br>
 <br>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ? </a>
-<li><a href="#what">Quel type de logiciel tiers n'est PAS autorisé ? </a>
-<li><a href="#software">Que faut-il entendre par « logiciel » ? </a>
-<li><a href="#macro">Comment fonctionne le nouveau système de détection des macros ? </a>
+<li><a href="#why">Pourquoi cette rï¿½gle ? </a>
+<li><a href="#what">Quel type de logiciel tiers n'est PAS autorisï¿½ ? </a>
+<li><a href="#software">Que faut-il entendre par ï¿½ logiciel ï¿½ ? </a>
+<li><a href="#macro">Comment fonctionne le nouveau systï¿½me de dï¿½tection des macros ? </a>
 <li><a href="#appeal">Puis-je contester une exclusion pour envoi de macros ? </a>
 <li><a href="#afk">Qu'est-ce que le AFK Training ? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ? </span><br><br> Tout d'abord, nous ne voulons pas que les joueurs téléchargent des logiciels tiers de sources douteuses qui pourraient contenir des enregistreurs de frappe, des chevaux de Troie et des virus, comme c'est souvent le cas. De nombreux joueurs se sont fait voler leur compte pour avoir installé par mégarde des logiciels de piratage sur leur ordinateur. Même si les auteurs font preuve de bonnes intentions, un défaut involontaire dans leur logiciel peut exposer votre compte. Dans le passé, des logiciels prétendument dignes de confiance ont posé des problèmes. Nous avons également enregistré des cas de logiciels qui, sous l'apparence de modules complémentaires attrayants, dérobaient les mots de passe des joueurs. <br><br> Ensuite, l'utilisation de macros gâche le jeu des autres joueurs. Nous ne voulons pas que certains joueurs jouissent d'un avantage déloyal et encombrent de bots les meilleures zones d'entraînement. Ce jeu est conçu pour le divertissement d'êtres humains, non de machines. Dans le passé, il s'est avéré que le jeu était gâché si cette règle n'était pas appliquée, au point que les joueurs eux-mêmes nous ont demandé de l'appliquer scrupuleusement. <br><br>
+<span class="title">1. Pourquoi cette rï¿½gle ? </span><br><br> Tout d'abord, nous ne voulons pas que les joueurs tï¿½lï¿½chargent des logiciels tiers de sources douteuses qui pourraient contenir des enregistreurs de frappe, des chevaux de Troie et des virus, comme c'est souvent le cas. De nombreux joueurs se sont fait voler leur compte pour avoir installï¿½ par mï¿½garde des logiciels de piratage sur leur ordinateur. Mï¿½me si les auteurs font preuve de bonnes intentions, un dï¿½faut involontaire dans leur logiciel peut exposer votre compte. Dans le passï¿½, des logiciels prï¿½tendument dignes de confiance ont posï¿½ des problï¿½mes. Nous avons ï¿½galement enregistrï¿½ des cas de logiciels qui, sous l'apparence de modules complï¿½mentaires attrayants, dï¿½robaient les mots de passe des joueurs. <br><br> Ensuite, l'utilisation de macros gï¿½che le jeu des autres joueurs. Nous ne voulons pas que certains joueurs jouissent d'un avantage dï¿½loyal et encombrent de bots les meilleures zones d'entraï¿½nement. Ce jeu est conï¿½u pour le divertissement d'ï¿½tres humains, non de machines. Dans le passï¿½, il s'est avï¿½rï¿½ que le jeu ï¿½tait gï¿½chï¿½ si cette rï¿½gle n'ï¿½tait pas appliquï¿½e, au point que les joueurs eux-mï¿½mes nous ont demandï¿½ de l'appliquer scrupuleusement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">2. Quel type de logiciel tiers n'est PAS autorisé ? </span><br><br> La liste inclut de manière non limitative les logiciels tiers suivants : <ol>
-<br><li>Logiciels de communication directe avec nos univers de jeux ; <br><br><li>Logiciels de contrôle, de modification et de décryptage des communications entre nos applets de jeu et nos univers de jeux ; <br><br><li>Logiciels de génération de saisie dans nos applets de jeu, notamment des logiciels déplaçant automatiquement le pointeur de la souris, ou générant des clics de souris ou des pressions de touches ; <br><br><li>Versions modifiées ou de remplacement de nos applets de jeu. L'ingénierie inverse de nos applets de jeu est formellement interdite. Dans aucun cas, l'utilisation de versions modifiées de nos applets de jeu n'est autorisée. Les logiciels tiers qui affichent des pages/du contenu de nos sites Web et possèdent des fonctions spécifiques (boîtes à outils, par exemple) ne doivent pas être utilisés pour accéder à notre site Web à moins qu'ils ne respectent l'ensemble des autres règles ainsi que les règles supplémentaires suivantes : <br><br><li>Ils ne doivent pas encourager les fraudes et exposer des utilisateurs. <br><br><li>Ils ne doivent pas contenir de publicités ou de liens vers des sites Web qui encouragent les fraudes et exposent les utilisateurs. <br><br><li>Ils ne doivent pas effectuer de demandes répétées de page/contenu à partir de notre site Web ou de demandes utilisant une quantité excessive de bande passante à partir de nos serveurs. Chaque demande de page/contenu doit répondre directement à une demande unique d'utilisateur. <br><br><li>Ils ne doivent pas contourner la navigation normale de notre site Web qui permet aux utilisateurs qui le souhaitent d'accéder à nos univers de jeu. Ils doivent indiquer au départ la première page de nos sites Web et faire en sorte que l'utilisateur parcoure normalement le site Web en vue d'accéder aux univers de jeu. Ils ne doivent pas contenir ou acquérir de liens directs vers notre page Sélectionner un univers, vers nos pages d'univers de jeu ou vers l'applet. <br><br><li>Ils ne doivent pas masquer ou encourager le masquage des publicités figurant sur notre site Web. Pour éviter d'encourager les utilisateurs à masquer les publicités situées au-dessus du jeu, la hauteur du volet affichant les pages de notre site Web doit être définie par défaut sur 630 pixels au minimum (pour un écran d'une résolution supérieure à 800 x 600) et ne doit pas pouvoir être réduite. En d'autres termes, la page doit afficher simultanément le jeu et la publicité dans leur intégralité. <br><br><li>Ils ne doivent pas rendre l'accès à un univers de jeu occupé plus facile. Ils ne doivent pas permettre de sélectionner des univers indiqués comme complets dans la page de sélection. Ils ne doivent pas intégrer des fonctions facilitant l'accès ou le contrôle d'univers occupés. <br><br><li>Lorsque les logiciels intègrent une fonction de discussion distincte de celle du jeu, les utilisateurs doivent être clairement informés que la discussion ne fait pas partie de nos jeux et qu'elle n'est en aucune manière officiellement approuvée ou animée par Jagex. En outre, cette discussion doit être animée (par une autre entité que Jagex) et ne doit pas transgresser notre Code de conduite. Pour éviter toute confusion avec la discussion officielle des jeux, les modérateurs de discussion externe ne doivent pas être indiqués par une couronne dorée ou argentée. S'il s'agit d'une discussion IRC, seul l'accès aux canaux IRC respectant les règles susmentionnées doit être autorisé. </ol> Quoi qu'il en soit, l'utilisation de tels logiciels est déconseillée. Nous déconseillons l'utilisation de TOUT logiciel tiers en raison du danger éventuel qu'il comporte. N'oubliez pas que certains logiciels externes qui se font passer pour de super modules complémentaires installent des enregistreurs de frappe sur votre ordinateur en vue de dérober votre mot de passe ! Notez également que votre antivirus ne détecte pas obligatoirement les logiciels nuisibles. L'analyse des téléchargements s'avère une bonne idée mais elle n'élimine pas totalement les risques. <br><br>
+<span class="title">2. Quel type de logiciel tiers n'est PAS autorisï¿½ ? </span><br><br> La liste inclut de maniï¿½re non limitative les logiciels tiers suivants : <ol>
+<br><li>Logiciels de communication directe avec nos univers de jeux ; <br><br><li>Logiciels de contrï¿½le, de modification et de dï¿½cryptage des communications entre nos applets de jeu et nos univers de jeux ; <br><br><li>Logiciels de gï¿½nï¿½ration de saisie dans nos applets de jeu, notamment des logiciels dï¿½plaï¿½ant automatiquement le pointeur de la souris, ou gï¿½nï¿½rant des clics de souris ou des pressions de touches ; <br><br><li>Versions modifiï¿½es ou de remplacement de nos applets de jeu. L'ingï¿½nierie inverse de nos applets de jeu est formellement interdite. Dans aucun cas, l'utilisation de versions modifiï¿½es de nos applets de jeu n'est autorisï¿½e. Les logiciels tiers qui affichent des pages/du contenu de nos sites Web et possï¿½dent des fonctions spï¿½cifiques (boï¿½tes ï¿½ outils, par exemple) ne doivent pas ï¿½tre utilisï¿½s pour accï¿½der ï¿½ notre site Web ï¿½ moins qu'ils ne respectent l'ensemble des autres rï¿½gles ainsi que les rï¿½gles supplï¿½mentaires suivantes : <br><br><li>Ils ne doivent pas encourager les fraudes et exposer des utilisateurs. <br><br><li>Ils ne doivent pas contenir de publicitï¿½s ou de liens vers des sites Web qui encouragent les fraudes et exposent les utilisateurs. <br><br><li>Ils ne doivent pas effectuer de demandes rï¿½pï¿½tï¿½es de page/contenu ï¿½ partir de notre site Web ou de demandes utilisant une quantitï¿½ excessive de bande passante ï¿½ partir de nos serveurs. Chaque demande de page/contenu doit rï¿½pondre directement ï¿½ une demande unique d'utilisateur. <br><br><li>Ils ne doivent pas contourner la navigation normale de notre site Web qui permet aux utilisateurs qui le souhaitent d'accï¿½der ï¿½ nos univers de jeu. Ils doivent indiquer au dï¿½part la premiï¿½re page de nos sites Web et faire en sorte que l'utilisateur parcoure normalement le site Web en vue d'accï¿½der aux univers de jeu. Ils ne doivent pas contenir ou acquï¿½rir de liens directs vers notre page Sï¿½lectionner un univers, vers nos pages d'univers de jeu ou vers l'applet. <br><br><li>Ils ne doivent pas masquer ou encourager le masquage des publicitï¿½s figurant sur notre site Web. Pour ï¿½viter d'encourager les utilisateurs ï¿½ masquer les publicitï¿½s situï¿½es au-dessus du jeu, la hauteur du volet affichant les pages de notre site Web doit ï¿½tre dï¿½finie par dï¿½faut sur 630 pixels au minimum (pour un ï¿½cran d'une rï¿½solution supï¿½rieure ï¿½ 800 x 600) et ne doit pas pouvoir ï¿½tre rï¿½duite. En d'autres termes, la page doit afficher simultanï¿½ment le jeu et la publicitï¿½ dans leur intï¿½gralitï¿½. <br><br><li>Ils ne doivent pas rendre l'accï¿½s ï¿½ un univers de jeu occupï¿½ plus facile. Ils ne doivent pas permettre de sï¿½lectionner des univers indiquï¿½s comme complets dans la page de sï¿½lection. Ils ne doivent pas intï¿½grer des fonctions facilitant l'accï¿½s ou le contrï¿½le d'univers occupï¿½s. <br><br><li>Lorsque les logiciels intï¿½grent une fonction de discussion distincte de celle du jeu, les utilisateurs doivent ï¿½tre clairement informï¿½s que la discussion ne fait pas partie de nos jeux et qu'elle n'est en aucune maniï¿½re officiellement approuvï¿½e ou animï¿½e par Jagex. En outre, cette discussion doit ï¿½tre animï¿½e (par une autre entitï¿½ que Jagex) et ne doit pas transgresser notre Code de conduite. Pour ï¿½viter toute confusion avec la discussion officielle des jeux, les modï¿½rateurs de discussion externe ne doivent pas ï¿½tre indiquï¿½s par une couronne dorï¿½e ou argentï¿½e. S'il s'agit d'une discussion IRC, seul l'accï¿½s aux canaux IRC respectant les rï¿½gles susmentionnï¿½es doit ï¿½tre autorisï¿½. </ol> Quoi qu'il en soit, l'utilisation de tels logiciels est dï¿½conseillï¿½e. Nous dï¿½conseillons l'utilisation de TOUT logiciel tiers en raison du danger ï¿½ventuel qu'il comporte. N'oubliez pas que certains logiciels externes qui se font passer pour de super modules complï¿½mentaires installent des enregistreurs de frappe sur votre ordinateur en vue de dï¿½rober votre mot de passe ! Notez ï¿½galement que votre antivirus ne dï¿½tecte pas obligatoirement les logiciels nuisibles. L'analyse des tï¿½lï¿½chargements s'avï¿½re une bonne idï¿½e mais elle n'ï¿½limine pas totalement les risques. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="software"></a>
-<span class="title">3. Que faut-il entendre par « logiciel » ? </span><br><br> Tout type de logiciel, notamment les logiciels téléchargeables (fichiers .exe, par exemple) ou les logiciels Web (sites Web configurés pour réaliser une fonction similaire à l'aide de scripts flash, java, javascript ou côté serveur, par exemple). <br><br>
+<span class="title">3. Que faut-il entendre par ï¿½ logiciel ï¿½ ? </span><br><br> Tout type de logiciel, notamment les logiciels tï¿½lï¿½chargeables (fichiers .exe, par exemple) ou les logiciels Web (sites Web configurï¿½s pour rï¿½aliser une fonction similaire ï¿½ l'aide de scripts flash, java, javascript ou cï¿½tï¿½ serveur, par exemple). <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="macro"></a>
-<span class="title">4. Comment fonctionne le système de détection de macros ? </span><br><br> Notre nouveau système de détection de macros contrôle l'activité sur nos serveurs et identifie les comportements douteux. Après vérification, notre équipe d'experts confirme ou infirme l'analyse du système. Jagex ne révélera pas les mécanismes exacts de fonctionnement du système afin d'empêcher leur contournement. <br><br>
+<span class="title">4. Comment fonctionne le systï¿½me de dï¿½tection de macros ? </span><br><br> Notre nouveau systï¿½me de dï¿½tection de macros contrï¿½le l'activitï¿½ sur nos serveurs et identifie les comportements douteux. Aprï¿½s vï¿½rification, notre ï¿½quipe d'experts confirme ou infirme l'analyse du systï¿½me. Jagex ne rï¿½vï¿½lera pas les mï¿½canismes exacts de fonctionnement du systï¿½me afin d'empï¿½cher leur contournement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="appeal"></a>
-<span class="title">5. Puis-je contester une exclusion pour envoi de macros ? </span><br><br> Depuis toujours, nous avons pour politique de ne tolérer aucune forme de triche. L'exclusion de compte ne se fait pas à la légère. Avant qu'une mesure soit prise à l'encontre d'un joueur, des preuves flagrantes sont rassemblées. Nous ne révélons pas ces preuves, car la plupart des tricheurs souhaitent les connaître pour éviter d'être pris la fois suivante. <br><br>
+<span class="title">5. Puis-je contester une exclusion pour envoi de macros ? </span><br><br> Depuis toujours, nous avons pour politique de ne tolï¿½rer aucune forme de triche. L'exclusion de compte ne se fait pas ï¿½ la lï¿½gï¿½re. Avant qu'une mesure soit prise ï¿½ l'encontre d'un joueur, des preuves flagrantes sont rassemblï¿½es. Nous ne rï¿½vï¿½lons pas ces preuves, car la plupart des tricheurs souhaitent les connaï¿½tre pour ï¿½viter d'ï¿½tre pris la fois suivante. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="afk"></a>
-<span class="title">6. Qu'est-ce que le AFK Training ? </span><br><br> AFK training (Away From Keyboard training) signifie jeu à distance du clavier. Pour jouer à nos jeux, vous devez être devant votre ordinateur. Il est interdit de jouer à distance. Lorsque vous quittez le jeu, vous devez vous déconnecter. <br><br>
-<p><i>Vous devez observer cette règle pour que chacun continue à trouver du plaisir à jouer à FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, votre compte sera fermé. Les membres exclus pour violation de nos règles n'ont droit à aucun type de remboursement.</i></p>
+<span class="title">6. Qu'est-ce que le AFK Training ? </span><br><br> AFK training (Away From Keyboard training) signifie jeu ï¿½ distance du clavier. Pour jouer ï¿½ nos jeux, vous devez ï¿½tre devant votre ordinateur. Il est interdit de jouer ï¿½ distance. Lorsque vous quittez le jeu, vous devez vous dï¿½connecter. <br><br>
+<p><i>Vous devez observer cette rï¿½gle pour que chacun continue ï¿½ trouver du plaisir ï¿½ jouer ï¿½ FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, votre compte sera fermï¿½. Les membres exclus pour violation de nos rï¿½gles n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Autres rubriques dans <a href="viewcategory.ws?cat_id=11">Code de conduite</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=21">Règle 5 - Usurpation de l'identité d'un membre du personnel de Jagex</a>, <a href="viewarticle.ws?article_id=48">Règle 6 - Partage/Échange de compte</a>, Règle 7 - Utilisation d'un logiciel tiers, <a href="viewarticle.ws?article_id=19">Règle 8 - Connexions multiples</a>, <a href="viewarticle.ws?article_id=26">Règle 9 - Incitation à enfreindre le règlement</a></span>
+<a href="viewarticle.ws?article_id=21">Rï¿½gle 5 - Usurpation de l'identitï¿½ d'un membre du personnel de Jagex</a>, <a href="viewarticle.ws?article_id=48">Rï¿½gle 6 - Partage/ï¿½change de compte</a>, Rï¿½gle 7 - Utilisation d'un logiciel tiers, <a href="viewarticle.ws?article_id=19">Rï¿½gle 8 - Connexions multiples</a>, <a href="viewarticle.ws?article_id=26">Rï¿½gle 9 - Incitation ï¿½ enfreindre le rï¿½glement</a></span>
 </div>
 </div>
 </div>
@@ -229,17 +229,17 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

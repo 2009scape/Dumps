@@ -42,7 +42,7 @@
  float: right;
  display: block;
  width: 169px;
- background: top url(http://www.funorb.com/l=2/img/images/info/button_play.gif);
+ background: top url(../../l=2/img/images/info/button_play.gif);
 }
 
 .buttonPlayBig:hover {
@@ -77,7 +77,7 @@
 
 .screenshotsThumb div {
  height: 62px;
- background: transparent url(http://www.funorb.com/l=2/img/images/layout/loading.gif) no-repeat -83px -62px;
+ background: transparent url(../../l=2/img/images/layout/loading.gif) no-repeat -83px -62px;
  cursor: pointer;
 }
 
@@ -109,7 +109,7 @@
 .benefitsList li {
  list-style: none;
  padding-left: 17px;
- background: url(http://www.funorb.com/l=2/img/images/info/benefits_bullet.gif) no-repeat 4px 10px;
+ background: url(../../l=2/img/images/info/benefits_bullet.gif) no-repeat 4px 10px;
 
 }
 

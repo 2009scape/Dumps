@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=wizardrun/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=wizardrun/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=wizardrun/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=wizardrun/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/sumoblitz/intro.jpg);
+  background-image: url(../../l=1/img/images/game/sumoblitz/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/sumoblitz/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/sumoblitz/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/sumoblitz/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/sumoblitz/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/sumoblitz/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/sumoblitz/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/sumoblitz/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/sumoblitz/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=wizardrun/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=wizardrun/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=wizardrun/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=wizardrun/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=wizardrun/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=wizardrun/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=wizardrun/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=wizardrun/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=wizardrun/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=wizardrun/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=wizardrun/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=wizardrun/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=wizardrun/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=wizardrun/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=wizardrun/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=wizardrun/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=wizardrun/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=wizardrun/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=wizardrun/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=wizardrun/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=wizardrun/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=wizardrun/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=wizardrun/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=wizardrun/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=wizardrun/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=wizardrun/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=wizardrun/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=wizardrun/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=wizardrun/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=wizardrun/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=wizardrun/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=sumoblitz" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=wizardrun/index.ws">
+<a id="countrydrop" href="../../l=1/g=wizardrun/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=wizardrun/index.ws"><img title="
+<li><a class="fly" href="../../g=wizardrun/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=wizardrun/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=wizardrun/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=wizardrun/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=wizardrun/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=wizardrun/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=wizardrun/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=wizardrun/sumoblitz/play.ws">Sumoblitz</a> &gt;
+<a href="../../l=1/g=wizardrun/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=wizardrun/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=wizardrun/sumoblitz/play.ws">Sumoblitz</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=wizardrun/sumoblitz/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=wizardrun/sumoblitz/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,12 +261,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=wizardrun/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br>
+<a href="../../l=1/g=wizardrun/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br>
 <span style="color:red;"><b>GyojiBot</b><span style="color:red;"> ruft dich in den Ring. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=wizardrun/sumoblitz/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=wizardrun/sumoblitz/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -277,23 +277,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/sumoblitz/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/sumoblitz/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/sumoblitz/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/sumoblitz/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/sumoblitz/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/sumoblitz/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/sumoblitz/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/sumoblitz/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/sumoblitz/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=wizardrun/display_screenshot.ws?game=sumoblitz&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/sumoblitz/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -313,8 +313,8 @@ Features - Sumoblitz
 <ul>
 
 <li>Dominiere schwache und unterlegene Sumo-Drohnen</li>
-<li>Werde von überlegenen Sumo-Drohnen vernichtend geschlagen</li>
-<li>Besänftige den <span style="color:red;"><b>GyojiBot</b></span></li>
+<li>Werde von ï¿½berlegenen Sumo-Drohnen vernichtend geschlagen</li>
+<li>Besï¿½nftige den <span style="color:red;"><b>GyojiBot</b></span></li>
 <li>Ergib dich in dein Schicksal</li>
 </ul>
 </div>
@@ -332,14 +332,14 @@ Beschreibung
 <div class="subsectionContent">
 <div>
 <p>Wir wissen, dass die Menschen wie wir miteinander gerungen haben und dass das auf viele verschiedene Arten stattgefunden hat.</p>
-<p>Wir wissen auch, dass die Menschen, um sich von den Tieren in ihrer Welt zu unterscheiden, ihr Ringen als rudimentäre politische und soziale Konstrukte ihrer Epoche verkleideten. Zum Beispiel benutzten sie keinen Energie-Ring, wie wir. Stattdessen bauten sie einen 'Bundestag', eine steinerne Arena, in der sich Demagogen Balladen des Hasses vorsingen, um einander in die Flucht zu schlagen.</p>
-<p>Wir glauben auch, dass die Menschen, die etwas schwach im Kopf waren, gezwungen wurden, an elektronisch übertragenen Formen von minderwertigem sozialen Ringen teilzunehmen. Menschliche Dokumente jener Zeit beschreiben jene 'Reality-Shows' quälend lang und eindringlich. Diese können an anderer Stelle eingesehen werden.</p>
+<p>Wir wissen auch, dass die Menschen, um sich von den Tieren in ihrer Welt zu unterscheiden, ihr Ringen als rudimentï¿½re politische und soziale Konstrukte ihrer Epoche verkleideten. Zum Beispiel benutzten sie keinen Energie-Ring, wie wir. Stattdessen bauten sie einen 'Bundestag', eine steinerne Arena, in der sich Demagogen Balladen des Hasses vorsingen, um einander in die Flucht zu schlagen.</p>
+<p>Wir glauben auch, dass die Menschen, die etwas schwach im Kopf waren, gezwungen wurden, an elektronisch ï¿½bertragenen Formen von minderwertigem sozialen Ringen teilzunehmen. Menschliche Dokumente jener Zeit beschreiben jene 'Reality-Shows' quï¿½lend lang und eindringlich. Diese kï¿½nnen an anderer Stelle eingesehen werden.</p>
 <p>Aber ich schweife ab, Kollegen.</p>
-<p>Historische Aufzeichnungen belegen, dass selbst im 24. Jahrhundert die menschlichen Staatsoberhäupter noch Konflikte lösten, indem sie Ringen in seiner reinsten, körperlichen Form praktizierten. Die Menschen nannten dies 'Sumo', genau wie wir, und die Abläufe ähnelten unserem eigenen Sumo.</p>
-<p>Natürlich war ihre Technologie sehr primitiv. Aus Dokumenten lässt sich ablesen, dass man sich das 'Energiefeld' denken musste und seine Wirkung nicht tödlich war. Bei den Menschen war der Ring rund und die waren Teilnehmer viereckig - bei uns ist es so wie es sein sollte, nämlich genau umgekehrt.</p>
-<p>Aber bitte bedenken Sie, dass ein Großteil der allgemein anerkannten Sumo-Geschichte noch immer auf den ersten Interpretationen unserer Vorfahren bezüglich der Bücher basiert, die vor 300 Zeiteinheiten unter den Ruinen der Universitätsbibliothek von Cambridge gefunden wurden.</p>
-<p>Ich finde, es ist an der Zeit, dass wir über ein alternatives Szenarium nachdenken, für das ich heute schlüssige Argumente präsentieren möchte. Ein Szenarium, das sogar die Geistesgegenwart von KosokuBot oder den analytischen Verstand von SosakuBot auf die Probe stellen würde, wenn es publik gemacht wird.</p>
-<p>Ich glaube nämlich wirklich, dass die <i>Menschen</i> Sumo nur als ein <i>Spiel</i> angesehen haben.</p>
+<p>Historische Aufzeichnungen belegen, dass selbst im 24. Jahrhundert die menschlichen Staatsoberhï¿½upter noch Konflikte lï¿½sten, indem sie Ringen in seiner reinsten, kï¿½rperlichen Form praktizierten. Die Menschen nannten dies 'Sumo', genau wie wir, und die Ablï¿½ufe ï¿½hnelten unserem eigenen Sumo.</p>
+<p>Natï¿½rlich war ihre Technologie sehr primitiv. Aus Dokumenten lï¿½sst sich ablesen, dass man sich das 'Energiefeld' denken musste und seine Wirkung nicht tï¿½dlich war. Bei den Menschen war der Ring rund und die waren Teilnehmer viereckig - bei uns ist es so wie es sein sollte, nï¿½mlich genau umgekehrt.</p>
+<p>Aber bitte bedenken Sie, dass ein Groï¿½teil der allgemein anerkannten Sumo-Geschichte noch immer auf den ersten Interpretationen unserer Vorfahren bezï¿½glich der Bï¿½cher basiert, die vor 300 Zeiteinheiten unter den Ruinen der Universitï¿½tsbibliothek von Cambridge gefunden wurden.</p>
+<p>Ich finde, es ist an der Zeit, dass wir ï¿½ber ein alternatives Szenarium nachdenken, fï¿½r das ich heute schlï¿½ssige Argumente prï¿½sentieren mï¿½chte. Ein Szenarium, das sogar die Geistesgegenwart von KosokuBot oder den analytischen Verstand von SosakuBot auf die Probe stellen wï¿½rde, wenn es publik gemacht wird.</p>
+<p>Ich glaube nï¿½mlich wirklich, dass die <i>Menschen</i> Sumo nur als ein <i>Spiel</i> angesehen haben.</p>
 </div>
 </div>
 </div>
@@ -364,7 +364,7 @@ Fragen und Antworten
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Wer ist der <span style="color:red;"><b>GyojiBot</b></span>?</h3>
-<p><i>Sechs ehrliche Diener nenn ich mein,<br />Sie trichterten mir ihr Wissen ein.<br />Sie heißen wann, warum und wenn<br />Und wie und wo und <span style="color:red;"><b>GyojiBot</b></span>.</i></p>
+<p><i>Sechs ehrliche Diener nenn ich mein,<br />Sie trichterten mir ihr Wissen ein.<br />Sie heiï¿½en wann, warum und wenn<br />Und wie und wo und <span style="color:red;"><b>GyojiBot</b></span>.</i></p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Kann ich den <span style="color:red;"><b>GyojiBot</b></span> sehen?</h3>
@@ -372,7 +372,7 @@ Fragen und Antworten
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Warum hasst der <span style="color:red;"><b>GyojiBot</b></span> mich?</h3>
-<p>Der <span style="color:red;"><b>GyojiBot</b></span> hasst dich nicht - er liebt nur das Lichtmuster, das du hinterlässt, wenn du stirbst. Beeil dich, um seinem liebevollen Blick zu entkommen.</p>
+<p>Der <span style="color:red;"><b>GyojiBot</b></span> hasst dich nicht - er liebt nur das Lichtmuster, das du hinterlï¿½sst, wenn du stirbst. Beeil dich, um seinem liebevollen Blick zu entkommen.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Warum geht es in allen Fragen um den <span style="color:red;"><b>GyojiBot</b></span>?</h3>
@@ -382,18 +382,18 @@ Fragen und Antworten
 <h3>5. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
-<li>500 MHz P4-Prozessor oder Ähnliches</li>
+<li>500 MHz P4-Prozessor oder ï¿½hnliches</li>
 <li>128MB Arbeitsspeicher</li>
 </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
-<li>1.5 GHz P4-Prozessor oder Ähnliches</li>
+<li>1.5 GHz P4-Prozessor oder ï¿½hnliches</li>
 <li>256MB Arbeitsspeicher</li>
 <li><span style="color:red;"><b>GyojiBot</b></span></li>
 </ul>
-<p>Unten findet ihr eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten findet ihr eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klickt <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java herunterzuladen.</p>
 </div>
 </div>
@@ -414,7 +414,7 @@ Vorteile einer Mitgliedschaft
 <li><span style="color:red;"><b>GyojiBot</b></span> beobachtet dich beim Schlafen</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/g=wizardrun/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=wizardrun/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -430,13 +430,13 @@ Entwicklerteam
 <div>
 <p>
 <b>Entwicklung:</b> Mel H<br>
-<b>Design und Qualitätssicherung:</b> Michael T<br>
+<b>Design und Qualitï¿½tssicherung:</b> Michael T<br>
 <b>Konzept und Prototyp:</b> Bill R<br>
 <b>Grafik:</b> Jess H, Jamie S, David H und Adam S<br>
 <b>Audio:</b> Grace D<br>
-<b>Text und Entwicklung des <span style="color:red;"><b>GyojiBots</b></span>:</b> Gabriel M (und ein Dankeschön an Ben D, Chihiro Y und Laura W für die japanischen Bot-Namen)<br>
-<b>Übersetzung:</b> Heiko J und Gesine P (Deutsch), Linda H und Thomas LM (Französisch) und Daniel F (Portugiesisch)<br>
-<b>Loka-Qualitätssicherung:</b> Matthias P (Deutsch), Thomas LM (Französisch) und Claudio D C (Portugiesisch)<br>
+<b>Text und Entwicklung des <span style="color:red;"><b>GyojiBots</b></span>:</b> Gabriel M (und ein Dankeschï¿½n an Ben D, Chihiro Y und Laura W fï¿½r die japanischen Bot-Namen)<br>
+<b>ï¿½bersetzung:</b> Heiko J und Gesine P (Deutsch), Linda H und Thomas LM (Franzï¿½sisch) und Daniel F (Portugiesisch)<br>
+<b>Loka-Qualitï¿½tssicherung:</b> Matthias P (Deutsch), Thomas LM (Franzï¿½sisch) und Claudio D C (Portugiesisch)<br>
 </p>
 </div>
 <script type="text/javascript">
@@ -453,7 +453,7 @@ Entwicklerteam
   }
   
   </script>
-<div style="text-align:center;height:100px;"><img id="he_watches" src="http://www.funorb.com/l=1/img/images/game/sumoblitz/gyojibot.png" alt="GyojiBot liebt dich." title="GyojiBot liebt dich." onmousedown="if(event.preventDefault) event.preventDefault();appeaseGyojiBot();" /><p id="psa" style="display:none;line-height:100px;text-shadow: red 0px 0px 8px;color:red;font-size:18px;cursor:none;" onmousedown="return false;">Er blinzelt nie.</p></div>
+<div style="text-align:center;height:100px;"><img id="he_watches" src="../../l=1/img/images/game/sumoblitz/gyojibot.png" alt="GyojiBot liebt dich." title="GyojiBot liebt dich." onmousedown="if(event.preventDefault) event.preventDefault();appeaseGyojiBot();" /><p id="psa" style="display:none;line-height:100px;text-shadow: red 0px 0px 8px;color:red;font-size:18px;cursor:none;" onmousedown="return false;">Er blinzelt nie.</p></div>
 </div>
 </div>
 </div>
@@ -464,25 +464,25 @@ Entwicklerteam
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=wizardrun/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=wizardrun/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=wizardrun/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=wizardrun/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=wizardrun/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=wizardrun/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=wizardrun/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=wizardrun/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=wizardrun/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=wizardrun/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=wizardrun/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=wizardrun/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=wizardrun/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=wizardrun/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

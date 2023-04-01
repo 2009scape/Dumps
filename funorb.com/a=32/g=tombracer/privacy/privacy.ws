@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/a=32/g=tombracer/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/a=32/g=tombracer/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../a=32/g=tombracer/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../a=32/g=tombracer/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=32/css/global-43.css);/**/
+  /*\*/@import url(../../../a=32/css/global-43.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/a=32/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=32/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=32/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -48,7 +48,7 @@
 <div class="affiliate_header">
 <p>In association with</p>
 <a target="_parent" href="http://www.wildgames.com">
-<img src="http://www.funorb.com/img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="HP Desktop logo"/>
+<img src="../../../img/affil/partners/hp.gif" style="padding: 5px 0px 0px 10px;" alt="HP Desktop logo"/>
 </a>
 </div>
 <div class="bodyBackground">
@@ -60,25 +60,25 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="affiliate">
-<a id="logo" href="http://www.funorb.com/a=32/g=tombracer/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../a=32/g=tombracer/index.ws" ><b>
+<img src="../../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../../img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=32/g=tombracer/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=32/g=tombracer/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=32/g=tombracer/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=32/g=tombracer/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/g=tombracer/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=32/g=tombracer/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=32/g=tombracer/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=32/g=tombracer/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=32/g=tombracer/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -87,9 +87,9 @@
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/a=32/g=tombracer/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../a=32/g=tombracer/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=32/g=tombracer/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../a=32/g=tombracer/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -100,23 +100,23 @@
 <li><a href="http://services.funorb.com/m=focommunity/a=32/g=tombracer/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/a=32/g=tombracer/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../a=32/g=tombracer/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/a=32/g=tombracer/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/a=32/g=tombracer/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/a=32/g=tombracer/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=32/g=tombracer/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=32/g=tombracer/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/g=tombracer/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/a=32/g=tombracer/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=32/g=tombracer/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=32/g=tombracer/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=32/g=tombracer/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=32/g=tombracer/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=32/g=tombracer/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../../a=32/g=tombracer/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -125,28 +125,28 @@ http://services.funorb.com/m=forum_fo/a=32/g=tombracer/forums.ws" class="fly">Fo
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/a=32/g=tombracer/loginform.ws?mod=www&amp;ssl=0&amp;dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=32/g=tombracer/index.ws">
+<a id="countrydrop" href="../../../a=32/g=tombracer/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=32/g=tombracer/index.ws"><img title="
+<li><a class="fly" href="../../../a=32/g=tombracer/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=32/g=tombracer/index.ws"><img title="
+English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=32/g=tombracer/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=32/g=tombracer/index.ws"><img title="
+Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=32/g=tombracer/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/g=tombracer/index.ws"><img title="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=32/g=tombracer/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -178,15 +178,15 @@ Privacy Policy
 <p style="text-align: right;">Effective Date: 19th August, 2009</p>
 <p>
 <b>Privacy Policy</b>
-<p><b><a href="#safeguarding_children">Jump to info on safeguarding children’s personally identifiable information</a></b>
+<p><b><a href="#safeguarding_children">Jump to info on safeguarding childrenï¿½s personally identifiable information</a></b>
 <p>
 <b>Introduction</b><br/>
 This is the privacy policy of Jagex Limited and any companies within our group (referred to collectively as "Jagex"). It applies to all of our websites / services (referred to collectively as "our websites") on which it appears.
 <p>We are committed to protecting your privacy and take special measures to ensure the confidentiality of personally identifiable information collected from or about you. This privacy policy explains how we collect, store and use such personally identifiable information. ("Personally identifiable information" is information that identifies you and can be used to contact or locate you in real life, such as your real full name, e-mail address, mobile telephone number, postal address or credit card information.)
 <p>Please read this policy carefully. Your accepting it in full is a condition of your use of our websites (whether or not you are a subscriber). If you do not agree with this policy, or any part, please do not use our websites. Your using any of our websites is treated as an acceptance of the version of this policy in effect at the time of your use.
 <p>We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above.
-<p>If you have any questions about this privacy policy, please contact us by emailing <img style="vertical-align: bottom" src="http://www.funorb.com/img/privacy/privacy.gif" alt=""/> and do not use our websites until you are satisfied and can accept this policy in its entirety.
-<p>In this privacy policy, "Jagex Products" is used as shorthand for all versions of "RuneScape®", "FunOrb®" and any other online games released by Jagex from time to time including all Jagex websites used to play those games.
+<p>If you have any questions about this privacy policy, please contact us by emailing <img style="vertical-align: bottom" src="../../../img/privacy/privacy.gif" alt=""/> and do not use our websites until you are satisfied and can accept this policy in its entirety.
+<p>In this privacy policy, "Jagex Products" is used as shorthand for all versions of "RuneScapeï¿½", "FunOrbï¿½" and any other online games released by Jagex from time to time including all Jagex websites used to play those games.
 <p>References to "Terminating" an account include all or any of: locking / suspending, temporarily banning or permanently banning the account.
 <p>
 <b>What personally identifiable information do we collect and store?</b><br/>
@@ -206,7 +206,7 @@ The provision of Jagex Products to anyone under 18 years of age is not condition
 <p>If we become aware that we hold or have inadvertently disclosed any personally identifiable information for any player aged under 13, it will be retroactively deleted from our system to ensure the protection of the child's privacy.
 <p>
 <b>What other information is collected and stored?</b><br/>
-We use <a href="http://www.funorb.com/a=32/g=tombracer/cookies.ws">cookies</a>, collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system.
+We use <a href="../../../a=32/g=tombracer/cookies.ws">cookies</a>, collect and store IP-addresses, alphanumeric IDs and other unique identifiers in order to identify specific computers that access our websites. We identify and store the versions of Java and .NET (if any) on your computer along with your browser and operating system.
 <p>We generate and store logs indicating usage of our websites such as activity in our games and public and private chat communications. This includes monitoring play patterns and anti-tamper checks which verify the correct internal operation of our software and are designed to spot abusive or inappropriate activities.
 <p>We may track your use of certain features and areas of our websites to help us improve them.
 <p>If our client software held on your computer fails, it sends an automatic error report to our server to help us fix it. This error report only includes information about the internal state of our own client software and which browser/java version it is running on. It does not include data from elsewhere on your system and so does not reveal personally identifiable information to us.
@@ -234,7 +234,7 @@ A cookie is a text-only string of information that a website transfers to the co
 <p>Persistent cookies remain in the cookie file of your browser for a specific period. Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.
 <p>We use persistent cookies to track your country (to enable us to provide country-specific content) and to track whether you entered our websites from a link on site of one of our business partners. Persistent cookies also allow you to log in when you return to our site, by storing your login information on your own computer. Additionally we may use persistent cookies to store information about which adverts from our site have been displayed to you to help avoid showing the same one repeatedly or to provide information that we hope will meet your needs or interests.
 <p>Our advertisers and technology partners also use cookies and other similar technologies. For more information about this, see under "Third Parties" below.
-<p>If you wish to opt-out of the use of cookies <a href="http://www.funorb.com/a=32/g=tombracer/cookies.ws">click here</a> for clear instructions. Some features of our site may not be available if you reject cookies.
+<p>If you wish to opt-out of the use of cookies <a href="../../../a=32/g=tombracer/cookies.ws">click here</a> for clear instructions. Some features of our site may not be available if you reject cookies.
 <p>For more information about cookies, <a href="http://www.allaboutcookies.org/" target="_blank">click here</a>.
 <p>
 <b>Third Parties</b><br/>
@@ -251,8 +251,8 @@ We will only collect personally identifiable information to the extent we believ
 <p>Note that while we strive to protect all our personally identifiable information, we have all heard of data breaches in well-respected financial and governmental institutions and we cannot ever fully guarantee that such breaches will not happen. We will inform you of any material data breaches that we discover that may compromise your personally identifiable information.
 <a name="safeguarding_children"></a>
 <p>
-<b>Safeguarding children’s personally identifiable information</b><br/>
-On top of what we state in the section directly above, ‘Safeguarding your personally identifiable information’, we also have a number of provisions regarding the personally identifiable information (PII) of children. These are that a parent/guardian has the right to review the information the site has collected from their child, have their child’s PII deleted from the site and also request us to stop collecting further PII from their child in the future. This can be done through either faxing or posting us an affidavit, along with a copy of your passport or driving license, to the fax number or address below:
+<b>Safeguarding childrenï¿½s personally identifiable information</b><br/>
+On top of what we state in the section directly above, ï¿½Safeguarding your personally identifiable informationï¿½, we also have a number of provisions regarding the personally identifiable information (PII) of children. These are that a parent/guardian has the right to review the information the site has collected from their child, have their childï¿½s PII deleted from the site and also request us to stop collecting further PII from their child in the future. This can be done through either faxing or posting us an affidavit, along with a copy of your passport or driving license, to the fax number or address below:
 <ul>
 <li>UK: 0844 588 6690</li>
 <li>USA, Canada: 01144 844 588 6690</li>
@@ -261,19 +261,19 @@ On top of what we state in the section directly above, ‘Safeguarding your person
 </ul>
 <p>Jagex Ltd<br/>
 ICU<br/>
-St. John’s Innovation Centre<br/>
+St. Johnï¿½s Innovation Centre<br/>
 Cowley Road<br/>
 Cambridge<br/>
 CB4 0WS<br/>
 UK
 <p>Phone number: 0844 588 8880
-<p>The affidavit has to be signed by and in the presence of ‘notary public’. This is someone who is qualified and has the legal authority, to administer oaths. Upon receipt of this, we will be able to action your request. Specifically, the affidavit must state:
+<p>The affidavit has to be signed by and in the presence of ï¿½notary publicï¿½. This is someone who is qualified and has the legal authority, to administer oaths. Upon receipt of this, we will be able to action your request. Specifically, the affidavit must state:
 <ul>
 <li>You are the custodial parent;</li>
 <li>Your e-mail address;</li>
 <li>Confirmation that your child is under the age of 18;</li>
-<li>The correct spelling of your child’s RuneScape or FunOrb username;</li>
-<li>Whether you wish to have the right to review the information the site has collected from your child, have you child’s PII deleted from the site and/or request us to stop collecting further PII from your child in the future.</li>
+<li>The correct spelling of your childï¿½s RuneScape or FunOrb username;</li>
+<li>Whether you wish to have the right to review the information the site has collected from your child, have you childï¿½s PII deleted from the site and/or request us to stop collecting further PII from your child in the future.</li>
 </ul>
 <p>If you are submitting an affidavit for a child that is under 13 years of age, then please do not include any of their Personally Identifiable Information, this includes their full name, home address, email address or telephone number.
 <p>
@@ -282,7 +282,7 @@ If for data protection purposes you are concerned that the personally identifiab
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -296,30 +296,30 @@ If for data protection purposes you are concerned that the personally identifiab
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=32/g=tombracer/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../../a=32/g=tombracer/index.ws"><img alt="
+English" src="../../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=32/g=tombracer/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../../l=1/a=32/g=tombracer/index.ws"><img alt="
+Deutsch" src="../../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=32/g=tombracer/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../../l=2/a=32/g=tombracer/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=32/g=tombracer/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../../l=3/a=32/g=tombracer/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=32/g=tombracer/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=32/g=tombracer/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=32/g=tombracer/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=32/g=tombracer/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/a=32/g=tombracer/p=JETRZpDXjzDB7H6LqG1ya8HsfouobXJrNn2q-Z06dXU/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/a=32/g=tombracer/p=JETRZpDXjzDB7H6LqG1ya8HsfouobXJrNn2q-Z06dXU/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

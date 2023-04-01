@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=194/css/global-14.css);/**/
+  /*\*/@import url(../a=194/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=194/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../a=194/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=194/css/layout.ws"></script>
+<script type="text/javascript" src="../a=194/css/layout.ws"></script>
 
 <meta http-equiv="refresh" content="5;url=https://billing-core.funorb.com/a=194/unsubscribe.ws" />
 </head>
@@ -42,7 +42,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=194/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../a=194/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -59,15 +59,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=194/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=194/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../a=194/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../a=194/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=194/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=194/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=194/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=194/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../a=194/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../a=194/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../a=194/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../a=194/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -75,8 +75,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=194/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=194/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=194/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../a=194/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../a=194/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -95,37 +95,37 @@ http://forum-fo.funorb.com/a=194/forums.ws?0,1" class="fly">Announcements</a></l
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=194/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../a=194/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=194/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=194/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=194/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=194/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=194/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=194/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../a=194/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../a=194/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../a=194/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../a=194/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../a=194/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../a=194/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=194/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=194/loginapplet/login.ws?mod=www&ssl=0&dest=index.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../a=194/loginapplet/login.ws?mod=www&ssl=0&dest=index.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=194/index.ws">
+<a id="countrydrop" href="../a=194/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=194/img/images/layout/en.gif">
+<img alt="English" src="../a=194/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=194/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=194/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=194/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=194/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=194/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=194/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=194/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=194/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../a=194/index.ws"><img title="English" alt="English" src="../a=194/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/a=194/index.ws"><img title="Deutsch" alt="Deutsch" src="../a=194/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/a=194/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../a=194/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/a=194/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../a=194/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -150,7 +150,7 @@ Redirect
 <div class="sectionContent" style="">
 <div style="text-align: center; padding: 1em;">
 <p>You will be redirected to a Jagex-themed page in 5 seconds. Jagex are the makers of FunOrb.</p>
-<img src="http://www.funorb.com/a=194/img/images/account_management/redirect.gif" alt="redirecting..." style="margin: 1em">
+<img src="../a=194/img/images/account_management/redirect.gif" alt="redirecting..." style="margin: 1em">
 <p>If you are not redirected automatically please <a href="https://billing-core.funorb.com/a=194/unsubscribe.ws">click here</a>.</p>
 </div>
 </div>
@@ -163,22 +163,22 @@ Redirect
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=194/index.ws"><img alt="English" src="http://www.funorb.com/a=194/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=194/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=194/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=194/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=194/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=194/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=194/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../a=194/index.ws"><img alt="English" src="../a=194/img/images/layout/en.gif">English</a>
+<a href="../l=1/a=194/index.ws"><img alt="Deutsch" src="../a=194/img/images/layout/de.gif">Deutsch</a>
+<a href="../l=2/a=194/index.ws"><img alt="Fran&ccedil;ais" src="../a=194/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../l=3/a=194/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../a=194/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=194/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=194/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../a=194/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../a=194/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=194/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../a=194/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

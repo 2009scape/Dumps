@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,16 +20,16 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-14.css);/**/
+  /*\*/@import url(../../l=2/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Exclusions, retraits et procédure d'appel.">
-<title>Exclusions et retraits de l'accès à la messagerie instantanée</title>
+<meta name="description" content="Exclusions, retraits et procï¿½dure d'appel.">
+<title>Exclusions et retraits de l'accï¿½s ï¿½ la messagerie instantanï¿½e</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -44,7 +44,7 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=2/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=2/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -52,7 +52,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/messenger.js"></script>
 
@@ -61,28 +61,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -93,41 +93,41 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws" class="fly">Tous les forums</a></li
 http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Téléchargements FunOrb</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/" class="fly last">Tï¿½lï¿½chargements FunOrb</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<a id="countrydrop" href="../../l=2/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -143,7 +143,7 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientèle</a> &gt; Exclusions et retraits de l'accès à la messagerie instantanée</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientï¿½le</a> &gt; Exclusions et retraits de l'accï¿½s ï¿½ la messagerie instantanï¿½e</span>
 
 </div>
 </div>
@@ -152,98 +152,98 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Exclusions et retraits de l'accès à la messagerie instantanée</h1>
+<h1 class="articleTitle">Exclusions et retraits de l'accï¿½s ï¿½ la messagerie instantanï¿½e</h1>
 <div class="articleBody">
 <body>
 <div class="faqsList">
 <ol>
-<li><a href="#offence">Comment contester une infraction, une exclusion ou un retrait d'accès à la messagerie instantanée ?</a>
-<li><a href="#system">Comment fonctionne le système des infractions et de contestation ?</a>
-<li><a href="#friend">Mon ami a été exclu. Pouvez-vous annuler son exclusion ?</a>
+<li><a href="#offence">Comment contester une infraction, une exclusion ou un retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e ?</a>
+<li><a href="#system">Comment fonctionne le systï¿½me des infractions et de contestation ?</a>
+<li><a href="#friend">Mon ami a ï¿½tï¿½ exclu. Pouvez-vous annuler son exclusion ?</a>
 <li><a href="#black">Que sont les mauvais points ?</a>
-<li><a href="#why">Pourquoi m'a-t-on exclu/retiré l'accès à la messagerie instantanée ?</a>
-<li><a href="#locked">Pourquoi mon compte est-il bloqué ?</a>
+<li><a href="#why">Pourquoi m'a-t-on exclu/retirï¿½ l'accï¿½s ï¿½ la messagerie instantanï¿½e ?</a>
+<li><a href="#locked">Pourquoi mon compte est-il bloquï¿½ ?</a>
 </ol></div>
 <br>
 <a name="offence"></a>
-<span class="title">1. Comment contester une infraction, une exclusion ou un retrait d'accès à la messagerie instantanée ?</span><br><br> S'il existe une raison que nous ignorons et qui irait à l'encontre de votre exclusion/retrait d'accès à la messagerie instantanée, vous pouvez contester les infractions une par une. Pour ce faire, connectez-vous à votre compte et accédez à Compte > Gestion du compte > Contester. Veillez à expliquer les circonstances atténuantes de manière approfondie et sachez que la décision qui sera prise sera <b>SANS APPEL</b>. <br><br> Nous ne traiterons que les contestations envoyées par le biais du système de contestation. N'utilisez aucune autre méthode de communication (telle que l'assistance technique ou de facturation) pour envoyer des contestations. L'utilisation répétée de méthodes de communication non appropriées peut entraîner la prise de sanctions sur votre compte. Veuillez suivre les instructions ci-dessus et être patient. <br><br>
+<span class="title">1. Comment contester une infraction, une exclusion ou un retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e ?</span><br><br> S'il existe une raison que nous ignorons et qui irait ï¿½ l'encontre de votre exclusion/retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e, vous pouvez contester les infractions une par une. Pour ce faire, connectez-vous ï¿½ votre compte et accï¿½dez ï¿½ Compte > Gestion du compte > Contester. Veillez ï¿½ expliquer les circonstances attï¿½nuantes de maniï¿½re approfondie et sachez que la dï¿½cision qui sera prise sera <b>SANS APPEL</b>. <br><br> Nous ne traiterons que les contestations envoyï¿½es par le biais du systï¿½me de contestation. N'utilisez aucune autre mï¿½thode de communication (telle que l'assistance technique ou de facturation) pour envoyer des contestations. L'utilisation rï¿½pï¿½tï¿½e de mï¿½thodes de communication non appropriï¿½es peut entraï¿½ner la prise de sanctions sur votre compte. Veuillez suivre les instructions ci-dessus et ï¿½tre patient. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="system"></a>
-<span class="title">2. Comment fonctionne le système des infractions et de contestation ?</span><br><br> En signalant les violations de règles que vous remarquez lorsque vous jouez, vous nous aidez à faire de FunOrb un environnement sûr et agréable. Nous prenons ces rapports très au sérieux et sanctionnons les joueurs coupables. Cependant, nous ne voulons pas simplement réprimander les joueurs mais souhaitons leur donner l'occasion de prendre conscience de leur comportement abusif et de faire en sorte qu'ils ne le répètent pas. <br><br> Le système de contestation est un moyen de garantir que nous prenons les bonnes décisions et de permettre aux joueurs de réfléchir à leurs actes. <br><br> Vous pouvez consulter l'historique de vos infractions en sélectionnant Compte > Gestion du compte > Contester. La page suivante s'affiche : <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/offence_system/viewoffensehistory1.gif" alt="Capture d'écran de l'historique des infractions" title="Capture d'écran de l'historique des infractions">
-<br><br> Pour représenter le comportement dans le jeu, nous évaluons chaque compte à l'aide de couleurs. Les quatre zones de couleur sont les suivantes : <br><br>
+<span class="title">2. Comment fonctionne le systï¿½me des infractions et de contestation ?</span><br><br> En signalant les violations de rï¿½gles que vous remarquez lorsque vous jouez, vous nous aidez ï¿½ faire de FunOrb un environnement sï¿½r et agrï¿½able. Nous prenons ces rapports trï¿½s au sï¿½rieux et sanctionnons les joueurs coupables. Cependant, nous ne voulons pas simplement rï¿½primander les joueurs mais souhaitons leur donner l'occasion de prendre conscience de leur comportement abusif et de faire en sorte qu'ils ne le rï¿½pï¿½tent pas. <br><br> Le systï¿½me de contestation est un moyen de garantir que nous prenons les bonnes dï¿½cisions et de permettre aux joueurs de rï¿½flï¿½chir ï¿½ leurs actes. <br><br> Vous pouvez consulter l'historique de vos infractions en sï¿½lectionnant Compte > Gestion du compte > Contester. La page suivante s'affiche : <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../l=2/img/images/kbase/offence_system/viewoffensehistory1.gif" alt="Capture d'ï¿½cran de l'historique des infractions" title="Capture d'ï¿½cran de l'historique des infractions">
+<br><br> Pour reprï¿½senter le comportement dans le jeu, nous ï¿½valuons chaque compte ï¿½ l'aide de couleurs. Les quatre zones de couleur sont les suivantes : <br><br>
 <table>
 <tr>
 <td style="width: 150px;">
 <br>
-<img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/offence_system/greenzone1a.gif" alt="Drapeau vert" title="Drapeau vert"></td>
-<td> <br>Zone verte :<br> Il est possible que votre compte ait accumulé quelques infractions ayant entraîné un jour de retrait d'accès à la messagerie instantanée. Il n'y aura pas de conséquence à long terme pour ces infractions. Vous ne pourrez pas les contester sauf si votre compte passe en zone jaune.<br></td>
+<img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../l=2/img/images/kbase/offence_system/greenzone1a.gif" alt="Drapeau vert" title="Drapeau vert"></td>
+<td> <br>Zone verte :<br> Il est possible que votre compte ait accumulï¿½ quelques infractions ayant entraï¿½nï¿½ un jour de retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e. Il n'y aura pas de consï¿½quence ï¿½ long terme pour ces infractions. Vous ne pourrez pas les contester sauf si votre compte passe en zone jaune.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/offence_system/yellowzone1a.gif" alt="Drapeau jaune" title="Drapeau jaune"></td>
-<td>Zone jaune :<br> Votre compte contient quelques mauvais points, ce qui ne justifie pas encore une exclusion. Vous devez faire attention de ne pas en recevoir d'autres. Vous êtes autorisé à contester toute infraction que vous n'avez pas déjà contestée.<br></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../l=2/img/images/kbase/offence_system/yellowzone1a.gif" alt="Drapeau jaune" title="Drapeau jaune"></td>
+<td>Zone jaune :<br> Votre compte contient quelques mauvais points, ce qui ne justifie pas encore une exclusion. Vous devez faire attention de ne pas en recevoir d'autres. Vous ï¿½tes autorisï¿½ ï¿½ contester toute infraction que vous n'avez pas dï¿½jï¿½ contestï¿½e.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/offence_system/orangezone1a.gif" alt="Drapeau orange" title="Drapeau orange"></td>
-<td>Zone orange :<br> La zone orange indique que vous avez accumulé un nombre critique de mauvais points sur votre compte. Un de plus et vous risquez l'exclusion à long terme. Vous êtes autorisé à contester toute infraction que vous n'avez pas encore contestée.<br></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../l=2/img/images/kbase/offence_system/orangezone1a.gif" alt="Drapeau orange" title="Drapeau orange"></td>
+<td>Zone orange :<br> La zone orange indique que vous avez accumulï¿½ un nombre critique de mauvais points sur votre compte. Un de plus et vous risquez l'exclusion ï¿½ long terme. Vous ï¿½tes autorisï¿½ ï¿½ contester toute infraction que vous n'avez pas encore contestï¿½e.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=2/img/images/kbase/offence_system/redzone1a.gif" alt="Drapeau rouge" title="Drapeau rouge"></td>
-<td>Zone rouge :<br> La zone rouge indique que vous avez accumulé un nombre très critique de mauvais points sur votre compte et que toute autre infraction peut entraîner l'exclusion définitive ou le retrait définitif de l'accès à la messagerie instantanée. Vous êtes autorisé à contester toute infraction que vous n'avez pas encore contestée. <br></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../l=2/img/images/kbase/offence_system/redzone1a.gif" alt="Drapeau rouge" title="Drapeau rouge"></td>
+<td>Zone rouge :<br> La zone rouge indique que vous avez accumulï¿½ un nombre trï¿½s critique de mauvais points sur votre compte et que toute autre infraction peut entraï¿½ner l'exclusion dï¿½finitive ou le retrait dï¿½finitif de l'accï¿½s ï¿½ la messagerie instantanï¿½e. Vous ï¿½tes autorisï¿½ ï¿½ contester toute infraction que vous n'avez pas encore contestï¿½e. <br></td>
 </tr>
 </table>
-<br> Si votre compte a atteint la zone jaune ou supérieure, vous pouvez afficher le nombre de mauvais points présents sur votre compte et leur statut de contestation. Le nombre maximum de mauvais points est de 10 : au bout du dixième, vous serez définitivement exclu ou l'accès à la messagerie instantanée vous sera définitivement retiré. <br><br>
+<br> Si votre compte a atteint la zone jaune ou supï¿½rieure, vous pouvez afficher le nombre de mauvais points prï¿½sents sur votre compte et leur statut de contestation. Le nombre maximum de mauvais points est de 10 : au bout du dixiï¿½me, vous serez dï¿½finitivement exclu ou l'accï¿½s ï¿½ la messagerie instantanï¿½e vous sera dï¿½finitivement retirï¿½. <br><br>
 <h4 style="display: inline;">Contestation des infractions</h4>
-<br><br> Si votre compte est dans la zone jaune, orange ou rouge, vous pouvez contester les infractions une par une ou présenter vos excuses. Lors de votre connexion à l'historique des infractions, les éléments suivants s'affichent : <br><br>
+<br><br> Si votre compte est dans la zone jaune, orange ou rouge, vous pouvez contester les infractions une par une ou prï¿½senter vos excuses. Lors de votre connexion ï¿½ l'historique des infractions, les ï¿½lï¿½ments suivants s'affichent : <br><br>
 <ul style="margin-top: 0px; margin-bottom: 0px; ">
 <li> liste des infractions que vous avez commises ;<br>
-<li> preuve pour chaque infraction, le cas échéant ;<br>
-<li> lien portant le libellé Contester. </ul>
-<br><br> Nous vous recommandons <b>fortement</b> d'examiner attentivement la preuve que nous avons fournie pour chaque infraction. Vous ne pouvez contester une infraction qu'une seule fois ; il est donc important que vos arguments soient justement ciblés. <br><br> Si vous n'avez pas encore contesté votre infraction, vous avez la possibilité de vous expliquer et de fournir toutes les justifications que vous jugez valables. Par ailleurs, si vous reconnaissez être coupable de l'infraction, vous pouvez présenter vos excuses pour votre comportement (attitude à privilégier). <br><br> Si votre contestation est jugée recevable, l'infraction sera retirée du système ainsi que l'exclusion ou le retrait d'accès à la messagerie instantanée éventuellement associé. Si elle est rejetée, vous ne pourrez pas la contester de nouveau et elle restera dans le système, tout comme l'exclusion ou le retrait d'accès à la messagerie instantanée associé. <br><br> Nous ne traiterons que les contestations envoyées par le biais du système de contestation. N'utilisez aucune autre méthode de communication (telle que l'assistance technique ou de facturation) pour envoyer des contestations. L'utilisation répétée de méthodes de communication non appropriées peut entraîner la prise de sanctions sur votre compte. Veuillez suivre les instructions ci-dessus et être patient. <br><br> Si vous avez un doute sur le règlement ou souhaitez vous assurer de la définition de certaines règles, vous pouvez le consulter en cliquant <a href="viewcategory.ws?cat_id=11">ici</a>. <br><br>
+<li> preuve pour chaque infraction, le cas ï¿½chï¿½ant ;<br>
+<li> lien portant le libellï¿½ Contester. </ul>
+<br><br> Nous vous recommandons <b>fortement</b> d'examiner attentivement la preuve que nous avons fournie pour chaque infraction. Vous ne pouvez contester une infraction qu'une seule fois ; il est donc important que vos arguments soient justement ciblï¿½s. <br><br> Si vous n'avez pas encore contestï¿½ votre infraction, vous avez la possibilitï¿½ de vous expliquer et de fournir toutes les justifications que vous jugez valables. Par ailleurs, si vous reconnaissez ï¿½tre coupable de l'infraction, vous pouvez prï¿½senter vos excuses pour votre comportement (attitude ï¿½ privilï¿½gier). <br><br> Si votre contestation est jugï¿½e recevable, l'infraction sera retirï¿½e du systï¿½me ainsi que l'exclusion ou le retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e ï¿½ventuellement associï¿½. Si elle est rejetï¿½e, vous ne pourrez pas la contester de nouveau et elle restera dans le systï¿½me, tout comme l'exclusion ou le retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e associï¿½. <br><br> Nous ne traiterons que les contestations envoyï¿½es par le biais du systï¿½me de contestation. N'utilisez aucune autre mï¿½thode de communication (telle que l'assistance technique ou de facturation) pour envoyer des contestations. L'utilisation rï¿½pï¿½tï¿½e de mï¿½thodes de communication non appropriï¿½es peut entraï¿½ner la prise de sanctions sur votre compte. Veuillez suivre les instructions ci-dessus et ï¿½tre patient. <br><br> Si vous avez un doute sur le rï¿½glement ou souhaitez vous assurer de la dï¿½finition de certaines rï¿½gles, vous pouvez le consulter en cliquant <a href="viewcategory.ws?cat_id=11">ici</a>. <br><br>
 <h4 style="display: inline">Mon compte se situe en zone verte et je ne peux pas contester les infractions. Pourquoi ?</h4>
-<br><br> Il n'y a pas lieu de contester des infractions lorsque votre compte est en zone verte car cela n'aura aucun effet réel pour vous dans les jeux. Cependant, si vous commettez d'autres infractions vous forçant à quitter la zone verte (et à être sanctionné de manière plus sévère), vous aurez la possibilité de contester toutes les infractions précédemment incontestables associées à votre compte. <br><br> Nous préférons que nos modérateurs Jagex consacrent leur temps dans les jeux et sur les forums à assister nos joueurs plutôt que de traiter des contestations d'infractions pour des comptes en zone verte qui ne risquent pas de sanction importante. <br><br>
+<br><br> Il n'y a pas lieu de contester des infractions lorsque votre compte est en zone verte car cela n'aura aucun effet rï¿½el pour vous dans les jeux. Cependant, si vous commettez d'autres infractions vous forï¿½ant ï¿½ quitter la zone verte (et ï¿½ ï¿½tre sanctionnï¿½ de maniï¿½re plus sï¿½vï¿½re), vous aurez la possibilitï¿½ de contester toutes les infractions prï¿½cï¿½demment incontestables associï¿½es ï¿½ votre compte. <br><br> Nous prï¿½fï¿½rons que nos modï¿½rateurs Jagex consacrent leur temps dans les jeux et sur les forums ï¿½ assister nos joueurs plutï¿½t que de traiter des contestations d'infractions pour des comptes en zone verte qui ne risquent pas de sanction importante. <br><br>
 <h4 style="display: inline;">Dernier recours pour la contestation</h4>
-<br><br> Si on vous a définitivement exclu ou retiré l'accès à la messagerie instantanée et si vous avez contesté toutes vos infractions ouvertes, on peut vous autoriser à contester vos infractions une dernière fois afin que vous récupériez votre compte. <br><br> Sachez que si votre contestation est rejetée, l'exclusion définitive ou le retrait définitif d'accès à la messagerie instantanée restera valable et vous n'aurez aucune autre possibilité de contester vos infractions. Sachez également que toute sanction infligée suite à la violation de règles dans FunOrb s'applique également à RuneScape et inversement. <br><br>
+<br><br> Si on vous a dï¿½finitivement exclu ou retirï¿½ l'accï¿½s ï¿½ la messagerie instantanï¿½e et si vous avez contestï¿½ toutes vos infractions ouvertes, on peut vous autoriser ï¿½ contester vos infractions une derniï¿½re fois afin que vous rï¿½cupï¿½riez votre compte. <br><br> Sachez que si votre contestation est rejetï¿½e, l'exclusion dï¿½finitive ou le retrait dï¿½finitif d'accï¿½s ï¿½ la messagerie instantanï¿½e restera valable et vous n'aurez aucune autre possibilitï¿½ de contester vos infractions. Sachez ï¿½galement que toute sanction infligï¿½e suite ï¿½ la violation de rï¿½gles dans FunOrb s'applique ï¿½galement ï¿½ RuneScape et inversement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="friend"></a>
-<span class="title">3. Mon ami a été exclu. Pouvez-vous annuler son exclusion ?</span><br><br> Si votre ami peut prouver qu'il existe des circonstances atténuantes à son exclusion, il doit envoyer sa contestation lui-même. Nous n'accepterons <b>AUCUNE</b> contestation provenant de <b>TOUTE PERSONNE</b> autre que le propriétaire du compte impliqué nous contactant par le biais de ce compte. <br><br>
+<span class="title">3. Mon ami a ï¿½tï¿½ exclu. Pouvez-vous annuler son exclusion ?</span><br><br> Si votre ami peut prouver qu'il existe des circonstances attï¿½nuantes ï¿½ son exclusion, il doit envoyer sa contestation lui-mï¿½me. Nous n'accepterons <b>AUCUNE</b> contestation provenant de <b>TOUTE PERSONNE</b> autre que le propriï¿½taire du compte impliquï¿½ nous contactant par le biais de ce compte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="black"></a>
-<span class="title">4. Que sont les mauvais points ?</span><br><br> Les mauvais points constituent un moyen pour Jagex d'assurer le suivi du comportement d'un joueur.<br><br>Les mauvais points sont donnés en cas de violation du <a href="viewcategory.ws?cat_id=11">Code de conduite</a> et le nombre de points donnés varie en fonction de la gravité de l'infraction.<br><br>Vous serez informé de l'attribution d'un mauvais point par le biais de votre messagerie Jagex. Veuillez donc la consulter avant de contacter l'assistance technique pour toute question sur vos mauvais points.<br><br>Si le nombre de mauvais points présents sur votre compte atteint un certain niveau, vous pouvez être exclu. Les mauvais points peuvent être ajoutés un par un ou plusieurs à la fois pour les infractions graves.<br><br>Si vous estimez que votre exclusion est injuste, vous pouvez la contester <a href="http://www.funorb.com/l=2/account_management.ws">ici</a>. <br><br>
+<span class="title">4. Que sont les mauvais points ?</span><br><br> Les mauvais points constituent un moyen pour Jagex d'assurer le suivi du comportement d'un joueur.<br><br>Les mauvais points sont donnï¿½s en cas de violation du <a href="viewcategory.ws?cat_id=11">Code de conduite</a> et le nombre de points donnï¿½s varie en fonction de la gravitï¿½ de l'infraction.<br><br>Vous serez informï¿½ de l'attribution d'un mauvais point par le biais de votre messagerie Jagex. Veuillez donc la consulter avant de contacter l'assistance technique pour toute question sur vos mauvais points.<br><br>Si le nombre de mauvais points prï¿½sents sur votre compte atteint un certain niveau, vous pouvez ï¿½tre exclu. Les mauvais points peuvent ï¿½tre ajoutï¿½s un par un ou plusieurs ï¿½ la fois pour les infractions graves.<br><br>Si vous estimez que votre exclusion est injuste, vous pouvez la contester <a href="../../l=2/account_management.ws">ici</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">5. Pourquoi m'a-t-on exclu/retiré l'accès à la messagerie instantanée ?</span><br><br> Si on vous a définitivement exclu ou retiré l'accès à la messagerie instantanée, vous pouvez le voir dans votre historique des infractions. Pour ce faire, connectez-vous à votre compte et sélectionnez Compte > Gestion du compte > Contester. Cette page affiche la liste de vos infractions et des liens fournissant les preuves. <br><br> Si vous estimez que votre exclusion ou votre retrait d'accès à la messagerie instantanée est injuste, vous pouvez contester la décision en cliquant <a href="http://www.funorb.com/l=2/account_management.ws">ici</a>. <br><br>
+<span class="title">5. Pourquoi m'a-t-on exclu/retirï¿½ l'accï¿½s ï¿½ la messagerie instantanï¿½e ?</span><br><br> Si on vous a dï¿½finitivement exclu ou retirï¿½ l'accï¿½s ï¿½ la messagerie instantanï¿½e, vous pouvez le voir dans votre historique des infractions. Pour ce faire, connectez-vous ï¿½ votre compte et sï¿½lectionnez Compte > Gestion du compte > Contester. Cette page affiche la liste de vos infractions et des liens fournissant les preuves. <br><br> Si vous estimez que votre exclusion ou votre retrait d'accï¿½s ï¿½ la messagerie instantanï¿½e est injuste, vous pouvez contester la dï¿½cision en cliquant <a href="../../l=2/account_management.ws">ici</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="locked"></a>
-<span class="title">6. Pourquoi mon compte est-il bloqué ?</span><br><br> Si nous pensons que quelqu'un a usurpé un compte, nous bloquons le compte afin d'éviter qu'il soit utilisé pour enfreindre le <a href="viewcategory.ws?cat_id=11">règlement</a>. Si, lors de la contestation d'une infraction, vous indiquez qu'un usurpateur a utilisé votre compte, il sera également bloqué. Cliquez <a href="viewarticle.ws?article_id=46">ici</a> pour savoir comment débloquer votre compte. <br>
+<span class="title">6. Pourquoi mon compte est-il bloquï¿½ ?</span><br><br> Si nous pensons que quelqu'un a usurpï¿½ un compte, nous bloquons le compte afin d'ï¿½viter qu'il soit utilisï¿½ pour enfreindre le <a href="viewcategory.ws?cat_id=11">rï¿½glement</a>. Si, lors de la contestation d'une infraction, vous indiquez qu'un usurpateur a utilisï¿½ votre compte, il sera ï¿½galement bloquï¿½. Cliquez <a href="viewarticle.ws?article_id=46">ici</a> pour savoir comment dï¿½bloquer votre compte. <br>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="articleFooter">
-<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=2">Service clientèle</a> : </b>
+<b>Autres rubriques dans <a href="viewcategory.ws?cat_id=2">Service clientï¿½le</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=57">Signalement d'un abus</a>, <a href="viewarticle.ws?article_id=47">Publicité</a>, Exclusions et retraits de l'accès à la messagerie instantanée, <a href="viewarticle.ws?article_id=41">Signalement de bugs</a>, <a href="viewarticle.ws?article_id=10">Jagex</a></span>
+<a href="viewarticle.ws?article_id=57">Signalement d'un abus</a>, <a href="viewarticle.ws?article_id=47">Publicitï¿½</a>, Exclusions et retraits de l'accï¿½s ï¿½ la messagerie instantanï¿½e, <a href="viewarticle.ws?article_id=41">Signalement de bugs</a>, <a href="viewarticle.ws?article_id=10">Jagex</a></span>
 </div>
 </div>
 </div>
@@ -254,17 +254,17 @@ http://forum-fo-fr.funorb.com/l=2/forums.ws?0,1" class="fly">Annonces</a></li>
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=2/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=2/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

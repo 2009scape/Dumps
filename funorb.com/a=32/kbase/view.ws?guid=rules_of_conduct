@@ -21,10 +21,10 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=32/css/global-24.css);/**/
+  /*\*/@import url(../../a=32/css/global-24.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=32/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../a=32/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
@@ -44,24 +44,24 @@ en">
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/a=32/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../a=32/index.ws" ><b>
+<img src="../../img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=32/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=32/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=32/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=32/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=32/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=32/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=32/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=32/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=32/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=32/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=32/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -70,9 +70,9 @@ en">
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=32/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=32/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=32/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=32/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../a=32/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=32/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../a=32/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -83,44 +83,44 @@ en">
 <li><a href="http://focommunity.funorb.com/a=32/" class="fly">Community Home</a></li>
 <li><a href="
 http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../a=32/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://achievements.funorb.com/a=32/" class="fly">Achievements</a></li>
 <li><a href="http://hiscore-fo.funorb.com/a=32/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://orbcoins.funorb.com/a=32/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=32/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=32/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=32/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=32/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=32/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=32/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=32/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=32/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=32/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=32/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=32/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=32/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=32/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rules_of_conduct" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=32/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rules_of_conduct" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=32/index.ws">
+<a id="countrydrop" href="../../a=32/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=32/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=32/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=32/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=32/index.ws"><img title="English" alt="English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=32/index.ws"><img title="Deutsch" alt="Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=32/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=32/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -166,7 +166,7 @@ http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
 <p>Occasionally, innocent players might find themselves falsely accused of committing an offence, perhaps because they made an innocuous comment that was misinterpreted by another player. For this reason, reported incidents will be investigated thoroughly, and any evidence will be carefully evaluated, to ensure that innocent players are not given unwarranted penalties. Players who feel that they have been falsely accused of committing an offence should submit an appeal via the account management page.</p>
 <p>The FunOrb rules are organised into three categories: Honour, Respect and Security. Please take some time to familiarise yourself with these rules before playing any FunOrb games.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="honour"></a>
@@ -179,11 +179,11 @@ http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
 <li>Knowingly exploiting a bug</li>
 <li>Jagex staff impersonation</li>
 <li>Password, account, bank PIN or item scamming</li>
-<li>Advert blocking – (the adverts pay for the games you play)</li>
+<li>Advert blocking ï¿½ (the adverts pay for the games you play)</li>
 <li>Encouraging others to break the rules</li>
 </ul>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="respect"></a>
@@ -197,7 +197,7 @@ http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
 <li>Misuse of the forums</li>
 </ul>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="security"></a>
@@ -209,7 +209,7 @@ http://forum-fo.funorb.com/a=32/forums.ws" class="fly">Forums</a></li>
 <li>Advertising other websites</li>
 </ul>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <span class="title">5. FAQ</span><br><br>
@@ -226,20 +226,20 @@ bansandmutes
 
 offensivelang
 "></a><a name="faq"></a>
-<p><b>I was called a “noob” by another player. Should I report them?</b></p>
-<p>The term “noob” is often used by players of online games, and is not particularly offensive. You do not need to report players who use this term to refer to you or someone else.</p>
+<p><b>I was called a ï¿½noobï¿½ by another player. Should I report them?</b></p>
+<p>The term ï¿½noobï¿½ is often used by players of online games, and is not particularly offensive. You do not need to report players who use this term to refer to you or someone else.</p>
 <br>
-<p><b>What is “inappropriate” language?</b></p>
+<p><b>What is ï¿½inappropriateï¿½ language?</b></p>
 <p>Inappropriate language includes language that is discriminatory, threatening, obscene or in any other way offensive. It also includes making reference to, or advocating, any kind of illegal activity. Players who use inappropriate language may be penalised.</p>
 <br>
-<p><b>What does “flooding the chat window” mean?</b></p>
+<p><b>What does ï¿½flooding the chat windowï¿½ mean?</b></p>
 <p>Spamming or flooding the chat window means filling the chat window with unnecessary text as a way of disrupting gameplay. Players who flood the chat window may be penalised.</p>
 <br>
 <a name="
 
 itemscam
 "></a>
-<p><b>What does “scamming” mean?</b></p>
+<p><b>What does ï¿½scammingï¿½ mean?</b></p>
 <p>Scamming means cheating another player during a trade. Lying to other players for your own personal gain is not in the spirit of our games, and will not be tolerated.</p>
 <br>
 <a name="
@@ -303,7 +303,7 @@ multilogin
 
 encouragerulebreak
 "></a>
-<p><b>What constitutes “encouraging other players to break the rules”?</b></p>
+<p><b>What constitutes ï¿½encouraging other players to break the rulesï¿½?</b></p>
 <p>There are many ways of encouraging other players to break the Rules of RuneScape. Basically, it constitutes anything that makes someone else more likely to break a rule.</p>
 <br>
 <a name="
@@ -328,9 +328,9 @@ webadvert
 rwt
 "></a>
 <p><b>Why is real-world trading not permitted?</b></p>
-<p>Real-world trading is not permitted for three reasons. First, we do not want players to be able to buy their way to success in our games. If we let players do this, it devalues our games for other players. We feel your status in real life shouldn’t have a bearing on your success in the game. Second, we cannot monitor the transactions made between players outside of the game, so by prohibiting real-world trading, we are attempting to eliminate unbalanced, unfair trade between players. Third, individuals who attempt to sell items for real-world money are often trying to sell stolen items, so by prohibiting real-world trading, we reduce the chances of such exchanges taking place. Remember, If you purchase a stolen account, you could have it suddenly taken away from you and returned to the rightful owner, and may also be penalised.</p>
+<p>Real-world trading is not permitted for three reasons. First, we do not want players to be able to buy their way to success in our games. If we let players do this, it devalues our games for other players. We feel your status in real life shouldnï¿½t have a bearing on your success in the game. Second, we cannot monitor the transactions made between players outside of the game, so by prohibiting real-world trading, we are attempting to eliminate unbalanced, unfair trade between players. Third, individuals who attempt to sell items for real-world money are often trying to sell stolen items, so by prohibiting real-world trading, we reduce the chances of such exchanges taking place. Remember, If you purchase a stolen account, you could have it suddenly taken away from you and returned to the rightful owner, and may also be penalised.</p>
 <br>
-<p><b>Isn’t it up to me what I do with my items and account?</b></p>
+<p><b>Isnï¿½t it up to me what I do with my items and account?</b></p>
 <p>As explained in our terms and conditions, your character, account, and items are, and remain, the property of Jagex.</p>
 <br>
 <a name="
@@ -354,7 +354,7 @@ misuseforums
 <p><b>Why is advert blocking not permitted?</b></p>
 <p>The revenues from the adverts shown with the free-to-play versions of our games are what allow us to keep the games free for you to play, so please don't block them.</p> 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -374,22 +374,22 @@ Rules of FunOrb</span>
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=32/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=32/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=32/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=32/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../a=32/index.ws"><img alt="English" src="../../img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=32/index.ws"><img alt="Deutsch" src="../../img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=32/index.ws"><img alt="Fran&ccedil;ais" src="../../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=32/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=32/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=32/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=32/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=32/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

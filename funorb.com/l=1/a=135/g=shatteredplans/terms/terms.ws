@@ -19,16 +19,16 @@ de">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/a=135/g=shatteredplans/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/a=135/g=shatteredplans/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../../l=1/a=135/g=shatteredplans/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../../l=1/a=135/g=shatteredplans/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=135/css/global-44.css);/**/
+  /*\*/@import url(../../../../l=1/a=135/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/a=135/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=135/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../../l=1/a=135/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -50,15 +50,15 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../../l=1/a=135/g=shatteredplans/index.ws" ><b>
+<img src="../../../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf Jetzt Spielen und dann auf Kostenloses Spielkonto erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/a=135/g=shatteredplans/messengercommon0.js"></script>
@@ -69,25 +69,25 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../../l=1/a=135/g=shatteredplans/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../../l=1/a=135/g=shatteredplans/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../../l=1/a=135/g=shatteredplans/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -98,23 +98,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/a=135/g=shatteredplans/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/a=135/g=shatteredplans/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/a=135/g=shatteredplans/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/a=135/g=shatteredplans/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/a=135/g=shatteredplans/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../../l=1/a=135/g=shatteredplans/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../../../l=1/a=135/g=shatteredplans/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -122,28 +122,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=135/g=shatteredplans/forums.ws" c
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/a=135/g=shatteredplans/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/index.ws">
+<a id="countrydrop" href="../../../../l=1/a=135/g=shatteredplans/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/g=shatteredplans/index.ws"><img title="
+<li><a class="fly" href="../../../../a=135/g=shatteredplans/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/g=shatteredplans/index.ws"><img title="
+English" src="../../../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../../l=1/a=135/g=shatteredplans/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/g=shatteredplans/index.ws"><img title="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../../l=2/a=135/g=shatteredplans/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/g=shatteredplans/index.ws"><img title="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../../l=3/a=135/g=shatteredplans/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -160,7 +160,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Geschäftsbedingungen
+Geschï¿½ftsbedingungen
 
 </div>
 </div>
@@ -171,9 +171,9 @@ Geschäftsbedingungen
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Frankreich gelebt haben und es am oder nach dem 20. August 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=74">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Deutschland gelebt haben und es am oder nach dem 14. Februar 2007 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=56">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
-<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Brasilien gelebt haben und es am oder nach dem 18. November 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=31">hier</a>, um zu den für Sie gültigen allgemeinen Geschäftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Frankreich gelebt haben und es am oder nach dem 20. August 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=74">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Deutschland gelebt haben und es am oder nach dem 14. Februar 2007 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=56">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
+<p> Falls Sie zum Zeitpunkt der Erstellung Ihres Spielkontos in Brasilien gelebt haben und es am oder nach dem 18. November 2008 erstellt haben, klicken Sie bitte <a href="../terms/terms.ws?cty=31">hier</a>, um zu den fï¿½r Sie gï¿½ltigen allgemeinen Geschï¿½ftsbedingungen zu gelangen. </p>
 <hr/>
 
 <p align=right>Effective Date: 2nd April, 2012</p>
@@ -191,7 +191,7 @@ This website is owned and operated by Jagex Limited ("Jagex"), a company registe
 <p>
 <b>Applicability</b><br/>
 Please read these terms and conditions carefully. Your accepting them in full is a condition of your use of a Jagex Product (whether or not you subscribe). If you don't agree with any part, please don't accept them or use the Jagex Product.</p>
-<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="http://www.funorb.com/l=1/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
+<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="../../../../l=1/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
 <p>
 <b>Changes</b><br/>
 We may change these terms and conditions to reflect: changes in applicable laws; regulatory or security requirements; relevant guidance or codes of practice; technical alterations to Jagex Products; and to improve clarity and consistency. Please check the terms and conditions whenever you use a Jagex Product. If you are not a subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date as shown above. If you are a subscriber, we will treat you as bound by the changes on the first renewal date for your subscription after the effective date and so you should cancel your subscription (as explained below) before this renewal date if you don't like the proposed changes.</p>
@@ -271,7 +271,7 @@ User Content:</p>
 <li>must be accurate, complete, be uploaded or sent in good faith, and comply with all applicable laws, regulations and codes of conduct;</li>
 <li>must not be obscene, hateful, inflammatory, threatening, harassing, sexually explicit and must not promote violence, promote discrimination, promote or endorse any illegal activity or otherwise be objectionable;</li>
 <li>must not be deceptive or fraudulent in any way;</li>
-<li>must not be defamatory or an invasion of an individual’s right to privacy;</li>
+<li>must not be defamatory or an invasion of an individualï¿½s right to privacy;</li>
 <li>must not infringe the intellectual property or other rights of any third party, including copyrights, trade marks, database rights or any rights of confidentiality, or any similar rights;</li>
 <li>must not attempt to or purport to impersonate any person or misrepresent your identity, affiliation or connection to any other person;</li>
 <li>must not include hyperlinks or connections to third party websites;</li>
@@ -347,7 +347,7 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -359,25 +359,25 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=135/g=shatteredplans/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../../a=135/g=shatteredplans/index.ws"><img alt="
+English" src="../../../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../../../l=1/a=135/g=shatteredplans/index.ws"><img alt="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/g=shatteredplans/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../../../l=2/a=135/g=shatteredplans/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/g=shatteredplans/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../../../l=3/a=135/g=shatteredplans/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2012 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=135/g=shatteredplans/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2012 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../../l=1/a=135/g=shatteredplans/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../../l=1/a=135/g=shatteredplans/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/a=135/g=shatteredplans/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/a=135/g=shatteredplans/" target="_blank"><img src="../../../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

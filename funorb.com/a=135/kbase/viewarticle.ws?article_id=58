@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Information about Billing, Membership and how to contact us.">
@@ -44,7 +44,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -61,15 +61,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=135/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=135/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=135/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=135/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,37 +97,37 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=135/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=135/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=58" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=58" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/index.ws">
+<a id="countrydrop" href="../../a=135/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+<img alt="English" src="../../a=135/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=135/index.ws"><img title="English" alt="English" src="../../a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="../../a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -163,7 +163,7 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 <li><a href="#renew">How can I renew my subscription?</a>
 <li><a href="#family">Is there a family or group discount available?</a>
 <li><a href="#forever">Once I subscribe with one payment method, do I have to use the payment method forever?</a>
-<li><a href="#available">Why aren’t all payment methods available in my country?</a>
+<li><a href="#available">Why arenï¿½t all payment methods available in my country?</a>
 <li><a href="#listed">I want to pay in my currency but I can't see it listed?</a>
 <br><br>
 <b style="display: block; margin: 0;">Membership</b>
@@ -194,10 +194,10 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 <br>
 <a name="methods"></a>
 <span class="title">1. Which subscription methods do you offer?</span><br><br>
-The subscription methods available to you will depend on the country you live in.<br><br>A full list of payment methods, including cost, will be displayed when you select <a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">Start a new subscription</a> on the FunOrb website.
+The subscription methods available to you will depend on the country you live in.<br><br>A full list of payment methods, including cost, will be displayed when you select <a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">Start a new subscription</a> on the FunOrb website.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="pay"></a>
@@ -207,15 +207,15 @@ You can only do this if the person you are paying for is a member of your immedi
 If you wish to purchase membership for someone outside of your family, we recommend you give them the money to allow them to directly purchase the membership for their account.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="renew"></a>
 <span class="title">3. How can I renew my subscription?</span><br><br>
-If your membership is running low and you wish to renew your subscription, you can <a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">extend your subscription</a>.<br><br>There is no need to do this if you are paying by credit card as payment will automatically be taken each month until the subscription is cancelled.
+If your membership is running low and you wish to renew your subscription, you can <a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">extend your subscription</a>.<br><br>There is no need to do this if you are paying by credit card as payment will automatically be taken each month until the subscription is cancelled.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="family"></a>
@@ -223,7 +223,7 @@ If your membership is running low and you wish to renew your subscription, you c
 We do not currently offer any discounts for multiple subscriptions from the same family or group. Each account will require its own subscription in order to access the member benefits.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="forever"></a>
@@ -231,16 +231,16 @@ We do not currently offer any discounts for multiple subscriptions from the same
 You are free to use any of the payment methods offered to you when resubscribing. You are not locked into using one payment method.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="available"></a>
-<span class="title">6. Why aren’t all payment methods available in my country?</span><br><br>
+<span class="title">6. Why arenï¿½t all payment methods available in my country?</span><br><br>
 We do our best to make as many different payment methods available in as many countries as possible. However, it is not always possible to do this.
 Please rest assured that we are looking to increase the number of payment methods to all our players. If a particular payment method is not available in your country, please do not submit a query regarding this; instead, keep an eye on the 'Announcements' Forum for information on any new billing options.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="listed"></a>
@@ -248,16 +248,16 @@ Please rest assured that we are looking to increase the number of payment method
 If your currency is not listed then we will accept payment in US Dollars, UK Pounds or Euros. The card company works out the exchange rate and will bill you in YOUR currency. There are NO extra charges placed by Jagex.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="freeze"></a>
 <span class="title">8. Can I freeze my membership?</span><br><br>
-It is not possible to freeze membership – one day of membership credit will continue to be used each day until the membership credit on your account has expired.
+It is not possible to freeze membership ï¿½ one day of membership credit will continue to be used each day until the membership credit on your account has expired.
 If you have a credit card subscription, payment will continue to be taken each month until the subscription is cancelled.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="much"></a>
@@ -266,7 +266,7 @@ You can find this by navigating to the Account tab on the main page, then choosi
 a Jagex themed page (you will be asked to enter your username and password again), your remaining membership credit will be displayed.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="difference"></a>
@@ -275,10 +275,10 @@ Unregistered free players can sample each of our games for free, but no high sco
 <br><br>
 Members get access to the full range of our services, including all of the FunOrb games, extra game content and Achievements, the Forums and multiplayer games.
 <br><br>
-To view the benefits that you will receive when you sign up for membership to FunOrb please see our <a href="http://www.funorb.com/a=135/members.ws">Members Benefits</a> page.
+To view the benefits that you will receive when you sign up for membership to FunOrb please see our <a href="../../a=135/members.ws">Members Benefits</a> page.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="when"></a>
@@ -292,15 +292,15 @@ PayByPhone and PayBySMS subscriptions take around 15-20 minutes to be processed,
 If you subscribe through PayByCash please note that the payment type you use will affect the time taken to start your membership. Further details of these can be found when you subscribe.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="rsfo"></a>
 <span class="title">12. Can I subscribe to more than one Jagex product at a time?</span><br><br>
-Yes. If you wish to change your subscription options, please go the the billing options page, <a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">here</a>.
+Yes. If you wish to change your subscription options, please go the the billing options page, <a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">here</a>.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="existing"></a>
@@ -308,7 +308,7 @@ Yes. If you wish to change your subscription options, please go the the billing 
 You will only be able to add membership to an account which has already been created. During the subscription process, you will be required to enter the username and password for the account you wish to add membership to.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="switch"></a>
@@ -316,7 +316,7 @@ You will only be able to add membership to an account which has already been cre
 We are unable to switch membership from one account to another. You will need to cancel your existing subscription and subscribe the account you wish to be a member.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="computer"></a>
@@ -326,19 +326,19 @@ Each FunOrb Jagex account you wish to have access to the member benefits must ha
 You will then be able to take advantage of the members-only features of our games with that account using any computer with an internet connection.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="cancel"></a>
 <span class="title">16. I cannot access my FunOrb Jagex account. How can I cancel my subscription?</span><br><br>
-If you are no longer able to access your account, you should submit a password request to recover it. You can do this by selecting “Recover a lost password” from the <a href="http://www.funorb.com/a=135/account_management.ws">Account Management</a> page on <a href="http://www.funorb.com/a=135/">www.funorb.com</a>. <br><br>Once the account has been recovered, you will be able to cancel the subscription by selecting “Cancel an existing subscription” found in the 'Account Management' section of the FunOrb website and selecting option 1. If you are not able to provide enough information to recover your account, you will be able to cancel the subscription by following option 2.
+If you are no longer able to access your account, you should submit a password request to recover it. You can do this by selecting ï¿½Recover a lost passwordï¿½ from the <a href="../../a=135/account_management.ws">Account Management</a> page on <a href="../../a=135/">www.funorb.com</a>. <br><br>Once the account has been recovered, you will be able to cancel the subscription by selecting ï¿½Cancel an existing subscriptionï¿½ found in the 'Account Management' section of the FunOrb website and selecting option 1. If you are not able to provide enough information to recover your account, you will be able to cancel the subscription by following option 2.
 <br><br>
 For customers that do not subscribe using a credit card, it is only necessary to cancel direct debit payments, as all the other payment methods are one-off, non-recurring payments.
 <br><br>
 To cancel a direct debit payment, please e-mail customerservice@paybycash.com
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="banned"></a>
@@ -350,7 +350,7 @@ For customers that do not subscribe using a credit card, it is only necessary to
 To cancel a direct debit payment, please e-mail customerservice@paybycash.com
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="refunds"></a>
@@ -358,14 +358,14 @@ To cancel a direct debit payment, please e-mail customerservice@paybycash.com
 Refunds are given at the discretion of the management.<br><br>We do not normally refund victims of in-game scamming as there are many warnings about avoiding this on our website. We will, however, do everything we can to assist players to recover their accounts.<br><br>We also do not give refunds to players who have been banned from the game for violating the terms and conditions of use, including the <a href="viewcategory.ws?cat_id=11">rules of the game</a>.<br><br>If your case is exceptional and feel that a refund is justified, please contact <a href="https://ticketing.funorb.com/a=135/billingsupport.ws">billing support</a> providing as much detail as possible. <br><br>
 For PayByCash customers, please note that when making a PayByCash payment for FunOrb subscription, you agreed that:
 <br><br>
-“No refunds can be offered for unwanted membership and membership cannot be transferred between accounts.”
+ï¿½No refunds can be offered for unwanted membership and membership cannot be transferred between accounts.ï¿½
 <br><br>
 As such, we are unable to offer refunds on PayByCash payments.
 <br><br>
 For other payments types, please contact <a href="https://ticketing.funorb.com/a=135/billingsupport.ws">billing support</a> for assistance, providing as much information as possible.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="member"></a>
@@ -375,31 +375,31 @@ When the membership credit on your account expires, the member only features, in
 All of your Achievements and game-saves will become accessible again when you resubscribe.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="secure"></a>
 <span class="title">20. When I go to subscribe or unsubscribe, I go to a page that doesn't look like FunOrb. Is it secure? </span><br><br>
 As long as you have arrived at the Billing system from www.RuneScape.com, www.FunOrb.com, or one of our affiliates (such as www.Miniclip.com), you have nothing to fear. Our Billing system has been refined to make it simpler to use and still just as secure, and we decided to make it more attractive at the same time. When you log into the system (note that some users will need to specify which country they are paying from), you should see this page:
 <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/billing/subscribe_options.gif" alt="Subscription page" title="Subscription page">
+<img style="display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/billing/subscribe_options.gif" alt="Subscription page" title="Subscription page">
 <br><br>
 The payment areas of our website use industry-standard SSL encryption when sending your details to the server. This makes it virtually impossible for anyone else to intercept your credit card details.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="longer"></a>
 <span class="title">21. I am no longer able to log in to my FunOrb Jagex account. How can I resolve my issue? </span><br><br>
-If you wish to cancel your credit subscription, please select “Cancel an existing subscription” from the <a href="http://www.funorb.com/a=135/account_management.ws">Account Management</a> section of www.FunOrb.com and follow the prompts for option 2.
+If you wish to cancel your credit subscription, please select ï¿½Cancel an existing subscriptionï¿½ from the <a href="../../a=135/account_management.ws">Account Management</a> section of www.FunOrb.com and follow the prompts for option 2.
 <br><br>
-If you have lost or forgotten the password to the account, you can recover it by submitting a password request via our website. You will need to select “Recover a lost password” from the <a href="http://www.funorb.com/a=135/account_management.ws">Account Management</a> section of www.FunOrb.com, in order to initiate this process.
+If you have lost or forgotten the password to the account, you can recover it by submitting a password request via our website. You will need to select ï¿½Recover a lost passwordï¿½ from the <a href="../../a=135/account_management.ws">Account Management</a> section of www.FunOrb.com, in order to initiate this process.
 <br><br>
-Alternatively, if neither of these are possible, you can e-mail the Billing Support team at <img style="vertical-align: bottom" src="http://www.funorb.com/a=135/img/privacy/billingsupport_9pt.gif">. Please provide as much clear detail as possible, including the names of any accounts you are referring to and the specific issue you are experiencing.
+Alternatively, if neither of these are possible, you can e-mail the Billing Support team at <img style="vertical-align: bottom" src="../../a=135/img/privacy/billingsupport_9pt.gif">. Please provide as much clear detail as possible, including the names of any accounts you are referring to and the specific issue you are experiencing.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="query"></a>
@@ -407,12 +407,12 @@ Alternatively, if neither of these are possible, you can e-mail the Billing Supp
 A billing query relates to a problem with subscription details, subscribing, payment or cancelling problems. This could be experienced with all the different payment options - PayByCash, PayBySMS, PayByPhone or Credit Card.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="contact_billing"></a>
 <span class="title">23. How can I contact Billing?</span><br><br>
-You can contact us by email, at <img style="vertical-align: bottom" src="http://www.funorb.com/a=135/img/privacy/billingsupport_9pt.gif">, or you can send in a Billing query.
+You can contact us by email, at <img style="vertical-align: bottom" src="../../a=135/img/privacy/billingsupport_9pt.gif">, or you can send in a Billing query.
 <br><br>
 <a href="https://ticketing.funorb.com/a=135/billingsupport.ws?cat=3">Click here</a> to submit a query about PayByCash.<br>
 <a href="https://ticketing.funorb.com/a=135/billingsupport.ws?cat=6">Click here</a> to submit a query about PayByPhone.<br>
@@ -422,7 +422,7 @@ Please note that this is only for billing queries, so only queries relating to y
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -442,22 +442,22 @@ General Billing FAQs, <a href="viewarticle.ws?article_id=32">Billing methods, pr
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../a=135/index.ws"><img alt="English" src="../../a=135/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=135/index.ws"><img alt="Deutsch" src="../../a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

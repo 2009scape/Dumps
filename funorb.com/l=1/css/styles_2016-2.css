@@ -1,7 +1,7 @@
 /*
 */
 body{
-    background: url(https://www.funorb.com/l=1/img/images/layout/bg_body_voidhunters.jpg) no-repeat center 0, url(https://www.funorb.com/l=1/img/images/layout/bg_body_voidhunters_repeat.jpg) repeat-y center 0 black;
+    background: url(../../l=1/img/images/layout/bg_body_voidhunters.jpg) no-repeat center 0, url(../../l=1/img/images/layout/bg_body_voidhunters_repeat.jpg) repeat-y center 0 black;
     border: none;
     color: #fff;
     font-family: Arial,Helvetica,FreeSans,sans-serif;
@@ -13,7 +13,7 @@ body{
     text-align: center;
 }
 .l-vista{
-    background: url(https://www.funorb.com/l=1/img/weblogin/loginarea_bg_nowarn.png?2) center top;
+    background: url(../../l=1/img/weblogin/loginarea_bg_nowarn.png?2) center top;
     border-bottom: 4px solid black;
     border-top: 4px solid black;
     display: block;
@@ -49,7 +49,7 @@ body{
     text-align: center;
 }
 header{
-    background: url(https://www.funorb.com/l=1/img/images/layout/nav.gif) repeat-x 116px;
+    background: url(../../l=1/img/images/layout/nav.gif) repeat-x 116px;
     border-radius: 10px;
     display: block;
     height: 116px;
@@ -66,7 +66,7 @@ header .logo{
     float: left;
 }
 header .shell{
-    background: url(https://www.funorb.com/l=1/img/images/layout/nav_headerbg.gif) repeat-x 0px -80px;
+    background: url(../../l=1/img/images/layout/nav_headerbg.gif) repeat-x 0px -80px;
     border-radius: 16px;
     float: right;
     font-size: 10px;
@@ -90,7 +90,7 @@ header .shell{
     font-weight: bold;
 }
 .page-header{
-    background: url(https://www.funorb.com/l=1/img/images/layout/section_header.gif);
+    background: url(../../l=1/img/images/layout/section_header.gif);
     border-radius: 0;
     display: block;
     height: 32px;
@@ -108,7 +108,7 @@ header .shell{
     display: none;
 }
 .login-form{
-    background: url(https://www.funorb.com/l=1/img/weblogin/login_box_repeat.png?2) repeat-y 0 32px;
+    background: url(../../l=1/img/weblogin/login_box_repeat.png?2) repeat-y 0 32px;
     min-height: 184px;
     margin: 53px 154px 20px;
     padding: 30px 18px;
@@ -125,7 +125,7 @@ header .shell{
 }
 .login-form:before,
 .login-form:after{
-    background: url(https://www.funorb.com/l=1/img/weblogin/login_box_top.png?2) no-repeat 0 0;
+    background: url(../../l=1/img/weblogin/login_box_top.png?2) no-repeat 0 0;
     content: '';
     height: 7px;
     left: 0;
@@ -138,7 +138,7 @@ header .shell{
     top: auto;
 }
 .login-form__label{
-    background: url(https://www.funorb.com/l=1/img/weblogin/input_bg.png?2) no-repeat center top;
+    background: url(../../l=1/img/weblogin/input_bg.png?2) no-repeat center top;
     display: block;
     font-size: 16px;
     font-weight: bold;
@@ -163,7 +163,7 @@ header .shell{
     width: 238px;
 }
 .a-button{
-    background: transparent url(https://www.funorb.com/l=1/img/weblogin/login.png?2) no-repeat top left;
+    background: transparent url(../../l=1/img/weblogin/login.png?2) no-repeat top left;
     color: transparent;
     cursor: pointer;
     display: block;
@@ -233,7 +233,7 @@ header .shell{
     filter: brightness(1.3);
 }
 .recoveraccount{
-    background: transparent url(https://www.funorb.com/l=1/img/weblogin/recover.png) no-repeat 0 0;
+    background: transparent url(../../l=1/img/weblogin/recover.png) no-repeat 0 0;
     color: transparent;
     display: block;
     height: 32px;
@@ -248,7 +248,7 @@ header .shell{
     filter: brightness(1.3);
 }
 .global-footer{
-    background: transparent url(https://www.funorb.com/l=1/img/images/layout/footer_bg.png) no-repeat center 5px;
+    background: transparent url(../../l=1/img/images/layout/footer_bg.png) no-repeat center 5px;
     margin: auto;
     padding-bottom: 6px;
     position: relative;

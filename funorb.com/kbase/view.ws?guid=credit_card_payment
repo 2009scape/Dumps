@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-21.css);/**/
+  /*\*/@import url(../css/global-21.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/css/layout.ws"></script>
+<script type="text/javascript" src="../css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Questions and answers for paying by credit card.">
@@ -45,8 +45,8 @@ en">
 <div class="container">
 
 <h1 id="logo">
-<a href="http://www.funorb.com/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a href="../index.ws" ><b>
+<img src="../img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 </h1>
 <div id="shell">
@@ -65,15 +65,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -81,8 +81,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -101,37 +101,37 @@ http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/index.ws">
+<a id="countrydrop" href="../index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../index.ws"><img title="English" alt="English" src="../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -180,8 +180,8 @@ http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
 <li><a href="#start">When will my subscription start?</a>
 <li><a href="#number">Where can I find my agreement number?</a>
 <li><a href="#transaction">Where can I find my transaction ID?</a>
-<li><a href="#purchase">Why can’t I use a credit card to purchase membership?</a>
-<li><a href="#why">Why haven’t you taken payment this month?</a>
+<li><a href="#purchase">Why canï¿½t I use a credit card to purchase membership?</a>
+<li><a href="#why">Why havenï¿½t you taken payment this month?</a>
 <li><a href="#down">Why are regular payments being made on my credit card?</a>
 </ol></div>
 <br>
@@ -189,10 +189,10 @@ http://forum-fo.funorb.com/forums.ws?0,1" class="fly">Announcements</a></li>
 <span class="title">1. How does the credit/debit card payment method work?</span><br><br>
 Payment will be taken from the selected credit or debit card every month. Each payment will result in one month of membership credit being added to your account.
 <br><br>
-You can cancel the subscription at any time via our <a href="http://www.funorb.com/">website</a> and we will take no further payments.
+You can cancel the subscription at any time via our <a href="../">website</a> and we will take no further payments.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="cost"></a>
@@ -200,7 +200,7 @@ You can cancel the subscription at any time via our <a href="http://www.funorb.c
 The cost of membership depends on the country you are subscribing from and will be displayed at the beginning of the subscription process.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="countries"></a>
@@ -212,7 +212,7 @@ UK customers will also be able to use JCB, Visa Electron, Maestro and Solo.
 We are, unfortunately, not able to accept debit cards anywhere outside of the UK. Please note that we are also unable to accept Visa Debit cards from anywhere outside of the UK.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="secure"></a>
@@ -222,26 +222,26 @@ Our website uses industry-standard SSL encryption when sending your details to t
 To ensure your computer is secure before subscribing, please take a moment to read the <a href="viewcategory.ws?cat_id=14">Safety and Security</a> FAQs.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="subscribe"></a>
 <span class="title">5. How do I subscribe?</span><br><br>
-Simply go to the main page of the <a href="http://www.funorb.com/">website</a> and click on <a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws">start a new subscription</a>, then follow the prompts for using the credit/debit card payment method.
+Simply go to the main page of the <a href="../">website</a> and click on <a href="../redirect.ws?mod=billing_core&dest=paymentoptions.ws">start a new subscription</a>, then follow the prompts for using the credit/debit card payment method.
 <br><br>
 Please be sure to follow the instructions and ensure you understand all the points.
 <br><br>
 You will be prompted to enter your contact details and the credit or debit card you wish payments to be taken from. Please be sure to provide the contact details registered with your bank as the transaction may be declined if the details do not match.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="taken"></a>
 <span class="title">6. Can I choose the date on which payments will be taken?</span><br><br>
 Payment is taken as soon as the subscription is started, and when three days of membership credit remain on the account, to ensure continuous membership.<br><br>It is possible to choose which day you are billed, by subscribing two days after that date. For example, if you wish for payments to be taken on the 12th of each month, start the subscription on the 14th. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="payments"></a>
@@ -249,7 +249,7 @@ Payment is taken as soon as the subscription is started, and when three days of 
 One payment will be taken as soon as the subscription is started and each month thereafter, until the subscription is cancelled.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="month"></a>
@@ -259,14 +259,14 @@ It is not possible to pay for more than one month of membership at a time. A cre
 If you do not cancel your membership agreement then your membership will continue.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="telephone"></a>
 <span class="title">9. Can I subscribe via telephone?</span><br><br>
-It is not possible to start a credit card subscription over the phone.<br><br>If you would rather not use this secure online payment method, you may wish to consider the other payment methods available to you. A list of these can be found by selecting “Start a new subscription” on <a href="http://www.funorb.com/">www.funorb.com</a>. <br><br>
+It is not possible to start a credit card subscription over the phone.<br><br>If you would rather not use this secure online payment method, you may wish to consider the other payment methods available to you. A list of these can be found by selecting ï¿½Start a new subscriptionï¿½ on <a href="../">www.funorb.com</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="gift"></a>
@@ -274,10 +274,10 @@ It is not possible to start a credit card subscription over the phone.<br><br>If
 Gift cards can be used to buy membership, but you should first check that the card type is supported - our payment partner Worldpay currently accepts Visa, Delta and Mastercard. You should also check with the card issuer to ensure that the card can be used to make overseas and online payments. <br><br>
 To use your gift card, simply follow the instructions for Visa card payments.
 <br><br>
-For those in the USA, if your gift card states "Valid only in the United States" on the front, the provider has issued a Domestic Use Only card. Although your gift card will not be accepted at locations outside of the United States, it’s welcome at thousands of locations within the United States where debit cards are accepted. Unfortunately, as our company is located in the United Kingdom, you will not be able to use any card that has this label.
+For those in the USA, if your gift card states "Valid only in the United States" on the front, the provider has issued a Domestic Use Only card. Although your gift card will not be accepted at locations outside of the United States, itï¿½s welcome at thousands of locations within the United States where debit cards are accepted. Unfortunately, as our company is located in the United Kingdom, you will not be able to use any card that has this label.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="unsubscribe"></a>
@@ -292,92 +292,92 @@ You will need to cancel a minimum of 72 hours in advance of the credit expiring;
 <br>
 When cancelling, please always use either the cancellation options on our website or contact billing customer support. If you cancel through your bank, this may lead to adverse effects on your account. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="details"></a>
 <span class="title">12. How do I update my credit card or contact details?</span><br><br>
-To update the credit or debit card that payment is taken from or the contact details for the subscription, including email address, simply <a href="http://www.funorb.com/redirect.ws?mod=billing_core&dest=paymentoptions.ws">subscribe</a> again.<br><br>The previous subscription will automatically be cancelled when you resubscribe – you will not be double-charged.<br><br>If you resubscribe while there you still have membership credit, the month of membership credit will be added to that already on the account. In addition, the account will not be adversely affected in any way. <br><br>
+To update the credit or debit card that payment is taken from or the contact details for the subscription, including email address, simply <a href="../redirect.ws?mod=billing_core&dest=paymentoptions.ws">subscribe</a> again.<br><br>The previous subscription will automatically be cancelled when you resubscribe ï¿½ you will not be double-charged.<br><br>If you resubscribe while there you still have membership credit, the month of membership credit will be added to that already on the account. In addition, the account will not be adversely affected in any way. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="cancel"></a>
 <span class="title">13. How long does it take to cancel a subscription?</span><br><br>
-The cancellation will be immediate – no more payments will be taken. <br><br>
+The cancellation will be immediate ï¿½ no more payments will be taken. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="possible"></a>
 <span class="title">14. Is it possible to only pay for one month?</span><br><br>
 To purchase only one month of membership, cancel your subscription a minimum of 72 hours before the membership is due to expire. No more payments will be taken and you will have access to members' content until your membership expires.<br><br>If you do not cancel the subscription before this time, another payment will automatically be taken. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="minimum"></a>
 <span class="title">15. Is there a minimum length to my subscription agreement?</span><br><br>
 There is no minimum subscription length. You can cancel as soon as the subscription has been started and no further payments will be taken.<br><br>You will continue to have access to members' content until the purchased membership credit has expired. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="agreeing"></a>
 <span class="title">16. What am I agreeing to when I subscribe?</span><br><br>
-When you subscribe, you agree to the following terms: <br><br><i>“By submitting your order you are making an offer to subscribe to the relevant Jagex Product. Your offer is accepted and a binding contract occurs when we send a message to your account mail inbox confirming that your payment has been received or if you log into a subscribers-only part of a Jagex Product (whichever comes first).<br><br>All subscription payments will continue to be taken in advance at the relevant intervals (e.g. monthly in the case of monthly subscriptions) until you cancel your subscription.<br><br> Payments by credit cards are also subject to our credit card agreement which forms part of these terms and conditions
-”</i><br><br><br>Please note that you are agreeing to an <b><u>automatic monthly debit</b></u>. We will not request authorisation before taking each payment. Payment will be taken once a month, every time your account has 72 hours of credit left. <br><br>Payments will only be taken within the terms of the above agreement.<br><br>You are free to cancel this agreement at any time, but payments will continue until you cancel. <br><br>
+When you subscribe, you agree to the following terms: <br><br><i>ï¿½By submitting your order you are making an offer to subscribe to the relevant Jagex Product. Your offer is accepted and a binding contract occurs when we send a message to your account mail inbox confirming that your payment has been received or if you log into a subscribers-only part of a Jagex Product (whichever comes first).<br><br>All subscription payments will continue to be taken in advance at the relevant intervals (e.g. monthly in the case of monthly subscriptions) until you cancel your subscription.<br><br> Payments by credit cards are also subject to our credit card agreement which forms part of these terms and conditions
+ï¿½</i><br><br><br>Please note that you are agreeing to an <b><u>automatic monthly debit</b></u>. We will not request authorisation before taking each payment. Payment will be taken once a month, every time your account has 72 hours of credit left. <br><br>Payments will only be taken within the terms of the above agreement.<br><br>You are free to cancel this agreement at any time, but payments will continue until you cancel. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="avoid"></a>
 <span class="title">17. When should I cancel to avoid being charged again?</span><br><br>
-Payment is taken when 72 hours of membership remain on the account. If you wish to cancel without incurring another charge, you will need to cancel a minimum of 72 hours before the membership on the account is due to expire.<br><br>If you cancel prior to this, you will not lose any membership credit – you will be able to access members' content until any remaining membership credit expires. <br><br>
+Payment is taken when 72 hours of membership remain on the account. If you wish to cancel without incurring another charge, you will need to cancel a minimum of 72 hours before the membership on the account is due to expire.<br><br>If you cancel prior to this, you will not lose any membership credit ï¿½ you will be able to access members' content until any remaining membership credit expires. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="start"></a>
 <span class="title">18. When will my subscription start?</span><br><br>
 The membership credit will be added to the account as soon as the payment has been processed. This is normally instant, but can take several hours. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="number"></a>
 <span class="title">19. Where can I find my agreement number?</span><br><br>
 Your agreement number was given to you when you submitted your card details and created the agreement. Additionally you can find your agreement number from the payment receipt emails you will have received from WorldPay. Your agreement number is the last number in the 'cartId', separated by a colon, e.g. myusername_12121212:<b>123456</b> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="transaction"></a>
 <span class="title">20. Where can I find my transaction ID?</span><br><br>
 You will receive an e-mail from WorldPay each time payment is taken on your subscription. This e-mail contains the transaction ID for the payment the email relates to. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="purchase"></a>
-<span class="title">21. Why can’t I use a credit card to purchase membership?</span><br><br>
+<span class="title">21. Why canï¿½t I use a credit card to purchase membership?</span><br><br>
 You will be unable to start a credit card subscription if a payment has been charged back by the credit card owner or if we have refunded a payment because we believe it was not made within the agreed terms and conditions of membership. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">22. Why haven’t you taken payment this month?</span><br><br>
-There are a number of reasons that payment may not have been taken on your subscription:<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> You have cancelled your subscription via our website.<br><li> The credit card used to start the subscription has expired.<br><li> Your bank declined the transaction.</ul><br><br>We will send a message to your message inbox if we are unable to take payment for any reason. Please click on 'Read your messages from Jagex' from our <a href="http://www.funorb.com/">website</a> for more details. <br><br>
+<span class="title">22. Why havenï¿½t you taken payment this month?</span><br><br>
+There are a number of reasons that payment may not have been taken on your subscription:<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> You have cancelled your subscription via our website.<br><li> The credit card used to start the subscription has expired.<br><li> Your bank declined the transaction.</ul><br><br>We will send a message to your message inbox if we are unable to take payment for any reason. Please click on 'Read your messages from Jagex' from our <a href="../">website</a> for more details. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="down"></a>
 <span class="title">23. Why are regular payments being made on my credit card?</span><br><br>
 A payment will automatically be taken when three days of membership credit remain on your account, adding another month of membership credit to your account.<br><br>There is no need to resubscribe to continue membership. 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -397,22 +397,22 @@ A payment will automatically be taken when three days of membership credit remai
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../index.ws"><img alt="English" src="../img/images/layout/en.gif">English</a>
+<a href="../l=1/index.ws"><img alt="Deutsch" src="../img/images/layout/de.gif">Deutsch</a>
+<a href="../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

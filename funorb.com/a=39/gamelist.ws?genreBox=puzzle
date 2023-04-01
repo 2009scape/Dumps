@@ -20,15 +20,15 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=39/css/global-8.css);/**/
+  /*\*/@import url(../a=39/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=39/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../a=39/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=39/css/layout.ws"></script>
+<script type="text/javascript" src="../a=39/css/layout.ws"></script>
 
 <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/a=39/css/gamelist-2.css");/**/
+ /*\*/@import url("../a=39/css/gamelist-2.css");/**/
 </style>
 <script type="text/javascript">
  function ajax_debug(text) {
@@ -457,22 +457,22 @@ function callback_request(url, callback) {
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="affiliate">
-<a href="http://www.funorb.com/a=39/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../a=39/index.ws" id="logo"><span>FunOrb</span></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/a=39/img/affil/partners/toshiba.gif" alt="Toshiba" />
+<img id="afflogo" src="../a=39/img/affil/partners/toshiba.gif" alt="Toshiba" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=39/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=39/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../a=39/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../a=39/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=39/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=39/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=39/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=39/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../a=39/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../a=39/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../a=39/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../a=39/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -480,8 +480,8 @@ function callback_request(url, callback) {
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=39/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=39/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=39/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../a=39/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../a=39/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -501,33 +501,33 @@ http://forum-fo.funorb.com/a=39/forums.ws?7,8" class="fly">Developer Forum</a></
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=39/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../a=39/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=39/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=39/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=39/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=39/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=39/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=39/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../a=39/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../a=39/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../a=39/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../a=39/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../a=39/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../a=39/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=39/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=39/loginapplet/login.ws?mod=www&ssl=0&dest=gamelist.ws?genreBox=puzzle" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../a=39/loginapplet/login.ws?mod=www&ssl=0&dest=gamelist.ws?genreBox=puzzle" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=39/index.ws">
-<img alt="English" src="http://www.funorb.com/a=39/img/images/layout/en.gif">
+<a href="../a=39/index.ws">
+<img alt="English" src="../a=39/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=39/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/a=39/img/images/layout/de.gif">
+<a href="../l=1/a=39/index.ws">
+<img alt="Deutsch" src="../a=39/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=39/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=39/img/images/layout/fr.gif">
+<a href="../l=2/a=39/index.ws">
+<img alt="Fran&ccedil;ais" src="../a=39/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -610,540 +610,540 @@ Word</option>
 </form>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link0" id="link0" href="http://www.funorb.com/a=39/36cardtrick/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/36cardtrick/small.jpg" alt="" />
+<a name="link0" id="link0" href="../a=39/36cardtrick/play.ws">
+<img src="../a=39/img/images/game/36cardtrick/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link1" id="link1" href="http://www.funorb.com/a=39/36cardtrick/play.ws">36 Card Trick</a></div>
+<div class="gametitle"><a name="link1" id="link1" href="../a=39/36cardtrick/play.ws">36 Card Trick</a></div>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
-<div class="gamedesc">The classic pair-matching game – with a slight twist.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gamedesc">The classic pair-matching game ï¿½ with a slight twist.</div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=36cardtrick"></a>
-<a name="link2" id="link2" class="buttonPlaySmall" href="http://www.funorb.com/a=39/36cardtrick/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=36cardtrick"></a>
+<a name="link2" id="link2" class="buttonPlaySmall" href="../a=39/36cardtrick/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link2").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link3" id="link3" href="http://www.funorb.com/a=39/arcanistsmulti/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/arcanistsmulti/small.jpg" alt="" />
+<a name="link3" id="link3" href="../a=39/arcanistsmulti/play.ws">
+<img src="../a=39/img/images/game/arcanistsmulti/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link3").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link4" id="link4" href="http://www.funorb.com/a=39/arcanistsmulti/play.ws">Arcanists</a></div>
+<div class="gametitle"><a name="link4" id="link4" href="../a=39/arcanistsmulti/play.ws">Arcanists</a></div>
 <script language="javascript"> document.getElementById("link4").href+=suffix; </script>
 <div class="gamedesc">Magic and mayhem-filled multiplayer matches.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=arcanistsmulti"></a>
-<a name="link5" id="link5" class="buttonPlaySmall" href="http://www.funorb.com/a=39/arcanistsmulti/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=arcanistsmulti"></a>
+<a name="link5" id="link5" class="buttonPlaySmall" href="../a=39/arcanistsmulti/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link5").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link6" id="link6" href="http://www.funorb.com/a=39/bouncedown/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/bouncedown/small.jpg" alt="" />
+<a name="link6" id="link6" href="../a=39/bouncedown/play.ws">
+<img src="../a=39/img/images/game/bouncedown/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link6").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link7" id="link7" href="http://www.funorb.com/a=39/bouncedown/play.ws">Bouncedown</a></div>
+<div class="gametitle"><a name="link7" id="link7" href="../a=39/bouncedown/play.ws">Bouncedown</a></div>
 <script language="javascript"> document.getElementById("link7").href+=suffix; </script>
 <div class="gamedesc">How long can you last in this platform-filled fun fest?</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=bouncedown"></a>
-<a name="link8" id="link8" class="buttonPlaySmall" href="http://www.funorb.com/a=39/bouncedown/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=bouncedown"></a>
+<a name="link8" id="link8" class="buttonPlaySmall" href="../a=39/bouncedown/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link8").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link9" id="link9" href="http://www.funorb.com/a=39/chess/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/chess/small.jpg" alt="" />
+<a name="link9" id="link9" href="../a=39/chess/play.ws">
+<img src="../a=39/img/images/game/chess/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link9").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link10" id="link10" href="http://www.funorb.com/a=39/chess/play.ws">Chess</a></div>
+<div class="gametitle"><a name="link10" id="link10" href="../a=39/chess/play.ws">Chess</a></div>
 <script language="javascript"> document.getElementById("link10").href+=suffix; </script>
 <div class="gamedesc">Play the classic strategy game with your friends.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=chess"></a>
-<a name="link11" id="link11" class="buttonPlaySmall" href="http://www.funorb.com/a=39/chess/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=chess"></a>
+<a name="link11" id="link11" class="buttonPlaySmall" href="../a=39/chess/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link11").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link12" id="link12" href="http://www.funorb.com/a=39/crazycrystals/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/crazycrystals/small.jpg" alt="" />
+<a name="link12" id="link12" href="../a=39/crazycrystals/play.ws">
+<img src="../a=39/img/images/game/crazycrystals/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link12").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link13" id="link13" href="http://www.funorb.com/a=39/crazycrystals/play.ws">Crazy Crystals</a></div>
+<div class="gametitle"><a name="link13" id="link13" href="../a=39/crazycrystals/play.ws">Crazy Crystals</a></div>
 <script language="javascript"> document.getElementById("link13").href+=suffix; </script>
 <div class="gamedesc">Rock-hard tile-based puzzle game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=crazycrystals"></a>
-<a name="link14" id="link14" class="buttonPlaySmall" href="http://www.funorb.com/a=39/crazycrystals/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=crazycrystals"></a>
+<a name="link14" id="link14" class="buttonPlaySmall" href="../a=39/crazycrystals/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link14").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link15" id="link15" href="http://www.funorb.com/a=39/drphlogistonsavestheearth/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
+<a name="link15" id="link15" href="../a=39/drphlogistonsavestheearth/play.ws">
+<img src="../a=39/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link15").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link16" id="link16" href="http://www.funorb.com/a=39/drphlogistonsavestheearth/play.ws">Dr P. Saves the Earth</a></div>
+<div class="gametitle"><a name="link16" id="link16" href="../a=39/drphlogistonsavestheearth/play.ws">Dr P. Saves the Earth</a></div>
 <script language="javascript"> document.getElementById("link16").href+=suffix; </script>
 <div class="gamedesc">Save the Earth in this side-scrolling shooter.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=drphlogistonsavestheearth"></a>
-<a name="link17" id="link17" class="buttonPlaySmall" href="http://www.funorb.com/a=39/drphlogistonsavestheearth/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=drphlogistonsavestheearth"></a>
+<a name="link17" id="link17" class="buttonPlaySmall" href="../a=39/drphlogistonsavestheearth/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link17").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link18" id="link18" href="http://www.funorb.com/a=39/dungeonassault/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/dungeonassault/small.jpg" alt="" />
+<a name="link18" id="link18" href="../a=39/dungeonassault/play.ws">
+<img src="../a=39/img/images/game/dungeonassault/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link18").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link19" id="link19" href="http://www.funorb.com/a=39/dungeonassault/play.ws">Dungeon Assault</a></div>
+<div class="gametitle"><a name="link19" id="link19" href="../a=39/dungeonassault/play.ws">Dungeon Assault</a></div>
 <script language="javascript"> document.getElementById("link19").href+=suffix; </script>
 <div class="gamedesc">Defend your hoard. Become the Dragon King!</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=dungeonassault"></a>
-<a name="link20" id="link20" class="buttonPlaySmall" href="http://www.funorb.com/a=39/dungeonassault/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=dungeonassault"></a>
+<a name="link20" id="link20" class="buttonPlaySmall" href="../a=39/dungeonassault/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link20").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link21" id="link21" href="http://www.funorb.com/a=39/escapevector/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/escapevector/small.jpg" alt="" />
+<a name="link21" id="link21" href="../a=39/escapevector/play.ws">
+<img src="../a=39/img/images/game/escapevector/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link21").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link22" id="link22" href="http://www.funorb.com/a=39/escapevector/play.ws">Escape Vector</a></div>
+<div class="gametitle"><a name="link22" id="link22" href="../a=39/escapevector/play.ws">Escape Vector</a></div>
 <script language="javascript"> document.getElementById("link22").href+=suffix; </script>
 <div class="gamedesc">Fly through twisty caves to reclaim Earth's stolen tech.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=escapevector"></a>
-<a name="link23" id="link23" class="buttonPlaySmall" href="http://www.funorb.com/a=39/escapevector/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=escapevector"></a>
+<a name="link23" id="link23" class="buttonPlaySmall" href="../a=39/escapevector/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link23").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link24" id="link24" href="http://www.funorb.com/a=39/fleacircus/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/fleacircus/small.jpg" alt="" />
+<a name="link24" id="link24" href="../a=39/fleacircus/play.ws">
+<img src="../a=39/img/images/game/fleacircus/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link24").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link25" id="link25" href="http://www.funorb.com/a=39/fleacircus/play.ws">Flea Circus</a></div>
+<div class="gametitle"><a name="link25" id="link25" href="../a=39/fleacircus/play.ws">Flea Circus</a></div>
 <script language="javascript"> document.getElementById("link25").href+=suffix; </script>
 <div class="gamedesc">Guide your fleas through their tiny little circus.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=fleacircus"></a>
-<a name="link26" id="link26" class="buttonPlaySmall" href="http://www.funorb.com/a=39/fleacircus/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=fleacircus"></a>
+<a name="link26" id="link26" class="buttonPlaySmall" href="../a=39/fleacircus/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link26").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link27" id="link27" href="http://www.funorb.com/a=39/geoblox/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/geoblox/small.jpg" alt="" />
+<a name="link27" id="link27" href="../a=39/geoblox/play.ws">
+<img src="../a=39/img/images/game/geoblox/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link27").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link28" id="link28" href="http://www.funorb.com/a=39/geoblox/play.ws">Geoblox</a></div>
+<div class="gametitle"><a name="link28" id="link28" href="../a=39/geoblox/play.ws">Geoblox</a></div>
 <script language="javascript"> document.getElementById("link28").href+=suffix; </script>
 <div class="gamedesc">Match the shapes or colours, three-of-a-kind.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=geoblox"></a>
-<a name="link29" id="link29" class="buttonPlaySmall" href="http://www.funorb.com/a=39/geoblox/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=geoblox"></a>
+<a name="link29" id="link29" class="buttonPlaySmall" href="../a=39/geoblox/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link29").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link30" id="link30" href="http://www.funorb.com/a=39/holdtheline/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/holdtheline/small.jpg" alt="" />
+<a name="link30" id="link30" href="../a=39/holdtheline/play.ws">
+<img src="../a=39/img/images/game/holdtheline/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link30").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link31" id="link31" href="http://www.funorb.com/a=39/holdtheline/play.ws">Hold the Line</a></div>
+<div class="gametitle"><a name="link31" id="link31" href="../a=39/holdtheline/play.ws">Hold the Line</a></div>
 <script language="javascript"> document.getElementById("link31").href+=suffix; </script>
 <div class="gamedesc">Fight for pole position in this powered-up racer.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=racer">Racer</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=racer">Racer</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=holdtheline"></a>
-<a name="link32" id="link32" class="buttonPlaySmall" href="http://www.funorb.com/a=39/holdtheline/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=holdtheline"></a>
+<a name="link32" id="link32" class="buttonPlaySmall" href="../a=39/holdtheline/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link32").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link33" id="link33" href="http://www.funorb.com/a=39/hostilespawn/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/hostilespawn/small.jpg" alt="" />
+<a name="link33" id="link33" href="../a=39/hostilespawn/play.ws">
+<img src="../a=39/img/images/game/hostilespawn/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link33").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link34" id="link34" href="http://www.funorb.com/a=39/hostilespawn/play.ws">Hostile Spawn</a></div>
+<div class="gametitle"><a name="link34" id="link34" href="../a=39/hostilespawn/play.ws">Hostile Spawn</a></div>
 <script language="javascript"> document.getElementById("link34").href+=suffix; </script>
 <div class="gamedesc">Defeat the hordes of alien spawn.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=hostilespawn"></a>
-<a name="link35" id="link35" class="buttonPlaySmall" href="http://www.funorb.com/a=39/hostilespawn/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=hostilespawn"></a>
+<a name="link35" id="link35" class="buttonPlaySmall" href="../a=39/hostilespawn/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link35").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link36" id="link36" href="http://www.funorb.com/a=39/lexicominos/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/lexicominos/small.jpg" alt="" />
+<a name="link36" id="link36" href="../a=39/lexicominos/play.ws">
+<img src="../a=39/img/images/game/lexicominos/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link36").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link37" id="link37" href="http://www.funorb.com/a=39/lexicominos/play.ws">Lexicominos</a></div>
+<div class="gametitle"><a name="link37" id="link37" href="../a=39/lexicominos/play.ws">Lexicominos</a></div>
 <script language="javascript"> document.getElementById("link37").href+=suffix; </script>
 <div class="gamedesc">How many words can you make from falling blocks?</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=word">Word</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=word">Word</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=lexicominos"></a>
-<a name="link38" id="link38" class="buttonPlaySmall" href="http://www.funorb.com/a=39/lexicominos/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=lexicominos"></a>
+<a name="link38" id="link38" class="buttonPlaySmall" href="../a=39/lexicominos/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link38").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link39" id="link39" href="http://www.funorb.com/a=39/minerdisturbance/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/minerdisturbance/small.jpg" alt="" />
+<a name="link39" id="link39" href="../a=39/minerdisturbance/play.ws">
+<img src="../a=39/img/images/game/minerdisturbance/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link39").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link40" id="link40" href="http://www.funorb.com/a=39/minerdisturbance/play.ws">Miner Disturbance</a></div>
+<div class="gametitle"><a name="link40" id="link40" href="../a=39/minerdisturbance/play.ws">Miner Disturbance</a></div>
 <script language="javascript"> document.getElementById("link40").href+=suffix; </script>
-<div class="gamedesc">Plunder the depths of a loot–filled volcano.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="gamedesc">Plunder the depths of a lootï¿½filled volcano.</div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=minerdisturbance"></a>
-<a name="link41" id="link41" class="buttonPlaySmall" href="http://www.funorb.com/a=39/minerdisturbance/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=minerdisturbance"></a>
+<a name="link41" id="link41" class="buttonPlaySmall" href="../a=39/minerdisturbance/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link41").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link42" id="link42" href="http://www.funorb.com/a=39/monkeypuzzle2/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/monkeypuzzle2/small.jpg" alt="" />
+<a name="link42" id="link42" href="../a=39/monkeypuzzle2/play.ws">
+<img src="../a=39/img/images/game/monkeypuzzle2/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link42").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link43" id="link43" href="http://www.funorb.com/a=39/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
+<div class="gametitle"><a name="link43" id="link43" href="../a=39/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
 <script language="javascript"> document.getElementById("link43").href+=suffix; </script>
 <div class="gamedesc">Catapult coloured coconuts to dislodge the monkeys.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=monkeypuzzle2"></a>
-<a name="link44" id="link44" class="buttonPlaySmall" href="http://www.funorb.com/a=39/monkeypuzzle2/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=monkeypuzzle2"></a>
+<a name="link44" id="link44" class="buttonPlaySmall" href="../a=39/monkeypuzzle2/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link44").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link45" id="link45" href="http://www.funorb.com/a=39/orbdefence/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/orbdefence/small.jpg" alt="" />
+<a name="link45" id="link45" href="../a=39/orbdefence/play.ws">
+<img src="../a=39/img/images/game/orbdefence/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link45").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link46" id="link46" href="http://www.funorb.com/a=39/orbdefence/play.ws">Orb Defence</a></div>
+<div class="gametitle"><a name="link46" id="link46" href="../a=39/orbdefence/play.ws">Orb Defence</a></div>
 <script language="javascript"> document.getElementById("link46").href+=suffix; </script>
 <div class="gamedesc">Defend against the Norb invasion.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=orbdefence"></a>
-<a name="link47" id="link47" class="buttonPlaySmall" href="http://www.funorb.com/a=39/orbdefence/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=orbdefence"></a>
+<a name="link47" id="link47" class="buttonPlaySmall" href="../a=39/orbdefence/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link47").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link48" id="link48" href="http://www.funorb.com/a=39/pixelate/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/pixelate/small.jpg" alt="" />
+<a name="link48" id="link48" href="../a=39/pixelate/play.ws">
+<img src="../a=39/img/images/game/pixelate/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link48").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link49" id="link49" href="http://www.funorb.com/a=39/pixelate/play.ws">Pixelate</a></div>
+<div class="gametitle"><a name="link49" id="link49" href="../a=39/pixelate/play.ws">Pixelate</a></div>
 <script language="javascript"> document.getElementById("link49").href+=suffix; </script>
 <div class="gamedesc">It's a falling block game - with a twist!</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=pixelate"></a>
-<a name="link50" id="link50" class="buttonPlaySmall" href="http://www.funorb.com/a=39/pixelate/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=pixelate"></a>
+<a name="link50" id="link50" class="buttonPlaySmall" href="../a=39/pixelate/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link50").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link51" id="link51" href="http://www.funorb.com/a=39/pool/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/pool/small.jpg" alt="" />
+<a name="link51" id="link51" href="../a=39/pool/play.ws">
+<img src="../a=39/img/images/game/pool/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link51").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link52" id="link52" href="http://www.funorb.com/a=39/pool/play.ws">Pool</a></div>
+<div class="gametitle"><a name="link52" id="link52" href="../a=39/pool/play.ws">Pool</a></div>
 <script language="javascript"> document.getElementById("link52").href+=suffix; </script>
 <div class="gamedesc">The classic game of angular skill.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=sport">Sport</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=sport">Sport</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=pool"></a>
-<a name="link53" id="link53" class="buttonPlaySmall" href="http://www.funorb.com/a=39/pool/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=pool"></a>
+<a name="link53" id="link53" class="buttonPlaySmall" href="../a=39/pool/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link53").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link54" id="link54" href="http://www.funorb.com/a=39/shatteredplans/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/shatteredplans/small.jpg" alt="" />
+<a name="link54" id="link54" href="../a=39/shatteredplans/play.ws">
+<img src="../a=39/img/images/game/shatteredplans/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link54").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link55" id="link55" href="http://www.funorb.com/a=39/shatteredplans/play.ws">Shattered Plans</a></div>
+<div class="gametitle"><a name="link55" id="link55" href="../a=39/shatteredplans/play.ws">Shattered Plans</a></div>
 <script language="javascript"> document.getElementById("link55").href+=suffix; </script>
 <div class="gamedesc">Bend worlds to your will and conquer the galaxy.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=shatteredplans"></a>
-<a name="link56" id="link56" class="buttonPlaySmall" href="http://www.funorb.com/a=39/shatteredplans/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=shatteredplans"></a>
+<a name="link56" id="link56" class="buttonPlaySmall" href="../a=39/shatteredplans/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link56").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link57" id="link57" href="http://www.funorb.com/a=39/solknight/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/solknight/small.jpg" alt="" />
+<a name="link57" id="link57" href="../a=39/solknight/play.ws">
+<img src="../a=39/img/images/game/solknight/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link57").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link58" id="link58" href="http://www.funorb.com/a=39/solknight/play.ws">Sol-Knight</a></div>
+<div class="gametitle"><a name="link58" id="link58" href="../a=39/solknight/play.ws">Sol-Knight</a></div>
 <script language="javascript"> document.getElementById("link58").href+=suffix; </script>
 <div class="gamedesc">Protect the solar system from (kilo)tons of asteroids.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=solknight"></a>
-<a name="link59" id="link59" class="buttonPlaySmall" href="http://www.funorb.com/a=39/solknight/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=solknight"></a>
+<a name="link59" id="link59" class="buttonPlaySmall" href="../a=39/solknight/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link59").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link60" id="link60" href="http://www.funorb.com/a=39/starcannon/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/starcannon/small.jpg" alt="" />
+<a name="link60" id="link60" href="../a=39/starcannon/play.ws">
+<img src="../a=39/img/images/game/starcannon/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link60").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link61" id="link61" href="http://www.funorb.com/a=39/starcannon/play.ws">StarCannon</a></div>
+<div class="gametitle"><a name="link61" id="link61" href="../a=39/starcannon/play.ws">StarCannon</a></div>
 <script language="javascript"> document.getElementById("link61").href+=suffix; </script>
 <div class="gamedesc">Pilot the most powerful space fighter ever made.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=shooter">Shooter</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=starcannon"></a>
-<a name="link62" id="link62" class="buttonPlaySmall" href="http://www.funorb.com/a=39/starcannon/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=starcannon"></a>
+<a name="link62" id="link62" class="buttonPlaySmall" href="../a=39/starcannon/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link62").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link63" id="link63" href="http://www.funorb.com/a=39/stellarshard/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/stellarshard/small.jpg" alt="" />
+<a name="link63" id="link63" href="../a=39/stellarshard/play.ws">
+<img src="../a=39/img/images/game/stellarshard/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link63").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link64" id="link64" href="http://www.funorb.com/a=39/stellarshard/play.ws">Stellar Shard</a></div>
+<div class="gametitle"><a name="link64" id="link64" href="../a=39/stellarshard/play.ws">Stellar Shard</a></div>
 <script language="javascript"> document.getElementById("link64").href+=suffix; </script>
 <div class="gamedesc">Clear the asteroid field with ever-increasing fire power.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=arcade">Arcade</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=stellarshard"></a>
-<a name="link65" id="link65" class="buttonPlaySmall" href="http://www.funorb.com/a=39/stellarshard/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=stellarshard"></a>
+<a name="link65" id="link65" class="buttonPlaySmall" href="../a=39/stellarshard/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link65").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link66" id="link66" href="http://www.funorb.com/a=39/terraphoenix/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/terraphoenix/small.jpg" alt="" />
+<a name="link66" id="link66" href="../a=39/terraphoenix/play.ws">
+<img src="../a=39/img/images/game/terraphoenix/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link66").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link67" id="link67" href="http://www.funorb.com/a=39/terraphoenix/play.ws">TerraPhoenix</a></div>
+<div class="gametitle"><a name="link67" id="link67" href="../a=39/terraphoenix/play.ws">TerraPhoenix</a></div>
 <script language="javascript"> document.getElementById("link67").href+=suffix; </script>
 <div class="gamedesc">Command your elite troops in this strategy game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=terraphoenix"></a>
-<a name="link68" id="link68" class="buttonPlaySmall" href="http://www.funorb.com/a=39/terraphoenix/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=terraphoenix"></a>
+<a name="link68" id="link68" class="buttonPlaySmall" href="../a=39/terraphoenix/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link68").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link69" id="link69" href="http://www.funorb.com/a=39/tetralink/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/tetralink/small.jpg" alt="" />
+<a name="link69" id="link69" href="../a=39/tetralink/play.ws">
+<img src="../a=39/img/images/game/tetralink/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link69").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link70" id="link70" href="http://www.funorb.com/a=39/tetralink/play.ws">TetraLink</a></div>
+<div class="gametitle"><a name="link70" id="link70" href="../a=39/tetralink/play.ws">TetraLink</a></div>
 <script language="javascript"> document.getElementById("link70").href+=suffix; </script>
 <div class="gamedesc">Get four counters in a row before your opponent.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=tetralink"></a>
-<a name="link71" id="link71" class="buttonPlaySmall" href="http://www.funorb.com/a=39/tetralink/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=tetralink"></a>
+<a name="link71" id="link71" class="buttonPlaySmall" href="../a=39/tetralink/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link71").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link72" id="link72" href="http://www.funorb.com/a=39/trackcontroller/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/trackcontroller/small.jpg" alt="" />
+<a name="link72" id="link72" href="../a=39/trackcontroller/play.ws">
+<img src="../a=39/img/images/game/trackcontroller/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link72").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link73" id="link73" href="http://www.funorb.com/a=39/trackcontroller/play.ws">The Track Controller</a></div>
+<div class="gametitle"><a name="link73" id="link73" href="../a=39/trackcontroller/play.ws">The Track Controller</a></div>
 <script language="javascript"> document.getElementById("link73").href+=suffix; </script>
 <div class="gamedesc">Push the pieces into place to finish your train track.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=trackcontroller"></a>
-<a name="link74" id="link74" class="buttonPlaySmall" href="http://www.funorb.com/a=39/trackcontroller/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=trackcontroller"></a>
+<a name="link74" id="link74" class="buttonPlaySmall" href="../a=39/trackcontroller/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link74").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link75" id="link75" href="http://www.funorb.com/a=39/torchallenge/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/torchallenge/small.jpg" alt="" />
+<a name="link75" id="link75" href="../a=39/torchallenge/play.ws">
+<img src="../a=39/img/images/game/torchallenge/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link75").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link76" id="link76" href="http://www.funorb.com/a=39/torchallenge/play.ws">Tor Challenge</a></div>
+<div class="gametitle"><a name="link76" id="link76" href="../a=39/torchallenge/play.ws">Tor Challenge</a></div>
 <script language="javascript"> document.getElementById("link76").href+=suffix; </script>
 <div class="gamedesc">Conquer the towers and attain enlightenment.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=torchallenge"></a>
-<a name="link77" id="link77" class="buttonPlaySmall" href="http://www.funorb.com/a=39/torchallenge/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=torchallenge"></a>
+<a name="link77" id="link77" class="buttonPlaySmall" href="../a=39/torchallenge/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link77").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link78" id="link78" href="http://www.funorb.com/a=39/torquing/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/torquing/small.jpg" alt="" />
+<a name="link78" id="link78" href="../a=39/torquing/play.ws">
+<img src="../a=39/img/images/game/torquing/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link78").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link79" id="link79" href="http://www.funorb.com/a=39/torquing/play.ws">Torquing!</a></div>
+<div class="gametitle"><a name="link79" id="link79" href="../a=39/torquing/play.ws">Torquing!</a></div>
 <script language="javascript"> document.getElementById("link79").href+=suffix; </script>
-<div class="gamedesc">Momentum and hamsters don't mix – except here!</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
+<div class="gamedesc">Momentum and hamsters don't mix ï¿½ except here!</div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=torquing"></a>
-<a name="link80" id="link80" class="buttonPlaySmall" href="http://www.funorb.com/a=39/torquing/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=torquing"></a>
+<a name="link80" id="link80" class="buttonPlaySmall" href="../a=39/torquing/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link80").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link81" id="link81" href="http://www.funorb.com/a=39/transmogrify/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/transmogrify/small.jpg" alt="" />
+<a name="link81" id="link81" href="../a=39/transmogrify/play.ws">
+<img src="../a=39/img/images/game/transmogrify/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link81").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link82" id="link82" href="http://www.funorb.com/a=39/transmogrify/play.ws">Transmogrify</a></div>
+<div class="gametitle"><a name="link82" id="link82" href="../a=39/transmogrify/play.ws">Transmogrify</a></div>
 <script language="javascript"> document.getElementById("link82").href+=suffix; </script>
 <div class="gamedesc">Anagrams aplenty in this quiz-show-themed puzzler.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=word">Word</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=word">Word</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=transmogrify"></a>
-<a name="link83" id="link83" class="buttonPlaySmall" href="http://www.funorb.com/a=39/transmogrify/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=transmogrify"></a>
+<a name="link83" id="link83" class="buttonPlaySmall" href="../a=39/transmogrify/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link83").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox" style="display:none;">
 <div class="gameimage">
-<a name="link84" id="link84" href="http://www.funorb.com/a=39/wizardrun/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/wizardrun/small.jpg" alt="" />
+<a name="link84" id="link84" href="../a=39/wizardrun/play.ws">
+<img src="../a=39/img/images/game/wizardrun/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link84").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link85" id="link85" href="http://www.funorb.com/a=39/wizardrun/play.ws">Wizard Run</a></div>
+<div class="gametitle"><a name="link85" id="link85" href="../a=39/wizardrun/play.ws">Wizard Run</a></div>
 <script language="javascript"> document.getElementById("link85").href+=suffix; </script>
 <div class="gamedesc">Fling stars at your enemies in this fun platform game.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=platform">Platform</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=wizardrun"></a>
-<a name="link86" id="link86" class="buttonPlaySmall" href="http://www.funorb.com/a=39/wizardrun/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=wizardrun"></a>
+<a name="link86" id="link86" class="buttonPlaySmall" href="../a=39/wizardrun/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link86").href+=suffix; </script>
 </div>
 </div>
 </div>
 <div class="gamelistentry" name="gameBox">
 <div class="gameimage">
-<a name="link87" id="link87" href="http://www.funorb.com/a=39/zombiedawn/play.ws">
-<img src="http://www.funorb.com/a=39/img/images/game/zombiedawn/small.jpg" alt="" />
+<a name="link87" id="link87" href="../a=39/zombiedawn/play.ws">
+<img src="../a=39/img/images/game/zombiedawn/small.jpg" alt="" />
 </a><script language="javascript"> document.getElementById("link87").href+=suffix; </script>
 </div>
 <div class="gametext">
-<div class="gametitle"><a name="link88" id="link88" href="http://www.funorb.com/a=39/zombiedawn/play.ws">Zombie Dawn</a></div>
+<div class="gametitle"><a name="link88" id="link88" href="../a=39/zombiedawn/play.ws">Zombie Dawn</a></div>
 <script language="javascript"> document.getElementById("link88").href+=suffix; </script>
 <div class="gamedesc">Mastermind an invasion of the undead.</div>
-<div class="genre"><div><a href="http://www.funorb.com/a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
+<div class="genre"><div><a href="../a=39/gamelist.ws?genreBox=strategy">Strategy</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/a=39/info.ws?game=zombiedawn"></a>
-<a name="link89" id="link89" class="buttonPlaySmall" href="http://www.funorb.com/a=39/zombiedawn/play.ws">Play</a>
+<a class="buttonInfo" href="../a=39/info.ws?game=zombiedawn"></a>
+<a name="link89" id="link89" class="buttonPlaySmall" href="../a=39/zombiedawn/play.ws">Play</a>
 <script language="javascript"> document.getElementById("link89").href+=suffix; </script>
 </div>
 </div>
@@ -1162,15 +1162,15 @@ Word</option>
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=39/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=39/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../a=39/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../a=39/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=39/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../a=39/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

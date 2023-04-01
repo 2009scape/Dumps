@@ -9,7 +9,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
@@ -20,12 +20,12 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=57/css/global-8.css);/**/
+  /*\*/@import url(../../l=1/a=57/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=57/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/a=57/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=57/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/a=57/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -41,12 +41,12 @@ de">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=57/css/info-3.css");/**/
+ /*\*/@import url("../../l=1/a=57/css/info-3.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/intro.jpg);
+  background-image: url(../../l=1/a=57/img/images/game/dungeonassault/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/a=57/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=1/a=57/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -58,10 +58,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen4.jpg';
+images[0] = '../../l=1/a=57/img/images/game/dungeonassault/screen1.jpg';
+images[1] = '../../l=1/a=57/img/images/game/dungeonassault/screen2.jpg';
+images[2] = '../../l=1/a=57/img/images/game/dungeonassault/screen3.jpg';
+images[3] = '../../l=1/a=57/img/images/game/dungeonassault/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -125,13 +125,13 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=57/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=1/a=57/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=57/messengercommon0.js"></script>
@@ -142,15 +142,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=57/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=57/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/a=57/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/a=57/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/a=57/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/a=57/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -158,8 +158,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=57/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/a=57/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -169,40 +169,40 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=1/a=57/" class="fly">Community-Startseite</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=57/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/a=57/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://orbcoins.funorb.com/l=1/a=57/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/a=57/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/a=57/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/a=57/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/a=57/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=57/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=57/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=dungeonassault" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/a=57/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=dungeonassault" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=57/index.ws">
-<img alt="Englisch" src="http://www.funorb.com/l=1/a=57/img/images/layout/en.gif">
+<a href="../../a=57/index.ws">
+<img alt="Englisch" src="../../l=1/a=57/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=57/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/l=1/a=57/img/images/layout/de.gif">
+<a href="../../l=1/a=57/index.ws">
+<img alt="Deutsch" src="../../l=1/a=57/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=57/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=57/img/images/layout/fr.gif">
+<a href="../../l=2/a=57/index.ws">
+<img alt="Fran&ccedil;ais" src="../../l=1/a=57/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -219,13 +219,13 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=57/dungeonassault/play.ws">Kerkersturm</a> &gt;
+<a href="../../l=1/a=57/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/a=57/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a name="link0" id="link0" href="../../l=1/a=57/dungeonassault/play.ws">Kerkersturm</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=57/dungeonassault/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/a=57/dungeonassault/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -238,12 +238,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=57/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Verteidigt euren Hort, schickt Räuber aus, kämpft gegen eure Rivalen und werdet der König der Drachen! </div>
+<a href="../../l=1/a=57/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Verteidigt euren Hort, schickt Rï¿½uber aus, kï¿½mpft gegen eure Rivalen und werdet der Kï¿½nig der Drachen! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/a=57/"><div>Kontoerstellung</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=57/dungeonassault/play.ws"></a>
+<a name="link1" id="link1" class="buttonPlayBig" href="../../l=1/a=57/dungeonassault/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
@@ -254,23 +254,23 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/a=57/img/images/game/dungeonassault/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen1_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/dungeonassault/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen2_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/dungeonassault/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen3_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/dungeonassault/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=57/img/images/game/dungeonassault/screen4_thumb.jpg);">
+<a href="../../l=1/a=57/display_screenshot.ws?dirname=dungeonassault&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/a=57/img/images/game/dungeonassault/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -287,14 +287,14 @@ Mehr Infos </span>
 <div class="benefitsContent">
 <div class="benefitsList">
 <ul>
-<li>Heuer stärke Räuber an</li>
-<li>Bau noch tödlichere Räume</li>
+<li>Heuer stï¿½rke Rï¿½uber an</li>
+<li>Bau noch tï¿½dlichere Rï¿½ume</li>
 <li>Unbegrenzte Orbs der Meister</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/a=57/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -307,8 +307,8 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Drachen lieben nichts mehr als einen riesigen Hort voller Schätze, auf denen Sie schlummern können. Ein größerer Hort bedeutet allerdings auch, dass andere Drachen neidisch werden... Aufgrund ihrer kämpferischen Natur versuchen Drachen alles, um ihren Hort zu vergrößern.</p>
-<p>Da die Drachen sich nicht mehr offen bekämpfen dürfen, rekrutieren sie Räuber, die die Kerker der anderen Drachen für sie plündern. In Kerkersturm schlüpft ihr in die Schuppen eines Drachen und versucht, eure Macht und euren Ruhm zu vergrößern.</p>
+<p>Drachen lieben nichts mehr als einen riesigen Hort voller Schï¿½tze, auf denen Sie schlummern kï¿½nnen. Ein grï¿½ï¿½erer Hort bedeutet allerdings auch, dass andere Drachen neidisch werden... Aufgrund ihrer kï¿½mpferischen Natur versuchen Drachen alles, um ihren Hort zu vergrï¿½ï¿½ern.</p>
+<p>Da die Drachen sich nicht mehr offen bekï¿½mpfen dï¿½rfen, rekrutieren sie Rï¿½uber, die die Kerker der anderen Drachen fï¿½r sie plï¿½ndern. In Kerkersturm schlï¿½pft ihr in die Schuppen eines Drachen und versucht, eure Macht und euren Ruhm zu vergrï¿½ï¿½ern.</p>
 </div>
 </div>
 </div>
@@ -325,8 +325,8 @@ Mehr Infos </span>
 <li><a href="#faqs_q1">Warum kann ich zwei Optionen nicht benutzen, wenn ich anfange zu spielen?</a></li>
 <li><a href="#faqs_q2">Was ist Ruhm und warum ist er so wichtig?</a></li>
 <li><a href="#faqs_q3">Ich habe keinen Schatz mehr, den ich ausgeben kann. Wie bekomme ich mehr?</a></li>
-<li><a href="#faqs_q4">Wie kommt es, dass mein Kerker gestürmt werden kann, wenn ich nicht mal im Spiel eingeloggt bin?</a></li>
-<li><a href="#faqs_q5">Wie verändere ich meinen Kerker?</a></li>
+<li><a href="#faqs_q4">Wie kommt es, dass mein Kerker gestï¿½rmt werden kann, wenn ich nicht mal im Spiel eingeloggt bin?</a></li>
+<li><a href="#faqs_q5">Wie verï¿½ndere ich meinen Kerker?</a></li>
 <li><a href="#faqs_q6">Was sind die Orbs der Meister?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
@@ -334,37 +334,37 @@ Mehr Infos </span>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Warum kann ich zwei Optionen nicht benutzen, wenn ich anfange zu spielen?</h3>
-<p>Diese zwei Optionen - 'Kerker / Räuber' und 'Drachen / Raubzüge' - kann man erst benutzen, wenn man die Einführung von Kerkersturm abgeschlossen hat. Da dieses Spiel über sehr viel Tiefe verfügt, möchten wir Spieler nicht benachteiligen: Sie sollen erst alle Grundlagen kennenlernen, bevor sie alles benutzen können. Die Einführung kann man in ein paar Minuten durchspielen. Damit sind alle Aspekte des Spiels abgedeckt.</p>
+<p>Diese zwei Optionen - 'Kerker / Rï¿½uber' und 'Drachen / Raubzï¿½ge' - kann man erst benutzen, wenn man die Einfï¿½hrung von Kerkersturm abgeschlossen hat. Da dieses Spiel ï¿½ber sehr viel Tiefe verfï¿½gt, mï¿½chten wir Spieler nicht benachteiligen: Sie sollen erst alle Grundlagen kennenlernen, bevor sie alles benutzen kï¿½nnen. Die Einfï¿½hrung kann man in ein paar Minuten durchspielen. Damit sind alle Aspekte des Spiels abgedeckt.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. Was ist Ruhm und warum ist er so wichtig?</H3>
-<p>In Ruhm wird das Ansehen von Drachen untereinander gemessen. Drachen sind groß und mächtig, weil sie ruhmreich sind. Ein weniger ruhmreicher Drache genießt auch weniger Ansehen. Wenn euer Ruhm wächst, werden höherstufige Räuber und gefährliche Monster von eurem Ruf angezogen und ihr könnt euren Schatz besser verteidigen und die Kerker eurer Rivalen leichter stürmen.</p>
+<p>In Ruhm wird das Ansehen von Drachen untereinander gemessen. Drachen sind groï¿½ und mï¿½chtig, weil sie ruhmreich sind. Ein weniger ruhmreicher Drache genieï¿½t auch weniger Ansehen. Wenn euer Ruhm wï¿½chst, werden hï¿½herstufige Rï¿½uber und gefï¿½hrliche Monster von eurem Ruf angezogen und ihr kï¿½nnt euren Schatz besser verteidigen und die Kerker eurer Rivalen leichter stï¿½rmen.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a> <h3>3. Ich habe keinen Schatz mehr, den ich ausgeben kann. Wie bekomme ich mehr?</H3>
-<p>Wenn ihr es geschafft habt, den Schatz eines anderen Drachen zu erstürmen, erhaltet ihr einen Prozentsatz des gestohlenen Golds als Schatz, den ihr ausgeben könnt. Außerdem vergrößert sich euer Schatz jede Stunde, auch wenn ihr nicht eingeloggt seid, abhängig davon, wie erfolgreich eure Stürme und die Verteidigungen eures Kerkers in der vorhergegangenen Stunde waren. Bitte beachtet aber, dass wenn euer Ruhm ansteigt, euer Schatz sich weniger schnell vergrößert. Drachen werden schließlich nicht dafür respektiert, dass sie faul auf ihrem Gold herumliegen, also brecht auf und stürmt die Kerker!</p>
+<p>Wenn ihr es geschafft habt, den Schatz eines anderen Drachen zu erstï¿½rmen, erhaltet ihr einen Prozentsatz des gestohlenen Golds als Schatz, den ihr ausgeben kï¿½nnt. Auï¿½erdem vergrï¿½ï¿½ert sich euer Schatz jede Stunde, auch wenn ihr nicht eingeloggt seid, abhï¿½ngig davon, wie erfolgreich eure Stï¿½rme und die Verteidigungen eures Kerkers in der vorhergegangenen Stunde waren. Bitte beachtet aber, dass wenn euer Ruhm ansteigt, euer Schatz sich weniger schnell vergrï¿½ï¿½ert. Drachen werden schlieï¿½lich nicht dafï¿½r respektiert, dass sie faul auf ihrem Gold herumliegen, also brecht auf und stï¿½rmt die Kerker!</p>
 <div class="hr"></div>
-<a name="faqs_q4"></a> <h3>4. Wie kommt es, dass mein Kerker gestürmt werden kann, wenn ich nicht mal im Spiel eingeloggt bin?</H3>
-<p>Die Welt von Kerkersturm ist persistent, was heißt, dass euer Kerker in der Spielwelt existiert, selbst wenn ihr gerade nicht im Spiel eingeloggt seid. Das gilt für alle Spieler. Ihr müsst dafür sorgen, dass euer Kerker gut verteidigt ist, bevor ihr loszieht, einen anderen Kerker zu stürmen oder bevor ihr euch ausloggt. Die Wahrscheinlichkeit ist nämlich sehr hoch, dass ein anderer Spieler früher oder später euren Kerker stürmt.</p>
+<a name="faqs_q4"></a> <h3>4. Wie kommt es, dass mein Kerker gestï¿½rmt werden kann, wenn ich nicht mal im Spiel eingeloggt bin?</H3>
+<p>Die Welt von Kerkersturm ist persistent, was heiï¿½t, dass euer Kerker in der Spielwelt existiert, selbst wenn ihr gerade nicht im Spiel eingeloggt seid. Das gilt fï¿½r alle Spieler. Ihr mï¿½sst dafï¿½r sorgen, dass euer Kerker gut verteidigt ist, bevor ihr loszieht, einen anderen Kerker zu stï¿½rmen oder bevor ihr euch ausloggt. Die Wahrscheinlichkeit ist nï¿½mlich sehr hoch, dass ein anderer Spieler frï¿½her oder spï¿½ter euren Kerker stï¿½rmt.</p>
 <div class="hr"></div>
-<a name="faqs_q5"></a> <h3>5. Wie verändere ich meinen Kerker?</H3>
-<p>Wenn ihr euren Kerker zum ersten Mal betretet, wird er per Zufall generiert. Wenn du einen Orb der Meister baust, wird dein Kerker wieder per Zufall verändert.</p>
+<a name="faqs_q5"></a> <h3>5. Wie verï¿½ndere ich meinen Kerker?</H3>
+<p>Wenn ihr euren Kerker zum ersten Mal betretet, wird er per Zufall generiert. Wenn du einen Orb der Meister baust, wird dein Kerker wieder per Zufall verï¿½ndert.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a> <h3>6. Was sind die Orbs der Meister?</H3>
-<p>Die Orbs der Meister sind mächtige Artefakte, denen Magie aus einer Zeit vor dem Bann (dem Beschluss der Götter, der die Kriege zwischen den Drachen beilegen sollte) innewohnt. Diese Orbs haben verschiedene Eigenschaften und können nur von den mächtigsten Drachen gehandhabt werden.</p>
-<p>Einer der Nebeneffekte, wenn man einen Orb der Meister baut, besteht darin, dass der eigene Kerker zufällig verändert wird. Ein anderer Effekt ist, dass euer Ruhm wieder auf den Ausgangswert zurückgesetzt wird. Aber keine Bange, wenn ihr erst mal einen Orb der Meister gebaut habt, gehört er euch für alle Zeit und euer Weg zum Ruhm wird beim nächsten Mal viel einfacher sein...</p>
+<p>Die Orbs der Meister sind mï¿½chtige Artefakte, denen Magie aus einer Zeit vor dem Bann (dem Beschluss der Gï¿½tter, der die Kriege zwischen den Drachen beilegen sollte) innewohnt. Diese Orbs haben verschiedene Eigenschaften und kï¿½nnen nur von den mï¿½chtigsten Drachen gehandhabt werden.</p>
+<p>Einer der Nebeneffekte, wenn man einen Orb der Meister baut, besteht darin, dass der eigene Kerker zufï¿½llig verï¿½ndert wird. Ein anderer Effekt ist, dass euer Ruhm wieder auf den Ausgangswert zurï¿½ckgesetzt wird. Aber keine Bange, wenn ihr erst mal einen Orb der Meister gebaut habt, gehï¿½rt er euch fï¿½r alle Zeit und euer Weg zum Ruhm wird beim nï¿½chsten Mal viel einfacher sein...</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>7. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<br> Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen. <br><br>
-<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden. <br><br>
-<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
+<br> Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen. <br><br>
+<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden. <br><br>
+<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/a=57/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -378,11 +378,11 @@ Mehr Infos </span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=57/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=57/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/a=57/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/a=57/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

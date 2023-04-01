@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,16 +23,16 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="Klicken Sie hier, um Hilfe mit einem vergessenen oder gestohlenen Passwort zu erhalten.">
-<title>Passworthilfe in Notfällen</title>
+<title>Passworthilfe in Notfï¿½llen</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=46" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=46" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -128,7 +128,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; <a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=5">Passworthilfe</a> &gt; Passworthilfe in Notfällen</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; <a href="viewcategory.ws?cat_id=2">Kundenbetreuung</a> &gt; <a href="viewcategory.ws?cat_id=5">Passworthilfe</a> &gt; Passworthilfe in Notfï¿½llen</span>
 </div>
 </div>
 </div>
@@ -136,61 +136,61 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Passworthilfe in Notfällen</h1>
+<h1 class="articleTitle">Passworthilfe in Notfï¿½llen</h1>
 <div class="articleBody">
 <body>
 <div class="faqsList">
 <ol>
 <li><a href="#lost">Ich habe mein Passwort verloren/vergessen. Was soll ich tun?</a>
-<li><a href="#changed">Jemand hat mein Passwort oder meine Sicherheitsfragen verändert. Was soll ich tun?</a>
+<li><a href="#changed">Jemand hat mein Passwort oder meine Sicherheitsfragen verï¿½ndert. Was soll ich tun?</a>
 <li><a href="#password">Jemand anderes kennt mein Passwort. Was soll ich tun?</a>
-<li><a href="#recovery">Wie benutzt man das System für die Passwort-Wiederherstellung?</a>
+<li><a href="#recovery">Wie benutzt man das System fï¿½r die Passwort-Wiederherstellung?</a>
 </ol></div>
 <br>
 <a name="lost"></a>
 <br>
-<span class="title">1. Ich habe mein Passwort verloren/vergessen. Was soll ich tun?</span><br><br> Wenn Sie sich völlig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie müssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, müssen Sie wählen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wählen Sie 'Vergessen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie möglich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frühesten Daten senden. Nur so können wir feststellen, ob Sie der rechtmäßige Eigentümer sind und Ihnen wieder Zugang zu Ihrem Konto gewähren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwörter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage überprüfen können. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benötigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frühesten Informationen einfügen, an die Sie sich erinnern können. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
+<span class="title">1. Ich habe mein Passwort verloren/vergessen. Was soll ich tun?</span><br><br> Wenn Sie sich vï¿½llig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie mï¿½ssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, mï¿½ssen Sie wï¿½hlen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wï¿½hlen Sie 'Vergessen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie mï¿½glich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frï¿½hesten Daten senden. Nur so kï¿½nnen wir feststellen, ob Sie der rechtmï¿½ï¿½ige Eigentï¿½mer sind und Ihnen wieder Zugang zu Ihrem Konto gewï¿½hren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwï¿½rter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage ï¿½berprï¿½fen kï¿½nnen. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benï¿½tigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frï¿½hesten Informationen einfï¿½gen, an die Sie sich erinnern kï¿½nnen. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="changed"></a>
 <br>
-<span class="title">2. Jemand hat mein Passwort oder meine Sicherheitsfragen verändert. Was soll ich tun?</span><br><br> In diesem Fall sollten Sie als Erstes dafür sorgen, dass Ihr Computer sicher und virenfrei ist und niemand Ihr Passwort direkt von Ihrer Maschine auslesen kann. Lesen Sie sich bitte die Abschnitte 7 und 8 im Kapitel <a href="viewarticle.ws?article_id=42">Sicherheitshinweise</a> durch. <br><br> Wenn Sie sich völlig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir vermuten, dass Ihr Passwort gestohlen wurde, wir Ihr Spielkonto blockiert und niemand kann darauf zugreifen. Um die Blockierung aufzuheben, klicken Sie bitte <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">hier</a>. <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie müssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, müssen Sie wählen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wählen Sie 'Gestohlen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie möglich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frühesten Daten senden. Nur so können wir feststellen, ob Sie der rechtmäßige Eigentümer sind und Ihnen wieder Zugang zu Ihrem Konto gewähren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwörter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage überprüfen können. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benötigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frühesten Informationen einfügen, an die Sie sich erinnern können. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
+<span class="title">2. Jemand hat mein Passwort oder meine Sicherheitsfragen verï¿½ndert. Was soll ich tun?</span><br><br> In diesem Fall sollten Sie als Erstes dafï¿½r sorgen, dass Ihr Computer sicher und virenfrei ist und niemand Ihr Passwort direkt von Ihrer Maschine auslesen kann. Lesen Sie sich bitte die Abschnitte 7 und 8 im Kapitel <a href="viewarticle.ws?article_id=42">Sicherheitshinweise</a> durch. <br><br> Wenn Sie sich vï¿½llig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir vermuten, dass Ihr Passwort gestohlen wurde, wir Ihr Spielkonto blockiert und niemand kann darauf zugreifen. Um die Blockierung aufzuheben, klicken Sie bitte <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">hier</a>. <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie mï¿½ssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, mï¿½ssen Sie wï¿½hlen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wï¿½hlen Sie 'Gestohlen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie mï¿½glich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frï¿½hesten Daten senden. Nur so kï¿½nnen wir feststellen, ob Sie der rechtmï¿½ï¿½ige Eigentï¿½mer sind und Ihnen wieder Zugang zu Ihrem Konto gewï¿½hren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwï¿½rter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage ï¿½berprï¿½fen kï¿½nnen. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benï¿½tigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frï¿½hesten Informationen einfï¿½gen, an die Sie sich erinnern kï¿½nnen. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="password"></a>
 <br>
-<span class="title">3. Jemand anderes kennt mein Passwort. Was soll ich tun?</span><br><br> In diesem Fall sollten Sie als Erstes dafür sorgen, dass Ihr Computer sicher und virenfrei ist und niemand Ihr Passwort direkt von Ihrer Maschine auslesen kann. Lesen Sie sich bitte die Abschnitte 7 und 8 im Kapitel <a href="viewarticle.ws?article_id=42">Sicherheitshinweise</a> durch. <br><br> Wenn Sie sich völlig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir vermuten, dass Ihr Passwort gestohlen wurde, wir Ihr Spielkonto blockiert und niemand kann darauf zugreifen. Um die Blockierung aufzuheben, klicken Sie bitte <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">hier</a>. <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie müssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, müssen Sie wählen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wählen Sie 'Gestohlen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie möglich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frühesten Daten senden. Nur so können wir feststellen, ob Sie der rechtmäßige Eigentümer sind, und Ihnen wieder Zugang zu Ihrem Konto gewähren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwörter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage überprüfen können. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benötigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frühesten Informationen einfügen, an die Sie sich erinnern können. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
+<span class="title">3. Jemand anderes kennt mein Passwort. Was soll ich tun?</span><br><br> In diesem Fall sollten Sie als Erstes dafï¿½r sorgen, dass Ihr Computer sicher und virenfrei ist und niemand Ihr Passwort direkt von Ihrer Maschine auslesen kann. Lesen Sie sich bitte die Abschnitte 7 und 8 im Kapitel <a href="viewarticle.ws?article_id=42">Sicherheitshinweise</a> durch. <br><br> Wenn Sie sich vï¿½llig sicher sind, dass Ihr Computer sicher und virenfrei ist, dann folgen Sie dieser Anleitung: <br><br> Falls wir vermuten, dass Ihr Passwort gestohlen wurde, wir Ihr Spielkonto blockiert und niemand kann darauf zugreifen. Um die Blockierung aufzuheben, klicken Sie bitte <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=lockchoice.ws">hier</a>. <br><br> Falls wir Ihr Spielkonto nicht blockiert haben, klicken Sie <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>, um Ihr Passwort anzufordern. <br><br> Sie mï¿½ssen Ihren Benutzernamen angeben. Nachdem Sie sich einloggen, mï¿½ssen Sie wï¿½hlen, ob Sie das Passwort vergessen haben oder ob es gestohlen wurde. Bitte wï¿½hlen Sie 'Gestohlen'. <br><br> Bitte folgen Sie den Anweisungen am Bildschirm und geben Sie uns so viele Informationen wie mï¿½glich. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frï¿½hesten Daten senden. Nur so kï¿½nnen wir feststellen, ob Sie der rechtmï¿½ï¿½ige Eigentï¿½mer sind, und Ihnen wieder Zugang zu Ihrem Konto gewï¿½hren. <br><br> Wir empfehlen Ihnen, <a href="viewarticle.ws?article_id=29">diesen Abschnitt</a> zu lesen, um herauszufinden, welche Passwï¿½rter sicher sind und welche Sie lieber nicht verwenden sollten. <br><br> Am Ende des Vorgangs bekommen Sie eine Vorgangsnummer, mit der Sie den Status Ihrer Anfrage ï¿½berprï¿½fen kï¿½nnen. Bitte schreiben Sie sich diese auf, denn ohne diese Nummer haben Sie keinen Zugriff auf unsere Antwort. <br><br> Wenn Sie die Antwort erhalten, dass wir mehr Informationen von Ihnen benï¿½tigen, sollten Sie noch einmal eine Passwort-Anfrage abschicken und in allen Kategorien die frï¿½hesten Informationen einfï¿½gen, an die Sie sich erinnern kï¿½nnen. <br><br> Bitte beachten Sie, dass Ihr Passwort nur so sicher ist wie Ihr Computer, und nur so geheim wie Sie es halten! <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="recovery"></a>
 <br>
-<span class="title">4. Wie benutzt man das System für die Passwort-Wiederherstellung?</span><br><br> Man greift auf jedes Konto mit einem Benutzernamen und einem vom Spieler gewählten Passwort zu. Wir legen unseren Spielern nahe, sich ein Passwort auszusuchen, das sie sich leicht merken können, das jedoch gleichzeitig für andere schwierig zu erraten ist. Wir raten unseren Spielern, sich ihr Passwort auf einem Blatt Papier aufzuschreiben und an einem sicheren Ort aufzubewahren, damit sie es nicht vergessen. Außerdem weisen wir Sie darauf hin, dass Sie Ihr Passwort niemandem verraten dürfen, nicht einmal Freunden oder Verwandten. <br><br> Wenn ein Spieler aus irgendwelchen Gründen sein Passwort preisgibt, besteht die Gefahr, dass andere Leute es benutzen. In der Folge kann es zu Problemen beim Einloggen kommen, weil jemand, der das Passwort wusste, es geändert hat. Sollte Ihnen so etwas passieren oder wenn Sie sich einfach nicht mehr an Ihr Passwort erinnern können, können Sie ein Formular ausfüllen, um sich wieder Zugriff auf Ihr Konto zu verschaffen. Dieses Formular finden Sie <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>. <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/password_recovery/login_options1.gif" alt="Spielkonto-Wiederherstellung" title="Spielkonto-Wiederherstellung">
-<br><br> Es ist sehr wichtig, dass Sie die richtige Art Anfrage auswählen, weil das die Wahrscheinlichkeit steigert, dass wir Ihnen bei Ihrem Problem helfen können. <br><br> Nachdem man auf der ersten Seite auf 'Weiter' geklickt hat, erscheint das Formular zur Passwort-Anfrage, das ausgefüllt werden muss. Eventuell passen nicht alle Fragen zu Ihrem Konto, aber alle relevanten sollten richtig ausgefüllt werden. Je sachbezogener die Informationen sind, die wir erhalten, desto besser stehen die Chancen, dass wir den wahren Eigentümer des Kontos ermitteln können. Die Informationen, die wir brauchen, sind unter anderem: <br><br>
+<span class="title">4. Wie benutzt man das System fï¿½r die Passwort-Wiederherstellung?</span><br><br> Man greift auf jedes Konto mit einem Benutzernamen und einem vom Spieler gewï¿½hlten Passwort zu. Wir legen unseren Spielern nahe, sich ein Passwort auszusuchen, das sie sich leicht merken kï¿½nnen, das jedoch gleichzeitig fï¿½r andere schwierig zu erraten ist. Wir raten unseren Spielern, sich ihr Passwort auf einem Blatt Papier aufzuschreiben und an einem sicheren Ort aufzubewahren, damit sie es nicht vergessen. Auï¿½erdem weisen wir Sie darauf hin, dass Sie Ihr Passwort niemandem verraten dï¿½rfen, nicht einmal Freunden oder Verwandten. <br><br> Wenn ein Spieler aus irgendwelchen Grï¿½nden sein Passwort preisgibt, besteht die Gefahr, dass andere Leute es benutzen. In der Folge kann es zu Problemen beim Einloggen kommen, weil jemand, der das Passwort wusste, es geï¿½ndert hat. Sollte Ihnen so etwas passieren oder wenn Sie sich einfach nicht mehr an Ihr Passwort erinnern kï¿½nnen, kï¿½nnen Sie ein Formular ausfï¿½llen, um sich wieder Zugriff auf Ihr Konto zu verschaffen. Dieses Formular finden Sie <a href="../../../l=1/a=84/redirect.ws?mod=www&dest=loginapplet/loginapplet.ws?mod=accountappeal&dest=passwordchoice.ws">hier</a>. <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/password_recovery/login_options1.gif" alt="Spielkonto-Wiederherstellung" title="Spielkonto-Wiederherstellung">
+<br><br> Es ist sehr wichtig, dass Sie die richtige Art Anfrage auswï¿½hlen, weil das die Wahrscheinlichkeit steigert, dass wir Ihnen bei Ihrem Problem helfen kï¿½nnen. <br><br> Nachdem man auf der ersten Seite auf 'Weiter' geklickt hat, erscheint das Formular zur Passwort-Anfrage, das ausgefï¿½llt werden muss. Eventuell passen nicht alle Fragen zu Ihrem Konto, aber alle relevanten sollten richtig ausgefï¿½llt werden. Je sachbezogener die Informationen sind, die wir erhalten, desto besser stehen die Chancen, dass wir den wahren Eigentï¿½mer des Kontos ermitteln kï¿½nnen. Die Informationen, die wir brauchen, sind unter anderem: <br><br>
 <ul style="margin-top: 0px; margin-bottom: 0px; ">
 <li>Ihre Sicherheitsfragen und -antworten<br>
-<li>Vorherige Passwörter</ul>
-<br><br> Es gibt auch ein Feld, in dem Sie zusätzliche Informationen eingeben können. Normalerweise finden Sie Ihre Transaktionsnummer und andere wichtige Abrechnungsinformationen in den Belegen, die Sie für Ihre Zahlung bekommen. Daher ist es sehr wichtig, dass Sie diese Unterlagen aufheben und sie nicht verlieren oder verlegen. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frühesten Daten senden. Nur so können wir feststellen, ob Sie der rechtmäßige Eigentümer sind und Ihnen wieder Zugang zu Ihrem Konto und ein neues Passwort gewähren. <br><br> Versuchen Sie uns so viele Informationen zukommen zu lassen, wie möglich. So steigern Sie die Wahrscheinlichkeit, dass Ihre Anfrage Erfolg hat. Des Weiteren müssen Sie auch ein neues Passwort angeben. Lesen Sie sich vorher <a href="viewarticle.ws?article_id=29">dieses Kapitel</a> durch, damit Sie wissen, was ein sicheres und geeignetes Passwort ausmacht. <br><br>
+<li>Vorherige Passwï¿½rter</ul>
+<br><br> Es gibt auch ein Feld, in dem Sie zusï¿½tzliche Informationen eingeben kï¿½nnen. Normalerweise finden Sie Ihre Transaktionsnummer und andere wichtige Abrechnungsinformationen in den Belegen, die Sie fï¿½r Ihre Zahlung bekommen. Daher ist es sehr wichtig, dass Sie diese Unterlagen aufheben und sie nicht verlieren oder verlegen. <br><br> Wenn Sie Ihre Kontoinformationen vergessen haben, sollten Sie uns in jeder Kategorie die frï¿½hesten Daten senden. Nur so kï¿½nnen wir feststellen, ob Sie der rechtmï¿½ï¿½ige Eigentï¿½mer sind und Ihnen wieder Zugang zu Ihrem Konto und ein neues Passwort gewï¿½hren. <br><br> Versuchen Sie uns so viele Informationen zukommen zu lassen, wie mï¿½glich. So steigern Sie die Wahrscheinlichkeit, dass Ihre Anfrage Erfolg hat. Des Weiteren mï¿½ssen Sie auch ein neues Passwort angeben. Lesen Sie sich vorher <a href="viewarticle.ws?article_id=29">dieses Kapitel</a> durch, damit Sie wissen, was ein sicheres und geeignetes Passwort ausmacht. <br><br>
 <b>Status der Anfrage</b>
-<br><br> Spieler erhalten dann eine einmalige Vorgangsnummer, mit der sie den Status ihrer Passwort-Anfrage verfolgen können. Dazu klicken Sie <a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=accountappeal&dest=trackinginput.ws">hier</a>. <br><br> Man gelangt dann zu einer Seite, auf der man seine Vorgangsnummer eingeben muss: <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/parents_guide/password_tracker2.gif" alt="Status einer Anfrage überprüfen" title="Status einer Anfrage überprüfen">
-<br><br> Nachdem Sie die Vorgangsnummer und Ihren Benutzernamen eingegeben haben, können Sie sehen, in welchem Stadium sich Ihre Passwort-Anfrage befindet. Bitte beachten Sie, dass einige Passwort-Anfragen längere Bearbeitungszeiten haben können als andere. <br>
+<br><br> Spieler erhalten dann eine einmalige Vorgangsnummer, mit der sie den Status ihrer Passwort-Anfrage verfolgen kï¿½nnen. Dazu klicken Sie <a href="../../../l=1/a=84/redirect.ws?mod=accountappeal&dest=trackinginput.ws">hier</a>. <br><br> Man gelangt dann zu einer Seite, auf der man seine Vorgangsnummer eingeben muss: <br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/parents_guide/password_tracker2.gif" alt="Status einer Anfrage ï¿½berprï¿½fen" title="Status einer Anfrage ï¿½berprï¿½fen">
+<br><br> Nachdem Sie die Vorgangsnummer und Ihren Benutzernamen eingegeben haben, kï¿½nnen Sie sehen, in welchem Stadium sich Ihre Passwort-Anfrage befindet. Bitte beachten Sie, dass einige Passwort-Anfragen lï¿½ngere Bearbeitungszeiten haben kï¿½nnen als andere. <br>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=5">Passworthilfe</a> : </b>
 <span class="articleMore">
-Passworthilfe in Notfällen, <a href="viewarticle.ws?article_id=20">Allgemeine Hinweise</a>, <a href="viewarticle.ws?article_id=29">Passwortsicherheit</a></span>
+Passworthilfe in Notfï¿½llen, <a href="viewarticle.ws?article_id=20">Allgemeine Hinweise</a>, <a href="viewarticle.ws?article_id=29">Passwortsicherheit</a></span>
 </div>
 </div>
 </div>
@@ -202,11 +202,11 @@ Passworthilfe in Notfällen, <a href="viewarticle.ws?article_id=20">Allgemeine Hi
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

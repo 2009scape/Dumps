@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Perguntas e respostas sobre pagamentos com cartão de crédito.">
+<meta name="description" content="Perguntas e respostas sobre pagamentos com cartï¿½o de crï¿½dito.">
 </head>
 <body id="navnavHelp">
 <a name="top"></a>
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -146,7 +146,7 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Suporte ao Cliente</a> &gt; <a href="viewcategory.ws?cat_id=13">Cobrança</a> &gt; Pagamento com cartão de crédito</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Suporte ao Cliente</a> &gt; <a href="viewcategory.ws?cat_id=13">Cobranï¿½a</a> &gt; Pagamento com cartï¿½o de crï¿½dito</span>
 
 
 </div>
@@ -156,179 +156,179 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="sectionBackground">
 <div class="sectionContent" >
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Pagamento com cartão de crédito</h1>
+<h1 class="articleTitle">Pagamento com cartï¿½o de crï¿½dito</h1>
 <div class="articleBody">
 <div class="faqsList">
 <ol>
-<li><a href="#work">Como funciona o método de pagamento com cartão de crédito/débito?</a>
+<li><a href="#work">Como funciona o mï¿½todo de pagamento com cartï¿½o de crï¿½dito/dï¿½bito?</a>
 <li><a href="#cost">Quanto custa?</a>
-<li><a href="#countries">Quais cartões são aceitos?</a>
-<li><a href="#secure">Qual a segurança deste método de pagamento?</a>
-<li><a href="#subscribe">Como faço uma assinatura?</a>
-<li><a href="#taken">Posso selecionar a data em que o pagamento será efetuado?</a>
-<li><a href="#payments">Quantos pagamentos serão feitos?</a>
-<li><a href="#month">Posso efetuar o pagamento de mais de um mês por vez?</a>
+<li><a href="#countries">Quais cartï¿½es sï¿½o aceitos?</a>
+<li><a href="#secure">Qual a seguranï¿½a deste mï¿½todo de pagamento?</a>
+<li><a href="#subscribe">Como faï¿½o uma assinatura?</a>
+<li><a href="#taken">Posso selecionar a data em que o pagamento serï¿½ efetuado?</a>
+<li><a href="#payments">Quantos pagamentos serï¿½o feitos?</a>
+<li><a href="#month">Posso efetuar o pagamento de mais de um mï¿½s por vez?</a>
 <li><a href="#telephone">Posso efetuar a assinatura por telefone?</a>
 <li><a href="#gift">Posso utilizar um vale-presente?</a>
 <li><a href="#unsubscribe">Como cancelo minha assinatura?</a>
-<li><a href="#details">Como atualizo minhas informações de cartão de crédito e as informações de contato?</a>
+<li><a href="#details">Como atualizo minhas informaï¿½ï¿½es de cartï¿½o de crï¿½dito e as informaï¿½ï¿½es de contato?</a>
 <li><a href="#cancel">Quanto tempo leva para cancelar minha assinatura?</a>
-<li><a href="#possible">É possível pagar somente por um mês?</a>
-<li><a href="#minimum">Existe um período mínimo de assinatura?</a>
+<li><a href="#possible">ï¿½ possï¿½vel pagar somente por um mï¿½s?</a>
+<li><a href="#minimum">Existe um perï¿½odo mï¿½nimo de assinatura?</a>
 <li><a href="#agreeing">Com o que concordo ao fazer uma assinatura?</a>
-<li><a href="#avoid">Quando devo cancelar minha assinatura para evitar futuras cobranças?</a>
-<li><a href="#start">Quando minha assinatura começa?</a>
-<li><a href="#number">Onde posso encontrar o número do meu contrato?</a>
-<li><a href="#transaction">Onde posso encontrar o identificador da transação?</a>
-<li><a href="#purchase">Por que não posso utilizar um cartão de crédito para adquirir uma assinatura?</a>
-<li><a href="#why">Por que não houve pagamento neste mês?</a>
-<li><a href="#down">Por que pagamentos periódicos estão sendo feitos no meu cartão de crédito?</a>
+<li><a href="#avoid">Quando devo cancelar minha assinatura para evitar futuras cobranï¿½as?</a>
+<li><a href="#start">Quando minha assinatura comeï¿½a?</a>
+<li><a href="#number">Onde posso encontrar o nï¿½mero do meu contrato?</a>
+<li><a href="#transaction">Onde posso encontrar o identificador da transaï¿½ï¿½o?</a>
+<li><a href="#purchase">Por que nï¿½o posso utilizar um cartï¿½o de crï¿½dito para adquirir uma assinatura?</a>
+<li><a href="#why">Por que nï¿½o houve pagamento neste mï¿½s?</a>
+<li><a href="#down">Por que pagamentos periï¿½dicos estï¿½o sendo feitos no meu cartï¿½o de crï¿½dito?</a>
 </ol></div>
 <br>
 <a name="work"></a>
-<span class="title">1. Como funciona o método de pagamento com cartão de crédito/débito?</span><br><br> Os pagamentos são feitos mensalmente a partir do cartão de crédito ou débito selecionado. Cada pagamento resultará em um mês de crédito de assinatura adicionado à sua conta. <br><br> Você pode cancelar a assinatura a qualquer momento por meio do <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> e não haverá futuras cobranças. <br><br>
+<span class="title">1. Como funciona o mï¿½todo de pagamento com cartï¿½o de crï¿½dito/dï¿½bito?</span><br><br> Os pagamentos sï¿½o feitos mensalmente a partir do cartï¿½o de crï¿½dito ou dï¿½bito selecionado. Cada pagamento resultarï¿½ em um mï¿½s de crï¿½dito de assinatura adicionado ï¿½ sua conta. <br><br> Vocï¿½ pode cancelar a assinatura a qualquer momento por meio do <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> e nï¿½o haverï¿½ futuras cobranï¿½as. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="cost"></a>
-<span class="title">2. Quanto custa?</span><br><br> O custo de assinatura depende do país em que você está e será exibido no início do processo de assinatura. <br><br>
+<span class="title">2. Quanto custa?</span><br><br> O custo de assinatura depende do paï¿½s em que vocï¿½ estï¿½ e serï¿½ exibido no inï¿½cio do processo de assinatura. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="countries"></a>
-<span class="title">3. Quais cartões são aceitos?</span><br><br> Pagamentos com Visa, Visa Delta e MasterCard estão disponíveis para todos os clientes. <br><br> Os clientes do Reino Unido também podem utilizar JCB, Visa Electron, Maestro e Solo. <br><br> Infelizmente, não podemos aceitar cartões de débito fora do Reino Unido. Também não podemos aceitar cartões de débito Visa fora do Reino Unido. <br><br>
+<span class="title">3. Quais cartï¿½es sï¿½o aceitos?</span><br><br> Pagamentos com Visa, Visa Delta e MasterCard estï¿½o disponï¿½veis para todos os clientes. <br><br> Os clientes do Reino Unido tambï¿½m podem utilizar JCB, Visa Electron, Maestro e Solo. <br><br> Infelizmente, nï¿½o podemos aceitar cartï¿½es de dï¿½bito fora do Reino Unido. Tambï¿½m nï¿½o podemos aceitar cartï¿½es de dï¿½bito Visa fora do Reino Unido. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="secure"></a>
-<span class="title">4. Qual a segurança deste método de pagamento?</span><br><br> Nosso website utiliza criptografia SSL padrão do setor, para enviar informações ao servidor. Isso torna praticamente impossível que qualquer pessoa intercepte os dados do cartão de crédito. <br><br> Para certificar-se de que seu computador está seguro antes de efetuar a assinatura, leia as Perguntas e Respostas Freqüentes sobre <a href="viewcategory.ws?cat_id=14">Segurança</a>. <br><br>
+<span class="title">4. Qual a seguranï¿½a deste mï¿½todo de pagamento?</span><br><br> Nosso website utiliza criptografia SSL padrï¿½o do setor, para enviar informaï¿½ï¿½es ao servidor. Isso torna praticamente impossï¿½vel que qualquer pessoa intercepte os dados do cartï¿½o de crï¿½dito. <br><br> Para certificar-se de que seu computador estï¿½ seguro antes de efetuar a assinatura, leia as Perguntas e Respostas Freqï¿½entes sobre <a href="viewcategory.ws?cat_id=14">Seguranï¿½a</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="subscribe"></a>
-<span class="title">5. Como faço a assinatura?</span><br><br> Vá até a página principal do <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> e clique em <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&dest=paymentoptions.ws">iniciar uma nova assinatura</a>, siga os avisos para definir o método de pagamento com cartão de crédito ou débito. <br><br> Siga as instruções e compreenda todos os aspectos. <br><br> Será necessário informar os dados de contato do cartão de crédito ou débito que será utilizado para pagamento. Verfique se os dados de contato fornecidos são iguais aos registrados em seu banco, porque a operação pode ser recusada se as informações estiverem incorretas. <br><br>
+<span class="title">5. Como faï¿½o a assinatura?</span><br><br> Vï¿½ atï¿½ a pï¿½gina principal do <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> e clique em <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&dest=paymentoptions.ws">iniciar uma nova assinatura</a>, siga os avisos para definir o mï¿½todo de pagamento com cartï¿½o de crï¿½dito ou dï¿½bito. <br><br> Siga as instruï¿½ï¿½es e compreenda todos os aspectos. <br><br> Serï¿½ necessï¿½rio informar os dados de contato do cartï¿½o de crï¿½dito ou dï¿½bito que serï¿½ utilizado para pagamento. Verfique se os dados de contato fornecidos sï¿½o iguais aos registrados em seu banco, porque a operaï¿½ï¿½o pode ser recusada se as informaï¿½ï¿½es estiverem incorretas. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="taken"></a>
-<span class="title">6. Posso selecionar a data na qual o pagamento será efetuado?</span><br><br> Para garantir o acesso ininterrupto, o pagamento é efetuado no ínicio da assinatura e quando três dias de assinatura restarem na conta.<br><br>É possível selecionar o dia do pagamento, efetuando a assinatura dois dias após a data escolhida. Por exemplo, caso deseje que os pagamentos sejam feitos no dia 12 de cada mês, inicie a assinatura no dia 14. <br><br>
+<span class="title">6. Posso selecionar a data na qual o pagamento serï¿½ efetuado?</span><br><br> Para garantir o acesso ininterrupto, o pagamento ï¿½ efetuado no ï¿½nicio da assinatura e quando trï¿½s dias de assinatura restarem na conta.<br><br>ï¿½ possï¿½vel selecionar o dia do pagamento, efetuando a assinatura dois dias apï¿½s a data escolhida. Por exemplo, caso deseje que os pagamentos sejam feitos no dia 12 de cada mï¿½s, inicie a assinatura no dia 14. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="payments"></a>
-<span class="title">7. Quantos pagamentos serão feitos?</span><br><br> Um pagamento será feito tão logo a assinatura seja iniciada e a cada mês subseqüente, até que a assinatura seja cancelada. <br><br>
+<span class="title">7. Quantos pagamentos serï¿½o feitos?</span><br><br> Um pagamento serï¿½ feito tï¿½o logo a assinatura seja iniciada e a cada mï¿½s subseqï¿½ente, atï¿½ que a assinatura seja cancelada. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="month"></a>
-<span class="title">8. Posso efetuar o pagamento de mais de um mês por vez?</span><br><br> Não é possível pagar por mais de um mês de assinatura por vez. O contrato do cartão de crédito só permite um pagamento mensal. <br><br> Se você não cancelar o contrato de assinatura, ela será renovada. <br><br>
+<span class="title">8. Posso efetuar o pagamento de mais de um mï¿½s por vez?</span><br><br> Nï¿½o ï¿½ possï¿½vel pagar por mais de um mï¿½s de assinatura por vez. O contrato do cartï¿½o de crï¿½dito sï¿½ permite um pagamento mensal. <br><br> Se vocï¿½ nï¿½o cancelar o contrato de assinatura, ela serï¿½ renovada. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="telephone"></a>
-<span class="title">9. Posso efetuar a assinatura por telefone?</span><br><br> Não é possível fazer a assinatura com cartão de crédito por telefone.<br><br>Se não desejar utilizar este método de pagamento seguro, considere outros métodos disponíveis. Para obter uma lista desses métodos, selecione "Iniciar uma nova assinatura", em <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">www.funorb.com<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">. <br><br>
+<span class="title">9. Posso efetuar a assinatura por telefone?</span><br><br> Nï¿½o ï¿½ possï¿½vel fazer a assinatura com cartï¿½o de crï¿½dito por telefone.<br><br>Se nï¿½o desejar utilizar este mï¿½todo de pagamento seguro, considere outros mï¿½todos disponï¿½veis. Para obter uma lista desses mï¿½todos, selecione "Iniciar uma nova assinatura", em <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">www.funorb.com<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="gift"></a>
-<span class="title">10. Posso utilizar um vale-presente?</span><br><br> Vales-presente podem ser utilizados para adquirir uma assinatura, mas primeiro você deve certificar-se de que o tipo de cartão é aceito - nosso parceiro de pagamentos WorldPay aceita Visa, Delta e Mastercard. Verificar também se o emissor do cartão pode ser utilizado para pagamentos on-line internacionais. <br><br> Para utilizar vales-presente, siga as mesmas instruções de pagamento utilizadas com cartão Visa. <br><br> Para quem reside nos EUA, se o cartão possuir escrito na frente a frase "Válido somente nos Estados Unidos", o fornecedor emitiu um cartão restrito a uso doméstico. Embora o vale-presente não seja aceito em locais fora dos Estados Unidos, ele será aceito em diversos locais nos EUA onde os cartões de débito são aceitos. Infelizmente, nossa empresa está localizada no Reino Unido e não será possível utilizar um cartão com essa identificação. <br><br>
+<span class="title">10. Posso utilizar um vale-presente?</span><br><br> Vales-presente podem ser utilizados para adquirir uma assinatura, mas primeiro vocï¿½ deve certificar-se de que o tipo de cartï¿½o ï¿½ aceito - nosso parceiro de pagamentos WorldPay aceita Visa, Delta e Mastercard. Verificar tambï¿½m se o emissor do cartï¿½o pode ser utilizado para pagamentos on-line internacionais. <br><br> Para utilizar vales-presente, siga as mesmas instruï¿½ï¿½es de pagamento utilizadas com cartï¿½o Visa. <br><br> Para quem reside nos EUA, se o cartï¿½o possuir escrito na frente a frase "Vï¿½lido somente nos Estados Unidos", o fornecedor emitiu um cartï¿½o restrito a uso domï¿½stico. Embora o vale-presente nï¿½o seja aceito em locais fora dos Estados Unidos, ele serï¿½ aceito em diversos locais nos EUA onde os cartï¿½es de dï¿½bito sï¿½o aceitos. Infelizmente, nossa empresa estï¿½ localizada no Reino Unido e nï¿½o serï¿½ possï¿½vel utilizar um cartï¿½o com essa identificaï¿½ï¿½o. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="unsubscribe"></a>
-<span class="title">1. Como cancelo minha assinatura?</span><br><br> Você pode cancelar a assinatura a qualquer momento no website e não haverá futuras cobranças. <br><br> Além disso, você terá acesso total aos mundos dos assinantes até o final do crédito da assinatura. <br><br> É necessário fazer o cancelamento com no mínimo 72 horas de antecedência do vencimento do crédito. No entanto, recomendamos o cancelamento 4 dias antes para evitar futuras cobranças. <br><br>
-<h4 style="display: inline">É possível cancelar pelo meu banco?</h4>
-<br> Ao cancelar, sempre utilize as opções de cancelamento no nosso website ou entre em contato com o departamento de suporte de cobrança. Poderá haver problemas de conta caso faça o cancelamento por intermédio do banco. <br><br>
+<span class="title">1. Como cancelo minha assinatura?</span><br><br> Vocï¿½ pode cancelar a assinatura a qualquer momento no website e nï¿½o haverï¿½ futuras cobranï¿½as. <br><br> Alï¿½m disso, vocï¿½ terï¿½ acesso total aos mundos dos assinantes atï¿½ o final do crï¿½dito da assinatura. <br><br> ï¿½ necessï¿½rio fazer o cancelamento com no mï¿½nimo 72 horas de antecedï¿½ncia do vencimento do crï¿½dito. No entanto, recomendamos o cancelamento 4 dias antes para evitar futuras cobranï¿½as. <br><br>
+<h4 style="display: inline">ï¿½ possï¿½vel cancelar pelo meu banco?</h4>
+<br> Ao cancelar, sempre utilize as opï¿½ï¿½es de cancelamento no nosso website ou entre em contato com o departamento de suporte de cobranï¿½a. Poderï¿½ haver problemas de conta caso faï¿½a o cancelamento por intermï¿½dio do banco. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="details"></a>
-<span class="title">12. Como atualizar minhas informações de cartão de crédito e contato?</span><br><br> Para atualizar o cartão de crédito ou débito utilizado para pagamento ou as informações de contato da assinatura, incluindo endereço de e-mail, clique em <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&dest=paymentoptions.ws">assinar</a> novamente.<br><br>A assinatura anterior será cancelada automaticamente quando a assinatura for renovada. Não haverá duplicação de cobrança.<br><br>Se você renovar a assinatura enquanto possuir créditos, o crédito do mês da assinatura será adicionado à conta. Além disso, a conta não será afetada de forma alguma. <br><br>
+<span class="title">12. Como atualizar minhas informaï¿½ï¿½es de cartï¿½o de crï¿½dito e contato?</span><br><br> Para atualizar o cartï¿½o de crï¿½dito ou dï¿½bito utilizado para pagamento ou as informaï¿½ï¿½es de contato da assinatura, incluindo endereï¿½o de e-mail, clique em <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&dest=paymentoptions.ws">assinar</a> novamente.<br><br>A assinatura anterior serï¿½ cancelada automaticamente quando a assinatura for renovada. Nï¿½o haverï¿½ duplicaï¿½ï¿½o de cobranï¿½a.<br><br>Se vocï¿½ renovar a assinatura enquanto possuir crï¿½ditos, o crï¿½dito do mï¿½s da assinatura serï¿½ adicionado ï¿½ conta. Alï¿½m disso, a conta nï¿½o serï¿½ afetada de forma alguma. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="cancel"></a>
-<span class="title">13. Quanto tempo leva para cancelar minha assinatura?</span><br><br> O cancelamento será imeditado - nenhum pagamento adicional será efetuado. <br><br>
+<span class="title">13. Quanto tempo leva para cancelar minha assinatura?</span><br><br> O cancelamento serï¿½ imeditado - nenhum pagamento adicional serï¿½ efetuado. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="possible"></a>
-<span class="title">14. É possível pagar somente por um mês?</span><br><br> Para comprar somente um mês de mensalidade, cancele a assinatura no mínimo 72 horas antes da mensalidade vencer. Nenhum pagamento será feito e você terá acesso ao conteúdo de assinante até que a mensalidade vença.<br><br>Caso não faça o cancelamento antes do prazo, outro pagamento será feito automaticamente. <br><br>
+<span class="title">14. ï¿½ possï¿½vel pagar somente por um mï¿½s?</span><br><br> Para comprar somente um mï¿½s de mensalidade, cancele a assinatura no mï¿½nimo 72 horas antes da mensalidade vencer. Nenhum pagamento serï¿½ feito e vocï¿½ terï¿½ acesso ao conteï¿½do de assinante atï¿½ que a mensalidade venï¿½a.<br><br>Caso nï¿½o faï¿½a o cancelamento antes do prazo, outro pagamento serï¿½ feito automaticamente. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="minimum"></a>
-<span class="title">15. Existe um período mínimo para o contrato de assinatura?</span><br><br> Não existe período mínimo de assinatura. Você pode fazer o cancelamento tão logo a assinatura tenha iniciado e nenhum pagamento posterior será efetuado.<br><br>Você continuará a acessar o conteúdo exclusivo para assinantes até que os créditos da mensalidade vençam. <br><br>
+<span class="title">15. Existe um perï¿½odo mï¿½nimo para o contrato de assinatura?</span><br><br> Nï¿½o existe perï¿½odo mï¿½nimo de assinatura. Vocï¿½ pode fazer o cancelamento tï¿½o logo a assinatura tenha iniciado e nenhum pagamento posterior serï¿½ efetuado.<br><br>Vocï¿½ continuarï¿½ a acessar o conteï¿½do exclusivo para assinantes atï¿½ que os crï¿½ditos da mensalidade venï¿½am. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="agreeing"></a>
-<span class="title">16. Com o que concordo ao fazer uma assinatura?</span><br><br> Ao fazer a assinatura, você concorda com as condições a seguir: <br><br><i>"Ao enviar o pedido, você está fazendo uma oferta para assinar o produto relevante da Jagex. Sua oferta é aceita e o contrato é aceito quando uma mensagem é enviada para a sua conta de e-mail, confirmando que o pagamento foi recebido, ou se você fizer o login em uma área exclusiva para assinantes do produto da Jagex (o que ocorrer primeiro).<br><br>Todos os pagamentos de assinaturas continuarão a ser efetuados antecipadamente nos intervalos relacionados (por exemplo, mensal no caso de assinaturas mensais) ou até o cancelamento da assinatura.<br><br> Os pagamentos efetuados com cartão de crédito também estão sujeitos ao nosso contrato de cartão de crédito integrante dos termos e condições"</i><br><br><br>Observe que você concorda com um <b><u>débito automático mensal</b></u>. Não será solicitada uma autorização para cada pagamento. O pagamento será efetuado mensalmente, sempre que a conta chegar a 72 horas de crédito restante. <br><br>Os pagamentos serão efetuados somente dentro das condições do contrato acima.<br><br>O contrato pode ser cancelado a qualquer momento, mas os pagamentos continuarão sendo efetuados até o cancelamento ser solicitado. <br><br>
+<span class="title">16. Com o que concordo ao fazer uma assinatura?</span><br><br> Ao fazer a assinatura, vocï¿½ concorda com as condiï¿½ï¿½es a seguir: <br><br><i>"Ao enviar o pedido, vocï¿½ estï¿½ fazendo uma oferta para assinar o produto relevante da Jagex. Sua oferta ï¿½ aceita e o contrato ï¿½ aceito quando uma mensagem ï¿½ enviada para a sua conta de e-mail, confirmando que o pagamento foi recebido, ou se vocï¿½ fizer o login em uma ï¿½rea exclusiva para assinantes do produto da Jagex (o que ocorrer primeiro).<br><br>Todos os pagamentos de assinaturas continuarï¿½o a ser efetuados antecipadamente nos intervalos relacionados (por exemplo, mensal no caso de assinaturas mensais) ou atï¿½ o cancelamento da assinatura.<br><br> Os pagamentos efetuados com cartï¿½o de crï¿½dito tambï¿½m estï¿½o sujeitos ao nosso contrato de cartï¿½o de crï¿½dito integrante dos termos e condiï¿½ï¿½es"</i><br><br><br>Observe que vocï¿½ concorda com um <b><u>dï¿½bito automï¿½tico mensal</b></u>. Nï¿½o serï¿½ solicitada uma autorizaï¿½ï¿½o para cada pagamento. O pagamento serï¿½ efetuado mensalmente, sempre que a conta chegar a 72 horas de crï¿½dito restante. <br><br>Os pagamentos serï¿½o efetuados somente dentro das condiï¿½ï¿½es do contrato acima.<br><br>O contrato pode ser cancelado a qualquer momento, mas os pagamentos continuarï¿½o sendo efetuados atï¿½ o cancelamento ser solicitado. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="avoid"></a>
-<span class="title">17. Quando devo cancelar minha assinatura para evitar futuras cobranças?</span><br><br> O pagamento é efetuado quando restarem 72 horas de mensalidade na conta. Caso deseje cancelar sem mais encargos, é necessário efetuar o cancelamento antes de 72 horas do vencimento dos créditos de mensalidade na conta.<br><br>Se cancelar antes desse prazo, os créditos de mensalidade não serão perdidos - você ainda terá acesso ao conteúdo de assinante até o crédito da assinatura terminar. <br><br>
+<span class="title">17. Quando devo cancelar minha assinatura para evitar futuras cobranï¿½as?</span><br><br> O pagamento ï¿½ efetuado quando restarem 72 horas de mensalidade na conta. Caso deseje cancelar sem mais encargos, ï¿½ necessï¿½rio efetuar o cancelamento antes de 72 horas do vencimento dos crï¿½ditos de mensalidade na conta.<br><br>Se cancelar antes desse prazo, os crï¿½ditos de mensalidade nï¿½o serï¿½o perdidos - vocï¿½ ainda terï¿½ acesso ao conteï¿½do de assinante atï¿½ o crï¿½dito da assinatura terminar. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="start"></a>
-<span class="title">18. Quando minha assinatura começa?</span><br><br> O crédito de assinatura é adicionado à conta quando o pagamento é processado. Normalmente isso ocorre imediatamente, mas pode levar algumas horas. <br><br>
+<span class="title">18. Quando minha assinatura comeï¿½a?</span><br><br> O crï¿½dito de assinatura ï¿½ adicionado ï¿½ conta quando o pagamento ï¿½ processado. Normalmente isso ocorre imediatamente, mas pode levar algumas horas. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="number"></a>
-<span class="title">19. Onde posso encontrar o número do meu contrato?</span><br><br> O número do contrato foi fornecido no envio dos dados do cartão e na criação do contrato. Além disso, o número de contrato encontra-se no recibo de pagamento enviado por e-mail pela WorldPay. O número do contrato é o último número em 'cartId', separado por uma vírgula, por exemplo, nome_de_usuário_12121212:<b>123456</b> <br><br>
+<span class="title">19. Onde posso encontrar o nï¿½mero do meu contrato?</span><br><br> O nï¿½mero do contrato foi fornecido no envio dos dados do cartï¿½o e na criaï¿½ï¿½o do contrato. Alï¿½m disso, o nï¿½mero de contrato encontra-se no recibo de pagamento enviado por e-mail pela WorldPay. O nï¿½mero do contrato ï¿½ o ï¿½ltimo nï¿½mero em 'cartId', separado por uma vï¿½rgula, por exemplo, nome_de_usuï¿½rio_12121212:<b>123456</b> <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="transaction"></a>
-<span class="title">20. Onde posso encontrar o identificador da transação?</span><br><br> Você receberá um e-mail da WorldPay sempre que um pagamento for efetuado. O e-mail contém o identificador da operação do pagamento. <br><br>
+<span class="title">20. Onde posso encontrar o identificador da transaï¿½ï¿½o?</span><br><br> Vocï¿½ receberï¿½ um e-mail da WorldPay sempre que um pagamento for efetuado. O e-mail contï¿½m o identificador da operaï¿½ï¿½o do pagamento. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="purchase"></a>
-<span class="title">21. Por que não posso utilizar um cartão de crédito para adquirir uma assinatura?</span><br><br> Não é possível iniciar uma assinatura por meio de cartão de crédito se o pagamento tiver sido estornado pelo proprietário do cartão ou se nós tivermos reembolsado um pagamento porque não estava de acordo com os termos e condições da assinatura. <br><br>
+<span class="title">21. Por que nï¿½o posso utilizar um cartï¿½o de crï¿½dito para adquirir uma assinatura?</span><br><br> Nï¿½o ï¿½ possï¿½vel iniciar uma assinatura por meio de cartï¿½o de crï¿½dito se o pagamento tiver sido estornado pelo proprietï¿½rio do cartï¿½o ou se nï¿½s tivermos reembolsado um pagamento porque nï¿½o estava de acordo com os termos e condiï¿½ï¿½es da assinatura. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">22. Por que não houve cobrança neste mês?</span><br><br> Existem diversos motivos para o pagamento não ter sido efetuado para a assinatura.<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> A assinatura foi cancelada por meio do website.<br><li> O cartão de crédito utilizado para iniciar a assinatura expirou.<br><li> A transação não foi aprovada pelo banco.</ul><br><br>Uma mensagem será enviada para a sua caixa postal, se não for possível efetuar o pagamento por qualquer motivo. Clique em 'Ler mensagens da Jagex' no <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> para obter mais detalhes. <br><br>
+<span class="title">22. Por que nï¿½o houve cobranï¿½a neste mï¿½s?</span><br><br> Existem diversos motivos para o pagamento nï¿½o ter sido efetuado para a assinatura.<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> A assinatura foi cancelada por meio do website.<br><li> O cartï¿½o de crï¿½dito utilizado para iniciar a assinatura expirou.<br><li> A transaï¿½ï¿½o nï¿½o foi aprovada pelo banco.</ul><br><br>Uma mensagem serï¿½ enviada para a sua caixa postal, se nï¿½o for possï¿½vel efetuar o pagamento por qualquer motivo. Clique em 'Ler mensagens da Jagex' no <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/">website</a> para obter mais detalhes. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="down"></a>
-<span class="title">23. Por que pagamentos periódicos estão sendo feitos no meu cartão de crédito?</span><br><br> Um pagamento será efetuado automaticamente quando restarem 3 dias de crédito de assinatura em sua conta, adicionando outro mês de assinatura.<br><br>Não há necessidade de assinar novamente para continuar sua associação. 
+<span class="title">23. Por que pagamentos periï¿½dicos estï¿½o sendo feitos no meu cartï¿½o de crï¿½dito?</span><br><br> Um pagamento serï¿½ efetuado automaticamente quando restarem 3 dias de crï¿½dito de assinatura em sua conta, adicionando outro mï¿½s de assinatura.<br><br>Nï¿½o hï¿½ necessidade de assinar novamente para continuar sua associaï¿½ï¿½o. 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
-<b>Mais artigos em <a href="viewcategory.ws?cat_id=13">Cobrança</a> : </b>
+<b>Mais artigos em <a href="viewcategory.ws?cat_id=13">Cobranï¿½a</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=58">Perguntas e respostas freqüentes sobre cobrança</a>, <a href="viewarticle.ws?article_id=32">Métodos de pagamento, preços e parceiros</a>, Pagamento com cartão de crédito, <a href="viewarticle.ws?article_id=23">Pagamento por PayByPhone</a>, <a href="viewarticle.ws?article_id=27">Pagamento com PayByCash</a></span>
+<a href="viewarticle.ws?article_id=58">Perguntas e respostas freqï¿½entes sobre cobranï¿½a</a>, <a href="viewarticle.ws?article_id=32">Mï¿½todos de pagamento, preï¿½os e parceiros</a>, Pagamento com cartï¿½o de crï¿½dito, <a href="viewarticle.ws?article_id=23">Pagamento por PayByPhone</a>, <a href="viewarticle.ws?article_id=27">Pagamento com PayByCash</a></span>
 </div>
 </div>
 </div>
@@ -339,17 +339,17 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

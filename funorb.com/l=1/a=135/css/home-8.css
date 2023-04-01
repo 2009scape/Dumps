@@ -62,7 +62,7 @@
  width: 308px;
  height: 167px;
  float: right;
- background: url(http://www.funorb.com/l=1/a=135/img/images/layout/top_bg.png) left top no-repeat;
+ background: url(../../../l=1/a=135/img/images/layout/top_bg.png) left top no-repeat;
 }
 
 #topThumb, #topLoader {
@@ -75,7 +75,7 @@
 
 #topLoader {
  display: none;
- background: black url(http://www.funorb.com/l=1/a=135/img/images/layout/loading.gif) 60px 40px no-repeat;
+ background: black url(../../../l=1/a=135/img/images/layout/loading.gif) 60px 40px no-repeat;
 }
 
 #topTitle {
@@ -133,17 +133,17 @@
 #topList a:hover {
  color: #ffc000;
  font-weight: bold;
- background: url(http://www.funorb.com/l=1/a=135/img/images/layout/topList_bg.png) 1px 1px;
+ background: url(../../../l=1/a=135/img/images/layout/topList_bg.png) 1px 1px;
 }
 
 #topList #top1 a.selected,
 #topList #top1 a:hover {
- background: url(http://www.funorb.com/l=1/a=135/img/images/layout/topList_bg_top.png) 1px 1px;
+ background: url(../../../l=1/a=135/img/images/layout/topList_bg_top.png) 1px 1px;
 }
 
 #topList #top10 a.selected,
 #topList #top10 a:hover {
- background: url(http://www.funorb.com/l=1/a=135/img/images/layout/topList_bg_bottom.png) 1px 1px;
+ background: url(../../../l=1/a=135/img/images/layout/topList_bg_bottom.png) 1px 1px;
 }
 
 #topList span {
@@ -188,7 +188,7 @@
 }
 
 #news .sectionBorder {
- background: black url(http://www.funorb.com/l=1/a=135/img/images/layout/section_bg_featured.gif) no-repeat;
+ background: black url(../../../l=1/a=135/img/images/layout/section_bg_featured.gif) no-repeat;
  padding-top: 4px;
 }
 
@@ -280,7 +280,7 @@
 
 /* Advert */
 #advert {
- background:transparent url(http://www.funorb.com/l=1/a=135/img/images/layout/advert_bg.gif) no-repeat;
+ background:transparent url(../../../l=1/a=135/img/images/layout/advert_bg.gif) no-repeat;
  float:left;
  width:316px;
  height:281px;
@@ -317,7 +317,7 @@
 }
 
 .gamesList .sectionBackground {
- background-image: url(http://www.funorb.com/l=1/a=135/img/images/layout/section_bg_games.gif);
+ background-image: url(../../../l=1/a=135/img/images/layout/section_bg_games.gif);
 }
 
 .gamesList ul {

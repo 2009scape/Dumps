@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=armiesofgielinor/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=armiesofgielinor/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../g=armiesofgielinor/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../g=armiesofgielinor/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-41.css);/**/
+  /*\*/@import url(../../css/global-41.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -46,8 +46,8 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=armiesofgielinor/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../g=armiesofgielinor/index.ws" ><b>
+<img src="../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -65,15 +65,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=armiesofgielinor/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../g=armiesofgielinor/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=armiesofgielinor/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../g=armiesofgielinor/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../g=armiesofgielinor/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -82,9 +82,9 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/g=armiesofgielinor/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../g=armiesofgielinor/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../g=armiesofgielinor/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -95,23 +95,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://services.funorb.com/m=focommunity/g=armiesofgielinor/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/g=armiesofgielinor/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=armiesofgielinor/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=armiesofgielinor/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=armiesofgielinor/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=armiesofgielinor/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../g=armiesofgielinor/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=armiesofgielinor/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=armiesofgielinor/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../g=armiesofgielinor/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../g=armiesofgielinor/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../g=armiesofgielinor/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -120,28 +120,28 @@ http://services.funorb.com/m=forum_fo/g=armiesofgielinor/forums.ws" class="fly">
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=armiesofgielinor/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/eu.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=armiesofgielinor/index.ws">
+<a id="countrydrop" href="../../g=armiesofgielinor/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=armiesofgielinor/index.ws"><img title="
+<li><a class="fly" href="../../g=armiesofgielinor/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=armiesofgielinor/index.ws"><img title="
+English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=armiesofgielinor/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws"><img title="
+Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=armiesofgielinor/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=armiesofgielinor/index.ws"><img title="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=armiesofgielinor/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -171,11 +171,11 @@ EU Cancellation
 <p align=right>Effective Date: 9th April, 2009</p>
 <p><b>Right to cancel under Distance Selling Regulations</b></p><br/>
 <p>If you are an EU consumer, you may cancel your order within 7 (English) working days of placing it, in which case we will refund your subscription payment in full.</p>
-<p>You may cancel for this purpose by emailing <img style="vertical-align: bottom;display: inline;" src="http://www.funorb.com/img/privacy/billingsupport.gif" alt=""/> or by giving us written notice as specified in the UK's Consumer Protection (Distance Selling) Regulations 2000. (You can find these regulations by searching on <a href="http://www.opsi.gov.uk" target="_blank">www.opsi.gov.uk</a>).</p>
+<p>You may cancel for this purpose by emailing <img style="vertical-align: bottom;display: inline;" src="../../img/privacy/billingsupport.gif" alt=""/> or by giving us written notice as specified in the UK's Consumer Protection (Distance Selling) Regulations 2000. (You can find these regulations by searching on <a href="http://www.opsi.gov.uk" target="_blank">www.opsi.gov.uk</a>).</p>
 <p>However, this right of cancellation does not apply once you have started to use our subscription services by logging in to a member's only world in which case you agree to performance of the contract starting before the usual cancellation period has expired.</p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -189,30 +189,30 @@ EU Cancellation
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=armiesofgielinor/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../g=armiesofgielinor/index.ws"><img alt="
+English" src="../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=armiesofgielinor/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../l=1/g=armiesofgielinor/index.ws"><img alt="
+Deutsch" src="../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../l=2/g=armiesofgielinor/index.ws"><img alt="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=armiesofgielinor/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../l=3/g=armiesofgielinor/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/g=armiesofgielinor/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/g=armiesofgielinor/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../g=armiesofgielinor/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../g=armiesofgielinor/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=armiesofgielinor/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=armiesofgielinor/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

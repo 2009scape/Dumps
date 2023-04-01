@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/a=600/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/a=600/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/a=600/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/a=600/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=600/css/global-44.css);/**/
+  /*\*/@import url(../../../l=2/a=600/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/a=600/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=600/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/a=600/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -50,8 +50,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/a=600/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/a=600/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -60,7 +60,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=600/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=600/messenger.js"></script>
 
@@ -69,52 +69,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=600/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=600/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/a=600/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/a=600/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/a=600/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/a=600/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/a=600/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/a=600/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/a=600/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=2/a=600/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../../l=2/a=600/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/a=600/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/a=600/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=600/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=600/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/a=600/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/a=600/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/a=600/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/a=600/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/a=600/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/a=600/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=600/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=600/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=600/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/a=600/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/a=600/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/a=600/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/a=600/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/a=600/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/a=600/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/a=600/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -122,28 +122,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/a=600/forums.ws" class="fly">Forums
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/a=600/loginform.ws?mod=www&amp;ssl=0&amp;dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=600/index.ws">
+<a id="countrydrop" href="../../../l=2/a=600/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=600/index.ws"><img title="
+<li><a class="fly" href="../../../a=600/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=600/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=600/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=600/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=600/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=600/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=600/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -160,7 +160,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Charte de confidentialité
+Charte de confidentialitï¿½
 
 </div>
 </div>
@@ -172,114 +172,114 @@ Charte de confidentialité
 
 <div class="articleBody">
 
-<b>Charte de confidentialité</b><br/><br/>
-<span style="float:right;">Date d'entrée en vigueur : 11 décembre 2012</span>
+<b>Charte de confidentialitï¿½</b><br/><br/>
+<span style="float:right;">Date d'entrï¿½e en vigueur : 11 dï¿½cembre 2012</span>
 <ol>
 <li><a href="#intro">Introduction</a></li>
-<li><a href="#personal_info">Quelles sont les informations personnelles que nous recueillons et stockons ?</a></li>
-<li><a href="#other_info">Quelles sont les autres informations recueillies et stockées ?</a></li>
+<li><a href="#personal_info">Quelles sont les informations personnelles que nous recueillons et stockonsï¿½?</a></li>
+<li><a href="#other_info">Quelles sont les autres informations recueillies et stockï¿½esï¿½?</a></li>
 <li><a href="#third_party_info">Informations personnelles fournies par des entreprises tierces</a></li>
 <li><a href="#what_happens">Que deviennent les informations fournies/recueillies ?</a></li>
 <li><a href="#third_party_disclosure">Transfert des informations personnelles aux tiers</a></li>
 <li><a href="#safeguarding">Protection de vos informations personnelles</a></li>
-<li><a href="#childrens_information">Les pratiques de Jagex en matière de protection de la vie privée des enfants</a></li>
-<li><a href="#review_deletion">Révision, correction et suppression des informations de nos registres</a></li>
-<li><a href="#data_protection">Protection des données</a></li>
+<li><a href="#childrens_information">Les pratiques de Jagex en matiï¿½re de protection de la vie privï¿½e des enfants</a></li>
+<li><a href="#review_deletion">Rï¿½vision, correction et suppression des informations de nos registres</a></li>
+<li><a href="#data_protection">Protection des donnï¿½es</a></li>
 </ol><br/>
 <b id="intro">1. Introduction</b>
-<p>Le présent document constitue la Charte de confidentialité de Jagex Limited et de toutes les sociétés faisant partie de notre groupe (dénommées collectivement « Jagex »). Elle s'applique à l'ensemble de nos sites Web et à nos services (dénommés collectivement « nos sites Web ») sur lesquels elle figure.</p>
-<p>Les « Produits Jagex » désignent tous les jeux en ligne édités par Jagex y compris tous les sites Web de Jagex utilisés pour prendre part à ces jeux. La mise en ligne de tous les Produits Jagex n'est pas garantie.</p>
-<p>Les « informations personnelles » désignent les informations qui permettent de vous identifier et qui peuvent être utilisées pour vous contacter ou vous rechercher dans la vie réelle, telles que vos prénom et nom de famille, adresse électronique, numéro de téléphone, adresse postale ou données bancaires.</p>
-<p>Nous nous engageons à protéger votre vie privée et à prendre les mesures nécessaires pour garantir la confidentialité de toute information personnelle vous concernant. Notre Charte de confidentialité explique comment ces données sont collectées, enregistrées et utilisées.</p>
-<p>Veuillez lire cette charte attentivement. Votre acceptation de ladite charte est une condition d'utilisation de nos sites Web (que vous soyez ou non abonné). Si vous n'acceptez pas la totalité ou une partie des conditions de cette charte, nous vous prions de ne pas utiliser nos sites Web ou les Produits Jagex. L'utilisation de nos sites Web ou Produits Jagex vaut acceptation de la version de la Charte de confidentialité telle qu'elle est rédigée à la date de ladite utilisation.</p>
-<p>Nous pouvons modifier cette politique à tout moment. Nous publierons les modifications apportées sur le site. Veuillez donc la consulter à chaque fois que vous utilisez le site. Votre utilisation continue de nos sites Web vaut acceptation de ces modifications à partir de leur date d'entrée en vigueur, comme indiquée ci-dessus.</p>
-<p>Pour toute question sur cette Charte de confidentialité, veuillez nous contacter à l'adresse suivante : <img style="vertical-align: bottom" src="http://www.funorb.com/l=2/img/privacy/privacy.gif" alt=""/> et n'utiliser nos sites Web ou Produits Jagex qu'après avoir lu et accepté cette politique dans son intégralité.</p> <b id="personal_info">2. Quelles sont les informations personnelles que nous recueillons et stockons ?</b>
-<p>Aucune information personnelle n'est recueillie lorsque vous accédez simplement aux espaces publics de nos sites Web ou lorsque vous jouez à nos jeux solo.</p>
-<p>Nous recueillons et stockons les informations que vous nous fournissez de plein gré par le biais de formulaires ou autres supports sur nos sites Web, de communications électroniques ou d'autre nature avec nous. Vous pouvez décider de ne pas fournir ces informations en choisissant simplement de ne pas remplir le formulaire les demandant et ainsi choisir de ne pas utiliser le service en question.</p>
-<p>Par exemple :</p>
+<p>Le prï¿½sent document constitue la Charte de confidentialitï¿½ de Jagex Limited et de toutes les sociï¿½tï¿½s faisant partie de notre groupe (dï¿½nommï¿½es collectivement ï¿½ Jagex ï¿½). Elle s'applique ï¿½ l'ensemble de nos sites Web et ï¿½ nos services (dï¿½nommï¿½s collectivement ï¿½ nos sites Web ï¿½) sur lesquels elle figure.</p>
+<p>Les ï¿½ Produits Jagex ï¿½ dï¿½signent tous les jeux en ligne ï¿½ditï¿½s par Jagex y compris tous les sites Web de Jagex utilisï¿½s pour prendre part ï¿½ ces jeux. La mise en ligne de tous les Produits Jagex n'est pas garantie.</p>
+<p>Les ï¿½ informations personnelles ï¿½ dï¿½signent les informations qui permettent de vous identifier et qui peuvent ï¿½tre utilisï¿½es pour vous contacter ou vous rechercher dans la vie rï¿½elle, telles que vos prï¿½nom et nom de famille, adresse ï¿½lectronique, numï¿½ro de tï¿½lï¿½phone, adresse postale ou donnï¿½es bancaires.</p>
+<p>Nous nous engageons ï¿½ protï¿½ger votre vie privï¿½e et ï¿½ prendre les mesures nï¿½cessaires pour garantir la confidentialitï¿½ de toute information personnelle vous concernant. Notre Charte de confidentialitï¿½ explique comment ces donnï¿½es sont collectï¿½es, enregistrï¿½es et utilisï¿½es.</p>
+<p>Veuillez lire cette charte attentivement. Votre acceptation de ladite charte est une condition d'utilisation de nos sites Web (que vous soyez ou non abonnï¿½). Si vous n'acceptez pas la totalitï¿½ ou une partie des conditions de cette charte, nous vous prions de ne pas utiliser nos sites Web ou les Produits Jagex. L'utilisation de nos sites Web ou Produits Jagex vaut acceptation de la version de la Charte de confidentialitï¿½ telle qu'elle est rï¿½digï¿½e ï¿½ la date de ladite utilisation.</p>
+<p>Nous pouvons modifier cette politique ï¿½ tout moment. Nous publierons les modifications apportï¿½es sur le site. Veuillez donc la consulter ï¿½ chaque fois que vous utilisez le site. Votre utilisation continue de nos sites Web vaut acceptation de ces modifications ï¿½ partir de leur date d'entrï¿½e en vigueur, comme indiquï¿½e ci-dessus.</p>
+<p>Pour toute question sur cette Charte de confidentialitï¿½, veuillez nous contacter ï¿½ l'adresse suivante : <img style="vertical-align: bottom" src="../../../l=2/img/privacy/privacy.gif" alt=""/> et n'utiliser nos sites Web ou Produits Jagex qu'aprï¿½s avoir lu et acceptï¿½ cette politique dans son intï¿½gralitï¿½.</p> <b id="personal_info">2. Quelles sont les informations personnelles que nous recueillons et stockons ?</b>
+<p>Aucune information personnelle n'est recueillie lorsque vous accï¿½dez simplement aux espaces publics de nos sites Web ou lorsque vous jouez ï¿½ nos jeux solo.</p>
+<p>Nous recueillons et stockons les informations que vous nous fournissez de plein grï¿½ par le biais de formulaires ou autres supports sur nos sites Web, de communications ï¿½lectroniques ou d'autre nature avec nous. Vous pouvez dï¿½cider de ne pas fournir ces informations en choisissant simplement de ne pas remplir le formulaire les demandant et ainsi choisir de ne pas utiliser le service en question.</p>
+<p>Par exempleï¿½:</p>
 <ul>
 <li>pour utiliser de nombreuses fonctions des produits Jagex, vous devrez ouvrir un compte en choisissant un nom d'utilisateur et un mot de passe.</li>
-<li>Pour vous abonner à tout Produit Jagex, vous devrez également fournir certaines Informations personnelles telles que : votre nom, une adresse électronique valide, votre adresse personnelle, ainsi que vos coordonnées bancaires (numéro de carte bancaire et date d'expiration). Certains utilisateurs pourraient ne pas remplir les conditions nécessaires pour fournir ces informations.</li>
-<li>Pour utiliser notre service clientèle, vous devrez accéder à la section correspondante à l'aide de votre nom d'utilisateur et de votre mot de passe et fournir les informations liées à votre question par le biais du formulaire en ligne.</li>
-<li>Dans un but d'amélioration de nos services d'assistance à la clientèle, nous pouvons également vous demander de nous fournir des Informations personnelles, telles que : votre nom, votre adresse électronique, votre code postal et votre pays ainsi qu'un certain nombre de questions de sécurité nous permettant de contrôler votre identité, dans le cas où vous auriez besoin ultérieurement d'assistance. (Notez que les questions et les réponses que vous fournissez sont laissées à votre discrétion. Vous pouvez refuser de fournir certaines de ces informations mais cela aura pour conséquence de limiter la disponibilité ou l'efficacité de nos services d'assistance, ou de vous empêcher d'accéder à un service d'assistance particulier).</li>
-<li>Nous pouvons également vous inviter à nous fournir une adresse électronique valide afin de nous permettre de vous adresser des newsletters consacrées aux Produits Jagex, incluant des informations sur les nouveautés et offres spéciales.</li>
+<li>Pour vous abonner ï¿½ tout Produit Jagex, vous devrez ï¿½galement fournir certaines Informations personnelles telles que : votre nom, une adresse ï¿½lectronique valide, votre adresse personnelle, ainsi que vos coordonnï¿½es bancaires (numï¿½ro de carte bancaire et date d'expiration). Certains utilisateurs pourraient ne pas remplir les conditions nï¿½cessaires pour fournir ces informations.</li>
+<li>Pour utiliser notre service clientï¿½le, vous devrez accï¿½der ï¿½ la section correspondante ï¿½ l'aide de votre nom d'utilisateur et de votre mot de passe et fournir les informations liï¿½es ï¿½ votre question par le biais du formulaire en ligne.</li>
+<li>Dans un but d'amï¿½lioration de nos services d'assistance ï¿½ la clientï¿½le, nous pouvons ï¿½galement vous demander de nous fournir des Informations personnelles, telles que : votre nom, votre adresse ï¿½lectronique, votre code postal et votre pays ainsi qu'un certain nombre de questions de sï¿½curitï¿½ nous permettant de contrï¿½ler votre identitï¿½, dans le cas oï¿½ vous auriez besoin ultï¿½rieurement d'assistance. (Notez que les questions et les rï¿½ponses que vous fournissez sont laissï¿½es ï¿½ votre discrï¿½tion. Vous pouvez refuser de fournir certaines de ces informations mais cela aura pour consï¿½quence de limiter la disponibilitï¿½ ou l'efficacitï¿½ de nos services d'assistance, ou de vous empï¿½cher d'accï¿½der ï¿½ un service d'assistance particulier).</li>
+<li>Nous pouvons ï¿½galement vous inviter ï¿½ nous fournir une adresse ï¿½lectronique valide afin de nous permettre de vous adresser des newsletters consacrï¿½es aux Produits Jagex, incluant des informations sur les nouveautï¿½s et offres spï¿½ciales.</li>
 </ul>
-<p>Certains utilisateurs pourraient ne pas remplir les conditions permettant de bénéficier de certains éléments cités ci-dessus, comme par exemple les utilisateurs dont la collecte d'Informations personnelles est soumise à restriction.</p>
-<b id="other_info">3. Quelles sont les autres informations recueillies et stockées ?</b>
-<p>Nous utilisons des cookies, collectons et stockons des adresses IP, des numéros d’identification alphanumériques et d’autres identificateurs uniques, dans le but d’identifier les ordinateurs spécifiques qui accèdent à nos sites Web. Nous identifions et stockons les versions Java et .NET (le cas échéant) installées sur votre ordinateur, ainsi que votre navigateur, votre système d'exploitation, et des informations spécifiques à votre matériel et logiciel.</p>
-<p>Pour plus d'informations concernant les cookies, les informations qu'ils collectent et comment les désactiver, veuillez allez voir la page <a href="http://www.funorb.com/l=2/a=600/cookies.ws">Cookies</a>.</p>
-<p>Nous générons et stockons des journaux indiquant l'usage de nos sites Web, notamment l'activité dans nos jeux et les discussions publiques et privées. Cela inclut le suivi des habitudes de jeu et des contrôles anti-sabotage qui vérifient le fonctionnement interne de notre logiciel et qui visent à repérer les comportements abusifs ou inconvenants.</p>
-<p>Nous pouvons suivre votre utilisation de certaines fonctionnalités et espaces de nos sites web, dans un souci d’amélioration continue de ces derniers.</p>
-<p>Si notre logiciel client installé sur votre ordinateur échoue, il envoie un rapport d'erreur automatique à notre serveur pour nous aider à le corriger. Ce rapport d'erreur contient uniquement les informations concernant l'état interne de notre propre logiciel client et la version du navigateur/java sur laquelle il s'exécute. Il ne contient aucune donnée issue de tout autre composant de votre système et ne nous communique donc aucune Information personnelle.</p>
-<p>Nous stockons des informations dans le cadre des fonctions « sauvegarder le jeu » et « réglages du jeu », dans le but de fournir un meilleur service en matière de jeux en prenant en compte vos activités et vos réalisations dans le jeu. Nous effectuons en outre des sondages pour déterminer les meilleures manières de satisfaire les besoins de nos utilisateurs.</p>
+<p>Certains utilisateurs pourraient ne pas remplir les conditions permettant de bï¿½nï¿½ficier de certains ï¿½lï¿½ments citï¿½s ci-dessus, comme par exemple les utilisateurs dont la collecte d'Informations personnelles est soumise ï¿½ restriction.</p>
+<b id="other_info">3. Quelles sont les autres informations recueillies et stockï¿½es ?</b>
+<p>Nous utilisons des cookies, collectons et stockons des adresses IP, des numï¿½ros dï¿½identification alphanumï¿½riques et dï¿½autres identificateurs uniques, dans le but dï¿½identifier les ordinateurs spï¿½cifiques qui accï¿½dent ï¿½ nos sites Web. Nous identifions et stockons les versions Java et .NET (le cas ï¿½chï¿½ant) installï¿½es sur votre ordinateur, ainsi que votre navigateur, votre systï¿½me d'exploitation, et des informations spï¿½cifiques ï¿½ votre matï¿½riel et logiciel.</p>
+<p>Pour plus d'informations concernant les cookies, les informations qu'ils collectent et comment les dï¿½sactiver, veuillez allez voir la page <a href="../../../l=2/a=600/cookies.ws">Cookies</a>.</p>
+<p>Nous gï¿½nï¿½rons et stockons des journaux indiquant l'usage de nos sites Web, notamment l'activitï¿½ dans nos jeux et les discussions publiques et privï¿½es. Cela inclut le suivi des habitudes de jeu et des contrï¿½les anti-sabotage qui vï¿½rifient le fonctionnement interne de notre logiciel et qui visent ï¿½ repï¿½rer les comportements abusifs ou inconvenants.</p>
+<p>Nous pouvons suivre votre utilisation de certaines fonctionnalitï¿½s et espaces de nos sites web, dans un souci dï¿½amï¿½lioration continue de ces derniers.</p>
+<p>Si notre logiciel client installï¿½ sur votre ordinateur ï¿½choue, il envoie un rapport d'erreur automatique ï¿½ notre serveur pour nous aider ï¿½ le corriger. Ce rapport d'erreur contient uniquement les informations concernant l'ï¿½tat interne de notre propre logiciel client et la version du navigateur/java sur laquelle il s'exï¿½cute. Il ne contient aucune donnï¿½e issue de tout autre composant de votre systï¿½me et ne nous communique donc aucune Information personnelle.</p>
+<p>Nous stockons des informations dans le cadre des fonctions ï¿½ sauvegarder le jeu ï¿½ et ï¿½ rï¿½glages du jeu ï¿½, dans le but de fournir un meilleur service en matiï¿½re de jeux en prenant en compte vos activitï¿½s et vos rï¿½alisations dans le jeu. Nous effectuons en outre des sondages pour dï¿½terminer les meilleures maniï¿½res de satisfaire les besoins de nos utilisateurs.</p>
 <b id="third_party_info">4. Informations personnelles fournies par des entreprises tierces</b>
-<p>En accédant aux produits Jagex par l'intermédiaire d'une tierce partie intégrée et approuvée, vous autorisez Jagex à accéder à certaines informations que vous avez fournies à cette tierce partie. Les informations concernées peuvent varier selon le produit Jagex choisi et la plateforme tierce utilisée. Ces informations dépendent également des paramètres de confidentialité activés sur votre ordinateur ou périphérique internet, et des paramètres choisis sur la plateforme tierce.</p>
-<p>En utilisant un Produit Jagex par l'intermédiaire d'un site ou outil apparentant à un tiers, vous autorisez Jagex à recueillir, enregistrer et utiliser, conformément à la présente Charte de confidentialité, toute information vous concernant que ledit tiers a été autorisé à fournir à Jagex.</p>
+<p>En accï¿½dant aux produits Jagex par l'intermï¿½diaire d'une tierce partie intï¿½grï¿½e et approuvï¿½e, vous autorisez Jagex ï¿½ accï¿½der ï¿½ certaines informations que vous avez fournies ï¿½ cette tierce partie. Les informations concernï¿½es peuvent varier selon le produit Jagex choisi et la plateforme tierce utilisï¿½e. Ces informations dï¿½pendent ï¿½galement des paramï¿½tres de confidentialitï¿½ activï¿½s sur votre ordinateur ou pï¿½riphï¿½rique internet, et des paramï¿½tres choisis sur la plateforme tierce.</p>
+<p>En utilisant un Produit Jagex par l'intermï¿½diaire d'un site ou outil apparentant ï¿½ un tiers, vous autorisez Jagex ï¿½ recueillir, enregistrer et utiliser, conformï¿½ment ï¿½ la prï¿½sente Charte de confidentialitï¿½, toute information vous concernant que ledit tiers a ï¿½tï¿½ autorisï¿½ ï¿½ fournir ï¿½ Jagex.</p>
 <b id="what_happens">5. Que deviennent les informations fournies/recueillies ?</b>
-<p>Les informations que nous recueillons peuvent être utilisées aux fins suivantes :</p>
+<p>Les informations que nous recueillons peuvent ï¿½tre utilisï¿½es aux fins suivantes :</p>
 <ol style="list-style-type: lower-roman;">
-<li>Pour traiter votre paiement des abonnements ou d'autres biens ou services commandés sur nos sites Web ou pour livrer ces commandes.</li>
-<li>Pour pourvoir aux besoins de notre service clientèle et vérifier toute réclamation ou demande de votre part si vous utilisez le service clientèle.</li>
-<li>Assurer le respect de nos Conditions d'utilisation, éviter ou détecter les activités de piratage, les infractions à la sécurité ou les risques liés à la sécurité de nos sites Web.</li>
-<li>Envoyer des annonces de service et des messages (par exemple, un rappel envoyé au Centre de message des abonnés lorsque le paiement d’un abonnement est échu ou lorsque le crédit d'abonnement est arrivé à expiration).</li>
-<li>Pour regrouper des informations afin de générer des statistiques anonymes concernant l'utilisation de nos sites Web. Nous pouvons partager ces informations anonymes avec nos partenaires et annonceurs publicitaires. Aucune Information personnelle pouvant identifier un individu n'est utilisée à cette fin.</li>
-<li>Pour nos propres études de marketing et démographiques internes en vue d'améliorer nos sites Web ou pour afficher des publicités sur notre site relatives à votre zone géographique.</li>
-<li>Dans l'éventualité d'une fusion réelle ou proposée (notamment dans le cadre de négociations), d'un regroupement d'entreprises, de la vente de tous nos actifs ou d'une opération commerciale ayant un lien avec ces informations ou conformément aux conditions d'une faillite, de lois d'insolvabilité applicables ou par l'application de droits équitables.</li>
-<li>Pour divulguer des informations requises par la loi, l'ordonnance d'un tribunal, par un autre gouvernement, une autorité de réglementation ou chargée de l'application de la loi ; pour protéger ou contribuer à la protection de nos utilisateurs, de nos systèmes ou du public ; ou appliquer tout droit reconnu par la loi à notre seule et entière discrétion.</li>
-<li>Vous envoyer par email, lorsque vous l'avez accepté sur nos sites Internet, nos newsletters consacrées à nos jeux, aux nouvelles options et aux offres spéciales.</li>
-<li>Comme indiqué ailleurs dans notre Charte de confidentialité.</li>
+<li>Pour traiter votre paiement des abonnements ou d'autres biens ou services commandï¿½s sur nos sites Web ou pour livrer ces commandes.</li>
+<li>Pour pourvoir aux besoins de notre service clientï¿½le et vï¿½rifier toute rï¿½clamation ou demande de votre part si vous utilisez le service clientï¿½le.</li>
+<li>Assurer le respect de nos Conditions d'utilisation, ï¿½viter ou dï¿½tecter les activitï¿½s de piratage, les infractions ï¿½ la sï¿½curitï¿½ ou les risques liï¿½s ï¿½ la sï¿½curitï¿½ de nos sites Web.</li>
+<li>Envoyer des annonces de service et des messages (par exemple, un rappel envoyï¿½ au Centre de message des abonnï¿½s lorsque le paiement dï¿½un abonnement est ï¿½chu ou lorsque le crï¿½dit d'abonnement est arrivï¿½ ï¿½ expiration).</li>
+<li>Pour regrouper des informations afin de gï¿½nï¿½rer des statistiques anonymes concernant l'utilisation de nos sites Web. Nous pouvons partager ces informations anonymes avec nos partenaires et annonceurs publicitaires. Aucune Information personnelle pouvant identifier un individu n'est utilisï¿½e ï¿½ cette fin.</li>
+<li>Pour nos propres ï¿½tudes de marketing et dï¿½mographiques internes en vue d'amï¿½liorer nos sites Web ou pour afficher des publicitï¿½s sur notre site relatives ï¿½ votre zone gï¿½ographique.</li>
+<li>Dans l'ï¿½ventualitï¿½ d'une fusion rï¿½elle ou proposï¿½e (notamment dans le cadre de nï¿½gociations), d'un regroupement d'entreprises, de la vente de tous nos actifs ou d'une opï¿½ration commerciale ayant un lien avec ces informations ou conformï¿½ment aux conditions d'une faillite, de lois d'insolvabilitï¿½ applicables ou par l'application de droits ï¿½quitables.</li>
+<li>Pour divulguer des informations requises par la loi, l'ordonnance d'un tribunal, par un autre gouvernement, une autoritï¿½ de rï¿½glementation ou chargï¿½e de l'application de la loi ; pour protï¿½ger ou contribuer ï¿½ la protection de nos utilisateurs, de nos systï¿½mes ou du public ; ou appliquer tout droit reconnu par la loi ï¿½ notre seule et entiï¿½re discrï¿½tion.</li>
+<li>Vous envoyer par email, lorsque vous l'avez acceptï¿½ sur nos sites Internet, nos newsletters consacrï¿½es ï¿½ nos jeux, aux nouvelles options et aux offres spï¿½ciales.</li>
+<li>Comme indiquï¿½ ailleurs dans notre Charte de confidentialitï¿½.</li>
 </ol>
-<p>Nous tenons à la protection de votre vie privée et, à l'exception des utilisations spécifiées ci-dessus ou de celles auxquelles vous avez explicitement consenties, nous nous engageons à ne pas vendre, transférer, louer, échanger ou divulguer les Informations personnelles à d'autres entreprises.</p>
+<p>Nous tenons ï¿½ la protection de votre vie privï¿½e et, ï¿½ l'exception des utilisations spï¿½cifiï¿½es ci-dessus ou de celles auxquelles vous avez explicitement consenties, nous nous engageons ï¿½ ne pas vendre, transfï¿½rer, louer, ï¿½changer ou divulguer les Informations personnelles ï¿½ d'autres entreprises.</p>
 <b id="third_party_disclosure">6. Transfert des informations personnelles aux tiers</b>
-<p>Nous pouvons fournir des Informations personnelles à des parties tierces externes qui nous fournissent des services (par exemple pour la gestion des commandes de Produits dérivés des Produits Jagex ou pour nous aider à fournir des services clients) et uniquement dans le cadre de ces services.</p>
-<p>Nous travaillons en partenariat avec un certain nombre de fournisseurs externes de services de paiement pour vous donner accès à un large éventail d'options de paiement. Nous échangeons les informations de facturation avec ces entreprises dans la limite nécessaire au traitement de votre paiement ou dans le but d’éviter ou de détecter les fraudes. Ces entreprises se sont engagées à ne pas conserver, échanger, stocker ou utiliser les informations personnellement identifiables que nous leur communiquons à toutes fins secondaires.</p>
-<p>Vos Informations personnelles peuvent être transférées, stockées et traitées dans d'autres pays que votre pays de résidence qu'ils soient membres ou non de l'Union Européenne, y compris aux Etats-Unis, et ce pour les fins énoncées dans la présente charte de confidentialité.</p>
-<p>Le droit applicable en matière de protection des données personnelles dans les autres pays est différent de celui qui s'applique dans votre pays de résidence. Aussi, en transmettant vos Informations personnelles à Jagex, vous acceptez qu'elles soient transférées, stockées et traitées telles que décrit dans la présente charte.</p>
-<p>Veuillez noter que cette charte de confidentialité ne s'applique à aucune des Informations personnelles recueillies par les fournisseurs de services de paiement externes eux-mêmes ou par des sites Web ou services d'autres entreprises avec lesquelles nous avons établi un lien Internet réciproque, ou qui fournissent des biens ou des services à partir de leurs sites Web (tels que les sites comarqués, les sites génériques ou affiliés ou les sites vendant les Produits Jagex). Veuillez noter que ces entreprises (et non Jagex) sont responsables des informations qu'elles recueillent. Veuillez vous référer aux chartes de confidentialité appropriées.</p>
-<p>Nous utilisons des entreprises externes pour fournir des annonces ou autres technologies sur nos sites Web (par exemple pour recueillir des données chiffrées de site Web ou pour permettre le partage de boutons ou de widgets). Ces entreprises peuvent utiliser des informations (à l'exclusion des Informations personnelles) liées à vos visites sur le site et sur les autres sites Web, dans le but de personnaliser les annonces du site ou des autres sites. Elles peuvent également utiliser lesdites informations dans le but de personnaliser certaines fonctions de notre site. Enfin, ces informations peuvent également être utilisées par des entreprises tierces dans le but de fournir des données chiffrées anonymisées relatives à l'utilisation de notre site ou de certaines de ses fonctions qui sont partagées avec d'autres sites (par exemple des boutons ou widgets permettant d'accéder à notre site). Nous ne sommes pas en mesure d'accéder ou de contrôler les cookies ou autres technologies pouvant être utilisés par ces tierces parties, et la présente charte ne couvre pas les pratiques de gestion des informations de ces entreprises publicitaires et technologiques. Si vous souhaitez obtenir plus d'informations sur certaines de ces pratiques et pour connaître les moyens d'éviter l'utilisation de ces informations par certaines de ces entreprises, veuillez cliquer ici. </p>
-<p>En outre, les informations provenant de nos utilisateurs et collectées par des tierces parties fournissant des biens ou des services (y compris les annonces) sur nos sites Web ou par l'intermédiaire de nos sites, peuvent nous être communiquées par ces tierces parties. Elles pourront être stockées par nos soins aux fins énoncées dans la présente charte.</p>
-<p>Soyez très prudents lorsque vous publiez des messages sur nos sites Web. Certaines informations sont visibles pour les autres joueurs, telles que les discussions publiques et privées, l'apparence de vos personnages et vos points d'expérience. Les joueurs qui vous ajoutent dans leurs liste d'amis peuvent voir sur quel serveur vous jouez. &nbsp; </p>
-<p>Le cas échéant, si vous avez donné votre accord lors de votre inscription sur notre site Internet, nous pourrons communiquer votre adresse email à nos partenaires commerciaux afin qu'ils vous transmettent des offres de biens et services pouvant vous intéresser ainsi que des offres spéciales ou des promotions.</p>
+<p>Nous pouvons fournir des Informations personnelles ï¿½ des parties tierces externes qui nous fournissent des services (par exemple pour la gestion des commandes de Produits dï¿½rivï¿½s des Produits Jagex ou pour nous aider ï¿½ fournir des services clients) et uniquement dans le cadre de ces services.</p>
+<p>Nous travaillons en partenariat avec un certain nombre de fournisseurs externes de services de paiement pour vous donner accï¿½s ï¿½ un large ï¿½ventail d'options de paiement. Nous ï¿½changeons les informations de facturation avec ces entreprises dans la limite nï¿½cessaire au traitement de votre paiement ou dans le but dï¿½ï¿½viter ou de dï¿½tecter les fraudes. Ces entreprises se sont engagï¿½es ï¿½ ne pas conserver, ï¿½changer, stocker ou utiliser les informations personnellement identifiables que nous leur communiquons ï¿½ toutes fins secondaires.</p>
+<p>Vos Informations personnelles peuvent ï¿½tre transfï¿½rï¿½es, stockï¿½es et traitï¿½es dans d'autres pays que votre pays de rï¿½sidence qu'ils soient membres ou non de l'Union Europï¿½enne, y compris aux Etats-Unis, et ce pour les fins ï¿½noncï¿½es dans la prï¿½sente charte de confidentialitï¿½.</p>
+<p>Le droit applicable en matiï¿½re de protection des donnï¿½es personnelles dans les autres pays est diffï¿½rent de celui qui s'applique dans votre pays de rï¿½sidence. Aussi, en transmettant vos Informations personnelles ï¿½ Jagex, vous acceptez qu'elles soient transfï¿½rï¿½es, stockï¿½es et traitï¿½es telles que dï¿½crit dans la prï¿½sente charte.</p>
+<p>Veuillez noter que cette charte de confidentialitï¿½ ne s'applique ï¿½ aucune des Informations personnelles recueillies par les fournisseurs de services de paiement externes eux-mï¿½mes ou par des sites Web ou services d'autres entreprises avec lesquelles nous avons ï¿½tabli un lien Internet rï¿½ciproque, ou qui fournissent des biens ou des services ï¿½ partir de leurs sites Web (tels que les sites comarquï¿½s, les sites gï¿½nï¿½riques ou affiliï¿½s ou les sites vendant les Produits Jagex). Veuillez noter que ces entreprises (et non Jagex) sont responsables des informations qu'elles recueillent. Veuillez vous rï¿½fï¿½rer aux chartes de confidentialitï¿½ appropriï¿½es.</p>
+<p>Nous utilisons des entreprises externes pour fournir des annonces ou autres technologies sur nos sites Web (par exemple pour recueillir des donnï¿½es chiffrï¿½es de site Web ou pour permettre le partage de boutons ou de widgets). Ces entreprises peuvent utiliser des informations (ï¿½ l'exclusion des Informations personnelles) liï¿½es ï¿½ vos visites sur le site et sur les autres sites Web, dans le but de personnaliser les annonces du site ou des autres sites. Elles peuvent ï¿½galement utiliser lesdites informations dans le but de personnaliser certaines fonctions de notre site. Enfin, ces informations peuvent ï¿½galement ï¿½tre utilisï¿½es par des entreprises tierces dans le but de fournir des donnï¿½es chiffrï¿½es anonymisï¿½es relatives ï¿½ l'utilisation de notre site ou de certaines de ses fonctions qui sont partagï¿½es avec d'autres sites (par exemple des boutons ou widgets permettant d'accï¿½der ï¿½ notre site). Nous ne sommes pas en mesure d'accï¿½der ou de contrï¿½ler les cookies ou autres technologies pouvant ï¿½tre utilisï¿½s par ces tierces parties, et la prï¿½sente charte ne couvre pas les pratiques de gestion des informations de ces entreprises publicitaires et technologiques. Si vous souhaitez obtenir plus d'informations sur certaines de ces pratiques et pour connaï¿½tre les moyens d'ï¿½viter l'utilisation de ces informations par certaines de ces entreprises, veuillez cliquer ici. </p>
+<p>En outre, les informations provenant de nos utilisateurs et collectï¿½es par des tierces parties fournissant des biens ou des services (y compris les annonces) sur nos sites Web ou par l'intermï¿½diaire de nos sites, peuvent nous ï¿½tre communiquï¿½es par ces tierces parties. Elles pourront ï¿½tre stockï¿½es par nos soins aux fins ï¿½noncï¿½es dans la prï¿½sente charte.</p>
+<p>Soyez trï¿½s prudents lorsque vous publiez des messages sur nos sites Web. Certaines informations sont visibles pour les autres joueurs, telles que les discussions publiques et privï¿½es, l'apparence de vos personnages et vos points d'expï¿½rience. Les joueurs qui vous ajoutent dans leurs liste d'amis peuvent voir sur quel serveur vous jouez. &nbsp; </p>
+<p>Le cas ï¿½chï¿½ant, si vous avez donnï¿½ votre accord lors de votre inscription sur notre site Internet, nous pourrons communiquer votre adresse email ï¿½ nos partenaires commerciaux afin qu'ils vous transmettent des offres de biens et services pouvant vous intï¿½resser ainsi que des offres spï¿½ciales ou des promotions.</p>
 <b id="safeguarding">7. Protection de vos informations personnelles</b>
-<p>Nous recueillerons uniquement les Informations personnelles nécessaires pour répondre à nos objectifs commerciaux légitimes et les protégerons avec le même niveau de précaution utilisé pour assurer la sécurité, l'intégrité et la confidentialité de nos propres informations. De plus, nous suivrons des procédures légitimes pour garantir que les tiers auxquels nous transmettons vos Informations personnelles conformément à cette politique acceptent de fournir une protection suffisante.</p>
-<p>Veuillez noter que, bien que nous nous efforcions à protéger toutes nos informations personnellement identifiables, nous savons tous que des infractions aux données personnelles peuvent être commises, même dans les institutions financières et gouvernementales respectées ; c’est pourquoi, il est impossible d’offrir une garantie absolue que de telles atteintes à la protection des données ne seront pas portées. Nous nous engageons à vous informer de toutes infractions aux données personnelles que nous découvrirons, susceptibles de porter atteinte à l’intégrité de vos informations personnellement identifiables.</p>
-<b id="childrens_information">8. La politique de confidentialité de Jagex concernant les enfants</b>
-<p>Nous ne collectons et ne stockons pas intentionnellement d'Informations personnelles provenant d'enfants de moins de 13 ans. Si l'accès d'un Produit Jagex n'est pas restreint pour les utilisateurs de moins de 13 ans, Jagex collectera uniquement les données à caractère personnel qui sont nécessaires à l'accès du Produit Jagex, telles que le nom d'utilisateur, le mot de passe et l'adresse électronique des parents ou tuteurs.</p>
-<p>Si nous constatons que nous détenons ou que nous avons divulgué par inadvertance toutes informations à caractère personnel concernant un joueur de moins de 13 ans (autre que son adresse électronique tronquée et non exploitable, utilisée comme nom d’utilisateur), nous les supprimerons de notre système, afin de garantir la protection de la vie privée de l’enfant.</p>
-<p>Jagex ne demandera pas à un utilisateur de moins de 13 ans de fournir d'Informations personnelles pour accéder aux forums de Jagex ou aux fonctions de messagerie des Produits Jagex. Par ailleurs, les utilisateurs de Produits Jagex ont accès à une fonction de discussion en ligne dans les Produits Jagex, mais nous prenons des mesures pour que les utilisateurs de moins de 13 ans ne puissent pas communiquer d'Informations personnelles via cette fonction. Ces mesures incluent des filtres de discussion et une modération a posteriori. Si toutefois vous divulguez des Informations personnelles via la fonction de discussion d'un Produit Jagex, sachez qu'elles peuvent être lues, collectées ou utilisées par d'autres utilisateurs. Nous vous recommandons expressément de ne pas divulguer d'Informations personnelles (telles que votre nom réel, adresse électronique, numéro de téléphone, etc.) sur vous ou un tiers. Jagex n'est pas responsable de l'utilisation des Informations personnelles que vous choisissez de divulguer via les Produits Jagex. Nous vous recommandons expressément de ne pas divulguer d'Informations personnelles (telles que votre nom réel, adresse électronique, numéro de téléphone, etc.) sur vous ou un tiers. Jagex n'est pas responsable de l'utilisation des Informations personnelles que vous choisissez de divulguer via les Produits Jagex. </p>
-<p>Si Jagex vous demande d'utiliser votre adresse électronique comme nom d'utilisateur et que vous avez moins de 13 ans, nous n'enregistrerons pas cette adresse électronique. Celle-ci sera automatiquement enregistrée sous forme tronquée et non-exploitable sur notre système. Nous ne pourrons pas la réutiliser pour reconstituer votre adresse électronique sous sa forme complète. Lorsque vous vous connectez à nouveau, il vous sera demandé d’utiliser votre adresse électronique comme nom d’utilisateur. L’inscription du nom d’utilisateur génèrera alors automatiquement une nouvelle troncature qui sera alors comparée avec la troncature précédemment enregistrée afin de vous permettre de vous connecter. Nous ne conserverons votre adresse électronique sous aucune forme pouvant être utilisée pour vous contacter, à l’exception de l’adresse électronique de vos parents que nous pouvons vous demander de nous fournir. Nous ne conservons votre adresse électronique sous aucune forme pouvant être utilisée pour vous contacter, à l’exception de l’adresse électronique de vos parents que nous pouvons vous demander de nous fournir. </p>
-<b id="review_deletion">9. Révision, correction et suppression des informations de nos registres</b>
-<p>Si, pour des raisons de protection des données, vous avez des doutes sur l'exactitude des Informations personnelles que nous détenons sur vous ou si vous souhaitez qu'elles soient supprimées de nos registres, consultez ci-dessous notre Politique de protection des données.</p>
-<b id="data_protection">10. Politique de protection des données</b>
-<p>Jagex peut détenir une variété d'informations de contact personnelles telles que : </p>
+<p>Nous recueillerons uniquement les Informations personnelles nï¿½cessaires pour rï¿½pondre ï¿½ nos objectifs commerciaux lï¿½gitimes et les protï¿½gerons avec le mï¿½me niveau de prï¿½caution utilisï¿½ pour assurer la sï¿½curitï¿½, l'intï¿½gritï¿½ et la confidentialitï¿½ de nos propres informations. De plus, nous suivrons des procï¿½dures lï¿½gitimes pour garantir que les tiers auxquels nous transmettons vos Informations personnelles conformï¿½ment ï¿½ cette politique acceptent de fournir une protection suffisante.</p>
+<p>Veuillez noter que, bien que nous nous efforcions ï¿½ protï¿½ger toutes nos informations personnellement identifiables, nous savons tous que des infractions aux donnï¿½es personnelles peuvent ï¿½tre commises, mï¿½me dans les institutions financiï¿½res et gouvernementales respectï¿½es ; cï¿½est pourquoi, il est impossible dï¿½offrir une garantie absolue que de telles atteintes ï¿½ la protection des donnï¿½es ne seront pas portï¿½es. Nous nous engageons ï¿½ vous informer de toutes infractions aux donnï¿½es personnelles que nous dï¿½couvrirons, susceptibles de porter atteinte ï¿½ lï¿½intï¿½gritï¿½ de vos informations personnellement identifiables.</p>
+<b id="childrens_information">8. La politique de confidentialitï¿½ de Jagex concernant les enfants</b>
+<p>Nous ne collectons et ne stockons pas intentionnellement d'Informations personnelles provenant d'enfants de moins de 13 ans. Si l'accï¿½s d'un Produit Jagex n'est pas restreint pour les utilisateurs de moins de 13 ans, Jagex collectera uniquement les donnï¿½es ï¿½ caractï¿½re personnel qui sont nï¿½cessaires ï¿½ l'accï¿½s du Produit Jagex, telles que le nom d'utilisateur, le mot de passe et l'adresse ï¿½lectronique des parents ou tuteurs.</p>
+<p>Si nous constatons que nous dï¿½tenons ou que nous avons divulguï¿½ par inadvertance toutes informations ï¿½ caractï¿½re personnel concernant un joueur de moins de 13 ans (autre que son adresse ï¿½lectronique tronquï¿½e et non exploitable, utilisï¿½e comme nom dï¿½utilisateur), nous les supprimerons de notre systï¿½me, afin de garantir la protection de la vie privï¿½e de lï¿½enfant.</p>
+<p>Jagex ne demandera pas ï¿½ un utilisateur de moins de 13 ans de fournir d'Informations personnelles pour accï¿½der aux forums de Jagex ou aux fonctions de messagerie des Produits Jagex. Par ailleurs, les utilisateurs de Produits Jagex ont accï¿½s ï¿½ une fonction de discussion en ligne dans les Produits Jagex, mais nous prenons des mesures pour que les utilisateurs de moins de 13 ans ne puissent pas communiquer d'Informations personnelles via cette fonction. Ces mesures incluent des filtres de discussion et une modï¿½ration a posteriori. Si toutefois vous divulguez des Informations personnelles via la fonction de discussion d'un Produit Jagex, sachez qu'elles peuvent ï¿½tre lues, collectï¿½es ou utilisï¿½es par d'autres utilisateurs. Nous vous recommandons expressï¿½ment de ne pas divulguer d'Informations personnelles (telles que votre nom rï¿½el, adresse ï¿½lectronique, numï¿½ro de tï¿½lï¿½phone, etc.) sur vous ou un tiers. Jagex n'est pas responsable de l'utilisation des Informations personnelles que vous choisissez de divulguer via les Produits Jagex. Nous vous recommandons expressï¿½ment de ne pas divulguer d'Informations personnelles (telles que votre nom rï¿½el, adresse ï¿½lectronique, numï¿½ro de tï¿½lï¿½phone, etc.) sur vous ou un tiers. Jagex n'est pas responsable de l'utilisation des Informations personnelles que vous choisissez de divulguer via les Produits Jagex. </p>
+<p>Si Jagex vous demande d'utiliser votre adresse ï¿½lectronique comme nom d'utilisateur et que vous avez moins de 13 ans, nous n'enregistrerons pas cette adresse ï¿½lectronique. Celle-ci sera automatiquement enregistrï¿½e sous forme tronquï¿½e et non-exploitable sur notre systï¿½me. Nous ne pourrons pas la rï¿½utiliser pour reconstituer votre adresse ï¿½lectronique sous sa forme complï¿½te. Lorsque vous vous connectez ï¿½ nouveau, il vous sera demandï¿½ dï¿½utiliser votre adresse ï¿½lectronique comme nom dï¿½utilisateur. Lï¿½inscription du nom dï¿½utilisateur gï¿½nï¿½rera alors automatiquement une nouvelle troncature qui sera alors comparï¿½e avec la troncature prï¿½cï¿½demment enregistrï¿½e afin de vous permettre de vous connecter. Nous ne conserverons votre adresse ï¿½lectronique sous aucune forme pouvant ï¿½tre utilisï¿½e pour vous contacter, ï¿½ lï¿½exception de lï¿½adresse ï¿½lectronique de vos parents que nous pouvons vous demander de nous fournir. Nous ne conservons votre adresse ï¿½lectronique sous aucune forme pouvant ï¿½tre utilisï¿½e pour vous contacter, ï¿½ lï¿½exception de lï¿½adresse ï¿½lectronique de vos parents que nous pouvons vous demander de nous fournir. </p>
+<b id="review_deletion">9. Rï¿½vision, correction et suppression des informations de nos registres</b>
+<p>Si, pour des raisons de protection des donnï¿½es, vous avez des doutes sur l'exactitude des Informations personnelles que nous dï¿½tenons sur vous ou si vous souhaitez qu'elles soient supprimï¿½es de nos registres, consultez ci-dessous notre Politique de protection des donnï¿½es.</p>
+<b id="data_protection">10. Politique de protection des donnï¿½es</b>
+<p>Jagex peut dï¿½tenir une variï¿½tï¿½ d'informations de contact personnelles telles que : </p>
 <ul>
 <li>Nom complet</li>
 <li>Adresse postale</li>
-<li>Adresse électronique</li>
-<li>Numéro de téléphone</li>
+<li>Adresse ï¿½lectronique</li>
+<li>Numï¿½ro de tï¿½lï¿½phone</li>
 </ul>
-<p>Notez qu'il est tout à fait possible que nous ne détenions que certaines, voire aucune de ces informations. Cela dépend de ce que vous avez saisi dans nos systèmes.</p>
-<p>Si, pour des raisons de protection des données, vous avez des doutes sur l'exactitude des informations personnelles ci-dessus détenues par Jagex ou si vous souhaitez qu'elles soient supprimées de nos registres, suivez les étapes ci-dessous :</p>
-<b>a. Demande par écrit et coordonnées</b>
-<p>Veuillez exposer brièvement et clairement votre demande. Elle doit inclure sur les points suivants :</p>
+<p>Notez qu'il est tout ï¿½ fait possible que nous ne dï¿½tenions que certaines, voire aucune de ces informations. Cela dï¿½pend de ce que vous avez saisi dans nos systï¿½mes.</p>
+<p>Si, pour des raisons de protection des donnï¿½es, vous avez des doutes sur l'exactitude des informations personnelles ci-dessus dï¿½tenues par Jagex ou si vous souhaitez qu'elles soient supprimï¿½es de nos registres, suivez les ï¿½tapes ci-dessous :</p>
+<b>a. Demande par ï¿½crit et coordonnï¿½es</b>
+<p>Veuillez exposer briï¿½vement et clairement votre demande. Elle doit inclure sur les points suivants :</p>
 <ul>
-<li>Accès aux informations personnelles que nous détenons</li>
-<li>Modification des informations personnelles que nous détenons</li>
-<li>Suppression des informations personnelles que nous détenons</li>
+<li>Accï¿½s aux informations personnelles que nous dï¿½tenons</li>
+<li>Modification des informations personnelles que nous dï¿½tenons</li>
+<li>Suppression des informations personnelles que nous dï¿½tenons</li>
 </ul>
-<p>Veuillez également inclure vos coordonnées complètes, notamment vos coordonnées postales et un numéro de téléphone comportant l'indicatif international.</p>
-<b>b. Preuve d'identité</b>
-<p>Nous exigeons l'une des pièce d'identité avec photo suivantes :</p>
+<p>Veuillez ï¿½galement inclure vos coordonnï¿½es complï¿½tes, notamment vos coordonnï¿½es postales et un numï¿½ro de tï¿½lï¿½phone comportant l'indicatif international.</p>
+<b>b. Preuve d'identitï¿½</b>
+<p>Nous exigeons l'une des piï¿½ce d'identitï¿½ avec photo suivantes :</p>
 <ul>
 <li>photocopie du passeport ; ou</li>
 <li>photocopie du permis de conduire avec photo.</li>
 </ul>
-<p>Le document photocopié doit comporter une photo nette de votre visage ainsi que votre nom complet.</p>
+<p>Le document photocopiï¿½ doit comporter une photo nette de votre visage ainsi que votre nom complet.</p>
 <b>c. Frais de demande</b>
-<p>Le traitement de votre demande de protection des données est facturé £10.00. Ces frais servent à couvrir les charges administratives et sont en accord avec les directives du Data Protection Act. Veuillez joindre un chèque de ce montant à l'ordre de Jagex Ltd dans votre demande par écrit.</p>
-<p>Notez que toutes les étapes précédentes doivent être effectuées dans l'ordre afin que nous puissions délivrer, modifier ou supprimer les informations personnelles que nous détenons. Si les étapes précédentes n'ont pas toutes été effectuées, nous ne pourrons pas traiter la demande de protection des données.</p>
+<p>Le traitement de votre demande de protection des donnï¿½es est facturï¿½ ï¿½10.00. Ces frais servent ï¿½ couvrir les charges administratives et sont en accord avec les directives du Data Protection Act. Veuillez joindre un chï¿½que de ce montant ï¿½ l'ordre de Jagex Ltd dans votre demande par ï¿½crit.</p>
+<p>Notez que toutes les ï¿½tapes prï¿½cï¿½dentes doivent ï¿½tre effectuï¿½es dans l'ordre afin que nous puissions dï¿½livrer, modifier ou supprimer les informations personnelles que nous dï¿½tenons. Si les ï¿½tapes prï¿½cï¿½dentes n'ont pas toutes ï¿½tï¿½ effectuï¿½es, nous ne pourrons pas traiter la demande de protection des donnï¿½es.</p>
 <b>d. Adresse d'envoi de votre demande</b>
-<p>Veuillez envoyer votre demande de protection des données en joignant vos coordonnées complètes, une pièce d'identité et un chèque du montant indiqué à l'adresse suivante :</p>
+<p>Veuillez envoyer votre demande de protection des donnï¿½es en joignant vos coordonnï¿½es complï¿½tes, une piï¿½ce d'identitï¿½ et un chï¿½que du montant indiquï¿½ ï¿½ l'adresse suivante :</p>
 Jagex Ltd.<br/>
 St. John's Innovation Centre<br/>
 Cowley Road<br/>
@@ -287,12 +287,12 @@ Cambridge<br/>
 CB4 0WS<br/>
 United Kingdom
 <br /><br />
-<b>Que se passe-t-il ensuite ?</b>
-<p>Une fois votre demande de protection des données reçue, nous l'examinerons et vous contacterons sous 30 jours. Il est inutile d'essayer de nous contacter avant 30 jours ; cela n'accélérera en rien le processus.</p>
+<b>Que se passe-t-il ensuiteï¿½?</b>
+<p>Une fois votre demande de protection des donnï¿½es reï¿½ue, nous l'examinerons et vous contacterons sous 30 jours. Il est inutile d'essayer de nous contacter avant 30 jours ; cela n'accï¿½lï¿½rera en rien le processus.</p>
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -304,25 +304,25 @@ United Kingdom
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=600/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../a=600/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=600/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/a=600/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=600/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/a=600/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=600/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/a=600/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=600/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=600/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/a=600/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/a=600/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/a=600/p=fBMLAyYZcKjB7H6LqG1ya8HsfouobXJrdthCWSLVEY4/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/a=600/p=fBMLAyYZcKjB7H6LqG1ya8HsfouobXJrdthCWSLVEY4/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

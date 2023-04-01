@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=18/css/global-4.css);/**/
+  /*\*/@import url(../../a=18/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=18/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=18/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=18/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=18/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="Helpful hints to stay safe and maintain a balanced life, while playing FunOrb games.">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=18/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=18/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=18/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=18/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=18/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=18/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=18/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,27 +92,27 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=18/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=18/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=18/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=play_safely" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=play_safely" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/en.gif" alt="English" /></a>
-<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/de.gif" alt="German" /></a>
+<a href="../../a=18/index.ws"><img src="../../a=18/img/images/layout/en.gif" alt="English" /></a>
+<a href="../../l=1/a=18/index.ws"><img src="../../a=18/img/images/layout/de.gif" alt="German" /></a>
 </span>
 </div>
 </li>
@@ -154,10 +154,10 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <b>Photosensitive Seizure Warning</b>
 <br>
 A very small proportion of people can experience epileptic seizures when exposed to certain light patterns or flashing lights. Exposure to these patterns or backgrounds on a computer screen, and often while playing video games, may induce an epileptic seizure in these people. Certain conditions can induce previously undetected epileptic symptoms even in people who have no prior history of prior seizures or epilepsy.<br><br>If you, or anyone in your family, have an epileptic condition, consult your physician prior to playing any FunOrb games. If you experience any of the following symptoms while playing a video or computer game - dizziness, eye or muscle twitches, altered vision, loss of awareness, disorientation, involuntary movement, or convulsions - STOP PLAYING IMMEDIATELY and consult your physician. Only when they have given you the all clear should you resume play.
-<br><br><h4 style="display: inline;">Repetitive Strain Injury Warning</h4><br>Prolonged use of a computer, bad posture and low levels of fitness can all contribute to a condition referred to as Repetitive Strain Injury (RSI).<br><br>To help avoid RSI, please follow these simple steps:<br><br>When playing FunOrb games, take a 10 minute break from your computer every hour. Get up and walk around, do some stretches. Exercise regularly. When using the computer, only maintain a loose grip on the mouse. Never rest your wrists on a support whilst typing or using the mouse. For extended periods of mouse-only use, place the mouse directly in front of you, between you and the monitor. Make sure the top of the monitor is at eye level and directly in front of you and that your seat is at the right height so that your forearms are at right angles to your upper arms.<br><br>The picture below illustrates a correct sitting position:<br><br><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/safetyguidelines/safekeyboard.jpg" alt="Correct posture" title="Correct posture"><br><br>If you have any serious pain or discomfort in your arms, neck, shoulders or back while playing FunOrb games stop playing immediately and consult your physician. Only when they have given you the all clear should you resume play.
+<br><br><h4 style="display: inline;">Repetitive Strain Injury Warning</h4><br>Prolonged use of a computer, bad posture and low levels of fitness can all contribute to a condition referred to as Repetitive Strain Injury (RSI).<br><br>To help avoid RSI, please follow these simple steps:<br><br>When playing FunOrb games, take a 10 minute break from your computer every hour. Get up and walk around, do some stretches. Exercise regularly. When using the computer, only maintain a loose grip on the mouse. Never rest your wrists on a support whilst typing or using the mouse. For extended periods of mouse-only use, place the mouse directly in front of you, between you and the monitor. Make sure the top of the monitor is at eye level and directly in front of you and that your seat is at the right height so that your forearms are at right angles to your upper arms.<br><br>The picture below illustrates a correct sitting position:<br><br><img style="display: block; margin: 0 auto 0 auto;" src="../../a=18/img/images/kbase/safetyguidelines/safekeyboard.jpg" alt="Correct posture" title="Correct posture"><br><br>If you have any serious pain or discomfort in your arms, neck, shoulders or back while playing FunOrb games stop playing immediately and consult your physician. Only when they have given you the all clear should you resume play.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="safely"></a>
@@ -222,10 +222,10 @@ For serious cases in the UK contact your local police force via their station nu
 <td style="width: 300px; border-style: none;"><a href="http://www.childnet-int.org" target="_blank">http://www.childnet-int.org</a></td>
 </tr>
 </table>
-8. If you are a Law Enforcement agency or officer with a request for cooperation or information, please go to our corporate site by <a href="http://www.jagex.com/corporate" target="_blank">clicking here</a>.<br><br>9. If you are a parent seeking more information about FunOrb, you can view our Parents' Guide by <a href="http://www.funorb.com/a=18/parents.ws">clicking here</a>.
+8. If you are a Law Enforcement agency or officer with a request for cooperation or information, please go to our corporate site by <a href="http://www.jagex.com/corporate" target="_blank">clicking here</a>.<br><br>9. If you are a parent seeking more information about FunOrb, you can view our Parents' Guide by <a href="../../a=18/parents.ws">clicking here</a>.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="policy"></a>
@@ -236,7 +236,7 @@ Jagex intends everyone to use and enjoy FunOrb in a responsible way.<br><br>FunO
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -256,15 +256,15 @@ Play Safely and Responsibly, <a href="viewarticle.ws?article_id=30">Scamming Pre
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

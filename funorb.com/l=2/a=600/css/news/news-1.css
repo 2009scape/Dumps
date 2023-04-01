@@ -83,7 +83,7 @@ div.bottomnav img { vertical-align: text-top; }
  padding: 4px;
  width:759px;
  height:130px;
- background-image: url('http://www.funorb.com/l=2/img/news/header_news6.gif');
+ background-image: url('../../../../l=2/img/news/header_news6.gif');
  background-repeat: no-repeat;
 }
 .newstitleframe {
@@ -98,7 +98,7 @@ div.bottomnav img { vertical-align: text-top; }
 
 .adframe {
  position:relative;
- background:transparent url(http://www.funorb.com/l=2/img/images/layout/advert_bg.gif) no-repeat;
+ background:transparent url(../../../../l=2/img/images/layout/advert_bg.gif) no-repeat;
  width:316px;
  height:281px;
  float:right;

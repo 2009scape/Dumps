@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -55,7 +55,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/messenger.js"></script>
 
@@ -64,52 +64,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../l=2/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/forums.ws" class="fly">Forums</a></
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_multiple_logging.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/index.ws">
+<a id="countrydrop" href="../../l=2/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="
+<li><a class="fly" href="../../index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=2/kbase/view.ws?guid=rules_of_conduct">Règles de FunOrb</a> &gt; Connexions multiples 
+<a href="../../l=2/kbase/view.ws?guid=rules_of_conduct">Rï¿½gles de FunOrb</a> &gt; Connexions multiples 
 </div>
 </div>
 </div>
@@ -164,56 +164,56 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 12 mai 2009</div>
-<br> Vous êtes autorisé à créer plusieurs comptes. En revanche, vous ne pouvez pas vous connecter à plusieurs comptes à la fois. En outre, aucune interaction quelle qu'elle soit entre vos comptes n'est autorisée, notamment l'échange par dépôt (drop trading) ou toute autre méthode de transfert d'objets. <br>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 12 mai 2009</div>
+<br> Vous ï¿½tes autorisï¿½ ï¿½ crï¿½er plusieurs comptes. En revanche, vous ne pouvez pas vous connecter ï¿½ plusieurs comptes ï¿½ la fois. En outre, aucune interaction quelle qu'elle soit entre vos comptes n'est autorisï¿½e, notamment l'ï¿½change par dï¿½pï¿½t (drop trading) ou toute autre mï¿½thode de transfert d'objets. <br>
 <br>
 <div class="hr"></div>
-<b>Questions associées</b><br> Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.<br>
+<b>Questions associï¿½es</b><br> Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.<br>
 <br>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ? </a>
-<li><a href="#party">Puis-je utiliser un logiciel tiers pour qu'il se connecte à ma place pendant que je me connecte à un autre compte (de manière à n'utiliser personnellement qu'un seul compte) ?</a>
-<li><a href="#two">J'ai deux comptes. Un ami peut-il jouer avec l'un d'eux de manière que je puisse réaliser des échanges entre personnages ? </a>
-<li><a href="#another">Puis-je donner des objets d'un de mes comptes à un autre joueur de manière qu'il puisse les donner à un autre de mes personnages ? </a>
-<li><a href="#brother">Ai-je le droit d'échanger des objets dans le jeu avec mon co-locataire dans la vie réelle ? </a>
+<li><a href="#why">Pourquoi cette rï¿½gle ? </a>
+<li><a href="#party">Puis-je utiliser un logiciel tiers pour qu'il se connecte ï¿½ ma place pendant que je me connecte ï¿½ un autre compte (de maniï¿½re ï¿½ n'utiliser personnellement qu'un seul compte) ?</a>
+<li><a href="#two">J'ai deux comptes. Un ami peut-il jouer avec l'un d'eux de maniï¿½re que je puisse rï¿½aliser des ï¿½changes entre personnages ? </a>
+<li><a href="#another">Puis-je donner des objets d'un de mes comptes ï¿½ un autre joueur de maniï¿½re qu'il puisse les donner ï¿½ un autre de mes personnages ? </a>
+<li><a href="#brother">Ai-je le droit d'ï¿½changer des objets dans le jeu avec mon co-locataire dans la vie rï¿½elle ? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ? </span><br><br> L'objectif de cette règle est de garantir l'impartialité du jeu. Nous ne souhaitons pas que nos joueurs se sentent obligés d'utiliser plusieurs comptes à la fois pour rester compétitifs. Faire équipe avec des amis est bien plus intéressant ! <br><br>
+<span class="title">1. Pourquoi cette rï¿½gle ? </span><br><br> L'objectif de cette rï¿½gle est de garantir l'impartialitï¿½ du jeu. Nous ne souhaitons pas que nos joueurs se sentent obligï¿½s d'utiliser plusieurs comptes ï¿½ la fois pour rester compï¿½titifs. Faire ï¿½quipe avec des amis est bien plus intï¿½ressant ! <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="party"></a>
-<span class="title">2. Puis-je utiliser un logiciel tiers pour qu'il se connecte à ma place pendant que je me connecte à un autre compte (de manière à n'utiliser personnellement qu'un seul compte) ?</span><br><br> Non, l'utilisation d'un logiciel tiers à des fins personnelles est interdit. Lisez la règle sur l'utilisation de macros, de bots ou de logiciel tiers. <br><br>
+<span class="title">2. Puis-je utiliser un logiciel tiers pour qu'il se connecte ï¿½ ma place pendant que je me connecte ï¿½ un autre compte (de maniï¿½re ï¿½ n'utiliser personnellement qu'un seul compte) ?</span><br><br> Non, l'utilisation d'un logiciel tiers ï¿½ des fins personnelles est interdit. Lisez la rï¿½gle sur l'utilisation de macros, de bots ou de logiciel tiers. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="two"></a>
-<span class="title">3. J'ai deux comptes. Un ami peut-il jouer avec l'un d'eux de manière que je puisse réaliser des échanges entre personnages ? </span><br><br> Non, vous enfreindriez la règle. Vous n'êtes pas autorisé à réaliser des échanges entre deux personnages appartenant à un seul et même joueur. Vous transgresseriez également la règle de partage/d'échange de compte. <br><br>
+<span class="title">3. J'ai deux comptes. Un ami peut-il jouer avec l'un d'eux de maniï¿½re que je puisse rï¿½aliser des ï¿½changes entre personnages ? </span><br><br> Non, vous enfreindriez la rï¿½gle. Vous n'ï¿½tes pas autorisï¿½ ï¿½ rï¿½aliser des ï¿½changes entre deux personnages appartenant ï¿½ un seul et mï¿½me joueur. Vous transgresseriez ï¿½galement la rï¿½gle de partage/d'ï¿½change de compte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="another"></a>
-<span class="title">4. Puis-je donner des objets d'un de mes comptes à un autre joueur de manière qu'il puisse les donner à un autre de mes personnages ? </span><br><br> Non, vous enfreindriez la règle. Le transfert, quel qu'il soit, d'un de vos comptes à l'autre est interdit. <br><br>
+<span class="title">4. Puis-je donner des objets d'un de mes comptes ï¿½ un autre joueur de maniï¿½re qu'il puisse les donner ï¿½ un autre de mes personnages ? </span><br><br> Non, vous enfreindriez la rï¿½gle. Le transfert, quel qu'il soit, d'un de vos comptes ï¿½ l'autre est interdit. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="brother"></a>
-<span class="title">5. Ai-je le droit d'échanger des objets dans le jeu avec mon co-locataire dans la vie réelle ? </span><br><br> Oui, vous n'êtes en infraction d'aucune Règle de conduite, sous réserve de jouer tous les deux à partir de deux comptes distincts créés par chacun de vous. <br><br>
-<p><i>Nous demandons à tout le monde d'observer cette règle pour garantir à chacun une expérience de jeu agréable dans FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, vous risquez une exclusion ou un blocage de la discussion. Les abonnés sous le coup d'une sanction n'ont droit à aucun type de remboursement.</i></p>
+<span class="title">5. Ai-je le droit d'ï¿½changer des objets dans le jeu avec mon co-locataire dans la vie rï¿½elle ? </span><br><br> Oui, vous n'ï¿½tes en infraction d'aucune Rï¿½gle de conduite, sous rï¿½serve de jouer tous les deux ï¿½ partir de deux comptes distincts crï¿½ï¿½s par chacun de vous. <br><br>
+<p><i>Nous demandons ï¿½ tout le monde d'observer cette rï¿½gle pour garantir ï¿½ chacun une expï¿½rience de jeu agrï¿½able dans FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, vous risquez une exclusion ou un blocage de la discussion. Les abonnï¿½s sous le coup d'une sanction n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -222,25 +222,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/p=bcu9g*DbBJDB7H6LqG1ya8HsfouobXJredaFO4jciSg/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/p=bcu9g*DbBJDB7H6LqG1ya8HsfouobXJredaFO4jciSg/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

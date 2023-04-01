@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=orbdefence/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=orbdefence/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=orbdefence/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=orbdefence/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/armiesofgielinor/intro.jpg);
+  background-image: url(../../l=1/img/images/game/armiesofgielinor/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen5.jpg?1';
+images[0] = '../../l=1/img/images/game/armiesofgielinor/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/armiesofgielinor/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/armiesofgielinor/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/armiesofgielinor/screen5.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=orbdefence/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=orbdefence/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=orbdefence/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=orbdefence/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=orbdefence/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=orbdefence/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=orbdefence/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=orbdefence/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=orbdefence/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=orbdefence/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=orbdefence/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=orbdefence/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=orbdefence/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=orbdefence/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=orbdefence/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=orbdefence/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=orbdefence/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=orbdefence/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=orbdefence/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=orbdefence/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=orbdefence/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=orbdefence/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=orbdefence/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=orbdefence/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=orbdefence/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=orbdefence/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=orbdefence/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=orbdefence/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=orbdefence/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=orbdefence/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=orbdefence/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=armiesofgielinor" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=orbdefence/index.ws">
+<a id="countrydrop" href="../../l=1/g=orbdefence/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=orbdefence/index.ws"><img title="
+<li><a class="fly" href="../../g=orbdefence/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=orbdefence/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=orbdefence/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=orbdefence/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=orbdefence/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=orbdefence/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=orbdefence/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=orbdefence/armiesofgielinor/play.ws">Kampf um Gielinor</a> &gt;
+<a href="../../l=1/g=orbdefence/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=orbdefence/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=orbdefence/armiesofgielinor/play.ws">Kampf um Gielinor</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=orbdefence/armiesofgielinor/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=orbdefence/armiesofgielinor/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=orbdefence/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kämpft im Namen eurer Gottheit gegen die Armeen von Gielinor. </div>
+<a href="../../l=1/g=orbdefence/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kï¿½mpft im Namen eurer Gottheit gegen die Armeen von Gielinor. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=orbdefence/armiesofgielinor/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=orbdefence/armiesofgielinor/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/armiesofgielinor/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/armiesofgielinor/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/armiesofgielinor/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/armiesofgielinor/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen5" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/armiesofgielinor/screen5_thumb.jpg?1);">
+<a href="../../l=1/g=orbdefence/display_screenshot.ws?game=armiesofgielinor&screenshot=screen5" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/armiesofgielinor/screen5_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -313,7 +313,7 @@ Features - Kampf um Gielinor
 
 <li>Strategie in der Welt von RuneScape</li>
 <li>27 kontrollierbare Einheiten</li>
-<li>Online-Mehrspieler für bis zu 8 Personen</li>
+<li>Online-Mehrspieler fï¿½r bis zu 8 Personen</li>
 <li>Teamspiele (2, 3 und 4 Spieler pro Team) und 'Jeder gegen Jeden'</li>
 <li>Unbewertete Partien</li>
 <li>Zamorak-Einzelspielerkampagne</li>
@@ -333,9 +333,9 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Kampf um Gielinor (KuG) ist ein rundenbasiertes Strategiespiel für bis zu 8 Spieler. Es ist das erste FunOrb-Spiel, das auf unserem erfolgreichen Online-Rollenspiel RuneScape basiert. (Gielinor ist ein anderer Name für die Welt von RuneScape.) Eure Anfänge sind bescheiden: Mit einem Barbaren-Häuptling müsst ihr Orte erobern, neue Truppen rekrutieren und euch gegen eure Feinde behaupten - damit ihr am Ende die mächtigste Armee Gielinors befehligt.</p>
-<p>Des Weiteren gibt es drei kartenbasierte Einzelspieler-Kampagnen, bei der ihr Zamoraks epische Eroberung Morytanias, Saradomins Wiedergewinnung von Asgarnien und Misthalin und das Erwachen des mächtigen Guthix nachspielen könnt. Dabei müsst ihr insgesamt auf 60 Missionen euer taktisches Geschick beweisen und habt viele verschiedene Möglichkeiten, die Kampagnen zu beenden.</p>
-<p>Es gibt viele verschiedene Truppen, die den unterschiedlichen Göttern Gielinors unterstehen. Einige sind sehr mächtig, andere haben die Fähigkeit, die Umgebung zu verändern, oder bieten euch verschiedene andere strategische Möglichkeiten. Könnt ihr eure Armee so aufbauen, dass ihr es mit dem stärksten Feind aufnehmt?</p>
+<p>Kampf um Gielinor (KuG) ist ein rundenbasiertes Strategiespiel fï¿½r bis zu 8 Spieler. Es ist das erste FunOrb-Spiel, das auf unserem erfolgreichen Online-Rollenspiel RuneScape basiert. (Gielinor ist ein anderer Name fï¿½r die Welt von RuneScape.) Eure Anfï¿½nge sind bescheiden: Mit einem Barbaren-Hï¿½uptling mï¿½sst ihr Orte erobern, neue Truppen rekrutieren und euch gegen eure Feinde behaupten - damit ihr am Ende die mï¿½chtigste Armee Gielinors befehligt.</p>
+<p>Des Weiteren gibt es drei kartenbasierte Einzelspieler-Kampagnen, bei der ihr Zamoraks epische Eroberung Morytanias, Saradomins Wiedergewinnung von Asgarnien und Misthalin und das Erwachen des mï¿½chtigen Guthix nachspielen kï¿½nnt. Dabei mï¿½sst ihr insgesamt auf 60 Missionen euer taktisches Geschick beweisen und habt viele verschiedene Mï¿½glichkeiten, die Kampagnen zu beenden.</p>
+<p>Es gibt viele verschiedene Truppen, die den unterschiedlichen Gï¿½ttern Gielinors unterstehen. Einige sind sehr mï¿½chtig, andere haben die Fï¿½higkeit, die Umgebung zu verï¿½ndern, oder bieten euch verschiedene andere strategische Mï¿½glichkeiten. Kï¿½nnt ihr eure Armee so aufbauen, dass ihr es mit dem stï¿½rksten Feind aufnehmt?</p>
 </div>
 </div>
 </div>
@@ -356,9 +356,9 @@ Fragen und Antworten
 <li><a href="#faqs_q4">Wo liegt Gielinor und was ist RuneScape?</a></li>
 <li><a href="#faqs_q5">Kann ich meinen RuneScape-Charakter beeinflussen, indem ich Kampf um Gielinor spiele?</a></li>
 <li><a href="#faqs_q6">Zu welchem Zeitpunkt der Geschichte von RuneScape spielt Kampf um Gielinor?</a></li>
-<li><a href="#faqs_q7">Warum wurden gerade diese Truppen ausgewählt?</a></li>
-<li><a href="#faqs_q8">Werden die Truppen, die es nur in KuG gibt, demnächst auch auf RuneScape erscheinen?</a></li>
-<li><a href="#faqs_q9">Hat Kampf um Gielinor irgendwas mit dem geplanten RuneScape-Minispiel 'Wettrüsten' zu tun?</a></li>
+<li><a href="#faqs_q7">Warum wurden gerade diese Truppen ausgewï¿½hlt?</a></li>
+<li><a href="#faqs_q8">Werden die Truppen, die es nur in KuG gibt, demnï¿½chst auch auf RuneScape erscheinen?</a></li>
+<li><a href="#faqs_q9">Hat Kampf um Gielinor irgendwas mit dem geplanten RuneScape-Minispiel 'Wettrï¿½sten' zu tun?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
@@ -369,30 +369,30 @@ Fragen und Antworten
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Wie viele Truppen gibt es insgesamt?</h3>
-<p>Insgesamt gibt es 76 verschiedene Truppen. Jede der sechs Gottheiten hat 11 Truppen unter sich, zusätzlich gibt es 9 neutrale Truppen, und den Barbaren-Häuptling, mit dem ihr das Spiel beginnt. Falls ihr euch wundert: Die neunte neutrale Truppe ist ein Rotdrache, der nur verfügbar ist, wenn einer eurer Mitspieler bereits einen Königs-Schwarzdrachen ins Spiel gebracht hat. Spieler der kostenlosen Version können auf 27 Truppen zugreifen, unter anderem auf den Barbaren-Häuptling und den Königs-Schwarzdrachen.</p>
+<p>Insgesamt gibt es 76 verschiedene Truppen. Jede der sechs Gottheiten hat 11 Truppen unter sich, zusï¿½tzlich gibt es 9 neutrale Truppen, und den Barbaren-Hï¿½uptling, mit dem ihr das Spiel beginnt. Falls ihr euch wundert: Die neunte neutrale Truppe ist ein Rotdrache, der nur verfï¿½gbar ist, wenn einer eurer Mitspieler bereits einen Kï¿½nigs-Schwarzdrachen ins Spiel gebracht hat. Spieler der kostenlosen Version kï¿½nnen auf 27 Truppen zugreifen, unter anderem auf den Barbaren-Hï¿½uptling und den Kï¿½nigs-Schwarzdrachen.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Gibt es irgendwelche Tipps und Tricks?</h3>
 <p>Ja:</p>
 <ul>
 <li>Versucht zuerst, ein Portal zu erobern...</li>
-<li>... und lasst es nie ungeschützt!</li>
-<li>Durchs Erobern von Orten bekommt ihr Mana und Siegpunkte, welche euch zum Sieg verhelfen. Wenn ihr eure Truppen auf einem Ort stationiert, werden sie geheilt und erhalten einen Verteidigungsbonus, also erobert schnell so viele Orte wie möglich.</li>
-<li>Nur Barbaren können Orte erobern, also braucht ihr anfangs viele davon.</li>
-<li>Setzt euren Barbaren-Häuptling schlau ein, denn er kann Orte schneller erobern als normale Barbaren.</li>
-<li>Wenn eure Truppen sterben, hinterlassen sie einen Haufen Knochen. Die könnt ihr gut gebrauchen, wenn ihr einen Nekromanten besitzt.</li>
-<li>Nutzt das Terrain zu eurem Vorteil. Werft ein Auge auf die Engpässe und behaltet im Hinterkopf, welche Truppen für welches Terrain geeignet sind.</li>
-<li>Helfer-Truppen und Einheiten mit Spezialfähigkeiten können den Ausgang der Schlacht dramatisch beeinflussen.</li>
-<li>Zieht schnell, denn für das frühzeitige Beenden eures Zugs erhaltet ihr zusätzliches Mana.</li>
-<li>Wenn ihr einen vom Feind kontrollierten Ort besetzt, erhält euer Gegner weniger Mana. Natürlich betrifft euch das genauso.</li>
-<li>Manche Truppen sind besser für den Kampf gegen bestimmte Gegner geeignet als andere.</li>
-<li>Die wichtigste Regel von allen: Habt Spaß beim Spielen!</li>
+<li>... und lasst es nie ungeschï¿½tzt!</li>
+<li>Durchs Erobern von Orten bekommt ihr Mana und Siegpunkte, welche euch zum Sieg verhelfen. Wenn ihr eure Truppen auf einem Ort stationiert, werden sie geheilt und erhalten einen Verteidigungsbonus, also erobert schnell so viele Orte wie mï¿½glich.</li>
+<li>Nur Barbaren kï¿½nnen Orte erobern, also braucht ihr anfangs viele davon.</li>
+<li>Setzt euren Barbaren-Hï¿½uptling schlau ein, denn er kann Orte schneller erobern als normale Barbaren.</li>
+<li>Wenn eure Truppen sterben, hinterlassen sie einen Haufen Knochen. Die kï¿½nnt ihr gut gebrauchen, wenn ihr einen Nekromanten besitzt.</li>
+<li>Nutzt das Terrain zu eurem Vorteil. Werft ein Auge auf die Engpï¿½sse und behaltet im Hinterkopf, welche Truppen fï¿½r welches Terrain geeignet sind.</li>
+<li>Helfer-Truppen und Einheiten mit Spezialfï¿½higkeiten kï¿½nnen den Ausgang der Schlacht dramatisch beeinflussen.</li>
+<li>Zieht schnell, denn fï¿½r das frï¿½hzeitige Beenden eures Zugs erhaltet ihr zusï¿½tzliches Mana.</li>
+<li>Wenn ihr einen vom Feind kontrollierten Ort besetzt, erhï¿½lt euer Gegner weniger Mana. Natï¿½rlich betrifft euch das genauso.</li>
+<li>Manche Truppen sind besser fï¿½r den Kampf gegen bestimmte Gegner geeignet als andere.</li>
+<li>Die wichtigste Regel von allen: Habt Spaï¿½ beim Spielen!</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Wo liegt Gielinor und was ist RuneScape?</h3>
-<p>RuneScape ist ein anderer Name für Gielinor, den Schauplatz des Spiels. Gleichzeitig ist es auch der Name von <a href="http://www.jagex.com" target="_blank">Jagex'</a> großem Fantasy-MMORPG. Wenn ihr das Rollenspiel nicht kennt oder es schon immer mal ausprobieren wolltet, schaut auf der <a href="http://www.runescape.com/l=1/" target="_blank">RuneScape-Website</a> vorbei.</p>
-<p>Mit eurem FunOrb-Konto und Passwort könnt ihr euch auch Zutritt zu RuneScape verschaffen und große Teile des Spiels kostenlos spielen. Falls ihr beide Spiele abonnieren wollt, bieten wir eine Kombi-Mitgliedschaft für RuneScape und FunOrb an.</p>
+<p>RuneScape ist ein anderer Name fï¿½r Gielinor, den Schauplatz des Spiels. Gleichzeitig ist es auch der Name von <a href="http://www.jagex.com" target="_blank">Jagex'</a> groï¿½em Fantasy-MMORPG. Wenn ihr das Rollenspiel nicht kennt oder es schon immer mal ausprobieren wolltet, schaut auf der <a href="http://www.runescape.com/l=1/" target="_blank">RuneScape-Website</a> vorbei.</p>
+<p>Mit eurem FunOrb-Konto und Passwort kï¿½nnt ihr euch auch Zutritt zu RuneScape verschaffen und groï¿½e Teile des Spiels kostenlos spielen. Falls ihr beide Spiele abonnieren wollt, bieten wir eine Kombi-Mitgliedschaft fï¿½r RuneScape und FunOrb an.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Kann ich meinen RuneScape-Charakter beeinflussen, indem ich Kampf um Gielinor spiele?</h3>
@@ -400,31 +400,31 @@ Fragen und Antworten
 <div class="hr"></div>
 <a name="faqs_q6"></a>
 <h3>6. Zu welchem Zeitpunkt der Geschichte von RuneScape spielt Kampf um Gielinor?</h3>
-<p>KuG spielt zu keiner bestimmten Zeit in der RuneScape-Geschichte, könnte aber in den Tagen der Götterkriege stattgefunden haben. Es ist zwar etwas ungewohnt, dass Truppen Saradomins an der Seite von zamorakischen Streitkräften kämpfen, aber zu diesen chaotischen Zeiten der RuneScape-Geschichte war es durchaus denkbar, dass zur Erreichung eines größeren Ziels kurzzeitig derartige Bündnisse geschlossen wurden.</p>
+<p>KuG spielt zu keiner bestimmten Zeit in der RuneScape-Geschichte, kï¿½nnte aber in den Tagen der Gï¿½tterkriege stattgefunden haben. Es ist zwar etwas ungewohnt, dass Truppen Saradomins an der Seite von zamorakischen Streitkrï¿½ften kï¿½mpfen, aber zu diesen chaotischen Zeiten der RuneScape-Geschichte war es durchaus denkbar, dass zur Erreichung eines grï¿½ï¿½eren Ziels kurzzeitig derartige Bï¿½ndnisse geschlossen wurden.</p>
 <div class="hr"></div>
 <a name="faqs_q7"></a>
-<h3>7. Warum wurden gerade diese Truppen ausgewählt?</h3>
-<p>Wir haben uns gut überlegt, welche Truppen wir für KuG übernehmen wollen, und dabei verschiedenste Faktoren beachtet. Wir konnten nicht jede einzelne Kreatur auf RuneScape mitaufnehmen. Wenn ihr lieber andere Wesen in KuG gesehen hättet, dann lasst es uns wissen. Wenn eure Vorschläge in unser Spielkonzept passen, werden sie eventuell hinzugefügt.</p>
+<h3>7. Warum wurden gerade diese Truppen ausgewï¿½hlt?</h3>
+<p>Wir haben uns gut ï¿½berlegt, welche Truppen wir fï¿½r KuG ï¿½bernehmen wollen, und dabei verschiedenste Faktoren beachtet. Wir konnten nicht jede einzelne Kreatur auf RuneScape mitaufnehmen. Wenn ihr lieber andere Wesen in KuG gesehen hï¿½ttet, dann lasst es uns wissen. Wenn eure Vorschlï¿½ge in unser Spielkonzept passen, werden sie eventuell hinzugefï¿½gt.</p>
 <div class="hr"></div>
 <a name="faqs_q8"></a>
-<h3>8. Werden die Truppen, die es nur in KuG gibt, demnächst auch auf RuneScape erscheinen?</h3>
-<p>Kurz gesagt: nein. Unser Ziel war, KuG kurzweilig und ausgewogen zu gestalten. Statt bestehenden RuneScape-Wesen neue, KuG-spezifische Fähigkeiten zu verleihen, haben wir lieber neue Kreaturen erschaffen, die gut ins RuneScape-Universum passen würden. Ob diese allerdings in Zukunft auch auf RuneScape Einzug halten, hängt davon ab, ob sich eine passende Gelegenheit bietet.</p>
+<h3>8. Werden die Truppen, die es nur in KuG gibt, demnï¿½chst auch auf RuneScape erscheinen?</h3>
+<p>Kurz gesagt: nein. Unser Ziel war, KuG kurzweilig und ausgewogen zu gestalten. Statt bestehenden RuneScape-Wesen neue, KuG-spezifische Fï¿½higkeiten zu verleihen, haben wir lieber neue Kreaturen erschaffen, die gut ins RuneScape-Universum passen wï¿½rden. Ob diese allerdings in Zukunft auch auf RuneScape Einzug halten, hï¿½ngt davon ab, ob sich eine passende Gelegenheit bietet.</p>
 <div class="hr"></div>
 <a name="faqs_q9"></a>
-<h3>9. Hat Kampf um Gielinor irgendwas mit dem geplanten RuneScape-Minispiel 'Wettrüsten' zu tun?</h3>
-<p>Nein, Kampf um Gielinor und das 'Wettrüsten' wurden von vornherein als zwei völlig separate Spiele konzipiert.</p>
+<h3>9. Hat Kampf um Gielinor irgendwas mit dem geplanten RuneScape-Minispiel 'Wettrï¿½sten' zu tun?</h3>
+<p>Nein, Kampf um Gielinor und das 'Wettrï¿½sten' wurden von vornherein als zwei vï¿½llig separate Spiele konzipiert.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>10. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -440,13 +440,13 @@ Vorteile einer Mitgliedschaft
 <div>
 <p style="padding-bottom: 5px;">Mitglieder-Features:</p>
 <ul style="line-height: 22px;">
-<li>Über 40 weitere Einheiten (einige Top-RuneScape-Einheiten)</li>
+<li>ï¿½ber 40 weitere Einheiten (einige Top-RuneScape-Einheiten)</li>
 <li>Drei weitere Gottheiten: Seren, Bandos und das menaphitische Pantheon</li>
-<li>Ausrüstung - kauft euch Gegenstände mit Runen, die eurer Armee zum Sieg verhelfen</li>
-<li>Alle drei Einzelspieler-Kampagnen: Zamoraks Rückkehr, Saradomins Rache und Guthix erwacht</li>
+<li>Ausrï¿½stung - kauft euch Gegenstï¿½nde mit Runen, die eurer Armee zum Sieg verhelfen</li>
+<li>Alle drei Einzelspieler-Kampagnen: Zamoraks Rï¿½ckkehr, Saradomins Rache und Guthix erwacht</li>
 <li>Weitere Wappen-Designs</li>
 <li>Angesehenes Wappen</li>
-<li>Alle vier Karten, auch die exklusiven Mitglieder-Karten 'Eisplateau' und 'Sümpfe von Salbland'</li>
+<li>Alle vier Karten, auch die exklusiven Mitglieder-Karten 'Eisplateau' und 'Sï¿½mpfe von Salbland'</li>
 <li>Zugang zu Rang-Partien</li>
 <li>Zugang zu allen Erfolgen</li>
 <li>Vollbild und skalierbares Spielfenster.</li>
@@ -454,7 +454,7 @@ Vorteile einer Mitgliedschaft
 <li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/g=orbdefence/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=orbdefence/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -476,7 +476,7 @@ Development Team
 <b>Translation:</b> Veronika H,&nbsp;Florian P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -489,25 +489,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=orbdefence/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=orbdefence/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=orbdefence/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=orbdefence/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=orbdefence/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=orbdefence/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=orbdefence/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=orbdefence/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=orbdefence/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=orbdefence/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=orbdefence/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=orbdefence/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=orbdefence/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=orbdefence/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

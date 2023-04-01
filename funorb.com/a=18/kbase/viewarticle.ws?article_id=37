@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=18/css/global-4.css);/**/
+  /*\*/@import url(../../a=18/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=18/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=18/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=18/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=18/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="You must not scam or deceive other players.">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=18/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=18/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=18/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=18/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=18/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=18/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=18/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,27 +92,27 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=18/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=18/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=18/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=37" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=37" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/en.gif" alt="English" /></a>
-<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/de.gif" alt="German" /></a>
+<a href="../../a=18/index.ws"><img src="../../a=18/img/images/layout/en.gif" alt="English" /></a>
+<a href="../../l=1/a=18/index.ws"><img src="../../a=18/img/images/layout/de.gif" alt="German" /></a>
 </span>
 </div>
 </li>
@@ -164,28 +164,28 @@ Below are some related questions which may help you to further understand and fo
 <span class="title">1. Why do we have this rule? </span><br><br>
 We have this rule to help protect new players, and to help prevent our games being spoilt for others. If you don't understand why we have this rule then try to imagine how you would feel if you had spent hours achieving something and somebody else had then tricked you out of it. We want our games to be fun, and being scammed is anything but fun. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="scam"></a>
 <span class="title">2. What does 'scam' mean?</span><br><br>
 To 'scam' means to cheat another player during a trade. Lying to other players for your own personal gain is not in the spirit of our games and will not be tolerated. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="rare"></a>
 <span class="title">3. Is it a scam to claim an item is rare when it isn't? </span><br><br>
 Yes. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="switch"></a>
 <span class="title">4. Is it a scam to switch items at the last second before pressing accept, and hoping the other player won't notice? </span><br><br>
 Yes. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="money"></a>
@@ -195,19 +195,19 @@ It is not considered a scam to ask for large amounts of money for an item, but i
 Remember, that in some games, the second trade-window is there to keep you safe from scammers. If someone is not giving you enough time to check the items being traded then we would strongly advise you to find someone else to trade with. Do not hit the 'Accept' button in the second stage of trading unless you are totally satisfied with the trade. You will not get in trouble for scamming if you choose to take your time and check that everything is as it should be.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="drop"></a>
 <span class="title">6. If someone picks up my dropped items, is that scamming?</span><br><br>
-No. If someone picks up an item that you have dropped because you no longer require it, then this is not item scamming. When you drop an item it takes a short length of time until it becomes visible to other players, so even if you drop the item accidentally you can still retrieve it again before anyone else has the chance to pick it up. You may not drop items with the intention of trading them to another of your characters. This type of drop trading is against <a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rule_8_multiple_logging_in">Rule 8</a> in the Rules of Conduct. <br><br>
+No. If someone picks up an item that you have dropped because you no longer require it, then this is not item scamming. When you drop an item it takes a short length of time until it becomes visible to other players, so even if you drop the item accidentally you can still retrieve it again before anyone else has the chance to pick it up. You may not drop items with the intention of trading them to another of your characters. This type of drop trading is against <a href="../../a=18/kbase/view.ws?guid=rule_8_multiple_logging_in">Rule 8</a> in the Rules of Conduct. <br><br>
 <p><i>To keep FunOrb enjoyable for everyone please observe and follow this rule. We will not tolerate disruptive players, and if you break our rules your account is likely to be banned. Members who are banned for breaking our rules are not entitled to any sort of refund.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -227,15 +227,15 @@ No. If someone picks up an item that you have dropped because you no longer requ
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

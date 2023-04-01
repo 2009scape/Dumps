@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=brickabrac/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=brickabrac/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=brickabrac/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=brickabrac/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/intro.jpg);
+  background-image: url(../../l=1/img/images/game/bouncedown/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/bouncedown/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/bouncedown/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/bouncedown/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/bouncedown/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/bouncedown/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=brickabrac/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=brickabrac/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=brickabrac/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=brickabrac/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=brickabrac/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=brickabrac/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=brickabrac/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=brickabrac/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=brickabrac/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=brickabrac/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=brickabrac/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=brickabrac/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=brickabrac/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=brickabrac/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=brickabrac/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=brickabrac/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=brickabrac/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=brickabrac/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=brickabrac/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=brickabrac/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=brickabrac/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=brickabrac/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=brickabrac/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=brickabrac/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=brickabrac/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=brickabrac/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=brickabrac/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=brickabrac/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=brickabrac/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=bouncedown" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=brickabrac/index.ws">
+<a id="countrydrop" href="../../l=1/g=brickabrac/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=brickabrac/index.ws"><img title="
+<li><a class="fly" href="../../g=brickabrac/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=brickabrac/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=brickabrac/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=brickabrac/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=brickabrac/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=brickabrac/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=brickabrac/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=brickabrac/bouncedown/play.ws">Bouncedown</a> &gt;
+<a href="../../l=1/g=brickabrac/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=brickabrac/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=brickabrac/bouncedown/play.ws">Bouncedown</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=brickabrac/bouncedown/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=brickabrac/bouncedown/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=brickabrac/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Oben Stacheln, unten Höllenfeuer. Seid ihr und eure Freunde bereit für den Sprung? </div>
+<a href="../../l=1/g=brickabrac/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Oben Stacheln, unten Hï¿½llenfeuer. Seid ihr und eure Freunde bereit fï¿½r den Sprung? </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=brickabrac/bouncedown/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=brickabrac/bouncedown/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/bouncedown/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/bouncedown/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bouncedown/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bouncedown/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bouncedown/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/bouncedown/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=brickabrac/display_screenshot.ws?game=bouncedown&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/bouncedown/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -319,7 +319,7 @@ Vorteile einer Mitgliedschaft
 
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/g=brickabrac/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=brickabrac/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -333,7 +333,7 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Eine unendliche Folge von Plattformen steigt aus dem Feuer am Boden zu den Stacheln nach oben. Wenn ihr zu weit nach oben geratet, platzt ihr an den Stacheln, wenn ihr eine Plattform verfehlt, fallt ihr womöglich in das Feuer. Wie weit nach unten könnt ihr springen? Bis zu drei Spieler können dieses teuflische Spiel voller Plattformen gegeneinander spielen.</p>
+<p>Eine unendliche Folge von Plattformen steigt aus dem Feuer am Boden zu den Stacheln nach oben. Wenn ihr zu weit nach oben geratet, platzt ihr an den Stacheln, wenn ihr eine Plattform verfehlt, fallt ihr womï¿½glich in das Feuer. Wie weit nach unten kï¿½nnt ihr springen? Bis zu drei Spieler kï¿½nnen dieses teuflische Spiel voller Plattformen gegeneinander spielen.</p>
 </div>
 </div>
 </div>
@@ -350,7 +350,7 @@ Fragen und Antworten
 <ol>
 <li><a href="#faqs_q1">Wie viele unterschiedliche Plattformen gibt es?</a></li>
 <li><a href="#faqs_q2">Was ist der Unterschied zwischen dem Herausforderungs-Modus und dem Kampf-Modus?</a></li>
-<li><a href="#faqs_q3">Welche Tasten sind für welchen Spieler, wenn man zu mehreren spielt?</a></li>
+<li><a href="#faqs_q3">Welche Tasten sind fï¿½r welchen Spieler, wenn man zu mehreren spielt?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
@@ -360,21 +360,21 @@ Fragen und Antworten
 <p>Es gibt sieben verschiedene Arten von Plattformen.</p>
 <ul>
 <li>Normal</li>
-<li>Sprung-Plattform - je kleiner ihr seid, desto höher springt ihr</li>
+<li>Sprung-Plattform - je kleiner ihr seid, desto hï¿½her springt ihr</li>
 <li>Wolken-Plattform - wird unter euch verschwinden, wenn ihr nicht klein seid</li>
-<li>Roll-Plattform - ein Förderband schiebt euch in Pfeilrichtung</li>
-<li>Wachstums-Plattform - macht euch groß und stark</li>
+<li>Roll-Plattform - ein Fï¿½rderband schiebt euch in Pfeilrichtung</li>
+<li>Wachstums-Plattform - macht euch groï¿½ und stark</li>
 <li>Schrumpf-Plattform - macht euch klein und schnell</li>
-<li>Hörner-Plattform - gibt euch Stacheln, um andere Spieler anzugreifen</li>
+<li>Hï¿½rner-Plattform - gibt euch Stacheln, um andere Spieler anzugreifen</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Was ist der Unterschied zwischen dem Herausforderungs-Modus und dem Kampf-Modus?</h3>
-<p>Bei der Einzelspieler-Herausforderung geht es darum, möglichst lange zu überleben. Je weiter ihr nach unten springt, um so schneller kommen die Plattformen nach oben. Wenn ihr zu zweit oder zu dritt gegeneinander kämpft, geht es darum, eure Gegenspieler zu überleben.</p>
+<p>Bei der Einzelspieler-Herausforderung geht es darum, mï¿½glichst lange zu ï¿½berleben. Je weiter ihr nach unten springt, um so schneller kommen die Plattformen nach oben. Wenn ihr zu zweit oder zu dritt gegeneinander kï¿½mpft, geht es darum, eure Gegenspieler zu ï¿½berleben.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Welche Tasten sind für welchen Spieler, wenn man zu mehreren spielt?</h3>
-<p>In Bouncedown könnt ihr gegen zwei eurer Freunde am gleichen Computer spielen. Informationen zur Steuerung: <ul>
+<h3>3. Welche Tasten sind fï¿½r welchen Spieler, wenn man zu mehreren spielt?</h3>
+<p>In Bouncedown kï¿½nnt ihr gegen zwei eurer Freunde am gleichen Computer spielen. Informationen zur Steuerung: <ul>
 <li>Spieler 1: Y und X</li>
 <li>Spieler 2: LINKS und RECHTS</li>
 <li>Spieler 3: K und L</li>
@@ -385,12 +385,12 @@ Fragen und Antworten
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>500 MHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -412,7 +412,7 @@ Development Team
 <b>Translation:</b> Gesine P,&nbsp;Heiko J,&nbsp; Frank B
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -425,25 +425,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=brickabrac/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=brickabrac/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=brickabrac/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=brickabrac/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=brickabrac/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=brickabrac/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=brickabrac/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=brickabrac/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=brickabrac/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=brickabrac/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=brickabrac/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=brickabrac/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=brickabrac/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=brickabrac/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

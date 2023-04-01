@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=119/css/global-20.css);/**/
+  /*\*/@import url(../../a=119/css/global-20.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=119/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=119/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=119/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=119/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -47,12 +47,12 @@ en">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/a=119/css/info-6.css");/**/
+ /*\*/@import url("../../a=119/css/info-6.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/a=119/img/images/game/shatteredplans/intro.jpg);
+  background-image: url(../../a=119/img/images/game/shatteredplans/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/a=119/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../a=119/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -64,10 +64,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/a=119/img/images/game/shatteredplans/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/a=119/img/images/game/shatteredplans/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/a=119/img/images/game/shatteredplans/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/a=119/img/images/game/shatteredplans/screen4a.jpg?1';
+images[0] = '../../a=119/img/images/game/shatteredplans/screen1.jpg?1';
+images[1] = '../../a=119/img/images/game/shatteredplans/screen2.jpg?1';
+images[2] = '../../a=119/img/images/game/shatteredplans/screen3.jpg?1';
+images[3] = '../../a=119/img/images/game/shatteredplans/screen4a.jpg?1';
 //
 function clearLoading(){
  try{
@@ -133,13 +133,13 @@ function imageGoto(self, img){
 <div class="container">
 
 <h1 id="logo">
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws" ><b>
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws" ><b>
 <script type="text/javascript">
- var I="http://www.funorb.com/a=119/img";
+ var I="../../a=119/img";
  document.write('<img src="'+I+'/images/layout/logo_funorb_aog_'+Math.ceil(Math.random()*6)+'.png" alt="FunOrb" />');
 </script>
 <noscript>
-<img src="http://www.funorb.com/a=119/img/images/layout/logo_funorb_aog.png" alt="FunOrb" />
+<img src="../../a=119/img/images/layout/logo_funorb_aog.png" alt="FunOrb" />
 </noscript>
 </b></a>
 </h1>
@@ -159,15 +159,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -175,8 +175,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -193,37 +193,37 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=shatteredplans" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=shatteredplans" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws">
+<a id="countrydrop" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=119/img/images/layout/en.gif">
+<img alt="English" src="../../a=119/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=119/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=119/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=119/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=119/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="English" alt="English" src="../../a=119/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Deutsch" alt="Deutsch" src="../../a=119/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../a=119/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../a=119/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -239,13 +239,13 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws">Games</a> &gt;
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?genreBox=strategy">Strategy</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/play.ws">Shattered Plans</a> &gt;
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws">Games</a> &gt;
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?genreBox=strategy">Strategy</a> &gt;
+<a onclick="suffixize(this)" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/play.ws">Shattered Plans</a> &gt;
 More Info
 </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/serverlist.ws">Server List</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/serverlist.ws">Server List</a>
 </span>
 
 </div>
@@ -258,14 +258,14 @@ More Info
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?genreBox=strategy"><span class="genre">Strategy</span></a><br>
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/gamelist.ws?genreBox=strategy"><span class="genre">Strategy</span></a><br>
 Bend worlds to your will, harvest their resources and conquer the galaxy.
 </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
 <a class="buttonWide" href="#faqs"><div>FAQs</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/"><div>Create Free Account</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/shatteredplans/play.ws"></a>
 </div>
 
 <a name="screenshots"></a>
@@ -277,23 +277,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/a=119/img/images/game/shatteredplans/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../a=119/img/images/game/shatteredplans/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/a=119/img/images/game/shatteredplans/screen1_thumb.jpg?1);">
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../a=119/img/images/game/shatteredplans/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/a=119/img/images/game/shatteredplans/screen2_thumb.jpg?1);">
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../a=119/img/images/game/shatteredplans/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/a=119/img/images/game/shatteredplans/screen3_thumb.jpg?1);">
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../a=119/img/images/game/shatteredplans/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/a=119/img/images/game/shatteredplans/screen4a_thumb.jpg?1);">
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/display_screenshot.ws?dirname=shatteredplans&filename=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../a=119/img/images/game/shatteredplans/screen4a_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -320,7 +320,7 @@ Shattered Plans Members' Benefits
 <li>No adverts during gameplay</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -366,12 +366,12 @@ FAQs
 <p>After the tutorial, it might be worth playing a few games in Single-player Skirmish mode. This mode pits you against some more AI opponents, allowing you to hone your skills a little before taking on human opposition in the Multiplayer Lobby. You'll also find a recap of everything in the tutorial in the Instructions.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. What are the special projects, how do I get them and what do they do?</h3>
-<p>There are four special projects that can be the difference between victory and defeat: Defensive Net, Terraforming, Stellar Bomb and Tannhäuser Project.</p>
+<p>There are four special projects that can be the difference between victory and defeat: Defensive Net, Terraforming, Stellar Bomb and Tannhï¿½user Project.</p>
 <p>When you first capture a system, your research into each project increases in line with that system's resource output (as shown under the Projects tab in game). The resources match up to the projects as follows:</p>
 <p><b>Defensive Net - Metal (blue)</b><br>Effectively counts a system's strength as double the size of any fleets there</p>
 <p><b>Terraforming - Biomass (green)</b><br>Increases the resource output of any system to six resource units</p>
 <p><b>Stellar Bomb - Energy (orange)</b><br>Destroys half the enemy fleets in the target system and cancels any moves out of that system</p>
-<p><b>Tannhäuser - Exotics (magenta)</b><br>Creates a new wormhole between one of your systems and any other system in the galaxy</p>
+<p><b>Tannhï¿½user - Exotics (magenta)</b><br>Creates a new wormhole between one of your systems and any other system in the galaxy</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a> <h3>3. What do the crosshatched lines over my territory mean?</h3>
 <p>Any of your systems covered in crosshatching are in danger of falling to your enemies, which could also cause other nearby systems to fall. Try placing a second layer of defence behind your front lines.</p>
@@ -419,7 +419,7 @@ Development Team
 <b>Editing:</b> Stephen R
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=119/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=119/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -434,22 +434,22 @@ Development Team
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="English" src="http://www.funorb.com/a=119/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=119/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=119/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=119/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="English" src="../../a=119/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Deutsch" src="../../a=119/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Fran&ccedil;ais" src="../../a=119/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../a=119/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=119/p=MZVtYBF2hbL0xa-t7zCjUPTFr*3vMKNQ6OwaT8ETI1k/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=119/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=119/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

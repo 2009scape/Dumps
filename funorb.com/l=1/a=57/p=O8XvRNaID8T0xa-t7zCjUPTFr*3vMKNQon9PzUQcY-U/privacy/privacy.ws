@@ -9,7 +9,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
@@ -20,12 +20,12 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=57/css/global-8.css);/**/
+  /*\*/@import url(../../../../l=1/a=57/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=57/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../../l=1/a=57/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=57/css/layout.ws"></script>
+<script type="text/javascript" src="../../../../l=1/a=57/css/layout.ws"></script>
 
 <style type="text/css">
  #article b { color: white; }
@@ -44,13 +44,13 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/messengercommon0.js"></script>
@@ -61,15 +61,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -87,40 +87,40 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/" class="fly last">Highscores &amp; Wertungen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/loginapplet/login.ws?mod=www&ssl=0&dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/loginapplet/login.ws?mod=www&ssl=0&dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
-<img alt="Englisch" src="http://www.funorb.com/l=1/a=57/img/images/layout/en.gif">
+<a href="../../../../a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
+<img alt="Englisch" src="../../../../l=1/a=57/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/l=1/a=57/img/images/layout/de.gif">
+<a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
+<img alt="Deutsch" src="../../../../l=1/a=57/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=57/img/images/layout/fr.gif">
+<a href="../../../../l=2/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/index.ws">
+<img alt="Fran&ccedil;ais" src="../../../../l=1/a=57/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -137,7 +137,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Datenschutzgrundsätze
+Datenschutzgrundsï¿½tze
 
 </div>
 </div>
@@ -148,70 +148,70 @@ Datenschutzgrundsätze
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p align=right>Gültig ab: 5. Juni 2008</p>
-<p><b>Datenschutzgrundsätze</b></p>
+<p align=right>Gï¿½ltig ab: 5. Juni 2008</p>
+<p><b>Datenschutzgrundsï¿½tze</b></p>
 <p>
-<b> Einführung</b><br> Dieses Dokument enthält die Datenschutzgrundsätze von Jagex Limited und allen übrigen Unternehmen innerhalb unserer Unternehmensgruppe (im Folgenden zusammen "Jagex"). Sie gelten für alle unsere Websites/Dienste (im Folgenden zusammen "unsere Websites"), in denen sie hinterlegt sind.</p>
-<p>Wir verpflichten uns zum Schutz Ihrer Privatsphäre und ergreifen besondere Maßnahmen, um die Geheimhaltung der personenbezogenen Daten sicherzustellen, die von Ihnen oder über Sie erhoben werden. Diese Datenschutzgrundsätze erläutern, wie wir solche personenbezogenen Daten erheben, speichern und nutzen. ("Personenbezogene Daten" sind Daten, die Sie identifizieren und genutzt werden können, um mit Ihnen in der Realität Kontakt aufzunehmen oder Sie ausfindig zu machen, wie z.B. Ihr realer Name, E-Mail-Adresse, Handy-Nummer, Postanschrift oder Kreditkartendaten).</p>
-<p>Bitte lesen Sie diese Grundsätze sorgfältig. Ihre Einwilligung in alle Teile dieser Grundsätze ist (unabhängig von einer kostenpflichtigen Registrierung) Voraussetzung für die Nutzung unserer Websites durch Sie. Falls Sie mit den Grundsätzen, vollständig oder teilweise, nicht einverstanden sind, dürfen Sie unsere Websites nicht nutzen. Die Nutzung unserer Websites durch Sie gilt als Einwilligung in die Datenschutzgrundsätze, die jeweils zum Zeitpunkt Ihrer Nutzung gelten.</p>
-<p>Wir behalten uns das Recht vor, diese Grundsätze jederzeit zu ändern. Wir empfehlen den Nutzern, die Grundsätze bei jedem erneuten Besuch der Website einzusehen. Sofern Sie fortfahren, unsere Websites zu nutzen, gilt dies als Einwilligung in solche Änderungen, die jeweils zum oben angegebenen Datum in Kraft treten.</p>
-<p>Falls Sie Fragen zu diesen Datenschutzgrundsätzen haben, wenden Sie sich bitte per E-Mail an&nbsp; <img style="vertical-align: bottom" src="http://www.funorb.com/l=1/a=57/img/privacy/privacy.gif"> &nbsp;und nutzen Sie unsere Websites nicht, bis Sie mit den Datenschutzgrundsätzen einverstanden sind und diese vollständig akzeptieren können.</p>
-<p>In dieser Datenschutzrichtlinie wird der Begriff "Jagex-Produkte" stellvertretend für "RuneScape®", "FunOrb®" und alle anderen von Jagex veröffentlichten Spiele, inklusive der Jagex-Website auf denen diese Spiele gespielt werden, verwendet.</p>
-<p>Verweise auf die "Kündigung" eines Spielkontos beziehen sich auf die Sperrung/Stillegung bzw. die vorläufige oder endgültige Löschung eines Spielkontos.</p>
+<b> Einfï¿½hrung</b><br> Dieses Dokument enthï¿½lt die Datenschutzgrundsï¿½tze von Jagex Limited und allen ï¿½brigen Unternehmen innerhalb unserer Unternehmensgruppe (im Folgenden zusammen "Jagex"). Sie gelten fï¿½r alle unsere Websites/Dienste (im Folgenden zusammen "unsere Websites"), in denen sie hinterlegt sind.</p>
+<p>Wir verpflichten uns zum Schutz Ihrer Privatsphï¿½re und ergreifen besondere Maï¿½nahmen, um die Geheimhaltung der personenbezogenen Daten sicherzustellen, die von Ihnen oder ï¿½ber Sie erhoben werden. Diese Datenschutzgrundsï¿½tze erlï¿½utern, wie wir solche personenbezogenen Daten erheben, speichern und nutzen. ("Personenbezogene Daten" sind Daten, die Sie identifizieren und genutzt werden kï¿½nnen, um mit Ihnen in der Realitï¿½t Kontakt aufzunehmen oder Sie ausfindig zu machen, wie z.B. Ihr realer Name, E-Mail-Adresse, Handy-Nummer, Postanschrift oder Kreditkartendaten).</p>
+<p>Bitte lesen Sie diese Grundsï¿½tze sorgfï¿½ltig. Ihre Einwilligung in alle Teile dieser Grundsï¿½tze ist (unabhï¿½ngig von einer kostenpflichtigen Registrierung) Voraussetzung fï¿½r die Nutzung unserer Websites durch Sie. Falls Sie mit den Grundsï¿½tzen, vollstï¿½ndig oder teilweise, nicht einverstanden sind, dï¿½rfen Sie unsere Websites nicht nutzen. Die Nutzung unserer Websites durch Sie gilt als Einwilligung in die Datenschutzgrundsï¿½tze, die jeweils zum Zeitpunkt Ihrer Nutzung gelten.</p>
+<p>Wir behalten uns das Recht vor, diese Grundsï¿½tze jederzeit zu ï¿½ndern. Wir empfehlen den Nutzern, die Grundsï¿½tze bei jedem erneuten Besuch der Website einzusehen. Sofern Sie fortfahren, unsere Websites zu nutzen, gilt dies als Einwilligung in solche ï¿½nderungen, die jeweils zum oben angegebenen Datum in Kraft treten.</p>
+<p>Falls Sie Fragen zu diesen Datenschutzgrundsï¿½tzen haben, wenden Sie sich bitte per E-Mail an&nbsp; <img style="vertical-align: bottom" src="../../../../l=1/a=57/img/privacy/privacy.gif"> &nbsp;und nutzen Sie unsere Websites nicht, bis Sie mit den Datenschutzgrundsï¿½tzen einverstanden sind und diese vollstï¿½ndig akzeptieren kï¿½nnen.</p>
+<p>In dieser Datenschutzrichtlinie wird der Begriff "Jagex-Produkte" stellvertretend fï¿½r "RuneScapeï¿½", "FunOrbï¿½" und alle anderen von Jagex verï¿½ffentlichten Spiele, inklusive der Jagex-Website auf denen diese Spiele gespielt werden, verwendet.</p>
+<p>Verweise auf die "Kï¿½ndigung" eines Spielkontos beziehen sich auf die Sperrung/Stillegung bzw. die vorlï¿½ufige oder endgï¿½ltige Lï¿½schung eines Spielkontos.</p>
 <p>
-<b>Welche personenbezogenen Informationen erheben und speichern wir?</b><br> Wenn Sie sich nur in den öffentlichen Bereichen unserer Websites bewegen oder wenn Sie unsere Spiele für Einzelspieler spielen, erheben wir keine personenbezogenen Daten.</p>
-<p>Wir sammeln und speichern Daten, die Sie freiwillig in Formularen oder anderweitig auf unseren Websites, in elektronischer oder sonstiger Kommunikation mit uns übermitteln, ebenso Daten aus der Kommunikation zwischen Nutzern auf unseren Websites oder Angaben, die auf den Websites unserer Abrechnungspartner gemacht werden. Sie können sich gegen das Bereitstellen solcher Daten entscheiden, indem Sie einfach nicht das Formular ausfüllen, mit dem solche Daten angefordert werden. Damit entscheiden Sie sich gleichzeitig, den entsprechenden Dienst nicht zu nutzen.</p>
+<b>Welche personenbezogenen Informationen erheben und speichern wir?</b><br> Wenn Sie sich nur in den ï¿½ffentlichen Bereichen unserer Websites bewegen oder wenn Sie unsere Spiele fï¿½r Einzelspieler spielen, erheben wir keine personenbezogenen Daten.</p>
+<p>Wir sammeln und speichern Daten, die Sie freiwillig in Formularen oder anderweitig auf unseren Websites, in elektronischer oder sonstiger Kommunikation mit uns ï¿½bermitteln, ebenso Daten aus der Kommunikation zwischen Nutzern auf unseren Websites oder Angaben, die auf den Websites unserer Abrechnungspartner gemacht werden. Sie kï¿½nnen sich gegen das Bereitstellen solcher Daten entscheiden, indem Sie einfach nicht das Formular ausfï¿½llen, mit dem solche Daten angefordert werden. Damit entscheiden Sie sich gleichzeitig, den entsprechenden Dienst nicht zu nutzen.</p>
 <p>Zum Beispiel: <ul>
-<li>Um bestimmte unserer Spiele zu spielen oder bestimmte Bereiche unserer Websites zu nutzen, müssen Sie ein Spielkonto einrichten, indem Sie einen Nutzernamen und ein Passwort anlegen.</li>
-<li>Um an den Spielen als registrierter Spieler teilzunehmen, müssen Sie auch Angaben zu Ihrer Person machen, z.B. Name, gültige E-Mail-Adresse, Geschlecht, private Anschrift, Telefon-/Faxnummer, Land sowie Angaben zur Bezahlung der Mitgliedsbeiträge (z.B. Kreditkartennummer und Gültigkeitsdatum).</li>
-<li>Unsere Kundenbetreuung erreichen Sie über ein Online-Formular in der Rubrik "Kundenbetreuung", dort müssen Sie Ihren Nutzernamen und Ihr Passwort angeben und weitere Angaben zu Ihrer Anfrage machen.</li>
-<li>Damit unsere Kundenbetreuung fortlaufend verbessert werden kann, werden wir Sie möglicherweise auch um Angaben zu Ihrer Person bitten, z.B. Name, E-Mail, PLZ und Land. Gegebenenfalls werden einige Sicherheitsfragen gestellt, anhand derer wir Ihre Identität überprüfen können, falls Sie zukünftig noch weitere Unterstützung benötigen sollten. (Bitte beachten Sie, dass die Fragen und die von Ihnen gegebenen Antworten Ihrem Ermessen unterliegen. Sie haben die Wahl, diese Angaben nicht zu machen, aber dies wird die Verfügbarkeit oder die Effektivität unserer Kundenbetreuung einschränken).</li>
+<li>Um bestimmte unserer Spiele zu spielen oder bestimmte Bereiche unserer Websites zu nutzen, mï¿½ssen Sie ein Spielkonto einrichten, indem Sie einen Nutzernamen und ein Passwort anlegen.</li>
+<li>Um an den Spielen als registrierter Spieler teilzunehmen, mï¿½ssen Sie auch Angaben zu Ihrer Person machen, z.B. Name, gï¿½ltige E-Mail-Adresse, Geschlecht, private Anschrift, Telefon-/Faxnummer, Land sowie Angaben zur Bezahlung der Mitgliedsbeitrï¿½ge (z.B. Kreditkartennummer und Gï¿½ltigkeitsdatum).</li>
+<li>Unsere Kundenbetreuung erreichen Sie ï¿½ber ein Online-Formular in der Rubrik "Kundenbetreuung", dort mï¿½ssen Sie Ihren Nutzernamen und Ihr Passwort angeben und weitere Angaben zu Ihrer Anfrage machen.</li>
+<li>Damit unsere Kundenbetreuung fortlaufend verbessert werden kann, werden wir Sie mï¿½glicherweise auch um Angaben zu Ihrer Person bitten, z.B. Name, E-Mail, PLZ und Land. Gegebenenfalls werden einige Sicherheitsfragen gestellt, anhand derer wir Ihre Identitï¿½t ï¿½berprï¿½fen kï¿½nnen, falls Sie zukï¿½nftig noch weitere Unterstï¿½tzung benï¿½tigen sollten. (Bitte beachten Sie, dass die Fragen und die von Ihnen gegebenen Antworten Ihrem Ermessen unterliegen. Sie haben die Wahl, diese Angaben nicht zu machen, aber dies wird die Verfï¿½gbarkeit oder die Effektivitï¿½t unserer Kundenbetreuung einschrï¿½nken).</li>
 </ul>
 </p>
 <p>
-<b>Schutz der Daten von Minderjährigen</b><br> Bei der Bereitstellung von Jagex-Produkten für Minderjährige werden nur die persönlichen Angaben eingeholt, die für eine Nutzung der Produkte in angemessenem Rahmen notwendig sind.</p>
-<p>Wenn wir Kenntnis davon erhalten, dass wir persönliche Angaben von Spielern unter 13 gespeichert oder unbeabsichtigt herausgegeben haben, werden diese Daten nachträglich aus unseren Systemen gelöscht, um den Schutz der Privatsphäre des Kindes zu gewährleisten.</p>
+<b>Schutz der Daten von Minderjï¿½hrigen</b><br> Bei der Bereitstellung von Jagex-Produkten fï¿½r Minderjï¿½hrige werden nur die persï¿½nlichen Angaben eingeholt, die fï¿½r eine Nutzung der Produkte in angemessenem Rahmen notwendig sind.</p>
+<p>Wenn wir Kenntnis davon erhalten, dass wir persï¿½nliche Angaben von Spielern unter 13 gespeichert oder unbeabsichtigt herausgegeben haben, werden diese Daten nachtrï¿½glich aus unseren Systemen gelï¿½scht, um den Schutz der Privatsphï¿½re des Kindes zu gewï¿½hrleisten.</p>
 <p>
 <b> Welche sonstigen Informationen werden erhoben und gespeichert?</b><br> Wir nutzen Cookies, sammeln und speichern IP-Adressen, alphanumerische IDs und sonstige eindeutige Kennzeichen, um die einzelnen Rechner zu identifizieren, die auf unsere Websites zugreifen.</p>
-<p>Wir erzeugen und speichern Protokolle, die die Nutzung unserer Websites widerspiegeln, wie z.B. die Aktivitäten in unseren Spielen und die öffentliche und private Chat-Kommunikation. Diese umfasst die Beobachtung von Spielmustern und Prüfungen auf Manipulation des Spielbetriebs, die den korrekten internen Betrieb unserer Software überprüfen und der Aufdeckung missbräuchlicher oder nicht ordnungsgemäßer Aktivitäten der Nutzer dienen.</p>
-<p>Wir können Ihre Nutzung bestimmter Merkmale und Bereiche unserer Websites zum Zwecke deren Verbesserung verfolgen.</p>
-<p>Im Falle einer Störung unserer Client-Software, die auf Ihrem Computer installiert wurde, sendet diese einen automatischen Fehlerbericht an unseren Server, damit wir den Mangel beheben können. Dieser Fehlerbericht enthält nur Informationen über den internen Zustand unserer eigenen Client-Software und darüber, mit welcher Browser-/Java-Version sie ausgeführt wird. Nicht gemeldet werden Daten aus anderen Bereichen Ihres Systems und auf keinen Fall personenbezogene Daten.</p>
-<p>Wir speichern Daten aus den Funktionen "Spiel speichern" und "Spieleinstellungen", mit denen Ihre Aktivitäten und Leistungen in dem Spiel abgespeichert werden, damit wir den Spielbetrieb noch weiter verbessern können. Wir führen Meinungsumfragen durch, um herauszufinden, wie wir noch besser auf die Bedürfnisse unserer Nutzer eingehen können.</p>
+<p>Wir erzeugen und speichern Protokolle, die die Nutzung unserer Websites widerspiegeln, wie z.B. die Aktivitï¿½ten in unseren Spielen und die ï¿½ffentliche und private Chat-Kommunikation. Diese umfasst die Beobachtung von Spielmustern und Prï¿½fungen auf Manipulation des Spielbetriebs, die den korrekten internen Betrieb unserer Software ï¿½berprï¿½fen und der Aufdeckung missbrï¿½uchlicher oder nicht ordnungsgemï¿½ï¿½er Aktivitï¿½ten der Nutzer dienen.</p>
+<p>Wir kï¿½nnen Ihre Nutzung bestimmter Merkmale und Bereiche unserer Websites zum Zwecke deren Verbesserung verfolgen.</p>
+<p>Im Falle einer Stï¿½rung unserer Client-Software, die auf Ihrem Computer installiert wurde, sendet diese einen automatischen Fehlerbericht an unseren Server, damit wir den Mangel beheben kï¿½nnen. Dieser Fehlerbericht enthï¿½lt nur Informationen ï¿½ber den internen Zustand unserer eigenen Client-Software und darï¿½ber, mit welcher Browser-/Java-Version sie ausgefï¿½hrt wird. Nicht gemeldet werden Daten aus anderen Bereichen Ihres Systems und auf keinen Fall personenbezogene Daten.</p>
+<p>Wir speichern Daten aus den Funktionen "Spiel speichern" und "Spieleinstellungen", mit denen Ihre Aktivitï¿½ten und Leistungen in dem Spiel abgespeichert werden, damit wir den Spielbetrieb noch weiter verbessern kï¿½nnen. Wir fï¿½hren Meinungsumfragen durch, um herauszufinden, wie wir noch besser auf die Bedï¿½rfnisse unserer Nutzer eingehen kï¿½nnen.</p>
 <p>
-<b> Was geschieht mit den bereitgestellten/erhobenen Daten?</b><br> Die von uns erhobenen Daten können für Folgendes verwendet werden:</p>
-<p>a) Bearbeitung Ihrer Zahlungen des Mitgliedsbeitrags oder für sonstige Lieferungen und Leistungen, die über unsere Website bestellt werden, oder zur Ausführung solcher Bestellungen.</p>
-<p>b) Für unsere Kundenbetreuung und zur Überprüfung von Ansprüchen oder Forderungen, die Sie gegenüber unserer Kundenbetreuung erheben.</p>
-<p>c) Zur Durchsetzung unserer <a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/terms/terms.ws">allgemeinen Geschäftsbedingungen</a> und zur Verhinderung oder Aufdeckung von Hacker-Aktivitäten, Sicherheitsverstößen oder Sicherheitsrisiken in Verbindung mit unseren Websites.</p>
-<p>d) Zum Versenden von Service-Ankündigungen und Mitteilungen. (Beispielsweise wird an das Mitteilungsfach der Mitglieder eine Nachricht geschickt, wenn der Mitgliedsbeitrag fällig ist).</p>
-<p>e) Zur Datensammlung zwecks Erstellen anonymisierter Statistiken über die Nutzung unserer Websites. Wir sind berechtigt, diese anonymisierten Informationen an unsere Partner und Werbekunden weiterzugeben. Sie sind nicht mit personenbezogenen Daten verbunden, anhand derer einzelne Personen identifiziert werden könnten.</p>
-<p>f) Für unsere firmeneigenen Marketing- und demografischen Studien und zur Verbesserung unserer Websites.</p>
-<p>g) Im Falle eines tatsächlichen oder geplanten Firmenzusammenschlusses, einer Geschäftszusammenlegung oder einer Veräußerung im wesentlichen aller unserer Wirtschaftsgüter oder eines Geschäftsbetriebs, sofern diese Informationen hiermit in Zusammenhang stehen (einschließlich im Zuge der Vorverhandlungen zu einem solchen vorgenannten Ereignis), oder sofern anwendbares Insolvenzrecht entsprechendes regelt oder im Rahmen der Durchsetzung von Rechten nach billigem Ermessen.</p>
-<p>h) Zur Offenlegung von Daten, soweit wir hierzu gesetzlich oder auf gerichtliche Anordnung verpflichtet sind, nach Aufforderung durch eine andere staatliche Stelle, Aufsichtsbehörde oder Strafverfolgungsbehörde, zum Schutze und zur Mitwirkung am Schutz unserer Nutzer, Systeme oder der Öffentlichkeit oder anderweitig zur Durchsetzung gesetzlicher Rechte, wie von uns in unserem alleinigen und absoluten Ermessen festgelegt.</p>
-<p>Wir engagieren uns für den Schutz Ihrer Privatsphäre. Vorbehaltlich der oben genannten Einschränkungen werden wir Ihre personenbezogenen Daten nicht an andere Unternehmen verkaufen, abtreten, vermieten, weitergeben oder diesen offen legen. Wir werden Ihre E-Mail-Adresse nicht verwenden, um Ihnen unerwünschte Nachrichten zu senden oder dies anderen gestatten.</p>
+<b> Was geschieht mit den bereitgestellten/erhobenen Daten?</b><br> Die von uns erhobenen Daten kï¿½nnen fï¿½r Folgendes verwendet werden:</p>
+<p>a) Bearbeitung Ihrer Zahlungen des Mitgliedsbeitrags oder fï¿½r sonstige Lieferungen und Leistungen, die ï¿½ber unsere Website bestellt werden, oder zur Ausfï¿½hrung solcher Bestellungen.</p>
+<p>b) Fï¿½r unsere Kundenbetreuung und zur ï¿½berprï¿½fung von Ansprï¿½chen oder Forderungen, die Sie gegenï¿½ber unserer Kundenbetreuung erheben.</p>
+<p>c) Zur Durchsetzung unserer <a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/terms/terms.ws">allgemeinen Geschï¿½ftsbedingungen</a> und zur Verhinderung oder Aufdeckung von Hacker-Aktivitï¿½ten, Sicherheitsverstï¿½ï¿½en oder Sicherheitsrisiken in Verbindung mit unseren Websites.</p>
+<p>d) Zum Versenden von Service-Ankï¿½ndigungen und Mitteilungen. (Beispielsweise wird an das Mitteilungsfach der Mitglieder eine Nachricht geschickt, wenn der Mitgliedsbeitrag fï¿½llig ist).</p>
+<p>e) Zur Datensammlung zwecks Erstellen anonymisierter Statistiken ï¿½ber die Nutzung unserer Websites. Wir sind berechtigt, diese anonymisierten Informationen an unsere Partner und Werbekunden weiterzugeben. Sie sind nicht mit personenbezogenen Daten verbunden, anhand derer einzelne Personen identifiziert werden kï¿½nnten.</p>
+<p>f) Fï¿½r unsere firmeneigenen Marketing- und demografischen Studien und zur Verbesserung unserer Websites.</p>
+<p>g) Im Falle eines tatsï¿½chlichen oder geplanten Firmenzusammenschlusses, einer Geschï¿½ftszusammenlegung oder einer Verï¿½uï¿½erung im wesentlichen aller unserer Wirtschaftsgï¿½ter oder eines Geschï¿½ftsbetriebs, sofern diese Informationen hiermit in Zusammenhang stehen (einschlieï¿½lich im Zuge der Vorverhandlungen zu einem solchen vorgenannten Ereignis), oder sofern anwendbares Insolvenzrecht entsprechendes regelt oder im Rahmen der Durchsetzung von Rechten nach billigem Ermessen.</p>
+<p>h) Zur Offenlegung von Daten, soweit wir hierzu gesetzlich oder auf gerichtliche Anordnung verpflichtet sind, nach Aufforderung durch eine andere staatliche Stelle, Aufsichtsbehï¿½rde oder Strafverfolgungsbehï¿½rde, zum Schutze und zur Mitwirkung am Schutz unserer Nutzer, Systeme oder der ï¿½ffentlichkeit oder anderweitig zur Durchsetzung gesetzlicher Rechte, wie von uns in unserem alleinigen und absoluten Ermessen festgelegt.</p>
+<p>Wir engagieren uns fï¿½r den Schutz Ihrer Privatsphï¿½re. Vorbehaltlich der oben genannten Einschrï¿½nkungen werden wir Ihre personenbezogenen Daten nicht an andere Unternehmen verkaufen, abtreten, vermieten, weitergeben oder diesen offen legen. Wir werden Ihre E-Mail-Adresse nicht verwenden, um Ihnen unerwï¿½nschte Nachrichten zu senden oder dies anderen gestatten.</p>
 <p>
-<b> Cookies</b><br> Ein Cookie ist eine Folge von Textzeichen, die eine Website an die Cookie-Datei des Browsers übermittelt und auf der Festplatte Ihres Rechners speichert, damit die Website Sie wiedererkennt. Ein Cookie enthält in der Regel den Namen der Domain, von der der Cookie stammt, die "Lebensdauer" des Cookies und einen Wert, in der Regel eine eindeutige Ziffer, die mit einem Zufallsgenerator erzeugt wurde.</p>
-<p>Session-Cookies sind temporäre Cookies, die in der Cookie-Datei Ihres Browsers gespeichert werden, bis Sie die Webseite wieder verlassen. Wir benutzen Session-Cookies, um Spieler während des Einloggens zu autorisieren.</p>
-<p>Persistent-Cookies bleiben für eine bestimmte Zeit in der Cookie-Datei. Cookies können dabei helfen, den Inhalt einer Webseite an Ihre persönlichen Interessen anzupassen. Die meisten großen Webseiten benutzen Cookies. Cookies alleine können nicht dazu benutzt werden, persönliche Informationen zu speichern, die Sie als Person identifizieren könnten.</p>
-<p>Wir benutzen Persistent-Cookies um Ihr Herkunftsland zu speichern (um Ihnen zu Ihrer Sprache und zu Ihrem Land passende Inhalt liefern zu können) und um festzustellen, ob Sie unsere Seite über einen Link von einer unserer Partnerseiten aus besucht haben. Persistent-Cookies erlauben es Ihnen ebenfalls, sich automatisch auf unserer Webseite einzuloggen, indem Sie Ihre Benutzerinformationen auf Ihrem Computer speichern. Wir können Persistent-Cookies auch benutzen, um zu speichern, welche Werbungen Sie auf unserer Seite bereits besucht haben, so dass diese Werbung Ihnen nicht mehrfach hintereinander angezeigt wird oder um Ihnen Werbung zu zeigen, die auf Ihre Interessen zugeschnitten ist.</p>
-<p>Unsere Werbepartner verwenden ebenfalls Cookies und weitere firmeneigene Technologien, um Ihre Interessen in Bezug auf Werbung besser einschätzen zu können und zu erfahren, wie bessere Dienste und Funktionen angeboten werden können, die Ihren Interessen und Bedürfnissen entsprechen. Weitere Informationen hierzu finden Sie im Abschnitt "Dritte" unten.</p>
-<p>Falls Sie sich gegen die Verwendung von Cookies entscheiden, <a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/cookies.ws">klicken Sie bitte hier</a>, um eine verständliche Anleitung hierzu zu erhalten. Gewisse Funktionen stehen Ihnen möglicherweise nicht mehr zur Verfügung, wenn Sie Cookies ablehnen.</p>
+<b> Cookies</b><br> Ein Cookie ist eine Folge von Textzeichen, die eine Website an die Cookie-Datei des Browsers ï¿½bermittelt und auf der Festplatte Ihres Rechners speichert, damit die Website Sie wiedererkennt. Ein Cookie enthï¿½lt in der Regel den Namen der Domain, von der der Cookie stammt, die "Lebensdauer" des Cookies und einen Wert, in der Regel eine eindeutige Ziffer, die mit einem Zufallsgenerator erzeugt wurde.</p>
+<p>Session-Cookies sind temporï¿½re Cookies, die in der Cookie-Datei Ihres Browsers gespeichert werden, bis Sie die Webseite wieder verlassen. Wir benutzen Session-Cookies, um Spieler wï¿½hrend des Einloggens zu autorisieren.</p>
+<p>Persistent-Cookies bleiben fï¿½r eine bestimmte Zeit in der Cookie-Datei. Cookies kï¿½nnen dabei helfen, den Inhalt einer Webseite an Ihre persï¿½nlichen Interessen anzupassen. Die meisten groï¿½en Webseiten benutzen Cookies. Cookies alleine kï¿½nnen nicht dazu benutzt werden, persï¿½nliche Informationen zu speichern, die Sie als Person identifizieren kï¿½nnten.</p>
+<p>Wir benutzen Persistent-Cookies um Ihr Herkunftsland zu speichern (um Ihnen zu Ihrer Sprache und zu Ihrem Land passende Inhalt liefern zu kï¿½nnen) und um festzustellen, ob Sie unsere Seite ï¿½ber einen Link von einer unserer Partnerseiten aus besucht haben. Persistent-Cookies erlauben es Ihnen ebenfalls, sich automatisch auf unserer Webseite einzuloggen, indem Sie Ihre Benutzerinformationen auf Ihrem Computer speichern. Wir kï¿½nnen Persistent-Cookies auch benutzen, um zu speichern, welche Werbungen Sie auf unserer Seite bereits besucht haben, so dass diese Werbung Ihnen nicht mehrfach hintereinander angezeigt wird oder um Ihnen Werbung zu zeigen, die auf Ihre Interessen zugeschnitten ist.</p>
+<p>Unsere Werbepartner verwenden ebenfalls Cookies und weitere firmeneigene Technologien, um Ihre Interessen in Bezug auf Werbung besser einschï¿½tzen zu kï¿½nnen und zu erfahren, wie bessere Dienste und Funktionen angeboten werden kï¿½nnen, die Ihren Interessen und Bedï¿½rfnissen entsprechen. Weitere Informationen hierzu finden Sie im Abschnitt "Dritte" unten.</p>
+<p>Falls Sie sich gegen die Verwendung von Cookies entscheiden, <a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/cookies.ws">klicken Sie bitte hier</a>, um eine verstï¿½ndliche Anleitung hierzu zu erhalten. Gewisse Funktionen stehen Ihnen mï¿½glicherweise nicht mehr zur Verfï¿½gung, wenn Sie Cookies ablehnen.</p>
 <p>Weitere Informationen zu Cookies finden Sie <a href="http://www.allaboutcookies.org" target="_blank">hier</a>.</p>
 <p>
-<b> Dritte</b><br> Wir sind Partnerschaften mit Dritten eingegangen, um gewisse Dienste anbieten zu können. Zum Beispiel:</p>
-<p>Wir arbeiten mit externen Abrechnungsstellen zusammen, um den Einzug der Mitgliedsbeiträge sicher bearbeiten zu können. Wir geben daher Ihre Rechnungsdaten an solche Unternehmen weiter, sofern für die Bearbeitung Ihrer Zahlungen erforderlich oder zur Verhinderung und Aufklärung von Betrug. Diese Unternehmen haben sich verpflichtet, Ihre personenbezogenen Daten für keine weiteren Zwecke zurückzuhalten, weiterzugeben, zu speichern oder zu nutzen.</p>
-<p>Wir können Ihre persönlichen Informationen auch an externe dritte Parteien weitergeben, um ihnen zu ermöglichen, spezielle Bestellungen für Jagex oder andere Waren auszuführen.</p>
-<p>Bitte beachten Sie, dass diese Datenschutzgrundsätze nicht für Websites oder Dienste anderer Unternehmen oder Organisationen gelten, zu denen wir einen Link einrichten oder die einen Link zu uns einrichten oder die unseren Nutzern Lieferungen oder Leistungen über deren Websites anbieten (z.B. Websites mit gemeinsamer Markenpraxis, White-Label- oder verbundene Websites oder Websites, die Merchandising-Artikel in Zusammenhang mit dem Spiel vertreiben).</p>
-<p>Wir arbeiten mit externen Unternehmen zusammen, um die Werbeeinblendungen auf unserer Website bereitzustellen und vorzunehmen. Diese Unternehmen werden möglicherweise Informationen (jedoch keine personenbezogenen Angaben, wie Name, Adresse, E-Mail-Adresse oder Telefonnummer) über Ihre Besuche auf dieser und anderen Websites verwenden, um Werbung auf dieser Website und anderen Websites zu Waren und Dienstleistungen bereitzustellen, die möglicherweise für Sie von Interesse sind. Falls Sie weitere Informationen zu dieser Vorgehensweise wünschen und etwas über deine Möglichkeit, die Nutzung dieser Informationen durch solche Unternehmen zu unterbinden, erfahren möchten, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">klicken Sie bitte hier</a>.</p>
-<p>Wir sind berechtigt, Dritte mit dem Erheben personenbezogener Daten in unserem Namen zu beauftragen. In solchen Fällen werden wir die betreffenden Dritte anweisen, unsere jeweils geltenden Datenschutzgrundsätze zu beachten. Weiterhin dürfen Informationen, die seitens Dritter, die Waren oder Dienstleistungen (einschließlich Werbung) auf unseren oder über unsere Websites anbieten, über unsere Nutzer gesammelt werden, an uns weitergegeben werden und von uns für die in diesen Grundsätzen genannten Zwecke gespeichert werden.</p>
-<p>Überlegen Sie sorgfältig, bevor Sie über unsere Websites kommunizieren oder Mitteilungen hinterlegen. Gewisse Informationen sind auch für andere Spielteilnehmer sichtbar, u.a. öffentliche und private Chat-Kommunikation, das Aussehen Ihrer Spielfiguren und Ihrer Erfahrungspunkte. Teilnehmer, die Sie auf Ihre Freundesliste setzen, können sehen, in welcher Spielwelt Sie agieren.</p>
+<b> Dritte</b><br> Wir sind Partnerschaften mit Dritten eingegangen, um gewisse Dienste anbieten zu kï¿½nnen. Zum Beispiel:</p>
+<p>Wir arbeiten mit externen Abrechnungsstellen zusammen, um den Einzug der Mitgliedsbeitrï¿½ge sicher bearbeiten zu kï¿½nnen. Wir geben daher Ihre Rechnungsdaten an solche Unternehmen weiter, sofern fï¿½r die Bearbeitung Ihrer Zahlungen erforderlich oder zur Verhinderung und Aufklï¿½rung von Betrug. Diese Unternehmen haben sich verpflichtet, Ihre personenbezogenen Daten fï¿½r keine weiteren Zwecke zurï¿½ckzuhalten, weiterzugeben, zu speichern oder zu nutzen.</p>
+<p>Wir kï¿½nnen Ihre persï¿½nlichen Informationen auch an externe dritte Parteien weitergeben, um ihnen zu ermï¿½glichen, spezielle Bestellungen fï¿½r Jagex oder andere Waren auszufï¿½hren.</p>
+<p>Bitte beachten Sie, dass diese Datenschutzgrundsï¿½tze nicht fï¿½r Websites oder Dienste anderer Unternehmen oder Organisationen gelten, zu denen wir einen Link einrichten oder die einen Link zu uns einrichten oder die unseren Nutzern Lieferungen oder Leistungen ï¿½ber deren Websites anbieten (z.B. Websites mit gemeinsamer Markenpraxis, White-Label- oder verbundene Websites oder Websites, die Merchandising-Artikel in Zusammenhang mit dem Spiel vertreiben).</p>
+<p>Wir arbeiten mit externen Unternehmen zusammen, um die Werbeeinblendungen auf unserer Website bereitzustellen und vorzunehmen. Diese Unternehmen werden mï¿½glicherweise Informationen (jedoch keine personenbezogenen Angaben, wie Name, Adresse, E-Mail-Adresse oder Telefonnummer) ï¿½ber Ihre Besuche auf dieser und anderen Websites verwenden, um Werbung auf dieser Website und anderen Websites zu Waren und Dienstleistungen bereitzustellen, die mï¿½glicherweise fï¿½r Sie von Interesse sind. Falls Sie weitere Informationen zu dieser Vorgehensweise wï¿½nschen und etwas ï¿½ber deine Mï¿½glichkeit, die Nutzung dieser Informationen durch solche Unternehmen zu unterbinden, erfahren mï¿½chten, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">klicken Sie bitte hier</a>.</p>
+<p>Wir sind berechtigt, Dritte mit dem Erheben personenbezogener Daten in unserem Namen zu beauftragen. In solchen Fï¿½llen werden wir die betreffenden Dritte anweisen, unsere jeweils geltenden Datenschutzgrundsï¿½tze zu beachten. Weiterhin dï¿½rfen Informationen, die seitens Dritter, die Waren oder Dienstleistungen (einschlieï¿½lich Werbung) auf unseren oder ï¿½ber unsere Websites anbieten, ï¿½ber unsere Nutzer gesammelt werden, an uns weitergegeben werden und von uns fï¿½r die in diesen Grundsï¿½tzen genannten Zwecke gespeichert werden.</p>
+<p>ï¿½berlegen Sie sorgfï¿½ltig, bevor Sie ï¿½ber unsere Websites kommunizieren oder Mitteilungen hinterlegen. Gewisse Informationen sind auch fï¿½r andere Spielteilnehmer sichtbar, u.a. ï¿½ffentliche und private Chat-Kommunikation, das Aussehen Ihrer Spielfiguren und Ihrer Erfahrungspunkte. Teilnehmer, die Sie auf Ihre Freundesliste setzen, kï¿½nnen sehen, in welcher Spielwelt Sie agieren.</p>
 <p>
-<b> Schutz Ihrer personenbezogenen Daten</b><br> Wir sammeln personenbezogene Daten nur soweit wir annehmen, dass sie vernünftigerweise unseren rechtmäßigen Geschäftszwecken dienen werden, und werden sie mit derselben Sorgfalt schützen, die wir anwenden, um die Sicherheit, Integrität und Geheimhaltung unserer eigenen, ebenso geheimhaltungsbedürftigen Informationen sicherzustellen. Weiterhin werden wir angemessene Maßnahmen ergreifen, um sicherzustellen, dass Dritte, an die wir personenbezogene Daten gemäß diesen Grundsätzen weitergeben, einwilligen, entsprechende Sicherheitsvorkehrungen zu treffen. Wir sind berechtigt, personenbezogene Daten für die in diesen Grundsätzen genannten Zwecke außerhalb des Europäischen Wirtschaftsraums zu speichern oder dorthin zu übertragen.</p>
-<p>Bitte beachten Sie, dass wir uns bemühen, alle unserer personenbezogenen Daten zu schützen. Es ist jedoch allgemein bekannt, dass es selbst in angesehenen Finanzinstituten und bei staatlichen Stellen schon zu Datenschutzpannen gekommen ist, und wir können nicht uneingeschränkt garantieren, dass es nicht zu solchen Verstößen und Sicherheitslücken kommen wird. Wir werden Sie über alle wesentlichen Ereignisse in Bezug auf den Datenschutz informieren, die wir entdecken und die Ihre personenbezogenen Daten berühren.</p>
+<b> Schutz Ihrer personenbezogenen Daten</b><br> Wir sammeln personenbezogene Daten nur soweit wir annehmen, dass sie vernï¿½nftigerweise unseren rechtmï¿½ï¿½igen Geschï¿½ftszwecken dienen werden, und werden sie mit derselben Sorgfalt schï¿½tzen, die wir anwenden, um die Sicherheit, Integritï¿½t und Geheimhaltung unserer eigenen, ebenso geheimhaltungsbedï¿½rftigen Informationen sicherzustellen. Weiterhin werden wir angemessene Maï¿½nahmen ergreifen, um sicherzustellen, dass Dritte, an die wir personenbezogene Daten gemï¿½ï¿½ diesen Grundsï¿½tzen weitergeben, einwilligen, entsprechende Sicherheitsvorkehrungen zu treffen. Wir sind berechtigt, personenbezogene Daten fï¿½r die in diesen Grundsï¿½tzen genannten Zwecke auï¿½erhalb des Europï¿½ischen Wirtschaftsraums zu speichern oder dorthin zu ï¿½bertragen.</p>
+<p>Bitte beachten Sie, dass wir uns bemï¿½hen, alle unserer personenbezogenen Daten zu schï¿½tzen. Es ist jedoch allgemein bekannt, dass es selbst in angesehenen Finanzinstituten und bei staatlichen Stellen schon zu Datenschutzpannen gekommen ist, und wir kï¿½nnen nicht uneingeschrï¿½nkt garantieren, dass es nicht zu solchen Verstï¿½ï¿½en und Sicherheitslï¿½cken kommen wird. Wir werden Sie ï¿½ber alle wesentlichen Ereignisse in Bezug auf den Datenschutz informieren, die wir entdecken und die Ihre personenbezogenen Daten berï¿½hren.</p>
 <p>
-<b> Prüfung, Korrektur und Löschung von Daten aus unseren Archiven</b><br> Falls Sie aus Datenschutzgründen vermuten sollten, dass die von uns über Sie gespeicherten personenbezogenen Daten nicht korrekt sind oder falls Sie die Entfernung Ihrer personenbezogenen Daten aus unseren Datenbeständen wünschen, finden Sie weitere Informationen hierzu in unserer <a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/privacy/dataprotect.ws">Datenschutzrichtlinie</a>, (deren Bestimmungen durch Bezugnahme Bestandteil dieses Dokuments werden).</p>
+<b> Prï¿½fung, Korrektur und Lï¿½schung von Daten aus unseren Archiven</b><br> Falls Sie aus Datenschutzgrï¿½nden vermuten sollten, dass die von uns ï¿½ber Sie gespeicherten personenbezogenen Daten nicht korrekt sind oder falls Sie die Entfernung Ihrer personenbezogenen Daten aus unseren Datenbestï¿½nden wï¿½nschen, finden Sie weitere Informationen hierzu in unserer <a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/privacy/dataprotect.ws">Datenschutzrichtlinie</a>, (deren Bestimmungen durch Bezugnahme Bestandteil dieses Dokuments werden).</p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../../l=1/a=57/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -224,11 +224,11 @@ Datenschutzgrundsätze
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../../l=1/a=57/p=bvr8dWR-w1r0xa-t7zCjUPTFr*3vMKNQ3rNl0PT2sZU/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../../l=1/a=57/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

@@ -90,7 +90,7 @@ table.group { border: 2px solid #0D2F53; margin-bottom: 7px; }
  cursor: pointer;
  width: 13px;
  height: 13px;
- background: #0A3B76 url(http://www.funorb.com/l=1/img/forum/cmdicons/contractexpand.gif) left top no-repeat;
+ background: #0A3B76 url(../../../l=1/img/forum/cmdicons/contractexpand.gif) left top no-repeat;
 }
 .showfgroup { background-position: right top; }
 .hidefgroup:hover { background-position: left bottom; }
@@ -142,7 +142,7 @@ tr.thdnrml td { padding-top: 2px; padding-bottom: 2px; }
 .notet { border-bottom: 0px; }
 tr.note td { text-align: center; }
 .notehidden { background-color: #270909; }
-.sm0,.sm1,.sm2,.sm3,.sm4,.sm5,.sm6,.sm7,.sm8,.sm9 { width: 15px; height: 15px; background-image: url('http://www.funorb.com/l=1/img/forum/smileys.gif'); }
+.sm0,.sm1,.sm2,.sm3,.sm4,.sm5,.sm6,.sm7,.sm8,.sm9 { width: 15px; height: 15px; background-image: url('../../../l=1/img/forum/smileys.gif'); }
 .sm0 { background-position: 0px; }
 .sm1 { background-position: 135px; }
 .sm2 { background-position: 120px; }

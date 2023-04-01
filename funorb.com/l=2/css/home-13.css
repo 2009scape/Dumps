@@ -83,7 +83,7 @@ h2, h3 {
  float: right;
  font-size: 12px;
  font-weight: bold;
- background: url(http://www.funorb.com/l=2/img/images/home/developer_diary_bg.png) left top no-repeat;
+ background: url(../../l=2/img/images/home/developer_diary_bg.png) left top no-repeat;
 }
 
 #devTitle {
@@ -121,7 +121,7 @@ h2, h3 {
 #navHome #page_content {
  margin-top: 0;
  padding-top: 8px;
- background: url(http://www.funorb.com/l=2/img/images/home/games_list_bg.png) left 36px no-repeat;
+ background: url(../../l=2/img/images/home/games_list_bg.png) left 36px no-repeat;
 }
 
 #page_content .sectionHeader,
@@ -252,7 +252,7 @@ h2, h3 {
  margin: 8px 0 0 9px;
  width: 204px;
  height: 214px;
- background: #021c5d url(http://www.funorb.com/l=2/img/images/home/games_big_bg.png);
+ background: #021c5d url(../../l=2/img/images/home/games_big_bg.png);
 }
 
 .gamesBig .gamesName {
@@ -279,13 +279,13 @@ h2, h3 {
 .gamesBig .gamesInfo {
  width: 22px;
  height: 20px;
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_big_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_big_bg.png);
 }
 
 .gamesBig .gamesPlay {
  width: 178px;
  height: 20px;
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_big_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_big_bg.png);
 }
 
 /* Medium games boxes */
@@ -296,7 +296,7 @@ h2, h3 {
  margin: 8px 0 0 6px;
  width: 135px;
  height: 158px;
- background: #021c5d url(http://www.funorb.com/l=2/img/images/home/games_medium_bg.png);
+ background: #021c5d url(../../l=2/img/images/home/games_medium_bg.png);
 }
 
 .gamesMedium .gamesIcon {
@@ -313,12 +313,12 @@ h2, h3 {
 }
 
 .gamesMedium .gamesInfo {
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_medium_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_medium_bg.png);
 }
 
 .gamesMedium .gamesPlay {
  width: 109px;
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_medium_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_medium_bg.png);
 }
 
 /* Small games boxes */
@@ -329,7 +329,7 @@ h2, h3 {
  margin: 8px 0 5px 6px;
  width: 119px;
  height: 145px;
- background: #021c5d url(http://www.funorb.com/l=2/img/images/home/games_small_bg.png);
+ background: #021c5d url(../../l=2/img/images/home/games_small_bg.png);
 }
 
 .gamesSmall .gamesName td {
@@ -350,12 +350,12 @@ h2, h3 {
 }
 
 .gamesSmall .gamesInfo {
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_small_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_small_bg.png);
 }
 
 .gamesSmall .gamesPlay {
  width: 93px;
- background-image: url(http://www.funorb.com/l=2/img/images/home/games_buttons_small_bg.png);
+ background-image: url(../../l=2/img/images/home/games_buttons_small_bg.png);
 }
 
 /* All games link */
@@ -365,7 +365,7 @@ h2, h3 {
  font-weight: bold;
  text-decoration: none;
  color: white;
- background: #021c5d url(http://www.funorb.com/l=2/img/images/home/games_all_bg.png) left top no-repeat;
+ background: #021c5d url(../../l=2/img/images/home/games_all_bg.png) left top no-repeat;
 }
 
 #gamesAll .gamesName {
@@ -383,7 +383,7 @@ h2, h3 {
  height: 17px;
  color: white;
  text-decoration: none;
- background: url(http://www.funorb.com/l=2/img/images/home/games_all_button.png) left top no-repeat;
+ background: url(../../l=2/img/images/home/games_all_button.png) left top no-repeat;
 }
 
 #gamesAll .gamesButtons:hover {
@@ -429,7 +429,7 @@ h2, h3 {
  overflow: hidden;
  padding: 0 8px;
  outline: 0;
- background-image: url(http://www.funorb.com/l=2/img/images/home/news_head_bg.png);
+ background-image: url(../../l=2/img/images/home/news_head_bg.png);
 }
 
 .ui-accordion .newsHead { /* whole bar should appear to be a link with JS enabled */
@@ -440,7 +440,7 @@ h2, h3 {
  float: left;
  padding: 3px 0 0 16px;
  font-weight: bold;
- background: url(http://www.funorb.com/l=2/img/images/home/news_arrow.png) left 6px no-repeat;
+ background: url(../../l=2/img/images/home/news_arrow.png) left 6px no-repeat;
  text-decoration: none;
 }
 
@@ -449,7 +449,7 @@ h2, h3 {
 }
 
 #news h3.selected a { /* can't just do .newsHead.selected as IE doesn't support chaining classes like that */
- background-image: url(http://www.funorb.com/l=2/img/images/home/news_arrow_selected.png);
+ background-image: url(../../l=2/img/images/home/news_arrow_selected.png);
 }
 
 .newsHead span { /* date */
@@ -461,7 +461,7 @@ h2, h3 {
  display: none;
  height: 0px;
  overflow: hidden;
- background-image: url(http://www.funorb.com/l=2/img/images/home/news_body_bg.png);
+ background-image: url(../../l=2/img/images/home/news_body_bg.png);
 }
 
 .newsBody#newsBodyFirst {

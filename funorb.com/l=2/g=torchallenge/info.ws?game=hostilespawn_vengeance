@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=torchallenge/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=torchallenge/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=torchallenge/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=torchallenge/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/intro.jpg);
+  background-image: url(../../l=2/img/images/game/hostilespawn_vengeance/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen4.jpg?1';
+images[0] = '../../l=2/img/images/game/hostilespawn_vengeance/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/hostilespawn_vengeance/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/hostilespawn_vengeance/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/hostilespawn_vengeance/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=torchallenge/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=torchallenge/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=torchallenge/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=torchallenge/messenger.js"></script>
 
@@ -154,51 +154,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=torchallenge/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=torchallenge/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=torchallenge/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=torchallenge/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=torchallenge/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=torchallenge/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=torchallenge/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=torchallenge/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=torchallenge/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=torchallenge/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=torchallenge/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=torchallenge/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=torchallenge/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=torchallenge/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=torchallenge/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=torchallenge/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=torchallenge/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=torchallenge/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=torchallenge/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=torchallenge/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=torchallenge/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=torchallenge/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=torchallenge/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=torchallenge/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=torchallenge/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=torchallenge/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=torchallenge/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=torchallenge/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=torchallenge/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=torchallenge/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=torchallenge/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=hostilespawn_vengeance" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=torchallenge/index.ws">
+<a id="countrydrop" href="../../l=2/g=torchallenge/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=torchallenge/index.ws"><img title="
+<li><a class="fly" href="../../g=torchallenge/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=torchallenge/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=torchallenge/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=torchallenge/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=torchallenge/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=torchallenge/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=torchallenge/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws?genreBox=shooter">Jeu de tir</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=torchallenge/hostilespawn_vengeance/play.ws">Hostile Spawn</a> &gt;
+<a href="../../l=2/g=torchallenge/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/g=torchallenge/gamelist.ws?genreBox=shooter">Jeu de tir</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/g=torchallenge/hostilespawn_vengeance/play.ws">Hostile Spawn</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=torchallenge/hostilespawn_vengeance/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/g=torchallenge/hostilespawn_vengeance/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -261,38 +261,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/g=torchallenge/gamelist.ws?genreBox=shooter"><span class="genre">Jeu de tir</span></a><br> Des essaims d'aliens ont infesté la planète Kerrus. Détruisez-les ! </div>
+<a href="../../l=2/g=torchallenge/gamelist.ws?genreBox=shooter"><span class="genre">Jeu de tir</span></a><br> Des essaims d'aliens ont infestï¿½ la planï¿½te Kerrus. Dï¿½truisez-les ! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=torchallenge/hostilespawn_vengeance/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/g=torchallenge/hostilespawn_vengeance/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/hostilespawn_vengeance/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen1_thumb.jpg?1);">
+<a href="../../l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/hostilespawn_vengeance/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen2_thumb.jpg?1);">
+<a href="../../l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/hostilespawn_vengeance/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen3_thumb.jpg?1);">
+<a href="../../l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/hostilespawn_vengeance/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/hostilespawn_vengeance/screen4_thumb.jpg?1);">
+<a href="../../l=2/g=torchallenge/display_screenshot.ws?game=hostilespawn_vengeance&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/hostilespawn_vengeance/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Captures d'écran
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Caractéristiques
+Caractï¿½ristiques
 </div>
 </div>
 <div class="subsectionContent">
@@ -312,8 +312,8 @@ Caractéristiques
 <ul>
 
 <li>Jouer les 10 niveaux du chapitre Kerrus</li>
-<li>Accès à 7 armes, incluant le FACR, le lance-flammes et le fusil laser</li>
-<li>Plus de 15 exploits à accomplir</li>
+<li>Accï¿½s ï¿½ 7 armes, incluant le FACR, le lance-flammes et le fusil laser</li>
+<li>Plus de 15 exploits ï¿½ accomplir</li>
 <li>Mode normal et difficile</li>
 <li>GRATUIT !</li>
 </ul>
@@ -331,8 +331,8 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>Le vaisseau Hammerhead de l'UFE est parti en mission et ne répond plus. Vous avez été chargé de le localiser. Dans le vaisseau déserté, vous découvrez la présence d'un nid d'aliens. Ils n'ont pas l'air de vous vouloir du bien...</p>
-<p>Armez-vous de votre fusil automatique de service et débarrassez le Hammerhead des aliens, puis débarquez sur la planète Kerrus et tuez la menace dans l'œuf à l'aide d'un arsenal d'armes puissantes...</p>
+<p>Le vaisseau Hammerhead de l'UFE est parti en mission et ne rï¿½pond plus. Vous avez ï¿½tï¿½ chargï¿½ de le localiser. Dans le vaisseau dï¿½sertï¿½, vous dï¿½couvrez la prï¿½sence d'un nid d'aliens. Ils n'ont pas l'air de vous vouloir du bien...</p>
+<p>Armez-vous de votre fusil automatique de service et dï¿½barrassez le Hammerhead des aliens, puis dï¿½barquez sur la planï¿½te Kerrus et tuez la menace dans l'ï¿½uf ï¿½ l'aide d'un arsenal d'armes puissantes...</p>
 </div>
 </div>
 </div>
@@ -341,60 +341,60 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Comment puis-je récupérer des points de vie ?</a></li>
-<li><a href="#faqs_q2">Comment le système de rangs fonctionne-t-il ?</a></li>
-<li><a href="#faqs_q3">Qu'est-ce que le mode Difficile et comment y accéder ?</a></li>
+<li><a href="#faqs_q1">Comment puis-je rï¿½cupï¿½rer des points de vie ?</a></li>
+<li><a href="#faqs_q2">Comment le systï¿½me de rangs fonctionne-t-il ?</a></li>
+<li><a href="#faqs_q3">Qu'est-ce que le mode Difficile et comment y accï¿½der ?</a></li>
 <li><a href="#faqs_q4">Quelles sont les armes que j'utilise ?</a></li>
 <li><a href="#faqs_q5">Pourquoi mes munitions diminuent-elles pour une arme alors que j'en utilise une autre ?</a></li>
-<li><a href="#faqs_q6">Je n'arrive pas à maîtriser les commandes !</a></li>
+<li><a href="#faqs_q6">Je n'arrive pas ï¿½ maï¿½triser les commandes !</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Comment puis-je récupérer des points de vie ?</h3>
-<p>Lorsque vous progressez d'un rang, vous récupérez des points de vie et votre niveau de résistance maximal augmente. Si vos points de vie sont faibles, trouvez les kits médicaux répartis dans les niveaux. Si vous vous déplacez sur un kit médical, vous récupérerez des points de vie automatiquement.</p>
+<h3>1. Comment puis-je rï¿½cupï¿½rer des points de vie ?</h3>
+<p>Lorsque vous progressez d'un rang, vous rï¿½cupï¿½rez des points de vie et votre niveau de rï¿½sistance maximal augmente. Si vos points de vie sont faibles, trouvez les kits mï¿½dicaux rï¿½partis dans les niveaux. Si vous vous dï¿½placez sur un kit mï¿½dical, vous rï¿½cupï¿½rerez des points de vie automatiquement.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Comment le système de rangs fonctionne-t-il ?</h3>
-<p>Au fil des missions, vous gagnerez des points et une jauge jaune sous votre rang se remplira. Quand cette jauge est pleine, vous passez au rang suivant (et vos points de vie augmentent) et la jauge retourne à zéro. Cette jauge se videra avec le temps. Il est donc dans votre intérêt de continuer à avancer et tuer des aliens.</p>
+<h3>2. Comment le systï¿½me de rangs fonctionne-t-il ?</h3>
+<p>Au fil des missions, vous gagnerez des points et une jauge jaune sous votre rang se remplira. Quand cette jauge est pleine, vous passez au rang suivant (et vos points de vie augmentent) et la jauge retourne ï¿½ zï¿½ro. Cette jauge se videra avec le temps. Il est donc dans votre intï¿½rï¿½t de continuer ï¿½ avancer et tuer des aliens.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Qu'est-ce que le mode difficile et comment puis-je y accéder ?</h3>
-<p>Les 2 chapitres Kerrus et Vengeance disposent d'un mode difficile qu'il est possible de débloquer après avoir terminé le chapitre en mode normal.</p>
-<p>Dans le mode difficile du chapitre Kerrus, vous devez accomplir les niveaux 4 à 10 (du même chapitre) dans une certaine limite de temps. Cette limite est le double du temps de par des niveaux en mode normal. Dans le mode difficile du chapitre Vengeance, vous devez accomplir les niveaux 5 à 10 (du même chapitre), avec les mêmes limites de temps.</p>
+<h3>3. Qu'est-ce que le mode difficile et comment puis-je y accï¿½der ?</h3>
+<p>Les 2 chapitres Kerrus et Vengeance disposent d'un mode difficile qu'il est possible de dï¿½bloquer aprï¿½s avoir terminï¿½ le chapitre en mode normal.</p>
+<p>Dans le mode difficile du chapitre Kerrus, vous devez accomplir les niveaux 4 ï¿½ 10 (du mï¿½me chapitre) dans une certaine limite de temps. Cette limite est le double du temps de par des niveaux en mode normal. Dans le mode difficile du chapitre Vengeance, vous devez accomplir les niveaux 5 ï¿½ 10 (du mï¿½me chapitre), avec les mï¿½mes limites de temps.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Quelles sont les armes que j'utilise ?</h3>
-<p>L'arme qui est attribuée au clic gauche de la souris est l'arme affichée dans le coin supérieur gauche de l'écran. Celle assignée au clic droit est affichée dans le coin supérieur droit. Les chiffres indiqués en dessous de l'arme sont le nombre de munitions disponibles pour l'arme.</p>
-<p>Vous pouvez ramasser toutes les armes que vous trouverez en vous déplaçant dessus. Pour chaque nouvelle arme, une icône sera ajoutée en haut de l'écran. Pour équiper une arme, cliquez sur l'icône de l'arme désirée. Vous pourrez attribuer cette arme en arme principale ou secondaire avec les deux boutons de la souris.</p>
+<p>L'arme qui est attribuï¿½e au clic gauche de la souris est l'arme affichï¿½e dans le coin supï¿½rieur gauche de l'ï¿½cran. Celle assignï¿½e au clic droit est affichï¿½e dans le coin supï¿½rieur droit. Les chiffres indiquï¿½s en dessous de l'arme sont le nombre de munitions disponibles pour l'arme.</p>
+<p>Vous pouvez ramasser toutes les armes que vous trouverez en vous dï¿½plaï¿½ant dessus. Pour chaque nouvelle arme, une icï¿½ne sera ajoutï¿½e en haut de l'ï¿½cran. Pour ï¿½quiper une arme, cliquez sur l'icï¿½ne de l'arme dï¿½sirï¿½e. Vous pourrez attribuer cette arme en arme principale ou secondaire avec les deux boutons de la souris.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Pourquoi mes munitions diminuent-elles pour une arme alors que j'en utilise une autre ?</h3>
-<p>Certaines armes utilisent le même type de munitions. Le fusil automatique et le F.A.C.R. utilisent les munitions à projectiles. Le canon à plasma et le fusil laser fonctionnent tous deux à base de cellules énergétiques. Toutefois, chaque arme utilise des quantités de munitions différentes à chaque coup.</p>
+<p>Certaines armes utilisent le mï¿½me type de munitions. Le fusil automatique et le F.A.C.R. utilisent les munitions ï¿½ projectiles. Le canon ï¿½ plasma et le fusil laser fonctionnent tous deux ï¿½ base de cellules ï¿½nergï¿½tiques. Toutefois, chaque arme utilise des quantitï¿½s de munitions diffï¿½rentes ï¿½ chaque coup.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
-<h3>6. Je n'arrive pas à maîtriser les commandes !</h3>
-<p>Il existe deux modes de commande dans le jeu. Le premier (par défaut) consiste à déplacer le soldat par rapport à l'écran, tandis que le second déplace le soldat par rapport au curseur de la souris. Utilisez la touche de tabulation pour basculer entre les deux modes. Essayez-les tous les deux afin de déterminer celui qui correspond le mieux à votre style de jeu. Vous avez également le choix entre les flèches du clavier et les touches RDFG pour vous déplacer.</p>
+<h3>6. Je n'arrive pas ï¿½ maï¿½triser les commandes !</h3>
+<p>Il existe deux modes de commande dans le jeu. Le premier (par dï¿½faut) consiste ï¿½ dï¿½placer le soldat par rapport ï¿½ l'ï¿½cran, tandis que le second dï¿½place le soldat par rapport au curseur de la souris. Utilisez la touche de tabulation pour basculer entre les deux modes. Essayez-les tous les deux afin de dï¿½terminer celui qui correspond le mieux ï¿½ votre style de jeu. Vous avez ï¿½galement le choix entre les flï¿½ches du clavier et les touches RDFG pour vous dï¿½placer.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>7. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -402,26 +402,26 @@ Questions fréquentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Avantages abonnés
+Avantages abonnï¿½s
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Les abonnés bénéficient de :</p>
+<p style="padding-bottom: 5px;">Les abonnï¿½s bï¿½nï¿½ficient de :</p>
 <ul style="line-height: 22px;">
-<li>Accès à l'extension Vengeance - 10 niveaux additionnels</li>
+<li>Accï¿½s ï¿½ l'extension Vengeance - 10 niveaux additionnels</li>
 <li>Mode difficile du chapitre Vengeance</li>
 <li>Le merveilleux lance-grenades</li>
-<li>Des charges explosives pour détruire certains murs</li>
-<li>Des kits médicaux pour regagner des points de vie</li>
-<li>Des cartes de sécurité pour passer les portes fermées</li>
+<li>Des charges explosives pour dï¿½truire certains murs</li>
+<li>Des kits mï¿½dicaux pour regagner des points de vie</li>
+<li>Des cartes de sï¿½curitï¿½ pour passer les portes fermï¿½es</li>
 <li>3 nouveaux ennemis, dont la reine Vengeance</li>
-<li>Mode plein écran</li>
-<li>Accès à plus de 20 exploits supplémentaires</li>
-<li>Aucune pub en cours de jeu</li> <li>Accès à toutes les extensions abonnés de FunOrb.</li>
+<li>Mode plein ï¿½cran</li>
+<li>Accï¿½s ï¿½ plus de 20 exploits supplï¿½mentaires</li>
+<li>Aucune pub en cours de jeu</li> <li>Accï¿½s ï¿½ toutes les extensions abonnï¿½s de FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=2/g=torchallenge/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/g=torchallenge/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -440,10 +440,10 @@ Development Team
 <b>Graphics:</b> Peter S,&nbsp;Anthony A,&nbsp;Adam S,&nbsp;Jess H,&nbsp;David H<br>
 <b>Audio:</b> Adam R,&nbsp;Ian T<br>
 <b>Quality Assurance:</b> Ken W L,&nbsp;Joe C,&nbsp;Michael T,&nbsp;Sally R,&nbsp;Alex P<br>
-<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frédérique B
+<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frï¿½dï¿½rique B
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -456,25 +456,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=torchallenge/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=torchallenge/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=torchallenge/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=torchallenge/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=torchallenge/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=torchallenge/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=torchallenge/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=torchallenge/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=torchallenge/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=torchallenge/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=torchallenge/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=torchallenge/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=torchallenge/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=torchallenge/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

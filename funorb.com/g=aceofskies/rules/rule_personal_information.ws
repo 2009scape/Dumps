@@ -19,16 +19,16 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=aceofskies/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=aceofskies/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../g=aceofskies/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../g=aceofskies/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-44.css);/**/
+  /*\*/@import url(../../css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=aceofskies/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../g=aceofskies/index.ws" ><b>
+<img src="../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -64,25 +64,25 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=aceofskies/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=aceofskies/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../g=aceofskies/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../g=aceofskies/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=aceofskies/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../g=aceofskies/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../g=aceofskies/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../g=aceofskies/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../g=aceofskies/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/g=aceofskies/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../g=aceofskies/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=aceofskies/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../g=aceofskies/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../g=aceofskies/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../g=aceofskies/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -93,23 +93,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://services.funorb.com/m=focommunity/g=aceofskies/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/g=aceofskies/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../g=aceofskies/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=aceofskies/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=aceofskies/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=aceofskies/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=aceofskies/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../g=aceofskies/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=aceofskies/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=aceofskies/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../g=aceofskies/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../g=aceofskies/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../g=aceofskies/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../g=aceofskies/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../g=aceofskies/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../g=aceofskies/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo/g=aceofskies/forums.ws" class="fly">Forums
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=aceofskies/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_personal_information.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=aceofskies/index.ws">
+<a id="countrydrop" href="../../g=aceofskies/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=aceofskies/index.ws"><img title="
+<li><a class="fly" href="../../g=aceofskies/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=aceofskies/index.ws"><img title="
+English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=aceofskies/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=aceofskies/index.ws"><img title="
+Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=aceofskies/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=aceofskies/index.ws"><img title="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=aceofskies/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/g=aceofskies/kbase/view.ws?guid=rules_of_conduct">Rules of FunOrb</a> &gt; Asking for, or providing, personal information
+<a href="../../g=aceofskies/kbase/view.ws?guid=rules_of_conduct">Rules of FunOrb</a> &gt; Asking for, or providing, personal information
 
 </div>
 </div>
@@ -186,19 +186,19 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <p>We have this rule in place to protect your privacy and ensure your safety. Not only may giving out your personal details affect the security of your account (as they may be used to make a false account recovery request), but it is also risky to tell people you meet over the internet your personal details.</p>
 <p>Please remember that you do not know any of these people in real life. This is not to say that they are not as nice in real life as they act in game - they most likely are - but it's sensible to keep a safe distance from people you only know online.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="personal"></a>
 <span class="title">2. What do personal details include? </span>
 <p>Personal details are considered to include full name, email addresses, instant messenger screen names/contact details, telephone numbers, your home/school address or age.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="friend"></a>
 <span class="title">3. Is it all right if I ask my friend for their address? </span>
-<p>It is against the rules to ask for personal details. We do not recommend that you ask any other players for this type of information as a safety precaution. Please be aware that you will meet many players, so remember to keep safe in-game, and to read and follow our <a href="http://www.funorb.com/g=aceofskies/kbase/guid/play_safely">Play Safely and Responsibly guide</a>.</p>
+<p>It is against the rules to ask for personal details. We do not recommend that you ask any other players for this type of information as a safety precaution. Please be aware that you will meet many players, so remember to keep safe in-game, and to read and follow our <a href="../../g=aceofskies/kbase/guid/play_safely">Play Safely and Responsibly guide</a>.</p>
 <p><i>To keep FunOrb enjoyable for everyone, please observe and follow our rules. We will not tolerate disruptive players, and if you break our rules your account is likely to be banned or muted. Members who are banned or muted for breaking our rules are not entitled to any sort of refund.</i></p>
 </div>
 <br style="clear: both;">
@@ -206,7 +206,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -217,30 +217,30 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=aceofskies/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../g=aceofskies/index.ws"><img alt="
+English" src="../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=aceofskies/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../l=1/g=aceofskies/index.ws"><img alt="
+Deutsch" src="../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=aceofskies/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../l=2/g=aceofskies/index.ws"><img alt="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=aceofskies/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../l=3/g=aceofskies/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2013 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/g=aceofskies/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/g=aceofskies/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../g=aceofskies/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../g=aceofskies/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=aceofskies/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=aceofskies/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

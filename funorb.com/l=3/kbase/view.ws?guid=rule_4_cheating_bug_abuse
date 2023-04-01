@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Qualquer erro encontrado no jogo deve ser relatado à Jagex imediatamente.">
+<meta name="description" content="Qualquer erro encontrado no jogo deve ser relatado ï¿½ Jagex imediatamente.">
 </head>
 <body id="navnavHelp">
 <a name="top"></a>
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_4_cheating_bug_abuse" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_4_cheating_bug_abuse" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -159,53 +159,53 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <h1 class="articleTitle">Regra 4 - Trapacear/Abusar de erros</h1>
 <div class="articleBody">
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Data de vigência: 27 de fevereiro de 2008</div>
-<br> Você não deve usar ou tentar usar de trapaça ou falhas que porventura encontrar em nosso software. Qualquer exploit que você encontrar deve ser imediatamente informada à Jagex por meio do Suporte ao Cliente. <br>
+<div style="font-weight:bold;" class="effectivedate">Data de vigï¿½ncia: 27 de fevereiro de 2008</div>
+<br> Vocï¿½ nï¿½o deve usar ou tentar usar de trapaï¿½a ou falhas que porventura encontrar em nosso software. Qualquer exploit que vocï¿½ encontrar deve ser imediatamente informada ï¿½ Jagex por meio do Suporte ao Cliente. <br>
 <br>
 <div class="hr"></div>
-<b>Questões relacionadas</b><br> Abaixo estão algumas questões relacionadas que podem ajudar a entender e seguir esta regra.<br>
+<b>Questï¿½es relacionadas</b><br> Abaixo estï¿½o algumas questï¿½es relacionadas que podem ajudar a entender e seguir esta regra.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Por que temos esta regra? </a>
-<li><a href="#accident">E se, por acaso, eu encontrar um erro? Não quero ser banido por ter descoberto um erro por acaso! </a>
+<li><a href="#accident">E se, por acaso, eu encontrar um erro? Nï¿½o quero ser banido por ter descoberto um erro por acaso! </a>
 <li><a href="#how">Como devo informar um erro? </a>
-<li><a href="#cheats">Há alguma trapaça para algum jogo da Jagex? </a>
+<li><a href="#cheats">Hï¿½ alguma trapaï¿½a para algum jogo da Jagex? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Por que temos esta regra? </span><br><br> Esforçamo-nos muito para estabilizar nossos jogos para que sejam, na medida do possível, fáceis de usar e divertidos. <br><br> Erros involuntários podem estragar o objetivo do jogo; portanto, é claro que desejamos consertá-los o mais rápido possível. Levar vantagem deliberada em um erro pode desestabilizar o jogo ou minimizar os esforços de outros jogadores. Portanto, isso é contra as regras. <br><br>
+<span class="title">1. Por que temos esta regra? </span><br><br> Esforï¿½amo-nos muito para estabilizar nossos jogos para que sejam, na medida do possï¿½vel, fï¿½ceis de usar e divertidos. <br><br> Erros involuntï¿½rios podem estragar o objetivo do jogo; portanto, ï¿½ claro que desejamos consertï¿½-los o mais rï¿½pido possï¿½vel. Levar vantagem deliberada em um erro pode desestabilizar o jogo ou minimizar os esforï¿½os de outros jogadores. Portanto, isso ï¿½ contra as regras. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="accident"></a>
-<span class="title">2. E se, por acaso, eu encontrar um erro? Não quero ser banido por ter descoberto um erro por acaso! </span><br><br> Desde que informe ter encontrado o erro assim que o descobrir, não conte a ninguém até que consertemos e não use mais o erro, você NÃO terá problemas. Aliás, seremos muito gratos. Se não nos informar ou propositadamente usar o erro diversas vezes, você estará violando a regra. <br><br>
+<span class="title">2. E se, por acaso, eu encontrar um erro? Nï¿½o quero ser banido por ter descoberto um erro por acaso! </span><br><br> Desde que informe ter encontrado o erro assim que o descobrir, nï¿½o conte a ninguï¿½m atï¿½ que consertemos e nï¿½o use mais o erro, vocï¿½ Nï¿½O terï¿½ problemas. Aliï¿½s, seremos muito gratos. Se nï¿½o nos informar ou propositadamente usar o erro diversas vezes, vocï¿½ estarï¿½ violando a regra. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="how"></a>
-<span class="title">3. Como devo informar um erro? </span><br><br> Você pode informar um erro acessando a homepage do jogo correspondente e clicando em "Informar erro/falha" na seção correspondente. <br><br> Ao preencher o formulário de Informações de Erro, inclua o maior número possível de detalhes. Isso nos ajudará a encontrar o erro e consertá-lo assim que for possível. Após o formulário ter sido preenchido, ele será enviado a um funcionário da equipe Jagex para investigação. Por favor, observe que a Jagex não recompensa jogadores que informam erros. <br><br>
+<span class="title">3. Como devo informar um erro? </span><br><br> Vocï¿½ pode informar um erro acessando a homepage do jogo correspondente e clicando em "Informar erro/falha" na seï¿½ï¿½o correspondente. <br><br> Ao preencher o formulï¿½rio de Informaï¿½ï¿½es de Erro, inclua o maior nï¿½mero possï¿½vel de detalhes. Isso nos ajudarï¿½ a encontrar o erro e consertï¿½-lo assim que for possï¿½vel. Apï¿½s o formulï¿½rio ter sido preenchido, ele serï¿½ enviado a um funcionï¿½rio da equipe Jagex para investigaï¿½ï¿½o. Por favor, observe que a Jagex nï¿½o recompensa jogadores que informam erros. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="cheats"></a>
-<span class="title">4. Há alguma trapaça para algum jogo da Jagex? </span><br><br> Não há códigos de trapaça disponíveis para nenhum de nossos jogos nem temos intenção de adicioná-los. Todos os progressos devem ser feitos de maneira justa e com um jogo limpo. Qualquer uso de trapaça, erro ou tentativa de descobrir a existência de trapaças ou erros constitui violação direta. <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct">Regras de Conduta</a>. <br><br> Por favor, não solicite essa informação. Se fizer isso, sua conta poderá ser banida por tentativa de trapacear e/ou por uso indevido do Suporte ao Cliente. <br><br>
-<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Não toleraremos jogadores que atrapalham, e, se você violar nossas regras, provavelmente sua conta será suspensa. Membros suspensos por violar nossas regras não têm direito a nenhum tipo de reembolso.</i></p>
+<span class="title">4. Hï¿½ alguma trapaï¿½a para algum jogo da Jagex? </span><br><br> Nï¿½o hï¿½ cï¿½digos de trapaï¿½a disponï¿½veis para nenhum de nossos jogos nem temos intenï¿½ï¿½o de adicionï¿½-los. Todos os progressos devem ser feitos de maneira justa e com um jogo limpo. Qualquer uso de trapaï¿½a, erro ou tentativa de descobrir a existï¿½ncia de trapaï¿½as ou erros constitui violaï¿½ï¿½o direta. <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct">Regras de Conduta</a>. <br><br> Por favor, nï¿½o solicite essa informaï¿½ï¿½o. Se fizer isso, sua conta poderï¿½ ser banida por tentativa de trapacear e/ou por uso indevido do Suporte ao Cliente. <br><br>
+<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Nï¿½o toleraremos jogadores que atrapalham, e, se vocï¿½ violar nossas regras, provavelmente sua conta serï¿½ suspensa. Membros suspensos por violar nossas regras nï¿½o tï¿½m direito a nenhum tipo de reembolso.</i></p>
 </div>
 <br style="clear: both;">
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Mais artigos em <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=37">Regra 2 - Trapaça de objetos</a>, <a href="viewarticle.ws?article_id=14">Regra 3 - Roubar senhas</a>, Regra 4 - Trapacear/Abusar de erros, <a href="viewarticle.ws?article_id=21">Regra 5 - Fingir ser funcionário da Jagex</a>, <a href="viewarticle.ws?article_id=48">Regra 6 - Compartilhamento/Troca de contas</a></span>
+<a href="viewarticle.ws?article_id=37">Regra 2 - Trapaï¿½a de objetos</a>, <a href="viewarticle.ws?article_id=14">Regra 3 - Roubar senhas</a>, Regra 4 - Trapacear/Abusar de erros, <a href="viewarticle.ws?article_id=21">Regra 5 - Fingir ser funcionï¿½rio da Jagex</a>, <a href="viewarticle.ws?article_id=48">Regra 6 - Compartilhamento/Troca de contas</a></span>
 </div>
 </div>
 </div>
@@ -216,17 +216,17 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

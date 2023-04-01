@@ -31,7 +31,7 @@
 }
 
 #navSignIn .inner_brown_box_top {
- background: transparent url(https://www.funorb.com/l=1/img/images/layout/applet_div_top.png) no-repeat;
+ background: transparent url(../../l=1/img/images/layout/applet_div_top.png) no-repeat;
  width:431px;
  height:7px;
  margin-bottom: 1px;
@@ -39,7 +39,7 @@
 }
 
 #navSignIn .inner_brown_box_bottom {
- background: transparent url(https://www.funorb.com/l=1/img/images/layout/applet_div_bottom.png) no-repeat;
+ background: transparent url(../../l=1/img/images/layout/applet_div_bottom.png) no-repeat;
  width:431px;
  height:7px;
  margin-top: 1px;
@@ -61,7 +61,7 @@
 
 
  #login_background{
-  background: url('https://www.funorb.com/l=1/img/weblogin/loginarea_bg_nowarn.png?2') center top;
+  background: url('../../l=1/img/weblogin/loginarea_bg_nowarn.png?2') center top;
   width: 740px;
   /* No recaptcha, no warning */
   position: relative;
@@ -74,7 +74,7 @@
 
 
  #login_panel{
-  background: url('https://www.funorb.com/l=1/img/weblogin/login_box_top.png?2') no-repeat 0 0;
+  background: url('../../l=1/img/weblogin/login_box_top.png?2') no-repeat 0 0;
   width: 468px;
   /* No recptcha, no warning */
   margin: 0px auto 0px;
@@ -84,11 +84,11 @@
   height: 247px;
  }
  #login_panel .bottom{
-  background: url('https://www.funorb.com/l=1/img/weblogin/login_box_bottom.png?2') no-repeat 0 bottom;
+  background: url('../../l=1/img/weblogin/login_box_bottom.png?2') no-repeat 0 bottom;
   padding-bottom: 7px;
  }
  #login_panel .repeat{
-  background: url('https://www.funorb.com/l=1/img/weblogin/login_box_repeat.png?2') repeat-y 0 32px;
+  background: url('../../l=1/img/weblogin/login_box_repeat.png?2') repeat-y 0 32px;
   height: 1%; /* IE6 fix */
  }
 
@@ -131,7 +131,7 @@
   height: 12px;
  }
  #login_panel div.section_form{
-  background: url('https://www.funorb.com/l=1/img/weblogin/input_bg.png?2') center top;
+  background: url('../../l=1/img/weblogin/input_bg.png?2') center top;
   height: 49px;
   line-height: 49px;
   margin: 0px auto 7px;
@@ -180,7 +180,7 @@
  }
 
  #login_panel #recaptcha{
-  background: url('https://www.funorb.com/l=1/img/weblogin/captchaback_top.png') no-repeat top left;
+  background: url('../../l=1/img/weblogin/captchaback_top.png') no-repeat top left;
   width: 384px;
   padding: 0px;
   height: auto;
@@ -233,7 +233,7 @@
 
  }
  #login_panel #recaptcha #recaptcha_box #recaptcha_box_lower input {
-  background: url('https://www.funorb.com/l=1/img/weblogin/reCaptcha_input_back.png') transparent top left;
+  background: url('../../l=1/img/weblogin/reCaptcha_input_back.png') transparent top left;
   float:left;
   height:20px;
   margin:5px 2px;
@@ -269,7 +269,7 @@
  #recaptcha_box {
   width: 384px;
   padding: 0 4px 0 0;
-  background: url('https://www.funorb.com/l=1/img/weblogin/captchaback_bottom.png') no-repeat bottom left;
+  background: url('../../l=1/img/weblogin/captchaback_bottom.png') no-repeat bottom left;
   margin: 0px;
  }
  #recaptcha_box {
@@ -277,14 +277,14 @@
   display: none; /* Made visible if js is ON */
  }
  #recaptcha_box_top {
-  background: url(https://www.funorb.com/l=1/img/weblogin/recaptcha_box_top.png) right top no-repeat;
+  background: url(../../l=1/img/weblogin/recaptcha_box_top.png) right top no-repeat;
   height: 2px;
   width: 384px;
   padding: 0 4px 0 0;
   font-size: 0px;
  }
  #recaptcha_box_bottom {
-  background: url(https://www.funorb.com/l=1/img/weblogin/recaptcha_box_bottom.png) right top no-repeat;
+  background: url(../../l=1/img/weblogin/recaptcha_box_bottom.png) right top no-repeat;
   height: 2px;
   width: 384px;
   padding: 0 4px 5px 0;
@@ -308,21 +308,21 @@
   min-height: 57px;
  }
  #refresh_recaptcha {
-  background: url(https://www.funorb.com/l=1/img/weblogin/new_recaptcha_highlight.png);
+  background: url(../../l=1/img/weblogin/new_recaptcha_highlight.png);
   height: 27px;
   width: 31px;
   float: right;
   overflow: hidden;
  }
  #audio_recaptcha {
-  background: url(https://www.funorb.com/l=1/img/weblogin/audio_recaptcha_highlight.png);
+  background: url(../../l=1/img/weblogin/audio_recaptcha_highlight.png);
   height: 31px;
   width: 31px;
   float: right;
   overflow: hidden;
  }
  #image_recaptcha {
-  background: url(https://www.funorb.com/l=1/img/weblogin/image_recaptcha_highlight.png);
+  background: url(../../l=1/img/weblogin/image_recaptcha_highlight.png);
   height: 31px;
   width: 31px;
   float: right;
@@ -337,7 +337,7 @@
   vertical-align: middle;
  }
  #login_panel #recaptcha_nojs_group #recaptcha_challenge_field{
-  background: url('https://www.funorb.com/l=1/img/weblogin/input_bg.png?2') 264px 36px; /* re-use */
+  background: url('../../l=1/img/weblogin/input_bg.png?2') 264px 36px; /* re-use */
   display: block;
   height: 20px;
   position: relative;
@@ -363,7 +363,7 @@
 
  #submit_button a{
   cursor: pointer;
-  background: transparent url('https://www.funorb.com/l=1/img/weblogin/login.png?2') no-repeat top left;
+  background: transparent url('../../l=1/img/weblogin/login.png?2') no-repeat top left;
   width: 264px;
   height: 49px;
   display: block;
@@ -378,10 +378,10 @@
   font-size: 0px;
   text-indent: -9999px;
   cursor: pointer;
-  background: transparent url('https://www.funorb.com/l=1/img/weblogin/login.png?2') no-repeat top left;
+  background: transparent url('../../l=1/img/weblogin/login.png?2') no-repeat top left;
  }
  #submit_button button:hover{
-  background: transparent url('https://www.funorb.com/l=1/img/weblogin/login.png?2') no-repeat bottom left;
+  background: transparent url('../../l=1/img/weblogin/login.png?2') no-repeat bottom left;
   visibility: visible;
   z-index: 10;
  }
@@ -419,7 +419,7 @@
  }
 
  .buttbg, .butt1bg{
-  background: transparent url('https://www.funorb.com/l=1/img/weblogin/create.png') no-repeat 0 0;
+  background: transparent url('../../l=1/img/weblogin/create.png') no-repeat 0 0;
   width: 205px;
   height: 32px;
   position: absolute;
@@ -427,7 +427,7 @@
   left: 0px;
  }
  .butt1bg{
-  background: transparent url('https://www.funorb.com/l=1/img/weblogin/recover.png') no-repeat 0 0;
+  background: transparent url('../../l=1/img/weblogin/recover.png') no-repeat 0 0;
   right: 0px;
  }
  .buttons{
@@ -461,14 +461,14 @@
 
 #warning{
  display: none;
- background: url('https://www.funorb.com/l=1/img/weblogin/warning_border.png') no-repeat bottom left;
+ background: url('../../l=1/img/weblogin/warning_border.png') no-repeat bottom left;
  width: 418px;
  height: 86px;
  margin: 0px auto;
  position: relative;
 }
 #warning_image{
- background: url('https://www.funorb.com/l=1/img/weblogin/ie8.png') no-repeat bottom left;
+ background: url('../../l=1/img/weblogin/ie8.png') no-repeat bottom left;
  top: 7px;
  left: 7px;
  position: absolute;

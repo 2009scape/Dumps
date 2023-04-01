@@ -19,16 +19,16 @@ de">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=fleacircus/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=fleacircus/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=1/g=fleacircus/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=1/g=fleacircus/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,15 +45,15 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=fleacircus/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=1/g=fleacircus/index.ws" ><b>
+<img src="../../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf Jetzt Spielen und dann auf Kostenloses Spielkonto erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=fleacircus/messengercommon0.js"></script>
@@ -64,25 +64,25 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=fleacircus/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=fleacircus/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/g=fleacircus/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/g=fleacircus/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/g=fleacircus/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/g=fleacircus/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../../l=1/g=fleacircus/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../../l=1/g=fleacircus/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=fleacircus/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=1/g=fleacircus/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../../l=1/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/g=fleacircus/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../../l=1/g=fleacircus/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -93,23 +93,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=fleacircus/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/g=fleacircus/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../../l=1/g=fleacircus/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=fleacircus/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=fleacircus/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=fleacircus/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=fleacircus/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/g=fleacircus/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=fleacircus/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/g=fleacircus/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/g=fleacircus/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/g=fleacircus/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/g=fleacircus/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/g=fleacircus/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../../l=1/g=fleacircus/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/g=fleacircus/forums.ws" class="fly"
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=fleacircus/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_real_world_trading.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=fleacircus/index.ws">
+<a id="countrydrop" href="../../../l=1/g=fleacircus/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=fleacircus/index.ws"><img title="
+<li><a class="fly" href="../../../g=fleacircus/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=fleacircus/index.ws"><img title="
+English" src="../../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=fleacircus/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=fleacircus/index.ws"><img title="
+Deutsch" src="../../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=fleacircus/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=fleacircus/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=fleacircus/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=1/g=fleacircus/kbase/view.ws?guid=rules_of_conduct">Regeln von FunOrb</a> &gt; Handel von Gegenständen im richtigen Leben und Erwerb von Powerlevelling 
+<a href="../../../l=1/g=fleacircus/kbase/view.ws?guid=rules_of_conduct">Regeln von FunOrb</a> &gt; Handel von Gegenstï¿½nden im richtigen Leben und Erwerb von Powerlevelling 
 </div>
 </div>
 </div>
@@ -164,62 +164,62 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Gültig ab: 17. Februar 2010</div>
-<p>Gegenstände aus den Spielen für Gegenstände in anderen Online-Spielen zu tauschen oder für richtiges Geld oder Dienstleistungen zu verkaufen, ist verboten.</p>
+<div style="font-weight:bold;" class="effectivedate">Gï¿½ltig ab: 17. Februar 2010</div>
+<p>Gegenstï¿½nde aus den Spielen fï¿½r Gegenstï¿½nde in anderen Online-Spielen zu tauschen oder fï¿½r richtiges Geld oder Dienstleistungen zu verkaufen, ist verboten.</p>
 <br>
 <div class="hr"></div>
-<h4>Diesbezügliche Fragen</h4>
-<p>Hier finden Sie ein paar Fragen, die Ihnen dabei helfen können, diese Regel besser zu verstehen.</p>
+<h4>Diesbezï¿½gliche Fragen</h4>
+<p>Hier finden Sie ein paar Fragen, die Ihnen dabei helfen kï¿½nnen, diese Regel besser zu verstehen.</p>
 <div class="faqsList">
 <ol>
 <li><a href="#rwt">Was ist Handel im richtigen Leben? </a></li>
 <li><a href="#why">Warum gibt es diese Regel? </a></li>
-<li><a href="#items">Ist es denn nicht meine eigene Angelegenheit, was ich mit meinen Gegenständen und meinem Spielkonto mache? </a></li>
+<li><a href="#items">Ist es denn nicht meine eigene Angelegenheit, was ich mit meinen Gegenstï¿½nden und meinem Spielkonto mache? </a></li>
 <li><a href="#ebay">Auf Ebay habe ich ein Spielkonto zum Verkauf gesehen. Was soll ich tun? </a></li>
-<li><a href="#forum">Darf ich eine Forensignatur als Bezahlung für einen Gegenstand annehmen? </a></li>
+<li><a href="#forum">Darf ich eine Forensignatur als Bezahlung fï¿½r einen Gegenstand annehmen? </a></li>
 </ol>
 </div>
 <br>
 <div class="hr"></div>
 <a name="rwt"></a>
 <span class="title">1. Was ist Handel im richtigen Leben? </span>
-<p>Als Handel im richtigen Leben bezeichnen wir den Erwerb von Diensten, die Ihren Charakter verbessern. Dazu gehören (nicht ausschließlich) der Kauf von Goldmünzen oder Gegenständen in RuneScape, RuneScape-Spielkonten und RuneScape-Powerlevelling (wenn Sie eine andere Person dafür bezahlen, Ihren Charakter für Sie zu trainieren oder für Sie Abenteuer abzuschließen oder an Minispielen teilzunehmen).</p>
+<p>Als Handel im richtigen Leben bezeichnen wir den Erwerb von Diensten, die Ihren Charakter verbessern. Dazu gehï¿½ren (nicht ausschlieï¿½lich) der Kauf von Goldmï¿½nzen oder Gegenstï¿½nden in RuneScape, RuneScape-Spielkonten und RuneScape-Powerlevelling (wenn Sie eine andere Person dafï¿½r bezahlen, Ihren Charakter fï¿½r Sie zu trainieren oder fï¿½r Sie Abenteuer abzuschlieï¿½en oder an Minispielen teilzunehmen).</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
 <span class="title">2. Warum gibt es diese Regel? </span>
-<p>Diese Regel wurde aus drei verschiedenen Gründen aufgestellt: 1. Wir wollen nicht, dass sich Spieler in RuneScape Ihren Erfolg erkaufen können, denn das würde den Spielspaß für andere Spieler zerstören. Ihr Status im richtigen Leben sollte keinen Einfluss auf Ihren Erfolg in RuneScape haben. 2. Wir können die Transaktionen, die außerhalb von RuneScape gemacht werden, nicht überprüfen. Wenn Spieler also Gegenstände gegen Leistungen tauschen, die wir nicht beobachten können, dann sieht das für uns wie ein unausgewogener und verdächtiger Handel aus. 3. Es kommt oft vor, dass Spieler, die versuchen, diese Regel zu umgehen und Gegenstände aus RuneScape für echtes Geld verkaufen, mit gestohlenen Gegenständen handeln, also könnten Sie Ärger bekommen, wenn Sie gestohlenes Eigentum besitzen. Wenn Sie ein gestohlenes RuneScape-Konto kaufen, kann es gut sein, dass es auf einmal wieder an den rechtmäßigen Eigentümer zurückgegeben wird - und Sie Ihr Geld für nichts ausgegeben haben. </p>
+<p>Diese Regel wurde aus drei verschiedenen Grï¿½nden aufgestellt: 1. Wir wollen nicht, dass sich Spieler in RuneScape Ihren Erfolg erkaufen kï¿½nnen, denn das wï¿½rde den Spielspaï¿½ fï¿½r andere Spieler zerstï¿½ren. Ihr Status im richtigen Leben sollte keinen Einfluss auf Ihren Erfolg in RuneScape haben. 2. Wir kï¿½nnen die Transaktionen, die auï¿½erhalb von RuneScape gemacht werden, nicht ï¿½berprï¿½fen. Wenn Spieler also Gegenstï¿½nde gegen Leistungen tauschen, die wir nicht beobachten kï¿½nnen, dann sieht das fï¿½r uns wie ein unausgewogener und verdï¿½chtiger Handel aus. 3. Es kommt oft vor, dass Spieler, die versuchen, diese Regel zu umgehen und Gegenstï¿½nde aus RuneScape fï¿½r echtes Geld verkaufen, mit gestohlenen Gegenstï¿½nden handeln, also kï¿½nnten Sie ï¿½rger bekommen, wenn Sie gestohlenes Eigentum besitzen. Wenn Sie ein gestohlenes RuneScape-Konto kaufen, kann es gut sein, dass es auf einmal wieder an den rechtmï¿½ï¿½igen Eigentï¿½mer zurï¿½ckgegeben wird - und Sie Ihr Geld fï¿½r nichts ausgegeben haben. </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="items"></a>
-<span class="title">3. Ist es denn nicht meine eigene Angelegenheit, was ich mit meinen Gegenständen und meinem Spielkonto mache? </span>
-<p>Nein. Unsere Geschäftsbedingungen besagen, dass Ihr RuneScape-Charakter, Ihr RuneScape-Konto und alle RuneScape-Gegenstände aus dem Spiel im Besitz von Jagex bleiben.</p>
+<span class="title">3. Ist es denn nicht meine eigene Angelegenheit, was ich mit meinen Gegenstï¿½nden und meinem Spielkonto mache? </span>
+<p>Nein. Unsere Geschï¿½ftsbedingungen besagen, dass Ihr RuneScape-Charakter, Ihr RuneScape-Konto und alle RuneScape-Gegenstï¿½nde aus dem Spiel im Besitz von Jagex bleiben.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="ebay"></a>
 <span class="title">4. Ich habe auf Ebay ein Spielkonto zum Verkauf gesehen. Was soll ich tun? </span>
-<p>Jagex-Mitarbeiter prüfen alle bekannten Auktionsseiten täglich auf Gegenstände aus RuneScape. Sie dürfen nicht vergessen, dass sich das RuneScape-Spielkonto (zusammen mit den Gegenständen darauf) im Besitz von Jagex befindet. Wir werden verkaufte RuneScape-Gegenstände aus dem Spiel entfernen, wenn wir feststellen, dass sie durch einen Regelverstoß erworben wurden.</p>
+<p>Jagex-Mitarbeiter prï¿½fen alle bekannten Auktionsseiten tï¿½glich auf Gegenstï¿½nde aus RuneScape. Sie dï¿½rfen nicht vergessen, dass sich das RuneScape-Spielkonto (zusammen mit den Gegenstï¿½nden darauf) im Besitz von Jagex befindet. Wir werden verkaufte RuneScape-Gegenstï¿½nde aus dem Spiel entfernen, wenn wir feststellen, dass sie durch einen Regelverstoï¿½ erworben wurden.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="forum"></a>
-<span class="title">5. Darf ich eine Forensignatur als Bezahlung für einen Gegenstand annehmen? </span>
-<p>Forensignaturen sind weder Gegenstände noch Dienstleistungen in RuneScape und dürfen daher nicht als Entlohnung für Gegenstände in RuneScape benutzt werden.</p>
-<p><i>Wir sind ständig bestrebt, die Atmosphäre auf FunOrb für alle Spieler so angenehm wie möglich zu gestalten. Bitte halten Sie sich also an diese Regel. Störende Spieler werden nicht geduldet und bei Regelverstößen kann es passieren, dass Ihr Spielkonto permanent gesperrt oder stummgeschaltet wird. Mitglieder, deren Spielkonto gesperrt oder stummgeschaltet wurde, haben keinen Anspruch auf Rückerstattung der von ihnen bezahlten Gebühren.</i></p>
+<span class="title">5. Darf ich eine Forensignatur als Bezahlung fï¿½r einen Gegenstand annehmen? </span>
+<p>Forensignaturen sind weder Gegenstï¿½nde noch Dienstleistungen in RuneScape und dï¿½rfen daher nicht als Entlohnung fï¿½r Gegenstï¿½nde in RuneScape benutzt werden.</p>
+<p><i>Wir sind stï¿½ndig bestrebt, die Atmosphï¿½re auf FunOrb fï¿½r alle Spieler so angenehm wie mï¿½glich zu gestalten. Bitte halten Sie sich also an diese Regel. Stï¿½rende Spieler werden nicht geduldet und bei Regelverstï¿½ï¿½en kann es passieren, dass Ihr Spielkonto permanent gesperrt oder stummgeschaltet wird. Mitglieder, deren Spielkonto gesperrt oder stummgeschaltet wurde, haben keinen Anspruch auf Rï¿½ckerstattung der von ihnen bezahlten Gebï¿½hren.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -228,25 +228,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=fleacircus/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../g=fleacircus/index.ws"><img alt="
+English" src="../../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=fleacircus/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../../l=1/g=fleacircus/index.ws"><img alt="
+Deutsch" src="../../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=fleacircus/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../../l=2/g=fleacircus/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=fleacircus/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../../l=3/g=fleacircus/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/g=fleacircus/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/g=fleacircus/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/g=fleacircus/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/g=fleacircus/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=fleacircus/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=fleacircus/" target="_blank"><img src="../../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

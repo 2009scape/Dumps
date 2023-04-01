@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2010 Jagex Ltd, www.jagex.com">
@@ -17,14 +17,14 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/a=257/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/a=257/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/a=257/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/a=257/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/a=257/css/global-37.css);/**/
+  /*\*/@import url(../../l=3/a=257/css/global-37.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/a=257/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/a=257/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -56,12 +56,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/a=257/css/info-7.css");/**/
+ /*\*/@import url("../../l=3/a=257/css/info-7.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/solknight/intro.jpg);
+  background-image: url(../../l=3/img/images/game/solknight/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -73,10 +73,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/solknight/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/solknight/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/solknight/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/solknight/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/solknight/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/solknight/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/solknight/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/solknight/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -152,8 +152,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/a=257/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="Funorb" />
+<a id="logo" href="../../l=3/a=257/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="Funorb" />
 </b></a>
 
 <div id="shell">
@@ -162,7 +162,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/a=257/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/a=257/messenger.js"></script>
 
@@ -171,15 +171,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/a=257/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/a=257/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/a=257/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/a=257/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/a=257/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/a=257/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/a=257/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/a=257/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/a=257/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -188,9 +188,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=3/a=257/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+<li><a href="../../l=3/a=257/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/a=257/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/a=257/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -200,24 +200,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/a=257/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/a=257/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://services.funorb.com/m=forum_fo_pt/l=3/a=257/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/a=257/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/a=257/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/a=257/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/a=257/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/a=257/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/a=257/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/a=257/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/a=257/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/parents.ws" class="fly">Guia para Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+<li><a href="../../l=3/a=257/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/a=257/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="../../l=3/a=257/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/a=257/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/a=257/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/a=257/bugtracker.ws" class="fly last">Enviar um relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -226,28 +226,28 @@ http://services.funorb.com/m=forum_fo_pt/l=3/a=257/forums.ws" class="fly">Fóruns
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/a=257/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=solknight" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/a=257/index.ws">
+<a id="countrydrop" href="../../l=3/a=257/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=257/index.ws"><img title="
+<li><a class="fly" href="../../a=257/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=257/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=257/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=257/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=257/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=257/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=257/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -262,12 +262,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/a=257/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/a=257/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/a=257/solknight/play.ws">Cavaleiro Solar</a> &gt;
-Mais informações </span>
+<a href="../../l=3/a=257/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/a=257/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/a=257/solknight/play.ws">Cavaleiro Solar</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/a=257/solknight/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/a=257/solknight/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -280,12 +280,12 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/a=257/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Derrote os asteróides que se dirigem à Terra e torne-se o defensor da humanidade. </div>
+<a href="../../l=3/a=257/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Derrote os asterï¿½ides que se dirigem ï¿½ Terra e torne-se o defensor da humanidade. </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
 <a class="buttonWide" href="https://secure.funorb.com/m=create/l=3/a=257/"><div>Criar conta gratuita</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/a=257/solknight/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/a=257/solknight/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -296,23 +296,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/solknight/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/solknight/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/solknight/screen1_thumb.jpg?1);">
+<a href="../../l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/solknight/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/solknight/screen2_thumb.jpg?1);">
+<a href="../../l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/solknight/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/solknight/screen3_thumb.jpg?1);">
+<a href="../../l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/solknight/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/solknight/screen4_thumb.jpg?1);">
+<a href="../../l=3/a=257/display_screenshot.ws?game=solknight&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/solknight/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -322,7 +322,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
- Benefícios dos membros
+ Benefï¿½cios dos membros
 </div>
 </div>
 <div class="subsectionContent">
@@ -332,13 +332,13 @@ Capturas de tela
 <ul>
 
 <li>5 armas mais poderosas para equipar</li>
-<li>Mais níveis para combater</li>
-<li>Grande número de conquistas extras</li>
+<li>Mais nï¿½veis para combater</li>
+<li>Grande nï¿½mero de conquistas extras</li>
 <li>Modo de tela cheia</li>
-<li>Sem anúncios durante o jogo</li>
+<li>Sem anï¿½ncios durante o jogo</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=3/a=257/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/a=257/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -347,12 +347,12 @@ Capturas de tela
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Um imenso campo de asteróides foi visto dirigindo-se diretamente à Terra. Use os sistemas de arma instalados através do sistema solar para fragmentá-lo e salvar o planeta. <br><br> Ganhe combos destruindo asteróides em sequência rápida ou mantendo a precisão. Os combos desbloqueiam poderes extras que são vitais para sua sobrevivência.</p>
+<p>Um imenso campo de asterï¿½ides foi visto dirigindo-se diretamente ï¿½ Terra. Use os sistemas de arma instalados atravï¿½s do sistema solar para fragmentï¿½-lo e salvar o planeta. <br><br> Ganhe combos destruindo asterï¿½ides em sequï¿½ncia rï¿½pida ou mantendo a precisï¿½o. Os combos desbloqueiam poderes extras que sï¿½o vitais para sua sobrevivï¿½ncia.</p>
 </div>
 </div>
 </div>
@@ -367,37 +367,37 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Como posso melhorar minha pontuação?</a></li>
-<li><a href="#faqs_q2">Há bônus especiais?</a></li>
+<li><a href="#faqs_q1">Como posso melhorar minha pontuaï¿½ï¿½o?</a></li>
+<li><a href="#faqs_q2">Hï¿½ bï¿½nus especiais?</a></li>
 <li><a href="#faqs_q3">Quanto tempo necessito para defender um planeta?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Como posso melhorar minha pontuação?</h3>
-<p>Quanto mais preciso você for, maiores combos vai alcançar, aumentando a pontuação.</p>
+<h3>1. Como posso melhorar minha pontuaï¿½ï¿½o?</h3>
+<p>Quanto mais preciso vocï¿½ for, maiores combos vai alcanï¿½ar, aumentando a pontuaï¿½ï¿½o.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Há bônus especiais?</h3>
-<p>Ganhar um combo de x10 ou x25 desloqueia poderes extras para suas armas atuais, como fogo mais rápido ou aumento na destruição.</p>
+<h3>2. Hï¿½ bï¿½nus especiais?</h3>
+<p>Ganhar um combo de x10 ou x25 desloqueia poderes extras para suas armas atuais, como fogo mais rï¿½pido ou aumento na destruiï¿½ï¿½o.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Quanto tempo necessito para defender um planeta?</h3>
-<p>Na parte inferior da tela há um indicador que mostra quantos quilotons de asteróides ainda estão vindo na sua direção. Esteja atento, porque qualquer um que não consiga destruir voltará para o próximo nível.</p>
+<p>Na parte inferior da tela hï¿½ um indicador que mostra quantos quilotons de asterï¿½ides ainda estï¿½o vindo na sua direï¿½ï¿½o. Esteja atento, porque qualquer um que nï¿½o consiga destruir voltarï¿½ para o prï¿½ximo nï¿½vel.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>4. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>4. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>500 MHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -412,13 +412,13 @@ Equipe de Desenvolvimento
 <div>
 <p>
 <b>Desenvolvimento:</b> Peter T,&nbsp;Thomas D<br>
-<b>Design gráfico:</b> Anthony A,&nbsp;Emma V,&nbsp;Kristian F<br>
-<b>Áudio:</b> Adam B<br>
+<b>Design grï¿½fico:</b> Anthony A,&nbsp;Emma V,&nbsp;Kristian F<br>
+<b>ï¿½udio:</b> Adam B<br>
 <b>Controle de Qualidade:</b> Craig S,&nbsp;Joe C,&nbsp;Michael T<br>
-<b>Tradução:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
+<b>Traduï¿½ï¿½o:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -431,29 +431,29 @@ Equipe de Desenvolvimento
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/a=257/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../a=257/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=257/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/a=257/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=257/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/a=257/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=257/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/a=257/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2010 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/a=257/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/a=257/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/a=257/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/a=257/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/a=257/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/a=257/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 <div class="cr" style="padding: 8px; margin-top: 16px;">
-<p>© 2010, Level Up! Interactive S.A. TODOS OS DIREITOS RESERVADOS.</p>
-<p><a target="level-up" href="http://games.levelupgames.com.br/redirecionador/funorb/pagina/contrato" style="color: #D09D00;">Contrato de Licença de Uso do Software FunOrb</a></p>
+<p>ï¿½ 2010, Level Up! Interactive S.A. TODOS OS DIREITOS RESERVADOS.</p>
+<p><a target="level-up" href="http://games.levelupgames.com.br/redirecionador/funorb/pagina/contrato" style="color: #D09D00;">Contrato de Licenï¿½a de Uso do Software FunOrb</a></p>
 </div>
 </div>
 </div>

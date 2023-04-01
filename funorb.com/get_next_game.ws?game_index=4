@@ -1,15 +1,15 @@
 <div style="height:100%; margin: 0px 3px 0px 3px; position:relative;">
 <div style="padding:6px;">
-<a href="http://www.funorb.com/zombiedawnmulti/play.ws?js=1" target="_top"><img src="http://www.funorb.com/img/images/game/zombiedawnmulti/large.jpg" style="float:left; margin-right:10px; width: 181px; height: 133px;" alt=""></a>
-<b style="font-size: 17px; margin-bottom: 14px;">Zombie Dawn Multi</b><div class="genre"><a href="http://www.funorb.com/gamelist.ws?genreBox=strategy">Strategy</a></div>
+<a href="zombiedawnmulti/play.ws?js=1" target="_top"><img src="img/images/game/zombiedawnmulti/large.jpg" style="float:left; margin-right:10px; width: 181px; height: 133px;" alt=""></a>
+<b style="font-size: 17px; margin-bottom: 14px;">Zombie Dawn Multi</b><div class="genre"><a href="gamelist.ws?genreBox=strategy">Strategy</a></div>
 <p>
 Customise your virus strain to give your zombies special powers and capture humans for your evil research!
 </p>
 </div>
 <span class="links">
 <a class="buttonNew" id="buttonPrev" onClick="javascript:prev_game();"><div>&lt;&lt;</div></a>
-<a class="buttonInfo" href="http://www.funorb.com/info.ws?game=zombiedawnmulti"></a>
-<a class="buttonPlay" id="fogamelink" href="http://www.funorb.com/zombiedawnmulti/play.ws?js=1">Play</a>
+<a class="buttonInfo" href="info.ws?game=zombiedawnmulti"></a>
+<a class="buttonPlay" id="fogamelink" href="zombiedawnmulti/play.ws?js=1">Play</a>
 <a class="buttonNew" id="buttonNext" onClick="javascript:next_game();"><div>&gt;&gt;</div></a>
 </span>
 </div>

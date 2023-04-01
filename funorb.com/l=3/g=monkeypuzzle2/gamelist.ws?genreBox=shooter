@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,20 +17,20 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=monkeypuzzle2/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=monkeypuzzle2/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=monkeypuzzle2/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=monkeypuzzle2/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/gamelist-3.css");/**/
+ /*\*/@import url("../../l=3/css/gamelist-3.css");/**/
 </style>
 <script type="text/javascript">
  function ajax_debug(text) {
@@ -1213,7 +1213,7 @@ function callback_request(url, callback) {
   }
   var guide = document.getElementById('guide');
   if(nogames) {
-   guide.innerHTML = 'Não foram encontrados jogos para sua busca! Tente encontrar um jogo novamente.';
+   guide.innerHTML = 'Nï¿½o foram encontrados jogos para sua busca! Tente encontrar um jogo novamente.';
    guide.style.color = '#f00';
   } else {
    guide.innerHTML = 'Use os menus suspensos para selecionar o tipo de jogo que deseja jogar.';
@@ -1264,8 +1264,8 @@ function callback_request(url, callback) {
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=monkeypuzzle2/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -1274,7 +1274,7 @@ function callback_request(url, callback) {
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=monkeypuzzle2/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=monkeypuzzle2/messenger.js"></script>
 
@@ -1283,25 +1283,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=monkeypuzzle2/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=monkeypuzzle2/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=monkeypuzzle2/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=monkeypuzzle2/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1310,24 +1310,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=monkeypuzzle2/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=monkeypuzzle2/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=monkeypuzzle2/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=monkeypuzzle2/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=monkeypuzzle2/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=monkeypuzzle2/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=monkeypuzzle2/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=monkeypuzzle2/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=monkeypuzzle2/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=monkeypuzzle2/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -1335,28 +1335,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=monkeypuzzle2/loginform.ws?mod=www&amp;ssl=0&amp;dest=gamelist.ws?genreBox=shooter" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=monkeypuzzle2/index.ws">
+<a id="countrydrop" href="../../l=3/g=monkeypuzzle2/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <!--[if lte IE 6]><iframe src="#"></iframe><![endif]-->
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=monkeypuzzle2/index.ws"><img title="
+<li><a class="fly" href="../../g=monkeypuzzle2/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=monkeypuzzle2/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=monkeypuzzle2/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=monkeypuzzle2/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=monkeypuzzle2/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=monkeypuzzle2/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=monkeypuzzle2/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -1397,13 +1397,13 @@ Lista de jogos
 
 <option value="2">Multijogador</option>
 </select>
-<label for="genreBox">Gênero:</label>
+<label for="genreBox">Gï¿½nero:</label>
 <select onchange="updateFilters()" name="genreBox" id="genreBox">
 
 <option value="0">Tudo</option>
 
 <option value="action">
-Ação</option>
+Aï¿½ï¿½o</option>
 
 <option value="puzzle">
 Puzzle</option>
@@ -1414,7 +1414,7 @@ Tiro</option>
 Esporte</option>
 
 <option value="strategy">
-Estratégia</option>
+Estratï¿½gia</option>
 
 <option value="mmo">
 MMO</option>
@@ -1424,709 +1424,709 @@ Outro</option>
 </select>
 <input class="button" id="filtersumbit" type="submit" value="Enviar filtros">
 <script type="text/javascript">document.getElementById('filtersumbit').style.display = 'none';</script>
-<span id="multigenre">Alguns jogos pertencem a mais de um gênero.</span>
+<span id="multigenre">Alguns jogos pertencem a mais de um gï¿½nero.</span>
 </form>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/aceofskies/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/aceofskies/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/aceofskies/play.ws">
+<img src="../../l=3/img/images/game/aceofskies/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/aceofskies/play.ws">Ace of Skies</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/aceofskies/play.ws">Ace of Skies</a></div>
 <div class="gamedesc">Para o alto e avante!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=aceofskies"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/aceofskies/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=aceofskies"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/aceofskies/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/arcanistsmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">
+<img src="../../l=3/img/images/game/arcanistsmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">Arcanistas</a></div>
-<div class="gamedesc">Partidas com feitiços e caos para multijogadores.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">Arcanistas</a></div>
+<div class="gamedesc">Partidas com feitiï¿½os e caos para multijogadores.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=arcanistsmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=arcanistsmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/arcanistsmulti/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/36cardtrick/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/36cardtrick/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/36cardtrick/play.ws">
+<img src="../../l=3/img/images/game/36cardtrick/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/36cardtrick/play.ws">Às do Oeste</a></div>
-<div class="gamedesc">O clássico jogo da memória - com algumas modificações</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/36cardtrick/play.ws">ï¿½s do Oeste</a></div>
+<div class="gamedesc">O clï¿½ssico jogo da memï¿½ria - com algumas modificaï¿½ï¿½es</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=36cardtrick"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/36cardtrick/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=36cardtrick"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/36cardtrick/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dungeonassault/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/dungeonassault/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/dungeonassault/play.ws">
+<img src="../../l=3/img/images/game/dungeonassault/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dungeonassault/play.ws">Ataque à Masmorra</a></div>
-<div class="gamedesc">Defenda seu tesouro. Torne-se o Rei dos Dragões!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/dungeonassault/play.ws">Ataque ï¿½ Masmorra</a></div>
+<div class="gamedesc">Defenda seu tesouro. Torne-se o Rei dos Dragï¿½es!</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=dungeonassault"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dungeonassault/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=dungeonassault"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/dungeonassault/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bachelorfridge/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/bachelorfridge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/bachelorfridge/play.ws">
+<img src="../../l=3/img/images/game/bachelorfridge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bachelorfridge/play.ws">Bachelor Fridge</a></div>
-<div class="gamedesc">Onde a vigilância sanitária nem quer chegar perto.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/bachelorfridge/play.ws">Bachelor Fridge</a></div>
+<div class="gamedesc">Onde a vigilï¿½ncia sanitï¿½ria nem quer chegar perto.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=bachelorfridge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bachelorfridge/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=bachelorfridge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/bachelorfridge/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pool/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/pool/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/pool/play.ws">
+<img src="../../l=3/img/images/game/pool/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pool/play.ws">Bilhar</a></div>
-<div class="gamedesc">O clássico de habilidade e ângulos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/pool/play.ws">Bilhar</a></div>
+<div class="gamedesc">O clï¿½ssico de habilidade e ï¿½ngulos.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=pool"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pool/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=pool"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/pool/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bouncedown/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/bouncedown/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/bouncedown/play.ws">
+<img src="../../l=3/img/images/game/bouncedown/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bouncedown/play.ws">Bouncedown</a></div>
-<div class="gamedesc">Quanto tempo você resiste neste divertido teste cheio de plataformas?</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/bouncedown/play.ws">Bouncedown</a></div>
+<div class="gamedesc">Quanto tempo vocï¿½ resiste neste divertido teste cheio de plataformas?</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=bouncedown"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/bouncedown/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=bouncedown"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/bouncedown/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/brickabrac/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/brickabrac/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/brickabrac/play.ws">
+<img src="../../l=3/img/images/game/brickabrac/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/brickabrac/play.ws">Bricabraque</a></div>
-<div class="gamedesc">Clássica destruição de tijolos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/brickabrac/play.ws">Bricabraque</a></div>
+<div class="gamedesc">Clï¿½ssica destruiï¿½ï¿½o de tijolos.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=brickabrac"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/brickabrac/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=brickabrac"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/brickabrac/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/starcannon/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/starcannon/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/starcannon/play.ws">
+<img src="../../l=3/img/images/game/starcannon/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/starcannon/play.ws">Canhão Estelar</a></div>
-<div class="gamedesc">Pilote o caça espacial mais poderoso que existe.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/starcannon/play.ws">Canhï¿½o Estelar</a></div>
+<div class="gamedesc">Pilote o caï¿½a espacial mais poderoso que existe.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=starcannon"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/starcannon/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=starcannon"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/starcannon/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/solknight/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/solknight/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/solknight/play.ws">
+<img src="../../l=3/img/images/game/solknight/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/solknight/play.ws">Cavaleiro Solar</a></div>
-<div class="gamedesc">Proteja o sistema solar de (quilo)toneladas de asteróides.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/solknight/play.ws">Cavaleiro Solar</a></div>
+<div class="gamedesc">Proteja o sistema solar de (quilo)toneladas de asterï¿½ides.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=solknight"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/solknight/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=solknight"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/solknight/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/fleacircus/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/fleacircus/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/fleacircus/play.ws">
+<img src="../../l=3/img/images/game/fleacircus/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/fleacircus/play.ws">Circo das Pulgas</a></div>
-<div class="gamedesc">Leve as pulgas até o pequenino circo delas.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/fleacircus/play.ws">Circo das Pulgas</a></div>
+<div class="gamedesc">Leve as pulgas atï¿½ o pequenino circo delas.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=fleacircus"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/fleacircus/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=fleacircus"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/fleacircus/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/confined/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/confined/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/confined/play.ws">
+<img src="../../l=3/img/images/game/confined/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/confined/play.ws">Confined</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/confined/play.ws">Confined</a></div>
 <div class="gamedesc">Fly down alien tunnels with some serious guns.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=confined"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/confined/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=confined"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/confined/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/trackcontroller/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/trackcontroller/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/trackcontroller/play.ws">
+<img src="../../l=3/img/images/game/trackcontroller/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/trackcontroller/play.ws">Controlador de Trilhos</a></div>
-<div class="gamedesc">Encaixe as peças para terminar o trilho do trem.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/trackcontroller/play.ws">Controlador de Trilhos</a></div>
+<div class="gamedesc">Encaixe as peï¿½as para terminar o trilho do trem.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=trackcontroller"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/trackcontroller/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=trackcontroller"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/trackcontroller/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/crazycrystals/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/crazycrystals/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/crazycrystals/play.ws">
+<img src="../../l=3/img/images/game/crazycrystals/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/crazycrystals/play.ws">Crazy Crystals</a></div>
-<div class="gamedesc">Quebra-cabeças difíceis baseados em quadros</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/crazycrystals/play.ws">Crazy Crystals</a></div>
+<div class="gamedesc">Quebra-cabeï¿½as difï¿½ceis baseados em quadros</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=crazycrystals"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/crazycrystals/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=crazycrystals"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/crazycrystals/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/orbdefence/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/orbdefence/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/orbdefence/play.ws">
+<img src="../../l=3/img/images/game/orbdefence/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/orbdefence/play.ws">Defesa Orb</a></div>
-<div class="gamedesc">Defenda-se da invasão dos norbes.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/orbdefence/play.ws">Defesa Orb</a></div>
+<div class="gamedesc">Defenda-se da invasï¿½o dos norbes.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=orbdefence"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/orbdefence/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=orbdefence"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/orbdefence/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dekobloko/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/dekobloko/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/dekobloko/play.ws">
+<img src="../../l=3/img/images/game/dekobloko/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dekobloko/play.ws">Deko Bloko</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/dekobloko/play.ws">Deko Bloko</a></div>
 <div class="gamedesc">Caos para multijogador com formas que teimam em voltar!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=dekobloko"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/dekobloko/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=dekobloko"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/dekobloko/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torchallenge/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/torchallenge/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/torchallenge/play.ws">
+<img src="../../l=3/img/images/game/torchallenge/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torchallenge/play.ws">Desafio de Tor</a></div>
-<div class="gamedesc">Conquiste as torres e alcance a iluminação.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/torchallenge/play.ws">Desafio de Tor</a></div>
+<div class="gamedesc">Conquiste as torres e alcance a iluminaï¿½ï¿½o.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=torchallenge"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torchallenge/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=torchallenge"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/torchallenge/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">
+<img src="../../l=3/img/images/game/drphlogistonsavestheearth/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">Dr. P. Salva a Terra</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">Dr. P. Salva a Terra</a></div>
 <div class="gamedesc">Salve a Terra neste jogo de atirar com rolagem lateral.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=drphlogistonsavestheearth"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=drphlogistonsavestheearth"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/drphlogistonsavestheearth/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/escapevector/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/escapevector/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/escapevector/play.ws">
+<img src="../../l=3/img/images/game/escapevector/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/escapevector/play.ws">Escape Vector</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/escapevector/play.ws">Escape Vector</a></div>
 <div class="gamedesc">Voe por cavernas sinuosas para recuperar a tecnologia roubada da Terra.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=escapevector"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/escapevector/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=escapevector"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/escapevector/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawn/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/zombiedawn/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/zombiedawn/play.ws">
+<img src="../../l=3/img/images/game/zombiedawn/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawn/play.ws">Exército dos Zumbis</a></div>
-<div class="gamedesc">Dirija uma invasão dos mortos-vivos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/zombiedawn/play.ws">Exï¿½rcito dos Zumbis</a></div>
+<div class="gamedesc">Dirija uma invasï¿½o dos mortos-vivos.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=zombiedawn"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawn/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=zombiedawn"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/zombiedawn/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/zombiedawnmulti/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">
+<img src="../../l=3/img/images/game/zombiedawnmulti/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">Exército dos Zumbis (M)</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">Exï¿½rcito dos Zumbis (M)</a></div>
 <div class="gamedesc">Luta dos mortos-vivos: capture humanos para a sua pesquisa maligna!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=zombiedawnmulti"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=zombiedawnmulti"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/zombiedawnmulti/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/geoblox/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/geoblox/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/geoblox/play.ws">
+<img src="../../l=3/img/images/game/geoblox/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/geoblox/play.ws">Geoblox</a></div>
-<div class="gamedesc">Una as peças do mesmo formato ou cores, três de cada tipo.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/geoblox/play.ws">Geoblox</a></div>
+<div class="gamedesc">Una as peï¿½as do mesmo formato ou cores, trï¿½s de cada tipo.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=geoblox"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/geoblox/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=geoblox"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/geoblox/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/armiesofgielinor/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">
+<img src="../../l=3/img/images/game/armiesofgielinor/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">Hordas de Guilenor</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">Hordas de Guilenor</a></div>
 <div class="gamedesc">Trave batalhas com Hordas de Guilenor</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=armiesofgielinor"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=armiesofgielinor"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/armiesofgielinor/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">
+<img src="../../l=3/img/images/game/hostilespawn_vengeance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
-<div class="gamedesc">Derrote as hordas de alienígenas.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">Hostile Spawn</a></div>
+<div class="gamedesc">Derrote as hordas de alienï¿½genas.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=hostilespawn_vengeance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=hostilespawn_vengeance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/hostilespawn_vengeance/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/kickabout/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/kickabout/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/kickabout/play.ws">
+<img src="../../l=3/img/images/game/kickabout/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/kickabout/play.ws">Kickabout League</a></div>
-<div class="gamedesc">De jogo de várzea direto para a Liga de Diamante...</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/kickabout/play.ws">Kickabout League</a></div>
+<div class="gamedesc">De jogo de vï¿½rzea direto para a Liga de Diamante...</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=kickabout"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/kickabout/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=kickabout"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/kickabout/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/lexicominos/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/lexicominos/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/lexicominos/play.ws">
+<img src="../../l=3/img/images/game/lexicominos/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/lexicominos/play.ws">Lexicominos</a></div>
-<div class="gamedesc">Quantas palavras você pode construir com os blocos que vão caindo?</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/lexicominos/play.ws">Lexicominos</a></div>
+<div class="gamedesc">Quantas palavras vocï¿½ pode construir com os blocos que vï¿½o caindo?</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=lexicominos"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/lexicominos/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=lexicominos"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/lexicominos/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/wizardrun/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/wizardrun/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/wizardrun/play.ws">
+<img src="../../l=3/img/images/game/wizardrun/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/wizardrun/play.ws">Magia das Estrelas</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/wizardrun/play.ws">Magia das Estrelas</a></div>
 <div class="gamedesc">Lance estrelas em seus inimigos neste divertido jogo de plataformas.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=wizardrun"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/wizardrun/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=wizardrun"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/wizardrun/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/minerdisturbance/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/minerdisturbance/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/minerdisturbance/play.ws">
+<img src="../../l=3/img/images/game/minerdisturbance/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/minerdisturbance/play.ws">Mina em Perigo</a></div>
-<div class="gamedesc">Saqueie as profundezas de um vulcão cheio de espólios.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/minerdisturbance/play.ws">Mina em Perigo</a></div>
+<div class="gamedesc">Saqueie as profundezas de um vulcï¿½o cheio de espï¿½lios.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=minerdisturbance"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/minerdisturbance/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=minerdisturbance"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/minerdisturbance/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/monkeypuzzle2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">
+<img src="../../l=3/img/images/game/monkeypuzzle2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
-<div class="gamedesc">Utilize a catapulta para lançar os cocos coloridos e desalojar os macacos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">Monkey Puzzle 2</a></div>
+<div class="gamedesc">Utilize a catapulta para lanï¿½ar os cocos coloridos e desalojar os macacos.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=monkeypuzzle2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=monkeypuzzle2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/monkeypuzzle2/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/shatteredplans/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/shatteredplans/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/shatteredplans/play.ws">
+<img src="../../l=3/img/images/game/shatteredplans/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/shatteredplans/play.ws">Ofensiva Galáctica</a></div>
-<div class="gamedesc">Domine mundos e conquiste a galáxia.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/shatteredplans/play.ws">Ofensiva Galï¿½ctica</a></div>
+<div class="gamedesc">Domine mundos e conquiste a galï¿½xia.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=shatteredplans"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/shatteredplans/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=shatteredplans"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/shatteredplans/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/holdtheline/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/holdtheline/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/holdtheline/play.ws">
+<img src="../../l=3/img/images/game/holdtheline/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/holdtheline/play.ws">Pé na Tábua!</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/holdtheline/play.ws">Pï¿½ na Tï¿½bua!</a></div>
 <div class="gamedesc">Lute pela pole position nesta corrida repleta de power-ups.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=sport">Esporte</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=holdtheline"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/holdtheline/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=holdtheline"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/holdtheline/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pixelate/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/pixelate/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/pixelate/play.ws">
+<img src="../../l=3/img/images/game/pixelate/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pixelate/play.ws">Pixelate</a></div>
-<div class="gamedesc">É um jogo de blocos caindo - com algumas alterações!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/pixelate/play.ws">Pixelate</a></div>
+<div class="gamedesc">ï¿½ um jogo de blocos caindo - com algumas alteraï¿½ï¿½es!</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=pixelate"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/pixelate/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=pixelate"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/pixelate/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/steelsentinels/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/steelsentinels/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/steelsentinels/play.ws">
+<img src="../../l=3/img/images/game/steelsentinels/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/steelsentinels/play.ws">Steel Sentinels</a></div>
-<div class="gamedesc">Construa e controle robôs gigantes. Entre em combate para ganhar supremacia.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/steelsentinels/play.ws">Steel Sentinels</a></div>
+<div class="gamedesc">Construa e controle robï¿½s gigantes. Entre em combate para ganhar supremacia.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=steelsentinels"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/steelsentinels/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=steelsentinels"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/steelsentinels/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/stellarshard/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/stellarshard/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/stellarshard/play.ws">
+<img src="../../l=3/img/images/game/stellarshard/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/stellarshard/play.ws">Stellar Shard</a></div>
-<div class="gamedesc">Limpe o campo de asteróides com poder de fogo crescente.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/stellarshard/play.ws">Stellar Shard</a></div>
+<div class="gamedesc">Limpe o campo de asterï¿½ides com poder de fogo crescente.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=shooter">Tiro</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=stellarshard"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/stellarshard/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=stellarshard"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/stellarshard/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/sumoblitz/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/sumoblitz/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/sumoblitz/play.ws">
+<img src="../../l=3/img/images/game/sumoblitz/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/sumoblitz/play.ws">Sumoblitz</a></div>
-<div class="gamedesc"><span style="font-weight:bold;color:red">GyojiBot</span> exige sua presença.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/sumoblitz/play.ws">Sumoblitz</a></div>
+<div class="gamedesc"><span style="font-weight:bold;color:red">GyojiBot</span> exige sua presenï¿½a.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=sumoblitz"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/sumoblitz/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=sumoblitz"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/sumoblitz/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/terraphoenix/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/terraphoenix/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/terraphoenix/play.ws">
+<img src="../../l=3/img/images/game/terraphoenix/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/terraphoenix/play.ws">Terra-Fênix</a></div>
-<div class="gamedesc">Comande as suas tropas de elite neste jogo de estratégia</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/terraphoenix/play.ws">Terra-Fï¿½nix</a></div>
+<div class="gamedesc">Comande as suas tropas de elite neste jogo de estratï¿½gia</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=terraphoenix"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/terraphoenix/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=terraphoenix"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/terraphoenix/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tetralink/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/tetralink/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/tetralink/play.ws">
+<img src="../../l=3/img/images/game/tetralink/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tetralink/play.ws">TetraLink</a></div>
-<div class="gamedesc">Consiga quatro fichas em linha reta antes do seu adversário</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/tetralink/play.ws">TetraLink</a></div>
+<div class="gamedesc">Consiga quatro fichas em linha reta antes do seu adversï¿½rio</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=tetralink"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tetralink/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=tetralink"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/tetralink/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tombracer/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/tombracer/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/tombracer/play.ws">
+<img src="../../l=3/img/images/game/tombracer/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tombracer/play.ws">Tomb Racer</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/tombracer/play.ws">Tomb Racer</a></div>
 <div class="gamedesc">Aposte corridas on-line nos Templos do Tormento</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=tombracer"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/tombracer/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=tombracer"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/tombracer/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torquing/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/torquing/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/torquing/play.ws">
+<img src="../../l=3/img/images/game/torquing/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torquing/play.ws">Torquing!</a></div>
-<div class="gamedesc">Velocidade e hamsters não se misturam - exceto aqui!</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/torquing/play.ws">Torquing!</a></div>
+<div class="gamedesc">Velocidade e hamsters nï¿½o se misturam - exceto aqui!</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=torquing"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/torquing/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=torquing"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/torquing/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/transmogrify/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/transmogrify/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/transmogrify/play.ws">
+<img src="../../l=3/img/images/game/transmogrify/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/transmogrify/play.ws">Transmogrify</a></div>
-<div class="gamedesc">Um montão de anagramas neste jogo de quiz.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/transmogrify/play.ws">Transmogrify</a></div>
+<div class="gamedesc">Um montï¿½o de anagramas neste jogo de quiz.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=puzzle">Puzzle</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=transmogrify"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/transmogrify/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=transmogrify"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/transmogrify/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/vertigo2/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/vertigo2/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/vertigo2/play.ws">
+<img src="../../l=3/img/images/game/vertigo2/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/vertigo2/play.ws">Vertigo 2</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/vertigo2/play.ws">Vertigo 2</a></div>
 <div class="gamedesc">Pinte os blocos de roxo neste jogo de plataforma 3D.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=vertigo2"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/vertigo2/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=vertigo2"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/vertigo2/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/virogrid/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/virogrid/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/virogrid/play.ws">
+<img src="../../l=3/img/images/game/virogrid/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/virogrid/play.ws">Virogrid</a></div>
-<div class="gamedesc">Vença dominando a grade.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/virogrid/play.ws">Virogrid</a></div>
+<div class="gamedesc">Venï¿½a dominando a grade.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=virogrid"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/virogrid/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=virogrid"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/virogrid/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/voidhunters/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/voidhunters/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/voidhunters/play.ws">
+<img src="../../l=3/img/images/game/voidhunters/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/voidhunters/play.ws">Void Hunters</a></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/voidhunters/play.ws">Void Hunters</a></div>
 <div class="gamedesc">Construa uma nave espacial e destrua seus amigos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Ação</a></div></div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=voidhunters"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/voidhunters/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=voidhunters"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/voidhunters/play.ws">Jogar</a>
 </div>
 </div>
 </div>
 <div class="gamelistentry" style="display:none;">
 <div class="gameimage">
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/chess/play.ws">
-<img src="http://www.funorb.com/l=3/img/images/game/chess/small.jpg" alt="" />
+<a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/chess/play.ws">
+<img src="../../l=3/img/images/game/chess/small.jpg" alt="" />
 </a>
 </div>
 <div class="gametext">
-<div class="gametitle"><a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=monkeypuzzle2/chess/play.ws">Xadrez</a></div>
-<div class="gamedesc">Jogue este clássico da estratégia com seus amigos.</div>
-<div class="genre"><div><a href="http://www.funorb.com/l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratégia</a></div></div>
+<div class="gametitle"><a onclick="suffixize(this)" href="../../l=3/g=monkeypuzzle2/chess/play.ws">Xadrez</a></div>
+<div class="gamedesc">Jogue este clï¿½ssico da estratï¿½gia com seus amigos.</div>
+<div class="genre"><div><a href="../../l=3/g=monkeypuzzle2/gamelist.ws?genreBox=strategy">Estratï¿½gia</a></div></div>
 <div class="links">
-<a class="buttonInfo" href="http://www.funorb.com/l=3/g=monkeypuzzle2/info.ws?game=chess"></a>
-<a onclick="suffixize(this)" class="buttonPlaySmall" href="http://www.funorb.com/l=3/g=monkeypuzzle2/chess/play.ws">Jogar</a>
+<a class="buttonInfo" href="../../l=3/g=monkeypuzzle2/info.ws?game=chess"></a>
+<a onclick="suffixize(this)" class="buttonPlaySmall" href="../../l=3/g=monkeypuzzle2/chess/play.ws">Jogar</a>
 </div>
 </div>
 </div>
@@ -2141,25 +2141,25 @@ Outro</option>
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=monkeypuzzle2/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=monkeypuzzle2/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=monkeypuzzle2/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=monkeypuzzle2/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=monkeypuzzle2/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=monkeypuzzle2/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=monkeypuzzle2/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=monkeypuzzle2/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=monkeypuzzle2/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=monkeypuzzle2/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=monkeypuzzle2/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=monkeypuzzle2/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=monkeypuzzle2/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=monkeypuzzle2/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

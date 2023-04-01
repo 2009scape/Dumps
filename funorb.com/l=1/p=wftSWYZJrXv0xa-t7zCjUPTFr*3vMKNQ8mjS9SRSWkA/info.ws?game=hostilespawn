@@ -9,7 +9,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
@@ -20,12 +20,12 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-21.css);/**/
+  /*\*/@import url(../../l=1/css/global-21.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -47,12 +47,12 @@ de">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-6.css");/**/
+ /*\*/@import url("../../l=1/css/info-6.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/hostilespawn/intro.jpg);
+  background-image: url(../../l=1/img/images/game/hostilespawn/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -64,10 +64,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/hostilespawn/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/hostilespawn/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/hostilespawn/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/hostilespawn/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/hostilespawn/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/hostilespawn/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/hostilespawn/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/hostilespawn/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -133,8 +133,8 @@ function imageGoto(self, img){
 <div class="container">
 
 <h1 id="logo">
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 </h1>
 <div id="shell">
@@ -142,7 +142,7 @@ function imageGoto(self, img){
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/messengercommon0.js"></script>
@@ -153,15 +153,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -169,8 +169,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,44 +182,44 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="
 http://forum-fo-de.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/forums.ws" class="fly">Alle Foren</a></li>
 <li><a href="
-http://forum-fo-de.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+http://forum-fo-de.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://achievements.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://orbcoins.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=hostilespawn" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=hostilespawn" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws">
+<a id="countrydrop" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws">
 <span>
-<img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="English" alt="English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -235,12 +235,12 @@ http://forum-fo-de.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?genreBox=shooter">Ballerspiel</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/play.ws">Alien-Brut</a> &gt;
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?genreBox=shooter">Ballerspiel</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/play.ws">Alien-Brut</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -253,12 +253,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?genreBox=shooter"><span class="genre">Ballerspiel</span></a><br> Eine gefährliche Alien-Brut hat sich auf dem Planeten Kerrus ausgebreitet. Haltet sie auf! </div>
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/gamelist.ws?genreBox=shooter"><span class="genre">Ballerspiel</span></a><br> Eine gefï¿½hrliche Alien-Brut hat sich auf dem Planeten Kerrus ausgebreitet. Haltet sie auf! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/"><div>Kontoerstellung</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/hostilespawn/play.ws"></a>
 </div>
 
 <a name="screenshots"></a>
@@ -270,23 +270,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/hostilespawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/hostilespawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/hostilespawn/screen1_thumb.jpg?1);">
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/hostilespawn/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/hostilespawn/screen2_thumb.jpg?1);">
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/hostilespawn/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/hostilespawn/screen3_thumb.jpg?1);">
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/hostilespawn/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/hostilespawn/screen4_thumb.jpg?1);">
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/display_screenshot.ws?dirname=hostilespawn&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/hostilespawn/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -307,12 +307,12 @@ Alien-Brut Mitglieder-Vorteile
 <ul>
 <li>Spielt alle 10 Level</li>
 <li>Benutzt starke Energiewaffen</li>
-<li>Fünf neue Alienarten</li>
+<li>Fï¿½nf neue Alienarten</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -327,8 +327,8 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Nachdem keine Radioübertragungen vom Raumschiff Hammerhead empfangen wurden, werdet ihr ausgesandt, um die Situation zu untersuchen. Während ihr das verlassene Schiff erkundet, stellt ihr fest, dass es von einer Alien-Brut besetzt wird... die euch feindlich gesinnt ist.</p>
-<p>Schnappt euch euer Autogewehr und räumt die Hammerhead auf und begebt euch dann auf die Planetenoberfläche, um den Ursprung der Seuche zu bekämpfen. Dabei werden euch ein paar mächtige Waffen behilflich sein.</p>
+<p>Nachdem keine Radioï¿½bertragungen vom Raumschiff Hammerhead empfangen wurden, werdet ihr ausgesandt, um die Situation zu untersuchen. Wï¿½hrend ihr das verlassene Schiff erkundet, stellt ihr fest, dass es von einer Alien-Brut besetzt wird... die euch feindlich gesinnt ist.</p>
+<p>Schnappt euch euer Autogewehr und rï¿½umt die Hammerhead auf und begebt euch dann auf die Planetenoberflï¿½che, um den Ursprung der Seuche zu bekï¿½mpfen. Dabei werden euch ein paar mï¿½chtige Waffen behilflich sein.</p>
 </div>
 </div>
 </div>
@@ -344,39 +344,39 @@ Fragen und Antworten
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Ich kann mich nicht an die Steuerung gewöhnen.</a></li>
+<li><a href="#faqs_q1">Ich kann mich nicht an die Steuerung gewï¿½hnen.</a></li>
 <li><a href="#faqs_q2">Wie kann ich meine Lebenspunkte aufladen?</a></li>
-<li><a href="#faqs_q3">Wie funktionieren die Ränge?</a></li>
+<li><a href="#faqs_q3">Wie funktionieren die Rï¿½nge?</a></li>
 <li><a href="#faqs_q4">Was ist die Schwierigkeitsstufe SCHWER und wie kann ich sie freischalten?</a></li>
 <li><a href="#faqs_q5">Wie kann ich mehr als zwei Waffen aufsammeln?</a></li>
-<li><a href="#faqs_q6">Warum verliere ich Munition für eine Waffe, obwohl ich die andere Waffe benutze?</a></li>
+<li><a href="#faqs_q6">Warum verliere ich Munition fï¿½r eine Waffe, obwohl ich die andere Waffe benutze?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Ich kann mich nicht an die Steuerung gewöhnen.</h3>
-<p>Es gibt zwei Arten, das Spiel zu steuern. Bei der Standardmethode wird der Soldat in Relation mit dem Bildschirm bewegt und bei der zweiten Methode in Relation mit dem Mauszeiger. Mit der Taste TAB könnt ihr zwischen den beiden Methoden wechseln. Ihr solltet beide ausprobieren und sehen, welche Steuerung euch besser liegt. Ihr könnt eure Figur außerdem mit den Pfeiltasten oder den Tasten WASD kontollieren.</p>
+<h3>1. Ich kann mich nicht an die Steuerung gewï¿½hnen.</h3>
+<p>Es gibt zwei Arten, das Spiel zu steuern. Bei der Standardmethode wird der Soldat in Relation mit dem Bildschirm bewegt und bei der zweiten Methode in Relation mit dem Mauszeiger. Mit der Taste TAB kï¿½nnt ihr zwischen den beiden Methoden wechseln. Ihr solltet beide ausprobieren und sehen, welche Steuerung euch besser liegt. Ihr kï¿½nnt eure Figur auï¿½erdem mit den Pfeiltasten oder den Tasten WASD kontollieren.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Wie kann ich meine Lebenspunkte aufladen?</h3>
-<p>Wenn ihr einen Rang aufsteigt, erhaltet ihr ein paar eurer Lebenspunkte zurück und eure maximalen Lebenspunkte erhöhen sich.</p>
+<p>Wenn ihr einen Rang aufsteigt, erhaltet ihr ein paar eurer Lebenspunkte zurï¿½ck und eure maximalen Lebenspunkte erhï¿½hen sich.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Wie funktionieren die Ränge?</h3>
-<p>Während ihr Punkte erhaltet, füllt sich eine Leiste über der Rang-/Punkte-Anzeige. Wenn diese voll ist, erreicht ihr den nächsten Rang.</p>
-<p>Um schnell euren Rang zu verbessern, sollet ihr einen Level innerhalb der Par-Zeit abschließen und im Schwierigkeitsmodus SCHWER spielen.</p>
+<h3>3. Wie funktionieren die Rï¿½nge?</h3>
+<p>Wï¿½hrend ihr Punkte erhaltet, fï¿½llt sich eine Leiste ï¿½ber der Rang-/Punkte-Anzeige. Wenn diese voll ist, erreicht ihr den nï¿½chsten Rang.</p>
+<p>Um schnell euren Rang zu verbessern, sollet ihr einen Level innerhalb der Par-Zeit abschlieï¿½en und im Schwierigkeitsmodus SCHWER spielen.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Was ist die Schwierigkeitsstufe SCHWER und wie kann ich sie freischalten?</h3>
-<p>Diese Schwierigkeitsstufe wird freigeschaltet, wenn ihr das Spiel im normalen Modus abgeschlossen habt. Auf SCHWER müsst ihr die Planeten-Level innerhalb eines strikten Zeitlimits abschließen, welche sich auf die doppelte Länge der Par-Zeit beläuft. Wie der Name schon sagt, ist dieser Modus schwer.</p>
+<p>Diese Schwierigkeitsstufe wird freigeschaltet, wenn ihr das Spiel im normalen Modus abgeschlossen habt. Auf SCHWER mï¿½sst ihr die Planeten-Level innerhalb eines strikten Zeitlimits abschlieï¿½en, welche sich auf die doppelte Lï¿½nge der Par-Zeit belï¿½uft. Wie der Name schon sagt, ist dieser Modus schwer.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Wie kann ich mehr als zwei Waffen aufsammeln?</h3>
-<p>Ihr könnt immer nur zwei Waffen gleichzeitig tragen, aber ihr könnt eure derzeitige Waffe mit einer neuen austauschen. Dazu müsst ihr über der neuen Waffe stehen und die Taste 'Q' drücken, um eure Hauptwaffe auszutauschen oder 'E', um eure Sekundärwaffe auszutauschen. Ihr könnt nicht zweimal die gleiche Waffe benutzen.</p>
+<p>Ihr kï¿½nnt immer nur zwei Waffen gleichzeitig tragen, aber ihr kï¿½nnt eure derzeitige Waffe mit einer neuen austauschen. Dazu mï¿½sst ihr ï¿½ber der neuen Waffe stehen und die Taste 'Q' drï¿½cken, um eure Hauptwaffe auszutauschen oder 'E', um eure Sekundï¿½rwaffe auszutauschen. Ihr kï¿½nnt nicht zweimal die gleiche Waffe benutzen.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
-<h3>6. Warum verliere ich Munition für eine Waffe, obwohl ich die andere Waffe benutze?</h3>
+<h3>6. Warum verliere ich Munition fï¿½r eine Waffe, obwohl ich die andere Waffe benutze?</h3>
 <p>Einige Waffen benutzen die gleiche Munition. Das Autogewehr und das NSG benutzen die gleichen Kugeln. Die Plasmakanone und das Schienengewehr benutzen beide Energiezellen. Aber jede Waffe benutzt eine andere Menge an Munition pro Schuss.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
@@ -384,12 +384,12 @@ Fragen und Antworten
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -408,11 +408,11 @@ Entwicklung
 <b>Entwicklung:</b> Thomas D<br>
 <b>Grafik:</b> Laura W<br>
 <b>Audio:</b> Ian T<br>
-<b>Qualitätssicherung:</b> Michael T,&nbsp;Craig S,&nbsp;Joe C<br>
-<b>Deutsche Übersetzung :</b> Heiko J,&nbsp;Veronika H,&nbsp;Matthias P
+<b>Qualitï¿½tssicherung:</b> Michael T,&nbsp;Craig S,&nbsp;Joe C<br>
+<b>Deutsche ï¿½bersetzung :</b> Heiko J,&nbsp;Veronika H,&nbsp;Matthias P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -425,17 +425,17 @@ Entwicklung
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="English" src="../../l=1/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Deutsch" src="../../l=1/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/p=lUKdV1vXisv0xa-t7zCjUPTFr*3vMKNQ-8vbMp1GS-A/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

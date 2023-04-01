@@ -2,7 +2,7 @@
 
 /*Background override not used anymore as plasma bg replaced with lovely blue gradient */
 /*Background must be a jpg and not png. ms alpha hack not advised*/
-/*body { background:#000 url(http://www.funorb.com/img/images/layout/bg_ie.jpg) repeat-y center top; }*/
+/*body { background:#000 url(../../img/images/layout/bg_ie.jpg) repeat-y center top; }*/
 /* remove png background */
 #wrapper { background:none; }
 
@@ -79,7 +79,7 @@ body#navSignOut .menu li a#signOut span,
 #lang_div,
 .menu :hover ul.sub,
 .menu :hover ul#lang.sub {
- background-image: url(http://www.funorb.com/img/images/layout/menu.gif?1);
+ background-image: url(../../img/images/layout/menu.gif?1);
 }
 
 .menu li #lang_div a:hover {

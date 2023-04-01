@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2010 Jagex Ltd, www.jagex.com">
@@ -17,15 +17,15 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/a=257/g=armiesofgielinor/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/a=257/g=armiesofgielinor/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../../l=3/a=257/g=armiesofgielinor/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../../l=3/a=257/g=armiesofgielinor/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/a=257/css/global-40.css);/**/
+  /*\*/@import url(../../../../l=3/a=257/css/global-40.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=3/a=257/js/jquery/jquery_1_3_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/a=257/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../../l=3/a=257/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
 
@@ -63,18 +63,18 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/index.ws" ><b>
+<a id="logo" href="../../../../l=3/a=257/g=armiesofgielinor/index.ws" ><b>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="203" height="80">
-<param name="movie" value="http://www.funorb.com/l=3/img/images/layout/logo_funorb_tombracer.swf" />
-<param name="FlashVars" value="homePath=http://www.funorb.com/l=3/a=257/g=armiesofgielinor/" />
+<param name="movie" value="../../../../l=3/img/images/layout/logo_funorb_tombracer.swf" />
+<param name="FlashVars" value="homePath=../../../../l=3/a=257/g=armiesofgielinor/" />
 <param name="AllowScriptAccess" value="always" />
 <!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="http://www.funorb.com/l=3/img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
-<param name="FlashVars" value="homePath=http://www.funorb.com/l=3/a=257/g=armiesofgielinor/" />
+<object type="application/x-shockwave-flash" data="../../../../l=3/img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
+<param name="FlashVars" value="homePath=../../../../l=3/a=257/g=armiesofgielinor/" />
 <param name="AllowScriptAccess" value="always" />
 <!--<![endif]-->
 <!-- Non Flash alternative -->
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
+<img src="../../../../l=3/img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
 <!--[if !IE]>-->
 </object>
 <!--<![endif]-->
@@ -88,7 +88,7 @@
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/a=257/g=armiesofgielinor/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/a=257/g=armiesofgielinor/messenger.js"></script>
 
@@ -97,15 +97,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../../l=3/a=257/g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../../l=3/a=257/g=armiesofgielinor/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -114,9 +114,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=3/a=257/g=armiesofgielinor/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -126,24 +126,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/a=257/g=armiesofgielinor/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/a=257/g=armiesofgielinor/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://services.funorb.com/m=forum_fo_pt/l=3/a=257/g=armiesofgielinor/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/a=257/g=armiesofgielinor/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/a=257/g=armiesofgielinor/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/a=257/g=armiesofgielinor/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/a=257/g=armiesofgielinor/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../../l=3/a=257/g=armiesofgielinor/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/parents.ws" class="fly">Guia para Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../../../l=3/a=257/g=armiesofgielinor/bugtracker.ws" class="fly last">Enviar um relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -152,28 +152,28 @@ http://services.funorb.com/m=forum_fo_pt/l=3/a=257/g=armiesofgielinor/forums.ws"
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/a=257/g=armiesofgielinor/loginform.ws?mod=www&amp;ssl=0&amp;dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/index.ws">
+<a id="countrydrop" href="../../../../l=3/a=257/g=armiesofgielinor/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)" src="../../../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=257/g=armiesofgielinor/index.ws"><img title="
+<li><a class="fly" href="../../../../a=257/g=armiesofgielinor/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=257/g=armiesofgielinor/index.ws"><img title="
+English" src="../../../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../../l=1/a=257/g=armiesofgielinor/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=257/g=armiesofgielinor/index.ws"><img title="
+Deutsch" src="../../../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../../l=2/a=257/g=armiesofgielinor/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/index.ws"><img title="
+Fran&ccedil;ais" src="../../../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../../l=3/a=257/g=armiesofgielinor/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -190,7 +190,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Política de Privacidade
+Polï¿½tica de Privacidade
 
 </div>
 </div>
@@ -202,48 +202,48 @@ Política de Privacidade
 
 <div class="articleBody">
 
-<p style="text-align: right;">Data de vigência: 19 de agosto de 2009</p>
+<p style="text-align: right;">Data de vigï¿½ncia: 19 de agosto de 2009</p>
 <p>
-<b>Política de Privacidade</b>
+<b>Polï¿½tica de Privacidade</b>
 
 <p>
-<b>Introdução</b><br/> Esta é a política de privacidade da Jagex Limited e quaisquer empresas dentro de nosso grupo (designada coletivamente como "Jagex"). Aplica-se a todos os nossos sites/serviços (designados coletivamente como "nossos sites") nos quais aparecer. <p>Estamos comprometidos com a proteção de sua privacidade e tomamos medidas especiais para garantir o sigilo das informações de identificação pessoal coletadas provenientes ou relacionadas com você. A presente política de privacidade explica como coletamos, armazenamos e utilizamos essas informações de identificação pessoal. (“Informações de identificação pessoal” são informações que identificam você e podem ser utilizadas para contatá-lo ou localizá-lo na vida real como, por exemplo, seu nome completo verdadeiro, e-mail, número de celular ou endereço de correspondência.)
-<p>Leia a presente política cuidadosamente. Sua total aceitação é uma condição de uso de nossos sites (quer você seja assinante ou não). Se não concordar com a presente política, ou qualquer parte dela, favor não utilizar nossos sites. Qualquer utilização de nossos sites é considerada uma aceitação da versão da presente política em vigor no momento do uso. Se você é menor de 18 anos, sua aceitação deverá ser realizada com a representação ou assistência dos pais ou responsável.
+<b>Introduï¿½ï¿½o</b><br/> Esta ï¿½ a polï¿½tica de privacidade da Jagex Limited e quaisquer empresas dentro de nosso grupo (designada coletivamente como "Jagex"). Aplica-se a todos os nossos sites/serviï¿½os (designados coletivamente como "nossos sites") nos quais aparecer. <p>Estamos comprometidos com a proteï¿½ï¿½o de sua privacidade e tomamos medidas especiais para garantir o sigilo das informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal coletadas provenientes ou relacionadas com vocï¿½. A presente polï¿½tica de privacidade explica como coletamos, armazenamos e utilizamos essas informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal. (ï¿½Informaï¿½ï¿½es de identificaï¿½ï¿½o pessoalï¿½ sï¿½o informaï¿½ï¿½es que identificam vocï¿½ e podem ser utilizadas para contatï¿½-lo ou localizï¿½-lo na vida real como, por exemplo, seu nome completo verdadeiro, e-mail, nï¿½mero de celular ou endereï¿½o de correspondï¿½ncia.)
+<p>Leia a presente polï¿½tica cuidadosamente. Sua total aceitaï¿½ï¿½o ï¿½ uma condiï¿½ï¿½o de uso de nossos sites (quer vocï¿½ seja assinante ou nï¿½o). Se nï¿½o concordar com a presente polï¿½tica, ou qualquer parte dela, favor nï¿½o utilizar nossos sites. Qualquer utilizaï¿½ï¿½o de nossos sites ï¿½ considerada uma aceitaï¿½ï¿½o da versï¿½o da presente polï¿½tica em vigor no momento do uso. Se vocï¿½ ï¿½ menor de 18 anos, sua aceitaï¿½ï¿½o deverï¿½ ser realizada com a representaï¿½ï¿½o ou assistï¿½ncia dos pais ou responsï¿½vel.
 
-<p>Caso você tenha alguma dúvida sobre a presente política de privacidade, entre em contato conosco por e-mail. <img style="vertical-align: bottom" src="http://www.funorb.com/l=3/img/privacy/privacy.gif" alt=""/> e não utilize nossos sites até estar convencido e poder aceitar a presente política na totalidade. <p>Na presente política de privacidade, os “Produtos Jagex” são utilizados de forma abreviada para todas as versões do "RuneScape®", "FunOrb®" ou quaisquer outros jogos online lançados pela Jagex de tempos em tempos, inclusive todos os websites Jagex utilizados para jogar esses jogos. <p>Referências a “Encerramento” de uma conta incluem todo ou qualquer bloqueio/suspensão, proibição temporária ou permanente da conta. <p>
-<b>Que informações de identificação pessoal coletamos e armazenamos?</b><br/> Nenhuma informação de identificação pessoal será coletada quando você simplesmente acessar as áreas públicas de nossos sites ou quando utilizar os jogos que incluem um único jogador. <p>Coletamos e armazenamos informações que você fornece voluntariamente por meio de formulários ou de outra forma em nossos sites, por meios eletrônicos ou outras formas de comunicações conosco. Você pode optar por não fornecer algumas dessas informações simplesmente escolhendo não preencher o formulário de solicitação de informações e, por conseguinte, escolhendo não utilizar aquele serviço específico. <p>Por exemplo: <ul>
-<li>Para utilizar muitos dos recursos dos Produtos Jagex, você precisará abrir uma conta escolhendo um nome de usuário e senha.</li>
-<li>Para assinar quaisquer Produtos Jagex você também precisará fornecer informações de contato, incluindo nome, um e-mail válido e endereço residencial.</li>
-<li>Para utilizar nosso serviço de suporte ao cliente você precisará acessar a seção de suporte ao cliente utilizando seu nome de usuário e senha, e fornecendo informações relacionadas a sua consulta por meio do formulário on-line.</li>
-<li>Para possibilitar um melhor serviço de suporte ao cliente podemos, além disso, solicitar-lhe o fornecimento de informações de contato, incluindo nome, e-mail, CEP e país, e que você nos forneça diversas perguntas de segurança que podemos utilizar para confirmar sua identidade caso necessite de assistência no futuro. (Observe que é você quem escolhe as perguntas e respostas fornecidas. Você pode optar por fornecer algumas dessas informações, mas fazer isso limitará a disponibilidade ou eficácia de nosso serviço de suporte</li>
-<li>Nós podemos lhe dar a opção de fornecer seu endereço de e-mail para que possamos contatá-lo no futuro enviando newsletters sobre os jogos, incluindo novas ferramentas de jogos e ofertas especiais. </li>
+<p>Caso vocï¿½ tenha alguma dï¿½vida sobre a presente polï¿½tica de privacidade, entre em contato conosco por e-mail. <img style="vertical-align: bottom" src="../../../../l=3/img/privacy/privacy.gif" alt=""/> e nï¿½o utilize nossos sites atï¿½ estar convencido e poder aceitar a presente polï¿½tica na totalidade. <p>Na presente polï¿½tica de privacidade, os ï¿½Produtos Jagexï¿½ sï¿½o utilizados de forma abreviada para todas as versï¿½es do "RuneScapeï¿½", "FunOrbï¿½" ou quaisquer outros jogos online lanï¿½ados pela Jagex de tempos em tempos, inclusive todos os websites Jagex utilizados para jogar esses jogos. <p>Referï¿½ncias a ï¿½Encerramentoï¿½ de uma conta incluem todo ou qualquer bloqueio/suspensï¿½o, proibiï¿½ï¿½o temporï¿½ria ou permanente da conta. <p>
+<b>Que informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal coletamos e armazenamos?</b><br/> Nenhuma informaï¿½ï¿½o de identificaï¿½ï¿½o pessoal serï¿½ coletada quando vocï¿½ simplesmente acessar as ï¿½reas pï¿½blicas de nossos sites ou quando utilizar os jogos que incluem um ï¿½nico jogador. <p>Coletamos e armazenamos informaï¿½ï¿½es que vocï¿½ fornece voluntariamente por meio de formulï¿½rios ou de outra forma em nossos sites, por meios eletrï¿½nicos ou outras formas de comunicaï¿½ï¿½es conosco. Vocï¿½ pode optar por nï¿½o fornecer algumas dessas informaï¿½ï¿½es simplesmente escolhendo nï¿½o preencher o formulï¿½rio de solicitaï¿½ï¿½o de informaï¿½ï¿½es e, por conseguinte, escolhendo nï¿½o utilizar aquele serviï¿½o especï¿½fico. <p>Por exemplo: <ul>
+<li>Para utilizar muitos dos recursos dos Produtos Jagex, vocï¿½ precisarï¿½ abrir uma conta escolhendo um nome de usuï¿½rio e senha.</li>
+<li>Para assinar quaisquer Produtos Jagex vocï¿½ tambï¿½m precisarï¿½ fornecer informaï¿½ï¿½es de contato, incluindo nome, um e-mail vï¿½lido e endereï¿½o residencial.</li>
+<li>Para utilizar nosso serviï¿½o de suporte ao cliente vocï¿½ precisarï¿½ acessar a seï¿½ï¿½o de suporte ao cliente utilizando seu nome de usuï¿½rio e senha, e fornecendo informaï¿½ï¿½es relacionadas a sua consulta por meio do formulï¿½rio on-line.</li>
+<li>Para possibilitar um melhor serviï¿½o de suporte ao cliente podemos, alï¿½m disso, solicitar-lhe o fornecimento de informaï¿½ï¿½es de contato, incluindo nome, e-mail, CEP e paï¿½s, e que vocï¿½ nos forneï¿½a diversas perguntas de seguranï¿½a que podemos utilizar para confirmar sua identidade caso necessite de assistï¿½ncia no futuro. (Observe que ï¿½ vocï¿½ quem escolhe as perguntas e respostas fornecidas. Vocï¿½ pode optar por fornecer algumas dessas informaï¿½ï¿½es, mas fazer isso limitarï¿½ a disponibilidade ou eficï¿½cia de nosso serviï¿½o de suporte</li>
+<li>Nï¿½s podemos lhe dar a opï¿½ï¿½o de fornecer seu endereï¿½o de e-mail para que possamos contatï¿½-lo no futuro enviando newsletters sobre os jogos, incluindo novas ferramentas de jogos e ofertas especiais. </li>
 </ul>
 <p>
-<b>Práticas da Jagex para privacidade de usuários.</b><br/> O fornecimento dos produtos Jagex para toda e qualquer pessoa com menos de 18 anos de idade não está condicionado à coleta de mais informações pessoais que sejam razoavelmente necessárias para a participação. 
+<b>Prï¿½ticas da Jagex para privacidade de usuï¿½rios.</b><br/> O fornecimento dos produtos Jagex para toda e qualquer pessoa com menos de 18 anos de idade nï¿½o estï¿½ condicionado ï¿½ coleta de mais informaï¿½ï¿½es pessoais que sejam razoavelmente necessï¿½rias para a participaï¿½ï¿½o. 
 <p>
-<b>Que outras informações são coletadas e armazenadas?</b><br/> Nós utilizamos <a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/cookies.ws">cookies</a>, coletamos e armazenamos endereços IP, números de identificação e outros identificadores alfanuméricos, a fim de identificar computadores que acessam os nossos sites. Nós identificamos e armazenamos versões de Java e .NET (se houver) instaladas em seu computador, junto com seu navegador e sistema operacional. <p>Geramos e armazenamos registros que indicam o uso de nossos sites, como, por exemplo, atividades em nossos jogos e comunicações via bate-papo público e privado. Isso inclui monitoramento de modelos de jogos e restrições antiintrusão que verificam o correto funcionamento interno de nosso software e são projetados para detectar atividades abusivas ou impróprias. <p>Podemos rastrear o uso de determinados recursos e áreas de nossos sites para nos ajudar a aprimorá-los. <p>Se nosso software armazenado em seu computador falhar, um relatório automático de erro será enviado ao nosso servidor para ajudar-nos a repará-lo. Esse relatório de erro somente inclui informações sobre o estado interno de nosso próprio software e qual versão do navegador/Java está em funcionamento. Não incluem dados de outras partes de seu sistema e, portanto, não nos revela informações de identificação pessoal. <p>Armazenamos informações de 'jogos salvos' e 'configurações de jogos’ para possibilitar o fornecimento de serviços de jogos nos quais suas atividades e pontuações sejam lembradas no jogo, e realizamos pesquisas de opinião pública para encontrar melhores maneiras de satisfazer as necessidades de nossos usuários. <p>
-<b>O que acontece com as informações fornecidas/coletadas?</b><br/> As informações que coletamos podem ser utilizadas: <ol style="list-style-type: lower-roman;">
+<b>Que outras informaï¿½ï¿½es sï¿½o coletadas e armazenadas?</b><br/> Nï¿½s utilizamos <a href="../../../../l=3/a=257/g=armiesofgielinor/cookies.ws">cookies</a>, coletamos e armazenamos endereï¿½os IP, nï¿½meros de identificaï¿½ï¿½o e outros identificadores alfanumï¿½ricos, a fim de identificar computadores que acessam os nossos sites. Nï¿½s identificamos e armazenamos versï¿½es de Java e .NET (se houver) instaladas em seu computador, junto com seu navegador e sistema operacional. <p>Geramos e armazenamos registros que indicam o uso de nossos sites, como, por exemplo, atividades em nossos jogos e comunicaï¿½ï¿½es via bate-papo pï¿½blico e privado. Isso inclui monitoramento de modelos de jogos e restriï¿½ï¿½es antiintrusï¿½o que verificam o correto funcionamento interno de nosso software e sï¿½o projetados para detectar atividades abusivas ou imprï¿½prias. <p>Podemos rastrear o uso de determinados recursos e ï¿½reas de nossos sites para nos ajudar a aprimorï¿½-los. <p>Se nosso software armazenado em seu computador falhar, um relatï¿½rio automï¿½tico de erro serï¿½ enviado ao nosso servidor para ajudar-nos a reparï¿½-lo. Esse relatï¿½rio de erro somente inclui informaï¿½ï¿½es sobre o estado interno de nosso prï¿½prio software e qual versï¿½o do navegador/Java estï¿½ em funcionamento. Nï¿½o incluem dados de outras partes de seu sistema e, portanto, nï¿½o nos revela informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal. <p>Armazenamos informaï¿½ï¿½es de 'jogos salvos' e 'configuraï¿½ï¿½es de jogosï¿½ para possibilitar o fornecimento de serviï¿½os de jogos nos quais suas atividades e pontuaï¿½ï¿½es sejam lembradas no jogo, e realizamos pesquisas de opiniï¿½o pï¿½blica para encontrar melhores maneiras de satisfazer as necessidades de nossos usuï¿½rios. <p>
+<b>O que acontece com as informaï¿½ï¿½es fornecidas/coletadas?</b><br/> As informaï¿½ï¿½es que coletamos podem ser utilizadas: <ol style="list-style-type: lower-roman;">
 
-<li>Para fornecer nosso serviço de suporte ao cliente e confirmar quaisquer reivindicações ou solicitações feitas por você, caso tenha utilizado nosso serviço de suporte ao cliente.</li>
-<li>Para o cumprimento de nossos <a href="../terms/terms.ws">termos e condições</a> e evitar ou detectar atividades de hackers, violações de segurança ou riscos de segurança relacionados aos nossos sites.</li>
+<li>Para fornecer nosso serviï¿½o de suporte ao cliente e confirmar quaisquer reivindicaï¿½ï¿½es ou solicitaï¿½ï¿½es feitas por vocï¿½, caso tenha utilizado nosso serviï¿½o de suporte ao cliente.</li>
+<li>Para o cumprimento de nossos <a href="../terms/terms.ws">termos e condiï¿½ï¿½es</a> e evitar ou detectar atividades de hackers, violaï¿½ï¿½es de seguranï¿½a ou riscos de seguranï¿½a relacionados aos nossos sites.</li>
 
-<li>Para enviar avisos e mensagens de serviço.</li>
-<li>Para agregar informações a fim de gerar estatísticas anônimas com respeito ao uso de nossos sites. Podemos compartilhar essas informações anônimas com nossos parceiros e anunciantes. Isso não tem vínculo com nenhuma informação pessoal que possa identificar individualmente qualquer pessoa.</li>
-<li>Para nosso próprio marketing interno e estudos demográficos, e para ajudar a melhorar nossos sites.</li>
-<li>Em caso de uma fusão propriamente dita ou proposta de fusão (inclusive como parte de quaisquer fusões), ou acordo comercial ou venda de substancialmente todos os nossos ativos ou uma operação comercial com a qual essas informações se relacionam ou conforme previsto nas leis de falência ou leis aplicáveis ou em cumprimento aos de direitos equitativos.</li>
-<li>Para revelar informações na medida exigida por lei, mandado judicial, conforme solicitado por outra autoridade governamental, autoridades regulatórias ou responsáveis pelo cumprimento da lei, para proteger ou auxiliar na proteção de nosso usuários, sistemas ou do público ou de outra forma fazer cumprir os direitos legais conforme determinados a nosso exclusivo e absoluto critério.</li>
-<li>Se você tiver concordado em nosso site com que enviemos e-mails com newsletters sobre os jogos, incluindo novas ferramentas de jogos e ofertas especiais.</li>
-<li>Assim como descrito em nossa política de privacidade.</li>
+<li>Para enviar avisos e mensagens de serviï¿½o.</li>
+<li>Para agregar informaï¿½ï¿½es a fim de gerar estatï¿½sticas anï¿½nimas com respeito ao uso de nossos sites. Podemos compartilhar essas informaï¿½ï¿½es anï¿½nimas com nossos parceiros e anunciantes. Isso nï¿½o tem vï¿½nculo com nenhuma informaï¿½ï¿½o pessoal que possa identificar individualmente qualquer pessoa.</li>
+<li>Para nosso prï¿½prio marketing interno e estudos demogrï¿½ficos, e para ajudar a melhorar nossos sites.</li>
+<li>Em caso de uma fusï¿½o propriamente dita ou proposta de fusï¿½o (inclusive como parte de quaisquer fusï¿½es), ou acordo comercial ou venda de substancialmente todos os nossos ativos ou uma operaï¿½ï¿½o comercial com a qual essas informaï¿½ï¿½es se relacionam ou conforme previsto nas leis de falï¿½ncia ou leis aplicï¿½veis ou em cumprimento aos de direitos equitativos.</li>
+<li>Para revelar informaï¿½ï¿½es na medida exigida por lei, mandado judicial, conforme solicitado por outra autoridade governamental, autoridades regulatï¿½rias ou responsï¿½veis pelo cumprimento da lei, para proteger ou auxiliar na proteï¿½ï¿½o de nosso usuï¿½rios, sistemas ou do pï¿½blico ou de outra forma fazer cumprir os direitos legais conforme determinados a nosso exclusivo e absoluto critï¿½rio.</li>
+<li>Se vocï¿½ tiver concordado em nosso site com que enviemos e-mails com newsletters sobre os jogos, incluindo novas ferramentas de jogos e ofertas especiais.</li>
+<li>Assim como descrito em nossa polï¿½tica de privacidade.</li>
 </ol>
-<p>Nós nos preocupamos em proteger a sua privacidade e, com exceção dos usos especificados acima, nós não iremos vender, transferir, alugar, dividir ou publicar suas informações de identificação a nenhuma outra empresa. <p>
-<b>Cookies</b><br/> Um cookie é uma sequência de informações no formato de somente texto que um site transfere para o arquivo de cookies do navegador em seu disco rígido fazendo que o site se lembre de quem é você. Um cookie geralmente conterá o nome do domínio de onde veio, sua duração e valor, e normalmente um número exclusivo gerado aleatoriamente. <p>Os cookies de sessão são temporários e permanecem no arquivo de cookies de seu navegador até você sair do site. Utilizamos os cookies de sessão para possibilitar a autenticação de usuários durante as sessões de jogos. <p>Os cookies permanentes ficam no arquivo de cookies de seu navegador por um período determinado. Os cookies podem ajudar um site a fornecer conteúdo que corresponda a seus interesses preferenciais mais rapidamente. A maioria dos principais sites utiliza cookies. Os cookies não podem ser utilizados por si só para identificar você. <p>Utilizamos cookies permanentes para rastrear seu país (a fim de podermos fornecer um conteúdo específico para cada país) e rastrear se você acessou nosso site a partir de um link de um de nossos parceiros comerciais. Cookies permanentes também permitem que você faça login ao retornar ao nosso site, armazenando suas informações de login em seu próprio computador. Além disso, podemos utilizar cookies permanentes para armazenar informações sobre quais anúncios de nosso site foram exibidos a fim de ajudar você a evitar a exibição das mesmas informações repetidamente ou para fornecer um número maior dessas informações que esperamos atendam suas necessidades ou interesses. <p>Nossos anunciantes e parceiros de tecnologia também usam cookies e outras tecnologias parecidas. Para mais informações sobre isso, veja abaixo "Terceiros". <p>Se desejar optar por não fazer uso de cookies <a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/cookies.ws">clique aqui</a> para obter instruções mais completas. Alguns recursos do nosso site poderão não estar disponíveis se você recusar os cookies. <p>Para obter mais informações sobre cookies, <a href="http://www.allaboutcookies.org/" target="_blank">clique aqui</a>. <p>
-<b>Terceiros</b><br/> Pode ser que suas informações pessoais sejam passadas a terceiros que nos fornecem um serviço (por exemplo, os que processam os pedidos dos produtos da Jagex, material promocional ou as empresas que nos ajudam a prestar suporte ao cliente) e somente para este propósito. <p>Fazemos parceria com várias empresas de pagamento terceirizadas para poder te oferecer uma variedade de opções de pagamento. Compartilhamos suas informações de faturamento com essas empresas na medida em que for necessário para o processamento do pagamento, ou para evitar ou detectar fraude. Essas empresas concordaram em não reter, compartilhar, armazenar ou utilizar suas informações de identificação pessoal fornecidas por nós para quaisquer fins secundários. <p>Observe que a presente política de privacidade não se aplica às informações pessoais diretamente coletadas por empresas de pagamento terceirizadas ou sites ou serviços de outras empresas ou organizações com links para nosso site ou de nosso site para o delas, ou que forneçam mercadorias ou serviços a nossos usuários a partir de seus sites (como, por exemplo, marcas conjuntas, produtos redistribuídos ou sites afiliados, ou ainda outros sites que comercializam produtos Jagex). Observe que estas empresas (e não a Jagex) são responsáveis pelas informações que elas coletam. Verifique a política de privacidade destas empresas, se necessário. <p>Nós usamos empresas terceirizadas para fornecer e prestar serviços de publicidade como servidor ou outras tecnologias (por exemplo, coletar estatísticas do site ou promover o compartilhamento de botões ou widgets). Essas empresas podem usar informações (não incluindo as informações pessoais como: seu nome, endereço, e-mail ou número de telefone) sobre suas visitas a este e a outros sites, a fim de personalizar os anúncios neste site ou outros sites e/ou a personalizar algumas características em nosso site e/ou fornecer estatísticas agregadas anônimas relativas à utilização do nosso site ou a utilização de determinadas funções em nosso site, que são partilhadas com outros sites (por exemplo, botões ou widgets com link para o nosso site). Nós não temos acesso ou controle sobre os cookies ou outras tecnologias que estes terceiros podem usar e as informações sobre as práticas dessas empresas anunciantes e tecnologia não são abrangidos por esta política. Se você quiser mais informações sobre algumas dessas práticas e para conhecer as suas opções sobre como impedir que essa informação seja utilizada por algumas destas empresas, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">clique aqui</a>. <p>Além disso, as informações de nossos usuários coletadas por terceiros que fornecem bens ou serviços (incluindo publicidade) em ou através de nossos sites podem ser partilhadas por esses terceiros conosco e armazenados por nós para os fins descritos nesta política. <p>Tome muito cuidado antes de criar ou postar quaisquer comunicações em nossos sites. Determinadas informações estão visíveis para outros jogadores do jogo inclusive: comunicações em bate-papo público e privado, o aparecimento de seus personagens e seus pontos de experiência. Os jogadores que o incluírem em sua lista de amigos podem ver em qual universo do jogo você está jogando. <p>Se você tiver concordado em nossos sites, nós podemos fornecer seu endereço de e-mail para os nossos parceiros comerciais para que eles possam te enviar e-mails com informações de bens ou serviços que podem ser do seu interesse, incluindo informações sobre ofertas especiais ou promoções. <p>
-<b>Proteção de suas informações de identificação pessoal</b><br/> Somente coletaremos informações de identificação pessoal na medida em que acreditamos ser razoavelmente necessário para atender nossos legítimos propósitos comerciais, e protegeremos seu uso no mesmo nível de proteção que utilizamos para garantir a segurança, integridade e privacidade de nossas próprias informações exclusivas equivalentes. Além disso, tomaremos as medidas cabíveis para garantir que terceiros para quem transferirmos quaisquer informações de identificação pessoal em conformidade com a presente política concordarão em fornecer a proteção adequada. Podemos armazenar ou transferir informações pessoais para fora da Área Econômica Européia para os propósitos declarados na presente política. <p>Observe que embora nos esforçemos para proteger todas as nossas informações de identificação pessoal, todos temos ouvido falar acerca de violações de dados em instituições financeiras e governamentais de respeito e não podemos garantir de maneira total e permanente que essas violações não aconteçam. Nós o informaremos sobre quaisquer violações de dados materiais descobertas que possam comprometer suas informações de identificação pessoal. <p>
-<b>Revisão, correção e exclusão de informações de nossos registros</b><br/> Se, para fins de proteção de dados, sua preocupação seja quanto à exatidão das informações de identificação pessoal que mantemos sobre você ou se desejar que suas informações pessoais sejam removidas de nossos registros, consulte nossa <a href="dataprotect.ws">Política de Proteção de Dados</a>. (Os termos são incorporados ao presente documento para referência.)
+<p>Nï¿½s nos preocupamos em proteger a sua privacidade e, com exceï¿½ï¿½o dos usos especificados acima, nï¿½s nï¿½o iremos vender, transferir, alugar, dividir ou publicar suas informaï¿½ï¿½es de identificaï¿½ï¿½o a nenhuma outra empresa. <p>
+<b>Cookies</b><br/> Um cookie ï¿½ uma sequï¿½ncia de informaï¿½ï¿½es no formato de somente texto que um site transfere para o arquivo de cookies do navegador em seu disco rï¿½gido fazendo que o site se lembre de quem ï¿½ vocï¿½. Um cookie geralmente conterï¿½ o nome do domï¿½nio de onde veio, sua duraï¿½ï¿½o e valor, e normalmente um nï¿½mero exclusivo gerado aleatoriamente. <p>Os cookies de sessï¿½o sï¿½o temporï¿½rios e permanecem no arquivo de cookies de seu navegador atï¿½ vocï¿½ sair do site. Utilizamos os cookies de sessï¿½o para possibilitar a autenticaï¿½ï¿½o de usuï¿½rios durante as sessï¿½es de jogos. <p>Os cookies permanentes ficam no arquivo de cookies de seu navegador por um perï¿½odo determinado. Os cookies podem ajudar um site a fornecer conteï¿½do que corresponda a seus interesses preferenciais mais rapidamente. A maioria dos principais sites utiliza cookies. Os cookies nï¿½o podem ser utilizados por si sï¿½ para identificar vocï¿½. <p>Utilizamos cookies permanentes para rastrear seu paï¿½s (a fim de podermos fornecer um conteï¿½do especï¿½fico para cada paï¿½s) e rastrear se vocï¿½ acessou nosso site a partir de um link de um de nossos parceiros comerciais. Cookies permanentes tambï¿½m permitem que vocï¿½ faï¿½a login ao retornar ao nosso site, armazenando suas informaï¿½ï¿½es de login em seu prï¿½prio computador. Alï¿½m disso, podemos utilizar cookies permanentes para armazenar informaï¿½ï¿½es sobre quais anï¿½ncios de nosso site foram exibidos a fim de ajudar vocï¿½ a evitar a exibiï¿½ï¿½o das mesmas informaï¿½ï¿½es repetidamente ou para fornecer um nï¿½mero maior dessas informaï¿½ï¿½es que esperamos atendam suas necessidades ou interesses. <p>Nossos anunciantes e parceiros de tecnologia tambï¿½m usam cookies e outras tecnologias parecidas. Para mais informaï¿½ï¿½es sobre isso, veja abaixo "Terceiros". <p>Se desejar optar por nï¿½o fazer uso de cookies <a href="../../../../l=3/a=257/g=armiesofgielinor/cookies.ws">clique aqui</a> para obter instruï¿½ï¿½es mais completas. Alguns recursos do nosso site poderï¿½o nï¿½o estar disponï¿½veis se vocï¿½ recusar os cookies. <p>Para obter mais informaï¿½ï¿½es sobre cookies, <a href="http://www.allaboutcookies.org/" target="_blank">clique aqui</a>. <p>
+<b>Terceiros</b><br/> Pode ser que suas informaï¿½ï¿½es pessoais sejam passadas a terceiros que nos fornecem um serviï¿½o (por exemplo, os que processam os pedidos dos produtos da Jagex, material promocional ou as empresas que nos ajudam a prestar suporte ao cliente) e somente para este propï¿½sito. <p>Fazemos parceria com vï¿½rias empresas de pagamento terceirizadas para poder te oferecer uma variedade de opï¿½ï¿½es de pagamento. Compartilhamos suas informaï¿½ï¿½es de faturamento com essas empresas na medida em que for necessï¿½rio para o processamento do pagamento, ou para evitar ou detectar fraude. Essas empresas concordaram em nï¿½o reter, compartilhar, armazenar ou utilizar suas informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal fornecidas por nï¿½s para quaisquer fins secundï¿½rios. <p>Observe que a presente polï¿½tica de privacidade nï¿½o se aplica ï¿½s informaï¿½ï¿½es pessoais diretamente coletadas por empresas de pagamento terceirizadas ou sites ou serviï¿½os de outras empresas ou organizaï¿½ï¿½es com links para nosso site ou de nosso site para o delas, ou que forneï¿½am mercadorias ou serviï¿½os a nossos usuï¿½rios a partir de seus sites (como, por exemplo, marcas conjuntas, produtos redistribuï¿½dos ou sites afiliados, ou ainda outros sites que comercializam produtos Jagex). Observe que estas empresas (e nï¿½o a Jagex) sï¿½o responsï¿½veis pelas informaï¿½ï¿½es que elas coletam. Verifique a polï¿½tica de privacidade destas empresas, se necessï¿½rio. <p>Nï¿½s usamos empresas terceirizadas para fornecer e prestar serviï¿½os de publicidade como servidor ou outras tecnologias (por exemplo, coletar estatï¿½sticas do site ou promover o compartilhamento de botï¿½es ou widgets). Essas empresas podem usar informaï¿½ï¿½es (nï¿½o incluindo as informaï¿½ï¿½es pessoais como: seu nome, endereï¿½o, e-mail ou nï¿½mero de telefone) sobre suas visitas a este e a outros sites, a fim de personalizar os anï¿½ncios neste site ou outros sites e/ou a personalizar algumas caracterï¿½sticas em nosso site e/ou fornecer estatï¿½sticas agregadas anï¿½nimas relativas ï¿½ utilizaï¿½ï¿½o do nosso site ou a utilizaï¿½ï¿½o de determinadas funï¿½ï¿½es em nosso site, que sï¿½o partilhadas com outros sites (por exemplo, botï¿½es ou widgets com link para o nosso site). Nï¿½s nï¿½o temos acesso ou controle sobre os cookies ou outras tecnologias que estes terceiros podem usar e as informaï¿½ï¿½es sobre as prï¿½ticas dessas empresas anunciantes e tecnologia nï¿½o sï¿½o abrangidos por esta polï¿½tica. Se vocï¿½ quiser mais informaï¿½ï¿½es sobre algumas dessas prï¿½ticas e para conhecer as suas opï¿½ï¿½es sobre como impedir que essa informaï¿½ï¿½o seja utilizada por algumas destas empresas, <a href="http://www.networkadvertising.org/optout_nonppii.asp" target="_blank">clique aqui</a>. <p>Alï¿½m disso, as informaï¿½ï¿½es de nossos usuï¿½rios coletadas por terceiros que fornecem bens ou serviï¿½os (incluindo publicidade) em ou atravï¿½s de nossos sites podem ser partilhadas por esses terceiros conosco e armazenados por nï¿½s para os fins descritos nesta polï¿½tica. <p>Tome muito cuidado antes de criar ou postar quaisquer comunicaï¿½ï¿½es em nossos sites. Determinadas informaï¿½ï¿½es estï¿½o visï¿½veis para outros jogadores do jogo inclusive: comunicaï¿½ï¿½es em bate-papo pï¿½blico e privado, o aparecimento de seus personagens e seus pontos de experiï¿½ncia. Os jogadores que o incluï¿½rem em sua lista de amigos podem ver em qual universo do jogo vocï¿½ estï¿½ jogando. <p>Se vocï¿½ tiver concordado em nossos sites, nï¿½s podemos fornecer seu endereï¿½o de e-mail para os nossos parceiros comerciais para que eles possam te enviar e-mails com informaï¿½ï¿½es de bens ou serviï¿½os que podem ser do seu interesse, incluindo informaï¿½ï¿½es sobre ofertas especiais ou promoï¿½ï¿½es. <p>
+<b>Proteï¿½ï¿½o de suas informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal</b><br/> Somente coletaremos informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal na medida em que acreditamos ser razoavelmente necessï¿½rio para atender nossos legï¿½timos propï¿½sitos comerciais, e protegeremos seu uso no mesmo nï¿½vel de proteï¿½ï¿½o que utilizamos para garantir a seguranï¿½a, integridade e privacidade de nossas prï¿½prias informaï¿½ï¿½es exclusivas equivalentes. Alï¿½m disso, tomaremos as medidas cabï¿½veis para garantir que terceiros para quem transferirmos quaisquer informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal em conformidade com a presente polï¿½tica concordarï¿½o em fornecer a proteï¿½ï¿½o adequada. Podemos armazenar ou transferir informaï¿½ï¿½es pessoais para fora da ï¿½rea Econï¿½mica Europï¿½ia para os propï¿½sitos declarados na presente polï¿½tica. <p>Observe que embora nos esforï¿½emos para proteger todas as nossas informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal, todos temos ouvido falar acerca de violaï¿½ï¿½es de dados em instituiï¿½ï¿½es financeiras e governamentais de respeito e nï¿½o podemos garantir de maneira total e permanente que essas violaï¿½ï¿½es nï¿½o aconteï¿½am. Nï¿½s o informaremos sobre quaisquer violaï¿½ï¿½es de dados materiais descobertas que possam comprometer suas informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal. <p>
+<b>Revisï¿½o, correï¿½ï¿½o e exclusï¿½o de informaï¿½ï¿½es de nossos registros</b><br/> Se, para fins de proteï¿½ï¿½o de dados, sua preocupaï¿½ï¿½o seja quanto ï¿½ exatidï¿½o das informaï¿½ï¿½es de identificaï¿½ï¿½o pessoal que mantemos sobre vocï¿½ ou se desejar que suas informaï¿½ï¿½es pessoais sejam removidas de nossos registros, consulte nossa <a href="dataprotect.ws">Polï¿½tica de Proteï¿½ï¿½o de Dados</a>. (Os termos sï¿½o incorporados ao presente documento para referï¿½ncia.)
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -255,29 +255,29 @@ Política de Privacidade
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/a=257/g=armiesofgielinor/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../../../a=257/g=armiesofgielinor/index.ws"><img alt="
+English" src="../../../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=257/g=armiesofgielinor/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../../../l=1/a=257/g=armiesofgielinor/index.ws"><img alt="
+Deutsch" src="../../../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=257/g=armiesofgielinor/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../../../l=2/a=257/g=armiesofgielinor/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../../../l=3/a=257/g=armiesofgielinor/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2010 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/a=257/g=armiesofgielinor/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../../../l=3/a=257/g=armiesofgielinor/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../../../l=3/a=257/g=armiesofgielinor/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/a=257/g=armiesofgielinor/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/a=257/g=armiesofgielinor/" target="_blank"><img src="../../../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 <div class="cr" style="padding: 8px; margin-top: 16px;">
-<p>© 2010, Level Up! Interactive S.A. TODOS OS DIREITOS RESERVADOS.</p>
-<p><a target="level-up" href="http://games.levelupgames.com.br/redirecionador/funorb/pagina/contrato" style="color: #D09D00;">Contrato de Licença de Uso do Software FunOrb</a></p>
+<p>ï¿½ 2010, Level Up! Interactive S.A. TODOS OS DIREITOS RESERVADOS.</p>
+<p><a target="level-up" href="http://games.levelupgames.com.br/redirecionador/funorb/pagina/contrato" style="color: #D09D00;">Contrato de Licenï¿½a de Uso do Software FunOrb</a></p>
 </div>
 </div>
 </div>

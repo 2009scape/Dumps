@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,15 +20,15 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../../l=2/a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=2/a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Questions et réponses sur le paiement par carte bancaire.">
+<meta name="description" content="Questions et rï¿½ponses sur le paiement par carte bancaire.">
 <title>Paiement par carte bancaire</title>
 </head>
 <body id="navHelp">
@@ -44,7 +44,7 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=2/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=2/a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -52,7 +52,7 @@ fr">
 
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT !</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT !</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/a=135/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=2/a=135/messenger.js"></script>
 
@@ -61,28 +61,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=135/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=135/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/a=135/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/a=135/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/a=135/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/a=135/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=135/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/a=135/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../../l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/a=135/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=135/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=135/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -93,41 +93,41 @@ http://forum-fo-fr.funorb.com/l=2/a=135/forums.ws" class="fly">Tous les forums</
 http://forum-fo-fr.funorb.com/l=2/a=135/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=135/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=135/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=135/" class="fly last">Téléchargements</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=135/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=135/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/a=135/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../../l=2/a=135/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/a=135/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/a=135/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../../l=2/a=135/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=135/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=135/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../../l=2/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=credit_card_payment" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=135/index.ws">
+<a id="countrydrop" href="../../../l=2/a=135/index.ws">
 <span>
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=135/img/images/layout/fr.gif">
+<img alt="Fran&ccedil;ais" src="../../../l=2/a=135/img/images/layout/fr.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=2/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=2/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../../a=135/index.ws"><img title="English" alt="English" src="../../../l=2/a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="../../../l=2/a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../../l=2/a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../../l=2/a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -143,7 +143,7 @@ http://forum-fo-fr.funorb.com/l=2/a=135/forums.ws?0,1" class="fly">Annonces</a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientèle</a> &gt; <a href="viewcategory.ws?cat_id=13">Facturation</a> &gt; Paiement par carte bancaire</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=2">Service clientï¿½le</a> &gt; <a href="viewcategory.ws?cat_id=13">Facturation</a> &gt; Paiement par carte bancaire</span>
 
 </div>
 </div>
@@ -158,175 +158,175 @@ http://forum-fo-fr.funorb.com/l=2/a=135/forums.ws?0,1" class="fly">Annonces</a><
 <div class="faqsList">
 <ol>
 <li><a href="#work">Comment fonctionne le mode de paiement par carte bancaire ?</a>
-<li><a href="#cost">Combien coûte l'abonnement avec ce mode de paiement ?</a>
+<li><a href="#cost">Combien coï¿½te l'abonnement avec ce mode de paiement ?</a>
 <li><a href="#countries">Quelles cartes acceptez-vous ?</a>
-<li><a href="#secure">Ce mode de paiement est-il sécurisé ?</a>
+<li><a href="#secure">Ce mode de paiement est-il sï¿½curisï¿½ ?</a>
 <li><a href="#subscribe">Comment s'abonner ?</a>
-<li><a href="#taken">Comment choisir la date à laquelle les paiements seront effectués ?</a>
-<li><a href="#payments">Combien de paiements seront-ils effectués ?</a>
-<li><a href="#month">Comment payer pour plus d'un mois à la fois ?</a>
-<li><a href="#telephone">Comment s'abonner par téléphone ?</a>
+<li><a href="#taken">Comment choisir la date ï¿½ laquelle les paiements seront effectuï¿½s ?</a>
+<li><a href="#payments">Combien de paiements seront-ils effectuï¿½s ?</a>
+<li><a href="#month">Comment payer pour plus d'un mois ï¿½ la fois ?</a>
+<li><a href="#telephone">Comment s'abonner par tï¿½lï¿½phone ?</a>
 <li><a href="#gift">Comment utiliser une carte-cadeau ?</a>
-<li><a href="#unsubscribe">Comment se désabonner ?</a>
-<li><a href="#details">Comment mettre à jour ma carte bancaire ou mes coordonnées ?</a>
-<li><a href="#cancel">Au bout de combien de temps la résiliation d'un abonnement prend-elle effet ?</a>
+<li><a href="#unsubscribe">Comment se dï¿½sabonner ?</a>
+<li><a href="#details">Comment mettre ï¿½ jour ma carte bancaire ou mes coordonnï¿½es ?</a>
+<li><a href="#cancel">Au bout de combien de temps la rï¿½siliation d'un abonnement prend-elle effet ?</a>
 <li><a href="#possible">Est-il possible de payer pour un seul mois ?</a>
-<li><a href="#minimum">Mon contrat d'abonnement dispose-t-il d'une durée minimale ?</a>
+<li><a href="#minimum">Mon contrat d'abonnement dispose-t-il d'une durï¿½e minimale ?</a>
 <li><a href="#agreeing">Quelles conditions dois-je accepter en m'abonnant ?</a>
-<li><a href="#avoid">À quel moment dois-je résilier mon abonnement afin d'éviter un nouveau prélèvement ?</a>
-<li><a href="#start">Quand mon abonnement débute-t-il ?</a>
-<li><a href="#number">Où puis-je me procurer mon numéro de contrat ?</a>
-<li><a href="#transaction">Où puis-je me procurer mon ID de transaction ?</a>
-<li><a href="#purchase">Pourquoi ne suis-je pas autorisé à payer l'abonnement par carte bancaire ?</a>
-<li><a href="#why">Pourquoi n'avez-vous pas effectué de prélèvement ce mois-ci ?</a>
-<li><a href="#down">Pourquoi des paiements réguliers sont-ils effectués sur ma carte bancaire ?</a>
+<li><a href="#avoid">ï¿½ quel moment dois-je rï¿½silier mon abonnement afin d'ï¿½viter un nouveau prï¿½lï¿½vement ?</a>
+<li><a href="#start">Quand mon abonnement dï¿½bute-t-il ?</a>
+<li><a href="#number">Oï¿½ puis-je me procurer mon numï¿½ro de contrat ?</a>
+<li><a href="#transaction">Oï¿½ puis-je me procurer mon ID de transaction ?</a>
+<li><a href="#purchase">Pourquoi ne suis-je pas autorisï¿½ ï¿½ payer l'abonnement par carte bancaire ?</a>
+<li><a href="#why">Pourquoi n'avez-vous pas effectuï¿½ de prï¿½lï¿½vement ce mois-ci ?</a>
+<li><a href="#down">Pourquoi des paiements rï¿½guliers sont-ils effectuï¿½s sur ma carte bancaire ?</a>
 </ol></div>
 <br>
 <a name="work"></a>
-<span class="title">1. Comment fonctionne le mode de paiement par carte bancaire ?</span><br><br> Le paiement s'effectue par prélèvement sur le compte de la carte bancaire chaque mois. Chaque paiement ajoute un mois de crédit d'abonnement à votre compte. <br><br> Vous pouvez résilier votre abonnement à tout moment par le biais de notre <a href="http://www.funorb.com/l=2/a=135/">site web</a> et nous n'effectuerons plus de prélèvement. <br><br>
+<span class="title">1. Comment fonctionne le mode de paiement par carte bancaire ?</span><br><br> Le paiement s'effectue par prï¿½lï¿½vement sur le compte de la carte bancaire chaque mois. Chaque paiement ajoute un mois de crï¿½dit d'abonnement ï¿½ votre compte. <br><br> Vous pouvez rï¿½silier votre abonnement ï¿½ tout moment par le biais de notre <a href="../../../l=2/a=135/">site web</a> et nous n'effectuerons plus de prï¿½lï¿½vement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="cost"></a>
-<span class="title">2. Combien coûte l'abonnement avec ce mode de paiement ?</span><br><br> Le coût de l'abonnement varie en fonction de votre pays de résidence et s'affiche au début du processus d'abonnement. <br><br>
+<span class="title">2. Combien coï¿½te l'abonnement avec ce mode de paiement ?</span><br><br> Le coï¿½t de l'abonnement varie en fonction de votre pays de rï¿½sidence et s'affiche au dï¿½but du processus d'abonnement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="countries"></a>
-<span class="title">3. Quelles cartes acceptez-vous ?</span><br><br> Les paiements Visa, Visa Delta et MasterCard sont disponibles pour tous les clients. <br><br> Les clients britanniques peuvent également utiliser JCB, Visa Electron, Maestro et Solo. <br><br> Malheureusement, nous ne sommes pas en mesure d'accepter les cartes de débit hors du Royaume-Uni. Notez que nous n'acceptons pas non plus les cartes Visa Debit hors du Royaume-Uni. <br><br>
+<span class="title">3. Quelles cartes acceptez-vous ?</span><br><br> Les paiements Visa, Visa Delta et MasterCard sont disponibles pour tous les clients. <br><br> Les clients britanniques peuvent ï¿½galement utiliser JCB, Visa Electron, Maestro et Solo. <br><br> Malheureusement, nous ne sommes pas en mesure d'accepter les cartes de dï¿½bit hors du Royaume-Uni. Notez que nous n'acceptons pas non plus les cartes Visa Debit hors du Royaume-Uni. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="secure"></a>
-<span class="title">4. Ce mode de paiement est-il sécurisé ?</span><br><br> Notre site web utilise le chiffrement SSL en accord avec les normes sectorielles lors de l'envoi de détails au serveur. Cela rend l'interception de vos informations de carte bancaire pratiquement impossible. <br><br> Pour vous assurer que votre ordinateur est sécurisé avant de vous abonner, consultez la rubrique <a href="viewcategory.ws?cat_id=14">Sécurité et protection</a>. <br><br>
+<span class="title">4. Ce mode de paiement est-il sï¿½curisï¿½ ?</span><br><br> Notre site web utilise le chiffrement SSL en accord avec les normes sectorielles lors de l'envoi de dï¿½tails au serveur. Cela rend l'interception de vos informations de carte bancaire pratiquement impossible. <br><br> Pour vous assurer que votre ordinateur est sï¿½curisï¿½ avant de vous abonner, consultez la rubrique <a href="viewcategory.ws?cat_id=14">Sï¿½curitï¿½ et protection</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="subscribe"></a>
-<span class="title">5. Comment s'abonner ?</span><br><br> Il vous suffit d'accéder à la page principale du <a href="http://www.funorb.com/l=2/a=135/">site web</a> et de cliquer <a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">ici</a> pour débuter un nouvel abonnement, puis de suivre les invites pour utiliser le mode de paiement par carte bancaire. <br><br> Veillez à suivre les instructions et à comprendre tous les points. <br><br> Vous serez invité à saisir vos coordonnées et les informations de la carte bancaire avec laquelle vous souhaitez payer. Veillez à fournir les coordonnées enregistrées auprès de votre banque car la transaction peut être refusée si les coordonnées ne correspondent pas. <br><br>
+<span class="title">5. Comment s'abonner ?</span><br><br> Il vous suffit d'accï¿½der ï¿½ la page principale du <a href="../../../l=2/a=135/">site web</a> et de cliquer <a href="../../../l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">ici</a> pour dï¿½buter un nouvel abonnement, puis de suivre les invites pour utiliser le mode de paiement par carte bancaire. <br><br> Veillez ï¿½ suivre les instructions et ï¿½ comprendre tous les points. <br><br> Vous serez invitï¿½ ï¿½ saisir vos coordonnï¿½es et les informations de la carte bancaire avec laquelle vous souhaitez payer. Veillez ï¿½ fournir les coordonnï¿½es enregistrï¿½es auprï¿½s de votre banque car la transaction peut ï¿½tre refusï¿½e si les coordonnï¿½es ne correspondent pas. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="taken"></a>
-<span class="title">6. Comment choisir la date à laquelle les paiements seront effectués ?</span><br><br> Le prélèvement est effectué dès le début de l'abonnement et lorsqu'il reste trois jours de crédit d'abonnement sur le compte afin d'éviter toute interruption.<br><br>Il est possible de choisir le jour de votre facturation en vous abonnant deux jours après cette date. Par exemple, si vous souhaitez que les prélèvements aient lieu le 12 du mois, débutez l'abonnement le 14. <br><br>
+<span class="title">6. Comment choisir la date ï¿½ laquelle les paiements seront effectuï¿½s ?</span><br><br> Le prï¿½lï¿½vement est effectuï¿½ dï¿½s le dï¿½but de l'abonnement et lorsqu'il reste trois jours de crï¿½dit d'abonnement sur le compte afin d'ï¿½viter toute interruption.<br><br>Il est possible de choisir le jour de votre facturation en vous abonnant deux jours aprï¿½s cette date. Par exemple, si vous souhaitez que les prï¿½lï¿½vements aient lieu le 12 du mois, dï¿½butez l'abonnement le 14. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="payments"></a>
-<span class="title">7. Combien de paiements seront-ils effectués ?</span><br><br> Un prélèvement aura lieu dès le début de l'abonnement et chaque mois suivant jusqu'à la résiliation. <br><br>
+<span class="title">7. Combien de paiements seront-ils effectuï¿½s ?</span><br><br> Un prï¿½lï¿½vement aura lieu dï¿½s le dï¿½but de l'abonnement et chaque mois suivant jusqu'ï¿½ la rï¿½siliation. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="month"></a>
-<span class="title">8. Comment payer pour plus d'un mois à la fois ?</span><br><br> Vous ne pouvez pas payer plus d'un mois d'abonnement à la fois. Un contrat de carte bancaire ne peut prendre en charge qu'un seul paiement mensuel. <br><br> Si vous ne résiliez pas votre contrat d'abonnement, votre abonnement est reconduit tacitement. <br><br>
+<span class="title">8. Comment payer pour plus d'un mois ï¿½ la fois ?</span><br><br> Vous ne pouvez pas payer plus d'un mois d'abonnement ï¿½ la fois. Un contrat de carte bancaire ne peut prendre en charge qu'un seul paiement mensuel. <br><br> Si vous ne rï¿½siliez pas votre contrat d'abonnement, votre abonnement est reconduit tacitement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="telephone"></a>
-<span class="title">9. Comment s'abonner par téléphone ?</span><br><br> Vous ne pouvez pas débuter un abonnement par carte bancaire par téléphone.<br><br>Si vous préférez ne pas utiliser ce mode de paiement en ligne sécurisé, envisagez les autres modes de paiement mis à votre disposition. Pour accéder à la liste, cliquez sur S'abonner sur <a href="http://www.funorb.com/l=2/a=135/">www.funorb.fr</a>. <br><br>
+<span class="title">9. Comment s'abonner par tï¿½lï¿½phone ?</span><br><br> Vous ne pouvez pas dï¿½buter un abonnement par carte bancaire par tï¿½lï¿½phone.<br><br>Si vous prï¿½fï¿½rez ne pas utiliser ce mode de paiement en ligne sï¿½curisï¿½, envisagez les autres modes de paiement mis ï¿½ votre disposition. Pour accï¿½der ï¿½ la liste, cliquez sur S'abonner sur <a href="../../../l=2/a=135/">www.funorb.fr</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="gift"></a>
-<span class="title">10. Comment utiliser une carte-cadeau ?</span><br><br> Les cartes-cadeaux peuvent être utilisées pour acheter un abonnement mais vous devez d'abord vérifier que le type de carte est pris en charge. Notre partenaire de paiement Worldpay accepte les cartes Visa, Delta et Mastercard. Vous devez également vérifier auprès de l'émetteur de la carte qu'elle peut être utilisée pour effectuer des paiements en ligne à l'étranger. <br><br> Pour utiliser votre carte-cadeau, suivez simplement les instructions pour les paiements par carte Visa. <br><br> Pour les personnes résidant aux États-Unis, si votre carte-cadeau porte le libellé « Valid only in the United States », cela signifie qu'elle est à usage national uniquement. Bien que votre carte-cadeau ne soit pas acceptée hors des États-Unis, elle est acceptée dans des milliers de points de vente où les cartes de débit sont acceptées. Malheureusement, notre société se trouvant au Royaume-Uni, vous ne pouvez pas utiliser les cartes portant ce libellé. <br><br>
+<span class="title">10. Comment utiliser une carte-cadeau ?</span><br><br> Les cartes-cadeaux peuvent ï¿½tre utilisï¿½es pour acheter un abonnement mais vous devez d'abord vï¿½rifier que le type de carte est pris en charge. Notre partenaire de paiement Worldpay accepte les cartes Visa, Delta et Mastercard. Vous devez ï¿½galement vï¿½rifier auprï¿½s de l'ï¿½metteur de la carte qu'elle peut ï¿½tre utilisï¿½e pour effectuer des paiements en ligne ï¿½ l'ï¿½tranger. <br><br> Pour utiliser votre carte-cadeau, suivez simplement les instructions pour les paiements par carte Visa. <br><br> Pour les personnes rï¿½sidant aux ï¿½tats-Unis, si votre carte-cadeau porte le libellï¿½ ï¿½ Valid only in the United States ï¿½, cela signifie qu'elle est ï¿½ usage national uniquement. Bien que votre carte-cadeau ne soit pas acceptï¿½e hors des ï¿½tats-Unis, elle est acceptï¿½e dans des milliers de points de vente oï¿½ les cartes de dï¿½bit sont acceptï¿½es. Malheureusement, notre sociï¿½tï¿½ se trouvant au Royaume-Uni, vous ne pouvez pas utiliser les cartes portant ce libellï¿½. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="unsubscribe"></a>
-<span class="title">11. Comment se désabonner ?</span><br><br> Vous pouvez résilier votre abonnement à tout moment par le biais de notre site web et nous n'effectuerons plus de prélèvement. <br><br> De plus, vous bénéficiez des avantages abonné tant que vous possédez du crédit d'abonnement ou jusqu'à l'expiration de votre compte. <br><br> Vous devez résilier au moins 72 heures avant l'expiration du crédit ; cependant, nous vous recommandons de résilier au moins quatre jours à l'avance afin d'éviter un prélèvement supplémentaire. <br><br>
-<h4 style="display: inline">Puis-je résilier par l'intermédiaire de ma banque ?</h4>
-<br> Pour résilier, veuillez toujours utiliser les options de résiliation de notre site web ou contacter le service clientèle pour la facturation. Si vous résiliez par l'intermédiaire de votre banque, cela peut entraîner des conséquences préjudiciables sur votre compte. <br><br>
+<span class="title">11. Comment se dï¿½sabonner ?</span><br><br> Vous pouvez rï¿½silier votre abonnement ï¿½ tout moment par le biais de notre site web et nous n'effectuerons plus de prï¿½lï¿½vement. <br><br> De plus, vous bï¿½nï¿½ficiez des avantages abonnï¿½ tant que vous possï¿½dez du crï¿½dit d'abonnement ou jusqu'ï¿½ l'expiration de votre compte. <br><br> Vous devez rï¿½silier au moins 72 heures avant l'expiration du crï¿½dit ; cependant, nous vous recommandons de rï¿½silier au moins quatre jours ï¿½ l'avance afin d'ï¿½viter un prï¿½lï¿½vement supplï¿½mentaire. <br><br>
+<h4 style="display: inline">Puis-je rï¿½silier par l'intermï¿½diaire de ma banque ?</h4>
+<br> Pour rï¿½silier, veuillez toujours utiliser les options de rï¿½siliation de notre site web ou contacter le service clientï¿½le pour la facturation. Si vous rï¿½siliez par l'intermï¿½diaire de votre banque, cela peut entraï¿½ner des consï¿½quences prï¿½judiciables sur votre compte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="details"></a>
-<span class="title">12. Comment mettre à jour ma carte bancaire ou mes coordonnées ?</span><br><br> Pour mettre à jour la carte bancaire sur laquelle les prélèvements sont effectués ou les coordonnées spécifiées pour l'abonnement (adresse électronique par exemple), <a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">abonnez-vous</a> de nouveau.<br><br>L'abonnement précédent sera automatiquement résilié lors de votre réabonnement. Vous ne serez pas facturé deux fois.<br><br>Si vous vous réabonnez alors que vous possédez encore du crédit d'abonnement, le mois du crédit l'abonnement sera ajouté à ce crédit sur le compte. De plus, il n'y aura aucune répercussion préjudiciable sur votre compte. <br><br>
+<span class="title">12. Comment mettre ï¿½ jour ma carte bancaire ou mes coordonnï¿½es ?</span><br><br> Pour mettre ï¿½ jour la carte bancaire sur laquelle les prï¿½lï¿½vements sont effectuï¿½s ou les coordonnï¿½es spï¿½cifiï¿½es pour l'abonnement (adresse ï¿½lectronique par exemple), <a href="../../../l=2/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws">abonnez-vous</a> de nouveau.<br><br>L'abonnement prï¿½cï¿½dent sera automatiquement rï¿½siliï¿½ lors de votre rï¿½abonnement. Vous ne serez pas facturï¿½ deux fois.<br><br>Si vous vous rï¿½abonnez alors que vous possï¿½dez encore du crï¿½dit d'abonnement, le mois du crï¿½dit l'abonnement sera ajoutï¿½ ï¿½ ce crï¿½dit sur le compte. De plus, il n'y aura aucune rï¿½percussion prï¿½judiciable sur votre compte. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="cancel"></a>
-<span class="title">13. Au bout de combien de temps la résiliation d'un abonnement prend-elle effet ?</span><br><br> La résiliation est immédiate ; aucun autre prélèvement ne sera effectué. <br><br>
+<span class="title">13. Au bout de combien de temps la rï¿½siliation d'un abonnement prend-elle effet ?</span><br><br> La rï¿½siliation est immï¿½diate ; aucun autre prï¿½lï¿½vement ne sera effectuï¿½. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="possible"></a>
-<span class="title">14. Est-il possible de payer pour un seul mois ?</span><br><br> Pour souscrire à un abonnement d'un seul mois, résiliez votre abonnement au moins 72 heures avant son expiration. Aucun autre prélèvement ne sera effectué et vous aurez accès au contenu des abonnés jusqu'à l'expiration de votre abonnement.<br><br>Si vous ne résiliez pas l'abonnement avant ces 72 heures, un autre prélèvement sera automatiquement effectué. <br><br>
+<span class="title">14. Est-il possible de payer pour un seul mois ?</span><br><br> Pour souscrire ï¿½ un abonnement d'un seul mois, rï¿½siliez votre abonnement au moins 72 heures avant son expiration. Aucun autre prï¿½lï¿½vement ne sera effectuï¿½ et vous aurez accï¿½s au contenu des abonnï¿½s jusqu'ï¿½ l'expiration de votre abonnement.<br><br>Si vous ne rï¿½siliez pas l'abonnement avant ces 72 heures, un autre prï¿½lï¿½vement sera automatiquement effectuï¿½. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="minimum"></a>
-<span class="title">15. Mon contrat d'abonnement dispose-t-il d'une durée minimale ?</span><br><br> Il n'y a pas de durée d'abonnement minimale. Vous pouvez résilier dès le début de l'abonnement et aucun prélèvement n'aura plus lieu.<br><br>Vous continuerez à avoir accès au contenu des abonnés jusqu'à l'expiration du crédit d'abonnement payé. <br><br>
+<span class="title">15. Mon contrat d'abonnement dispose-t-il d'une durï¿½e minimale ?</span><br><br> Il n'y a pas de durï¿½e d'abonnement minimale. Vous pouvez rï¿½silier dï¿½s le dï¿½but de l'abonnement et aucun prï¿½lï¿½vement n'aura plus lieu.<br><br>Vous continuerez ï¿½ avoir accï¿½s au contenu des abonnï¿½s jusqu'ï¿½ l'expiration du crï¿½dit d'abonnement payï¿½. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="agreeing"></a>
-<span class="title">16. Quelles conditions dois-je accepter en m'abonnant ?</span><br><br> Lorsque vous vous abonnez, vous acceptez les conditions suivantes : <br><br><i>« En soumettant votre commande, vous proposez de vous abonner au produit Jagex correspondant. Votre proposition sera acceptée et un contrat exécutoire prendra effet lorsque nous enverrons un message à la boîte de réception de votre compte pour confirmer que le paiement a été reçu ou lorsque vous vous connecterez à la zone réservée aux abonnés d'un produit Jagex (dès que l'un de ces événements se produit).<br><br>Tous les paiements d'abonnement seront effectués à l'avance aux intervalles correspondants (tous les mois, par exemple) jusqu'à ce que vous résiliez votre abonnement.<br><br> Les paiements par carte bancaire sont soumis à notre accord de carte bancaire qui fait partie de ces conditions d'utilisation. »</i><br><br><br>Notez que vous acceptez un <b><u>prélèvement automatique mensuel</b></u>. Nous ne demanderons pas votre autorisation avant chaque prélèvement. Le prélèvement aura lieu une fois par mois, lorsque que votre compte possédera 72 heures de crédit restantes. <br><br>Les prélèvements seront uniquement effectués dans le respect des conditions de l'accord ci-dessus.<br><br>Vous êtes libre de résilier cet accord à tout moment mais les prélèvements continueront jusqu'à la résiliation. <br><br>
+<span class="title">16. Quelles conditions dois-je accepter en m'abonnant ?</span><br><br> Lorsque vous vous abonnez, vous acceptez les conditions suivantes : <br><br><i>ï¿½ En soumettant votre commande, vous proposez de vous abonner au produit Jagex correspondant. Votre proposition sera acceptï¿½e et un contrat exï¿½cutoire prendra effet lorsque nous enverrons un message ï¿½ la boï¿½te de rï¿½ception de votre compte pour confirmer que le paiement a ï¿½tï¿½ reï¿½u ou lorsque vous vous connecterez ï¿½ la zone rï¿½servï¿½e aux abonnï¿½s d'un produit Jagex (dï¿½s que l'un de ces ï¿½vï¿½nements se produit).<br><br>Tous les paiements d'abonnement seront effectuï¿½s ï¿½ l'avance aux intervalles correspondants (tous les mois, par exemple) jusqu'ï¿½ ce que vous rï¿½siliez votre abonnement.<br><br> Les paiements par carte bancaire sont soumis ï¿½ notre accord de carte bancaire qui fait partie de ces conditions d'utilisation. ï¿½</i><br><br><br>Notez que vous acceptez un <b><u>prï¿½lï¿½vement automatique mensuel</b></u>. Nous ne demanderons pas votre autorisation avant chaque prï¿½lï¿½vement. Le prï¿½lï¿½vement aura lieu une fois par mois, lorsque que votre compte possï¿½dera 72 heures de crï¿½dit restantes. <br><br>Les prï¿½lï¿½vements seront uniquement effectuï¿½s dans le respect des conditions de l'accord ci-dessus.<br><br>Vous ï¿½tes libre de rï¿½silier cet accord ï¿½ tout moment mais les prï¿½lï¿½vements continueront jusqu'ï¿½ la rï¿½siliation. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="avoid"></a>
-<span class="title">17. À quel moment dois-je résilier mon abonnement afin d'éviter un nouveau prélèvement ?</span><br><br> Le prélèvement est effectué lorsqu'il vous reste 72 heures d'abonnement sur votre compte. Si vous souhaitez résilier sans qu'aucun autre prélèvement ne soit effectué, vous devez le faire au moins 72 heures avant la date d'expiration de votre abonnement.<br><br>Si vous résiliez avant 72 heures, vous ne perdrez pas le crédit d'abonnement restant ; vous pourrez accéder au contenu des abonnés jusqu'à son expiration. <br><br>
+<span class="title">17. ï¿½ quel moment dois-je rï¿½silier mon abonnement afin d'ï¿½viter un nouveau prï¿½lï¿½vement ?</span><br><br> Le prï¿½lï¿½vement est effectuï¿½ lorsqu'il vous reste 72 heures d'abonnement sur votre compte. Si vous souhaitez rï¿½silier sans qu'aucun autre prï¿½lï¿½vement ne soit effectuï¿½, vous devez le faire au moins 72 heures avant la date d'expiration de votre abonnement.<br><br>Si vous rï¿½siliez avant 72 heures, vous ne perdrez pas le crï¿½dit d'abonnement restant ; vous pourrez accï¿½der au contenu des abonnï¿½s jusqu'ï¿½ son expiration. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="start"></a>
-<span class="title">18. Quand mon abonnement débute-t-il ?</span><br><br> Le crédit d'abonnement est ajouté au compte dès la réception du paiement. Cela est généralement immédiat ; dans certains cas, cela peut prendre quelques heures. <br><br>
+<span class="title">18. Quand mon abonnement dï¿½bute-t-il ?</span><br><br> Le crï¿½dit d'abonnement est ajoutï¿½ au compte dï¿½s la rï¿½ception du paiement. Cela est gï¿½nï¿½ralement immï¿½diat ; dans certains cas, cela peut prendre quelques heures. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="number"></a>
-<span class="title">19. Où puis-je me procurer mon numéro de contrat ?</span><br><br> Votre numéro de contrat vous a été fourni lorsque vous avez soumis les informations de votre carte et créé le contrat. Il figure également dans les messages électroniques de réception de paiement que WorldPay vous enverra. Votre numéro de contrat est le dernier numéro de l'ID de référence (cartId), suivant les deux-points (ex. : nomutilisateur_12121212:<b>123456</b>). <br><br>
+<span class="title">19. Oï¿½ puis-je me procurer mon numï¿½ro de contrat ?</span><br><br> Votre numï¿½ro de contrat vous a ï¿½tï¿½ fourni lorsque vous avez soumis les informations de votre carte et crï¿½ï¿½ le contrat. Il figure ï¿½galement dans les messages ï¿½lectroniques de rï¿½ception de paiement que WorldPay vous enverra. Votre numï¿½ro de contrat est le dernier numï¿½ro de l'ID de rï¿½fï¿½rence (cartId), suivant les deux-points (ex. : nomutilisateur_12121212:<b>123456</b>). <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="transaction"></a>
-<span class="title">21. Où puis-je me procurer mon ID de transaction ?</span><br><br> Vous recevez un message électronique de la part de WorldPay dès que le paiement est effectué. Ce message électronique contient l'ID de transaction pour le paiement correspondant au message. <br><br>
+<span class="title">21. Oï¿½ puis-je me procurer mon ID de transaction ?</span><br><br> Vous recevez un message ï¿½lectronique de la part de WorldPay dï¿½s que le paiement est effectuï¿½. Ce message ï¿½lectronique contient l'ID de transaction pour le paiement correspondant au message. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="purchase"></a>
-<span class="title">21. Pourquoi ne suis-je pas autorisé à payer l'abonnement par carte bancaire ?</span><br><br> Vous ne pourrez pas débuter un abonnement par carte bancaire si le propriétaire de la carte bancaire a rejeté le débit d'un paiement ou si nous avons remboursé un paiement en raison du non-respect des Conditions d'utilisation de l'abonnement. <br><br>
+<span class="title">21. Pourquoi ne suis-je pas autorisï¿½ ï¿½ payer l'abonnement par carte bancaire ?</span><br><br> Vous ne pourrez pas dï¿½buter un abonnement par carte bancaire si le propriï¿½taire de la carte bancaire a rejetï¿½ le dï¿½bit d'un paiement ou si nous avons remboursï¿½ un paiement en raison du non-respect des Conditions d'utilisation de l'abonnement. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">22. Pourquoi n'avez-vous pas effectué de prélèvement ce mois-ci ?</span><br><br> Il peut exister plusieurs raisons à un non-prélèvement :<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> Vous avez résilié votre abonnement par le biais de notre site web.<br><li> La carte bancaire utilisée pour débuter l'abonnement a expiré.<br><li> Votre banque a refusé la transaction.</ul><br><br>Si nous ne pouvons pas pu effectuer de prélèvement, nous vous enverrons un message dans votre boîte de réception. Cliquez sur Lire les messages sur notre <a href="http://www.funorb.com/l=2/a=135/">site web</a> pour en savoir plus. <br><br>
+<span class="title">22. Pourquoi n'avez-vous pas effectuï¿½ de prï¿½lï¿½vement ce mois-ci ?</span><br><br> Il peut exister plusieurs raisons ï¿½ un non-prï¿½lï¿½vement :<br><br><ul style="margin-top: 0px; margin-bottom: 0px; "><li> Vous avez rï¿½siliï¿½ votre abonnement par le biais de notre site web.<br><li> La carte bancaire utilisï¿½e pour dï¿½buter l'abonnement a expirï¿½.<br><li> Votre banque a refusï¿½ la transaction.</ul><br><br>Si nous ne pouvons pas pu effectuer de prï¿½lï¿½vement, nous vous enverrons un message dans votre boï¿½te de rï¿½ception. Cliquez sur Lire les messages sur notre <a href="../../../l=2/a=135/">site web</a> pour en savoir plus. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="down"></a>
-<span class="title">23. Pourquoi des paiements réguliers sont-ils effectués sur ma carte bancaire ?</span><br><br> Un paiement est automatiquement effectué lorsqu'il vous reste trois jours de crédit d'abonnement sur votre compte, ajoutant ainsi un crédit d'un mois à votre compte.<br><br>Vous n'avez pas besoin de vous réabonner pour continuer l'abonnement. </body>
+<span class="title">23. Pourquoi des paiements rï¿½guliers sont-ils effectuï¿½s sur ma carte bancaire ?</span><br><br> Un paiement est automatiquement effectuï¿½ lorsqu'il vous reste trois jours de crï¿½dit d'abonnement sur votre compte, ajoutant ainsi un crï¿½dit d'un mois ï¿½ votre compte.<br><br>Vous n'avez pas besoin de vous rï¿½abonner pour continuer l'abonnement. </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/a=135/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Autres rubriques dans <a href="viewcategory.ws?cat_id=13">Facturation</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=58">Questions sur la facturation</a>, <a href="viewarticle.ws?article_id=32">Méthodes de facturation, prix et partenaires</a>, Paiement par carte bancaire, <a href="viewarticle.ws?article_id=23">Paiement PayByPhone</a>, <a href="viewarticle.ws?article_id=27">Paiement PayByCash</a></span>
+<a href="viewarticle.ws?article_id=58">Questions sur la facturation</a>, <a href="viewarticle.ws?article_id=32">Mï¿½thodes de facturation, prix et partenaires</a>, Paiement par carte bancaire, <a href="viewarticle.ws?article_id=23">Paiement PayByPhone</a>, <a href="viewarticle.ws?article_id=27">Paiement PayByCash</a></span>
 </div>
 </div>
 </div>
@@ -337,17 +337,17 @@ http://forum-fo-fr.funorb.com/l=2/a=135/forums.ws?0,1" class="fly">Annonces</a><
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/l=2/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=2/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../a=135/index.ws"><img alt="English" src="../../../l=2/a=135/img/images/layout/en.gif">English</a>
+<a href="../../../l=1/a=135/index.ws"><img alt="Deutsch" src="../../../l=2/a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../../l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="../../../l=2/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../../l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../../l=2/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=135/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=135/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/a=135/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/a=135/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/a=135/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=2/a=135/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

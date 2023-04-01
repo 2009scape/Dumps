@@ -21,10 +21,10 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=32/css/global-25.css);/**/
+  /*\*/@import url(../../../a=32/css/global-25.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=32/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=32/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
@@ -44,18 +44,18 @@ en">
 <div class="rght"></div>
 <div id="affiliate">
 
-<a id="logo" href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws" ><b>
+<a id="logo" href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws" ><b>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="203" height="80">
-<param name="movie" value="http://www.funorb.com/img/images/layout/logo_funorb_kickabout.swf" />
-<param name="FlashVars" value="homePath=http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" />
+<param name="movie" value="../../../img/images/layout/logo_funorb_kickabout.swf" />
+<param name="FlashVars" value="homePath=../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" />
 <param name="AllowScriptAccess" value="always" />
 <!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="http://www.funorb.com/img/images/layout/logo_funorb_kickabout.swf" width="203" height="80">
-<param name="FlashVars" value="homePath=http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" />
+<object type="application/x-shockwave-flash" data="../../../img/images/layout/logo_funorb_kickabout.swf" width="203" height="80">
+<param name="FlashVars" value="homePath=../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" />
 <param name="AllowScriptAccess" value="always" />
 <!--<![endif]-->
 <!-- Non Flash alternative -->
-<img src="http://www.funorb.com/img/images/layout/logo_funorb_kickabout.gif" alt="FunOrb" />
+<img src="../../../img/images/layout/logo_funorb_kickabout.gif" alt="FunOrb" />
 <!--[if !IE]>-->
 </object>
 <!--<![endif]-->
@@ -64,20 +64,20 @@ en">
 </b></a>
 
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../../img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,9 +86,9 @@ en">
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -99,44 +99,44 @@ en">
 <li><a href="http://focommunity.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" class="fly">Community Home</a></li>
 <li><a href="
 http://forum-fo.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://achievements.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" class="fly">Achievements</a></li>
 <li><a href="http://hiscore-fo.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://orbcoins.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rules_of_conduct" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rules_of_conduct" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws">
+<a id="countrydrop" href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">
+<img alt="English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="English" alt="English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="English" alt="English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Deutsch" alt="Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -181,55 +181,55 @@ http://forum-fo.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/fo
 <p>Occasionally, innocent players might find themselves falsely accused of committing an offence, perhaps because they made an innocuous comment that was misinterpreted by another player. For this reason, reported incidents will be investigated thoroughly, and any evidence will be carefully evaluated, to ensure that innocent players are not given unwarranted penalties. Players who feel that they have been falsely accused of committing an offence should submit an appeal via the account management page.</p>
 <p>The FunOrb rules are organised into three categories: Honour, Respect and Security. Please take some time to familiarise yourself with these rules before playing any FunOrb games.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="honour"></a>
 <span class="title">2. Honour</span><br><br>
 <p>We expect our players not to cheat or indulge in dishonest behaviour. With this in mind, the following behaviour is deemed unacceptable:</p>
 <ul>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_third_party_software.ws">Macroing, and use of bots or third-party software</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_bug_exploitation.ws">Ratings transfers</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_real_world_trading.ws">Real-world trading</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_account_sharing.ws">Buying, selling or sharing an account</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_multiple_logging.ws">Multiple logging-in</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_bug_exploitation.ws">Knowingly exploiting a bug</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_staff_impersonation.ws">Jagex staff impersonation</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_password_scamming.ws">Password, account, bank PIN or item scamming</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_advert_blocking.ws">Advert blocking</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_encouraging_rule_breaking.ws">Encouraging others to break the rules</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_third_party_software.ws">Macroing, and use of bots or third-party software</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_bug_exploitation.ws">Ratings transfers</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_real_world_trading.ws">Real-world trading</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_account_sharing.ws">Buying, selling or sharing an account</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_multiple_logging.ws">Multiple logging-in</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_bug_exploitation.ws">Knowingly exploiting a bug</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_staff_impersonation.ws">Jagex staff impersonation</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_password_scamming.ws">Password, account, bank PIN or item scamming</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_advert_blocking.ws">Advert blocking</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_encouraging_rule_breaking.ws">Encouraging others to break the rules</a></li>
 </ul>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="respect"></a>
 <span class="title">3. Respect</span><br><br>
 <p>Every FunOrb player is entitled to the respect of the other members of the player community. With this in mind, the following behaviour is deemed unacceptable:</p>
 <ul>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Discrimination of any kind, whether based on another player's race, nationality, gender, sexual orientation or religious beliefs</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Solicitation</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Threatening another player, or bullying of any kind</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Using obscene or inappropriate language</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Spamming, or disruptive behaviour</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_forum_misuse.ws">Misuse of the forums</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Discrimination of any kind, whether based on another player's race, nationality, gender, sexual orientation or religious beliefs</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Solicitation</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Threatening another player, or bullying of any kind</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Using obscene or inappropriate language</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Spamming, or disruptive behaviour</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_forum_misuse.ws">Misuse of the forums</a></li>
 </ul>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="security"></a>
 <span class="title">4. Security</span><br><br>
 <p>It is of the utmost importance that the personal security of our players is not jeopardised while playing FunOrb games. With this in mind, the following behaviour is deemed unacceptable:</p>
 <ul>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_personal_information.ws">Asking for or providing contact information such as full names, ages, postal or email addresses, telephone numbers or bank details</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Discussing or advocating illegal activity of any kind, such as the use of illegal drugs</a></li>
-<li><a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_advertising_websites.ws">Advertising other websites</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_personal_information.ws">Asking for or providing contact information such as full names, ages, postal or email addresses, telephone numbers or bank details</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_inappropriate_language.ws">Discussing or advocating illegal activity of any kind, such as the use of illegal drugs</a></li>
+<li><a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/rules/rule_advertising_websites.ws">Advertising other websites</a></li>
 </ul>
-<p>To find out more about our offence system, <a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=bans_and_mutes">click here</a>.</p>
+<p>To find out more about our offence system, <a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/kbase/view.ws?guid=bans_and_mutes">click here</a>.</p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -249,22 +249,22 @@ Rules of FunOrb</span>
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="English" src="http://www.funorb.com/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="English" src="../../../img/images/layout/en.gif">English</a>
+<a href="../../../l=1/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Deutsch" src="../../../img/images/layout/de.gif">Deutsch</a>
+<a href="../../../l=2/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../../l=3/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2009 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=32/p=gXCjIjm51M-0xa-t7zCjUPTFr*3vMKNQS0mIUxk4mls/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

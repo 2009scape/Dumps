@@ -2,7 +2,7 @@
 <html xmlns:IE>
 <head>
 <style type="text/css" media="screen"> 
-  /*\*/@import url("http://www.funorb.com/css/global-44.css");/**/
+  /*\*/@import url("css/global-44.css");/**/
   html { overflow-y: hidden;}
   body { color: #DAD6D5; text-align:left !important;font-size:12px;background: transparent;}
   .genre{display: inline;margin-left: 10px;}
@@ -14,7 +14,7 @@
   #buttonSpan { bottom: 5px; }
  </style>
 <![endif]-->
-<meta http-equiv="refresh" content="10;url=http://www.funorb.com/get_next_game.ws?game_index=44&nojs=true" />
+<meta http-equiv="refresh" content="10;url=get_next_game.ws?game_index=44&nojs=true" />
 <!--[if IE]>
 <style type="text/css">
  @media all {
@@ -41,17 +41,17 @@
 <body>
 <div style="height: 145px; position:relative; overflow: hidden;">
 <div style="padding:6px;">
-<a href="http://www.funorb.com/36cardtrick/play.ws" target="_top"><img src="http://www.funorb.com/img/images/game/36cardtrick/large.jpg" style="float:left; margin-right:10px; width: 181px; height: 133px;" alt=""></a>
-<b style="font-size: 17px; margin-bottom: 14px;">Thirty-Six Card Trick</b><div class="genre"><a style="text-decoration:none;" href="http://www.funorb.com/gamelist.ws?genreBox=puzzle">Puzzle</a></div>
+<a href="36cardtrick/play.ws" target="_top"><img src="img/images/game/36cardtrick/large.jpg" style="float:left; margin-right:10px; width: 181px; height: 133px;" alt=""></a>
+<b style="font-size: 17px; margin-bottom: 14px;">Thirty-Six Card Trick</b><div class="genre"><a style="text-decoration:none;" href="gamelist.ws?genreBox=puzzle">Puzzle</a></div>
 <p>
 Howdy, pardners! Test your memory with this new twist on the classic pair-matching game. See how fast you can quick-draw pairs of cards!
 </p>
 </div>
 <span id="buttonSpan">
-<a class="buttonNew" id="buttonPrev" href="http://www.funorb.com/get_next_game.ws?game_index=42&nojs=true"><div>&lt;&lt;</div></a>
-<a class="buttonInfo" href="http://www.funorb.com/info.ws?game=36cardtrick" target="_top"></a>
-<a class="buttonPlay" id="fogamelink" href="http://www.funorb.com/36cardtrick/play.ws" target="_top">Play</a>
-<a class="buttonNew" id="buttonNext" href="http://www.funorb.com/get_next_game.ws?game_index=44&nojs=true"><div>&gt;&gt;</div></a>
+<a class="buttonNew" id="buttonPrev" href="get_next_game.ws?game_index=42&nojs=true"><div>&lt;&lt;</div></a>
+<a class="buttonInfo" href="info.ws?game=36cardtrick" target="_top"></a>
+<a class="buttonPlay" id="fogamelink" href="36cardtrick/play.ws" target="_top">Play</a>
+<a class="buttonNew" id="buttonNext" href="get_next_game.ws?game_index=44&nojs=true"><div>&gt;&gt;</div></a>
 </span>
 </div>
 </body>

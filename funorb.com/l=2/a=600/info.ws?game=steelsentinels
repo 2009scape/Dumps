@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/a=600/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/a=600/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/a=600/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/a=600/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=600/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/a=600/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/a=600/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=600/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/a=600/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -53,12 +53,12 @@ fr">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/a=600/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/a=600/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/steelsentinels/intro.jpg);
+  background-image: url(../../l=2/img/images/game/steelsentinels/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -70,10 +70,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/steelsentinels/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/steelsentinels/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/steelsentinels/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/steelsentinels/screen4.jpg?1';
+images[0] = '../../l=2/img/images/game/steelsentinels/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/steelsentinels/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/steelsentinels/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/steelsentinels/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -139,8 +139,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/a=600/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/a=600/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -149,7 +149,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=600/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=600/messenger.js"></script>
 
@@ -158,52 +158,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=600/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=600/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/a=600/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/a=600/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/a=600/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/a=600/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/a=600/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/a=600/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/a=600/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/a=600/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../l=2/a=600/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/a=600/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/a=600/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=600/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=600/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/a=600/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/a=600/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/a=600/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/a=600/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/a=600/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/a=600/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=600/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=600/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=600/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/a=600/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/a=600/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../l=2/a=600/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/a=600/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/a=600/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/a=600/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/a=600/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/a=600/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -211,28 +211,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/a=600/forums.ws" class="fly">Forums
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/a=600/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=steelsentinels" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=600/index.ws">
+<a id="countrydrop" href="../../l=2/a=600/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=600/index.ws"><img title="
+<li><a class="fly" href="../../a=600/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=600/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=600/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=600/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=600/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=600/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=600/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -248,12 +248,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/a=600/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/a=600/gamelist.ws?genreBox=strategy">Stratégie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/a=600/steelsentinels/play.ws">Steel Sentinels</a> &gt;
+<a href="../../l=2/a=600/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/a=600/gamelist.ws?genreBox=strategy">Stratï¿½gie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/a=600/steelsentinels/play.ws">Steel Sentinels</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/a=600/steelsentinels/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/a=600/steelsentinels/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -266,38 +266,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/a=600/gamelist.ws?genreBox=strategy"><span class="genre">Stratégie</span></a><br> Construisez et commandez des robots géants pour imposer votre domination. </div>
+<a href="../../l=2/a=600/gamelist.ws?genreBox=strategy"><span class="genre">Stratï¿½gie</span></a><br> Construisez et commandez des robots gï¿½ants pour imposer votre domination. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/a=600/steelsentinels/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/a=600/steelsentinels/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/steelsentinels/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/steelsentinels/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/steelsentinels/screen1_thumb.jpg?1);">
+<a href="../../l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/steelsentinels/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/steelsentinels/screen2_thumb.jpg?1);">
+<a href="../../l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/steelsentinels/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/steelsentinels/screen3_thumb.jpg?1);">
+<a href="../../l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/steelsentinels/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/steelsentinels/screen4_thumb.jpg?1);">
+<a href="../../l=2/a=600/display_screenshot.ws?game=steelsentinels&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/steelsentinels/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -307,7 +307,7 @@ Captures d'écran
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Caractéristiques
+Caractï¿½ristiques
 </div>
 </div>
 <div class="subsectionContent">
@@ -315,12 +315,12 @@ Caractéristiques
 <div class="benefitsContent">
 <div class="benefitsList">
 <ul>
- <li>Parties en ligne jusqu'à 12 joueurs.</li>
-<li>Déblocage et modification de sentinelles.</li>
-<li>Deux campagnes solo à terminer.</li>
-<li>Compétition en parties classées.</li>
-<li>Compétition en mêlée générale ou en équipes.</li>
-<li>Des exploits à remporter.</li>
+ <li>Parties en ligne jusqu'ï¿½ 12 joueurs.</li>
+<li>Dï¿½blocage et modification de sentinelles.</li>
+<li>Deux campagnes solo ï¿½ terminer.</li>
+<li>Compï¿½tition en parties classï¿½es.</li>
+<li>Compï¿½tition en mï¿½lï¿½e gï¿½nï¿½rale ou en ï¿½quipes.</li>
+<li>Des exploits ï¿½ remporter.</li>
 <li>GRATUIT !</li>
 </ul>
 </div>
@@ -337,7 +337,7 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>Dans un futur lointain, des forces rivales s'affrontent par robots géants interposés pour le contrôle de précieuses ressources de solarite. Aux commandes de votre sentinelle, vous devez éliminer tous ceux qui croisent votre chemin, effectuer des missions, gagner de la solarite, acquérir des nouvelles technologies et les utiliser pour faire de votre sentinelle l'arme la plus redoutable de la galaxie.</p>
+<p>Dans un futur lointain, des forces rivales s'affrontent par robots gï¿½ants interposï¿½s pour le contrï¿½le de prï¿½cieuses ressources de solarite. Aux commandes de votre sentinelle, vous devez ï¿½liminer tous ceux qui croisent votre chemin, effectuer des missions, gagner de la solarite, acquï¿½rir des nouvelles technologies et les utiliser pour faire de votre sentinelle l'arme la plus redoutable de la galaxie.</p>
 </div>
 </div>
 </div>
@@ -346,58 +346,58 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Les commandes de la caméra peuvent-elles être changées ?</a></li>
-<li><a href="#faqs_q2">Comment débloquer de nouvelles technologies ?</a></li>
+<li><a href="#faqs_q1">Les commandes de la camï¿½ra peuvent-elles ï¿½tre changï¿½es ?</a></li>
+<li><a href="#faqs_q2">Comment dï¿½bloquer de nouvelles technologies ?</a></li>
 <li><a href="#faqs_q3">Comment obtenir de nouvelles sentinelles ?</a></li>
-<li><a href="#faqs_q4">Comment améliorer son score ?</a></li>
-<li><a href="#faqs_q5">Que sont les pertes d'énergie ?</a></li>
+<li><a href="#faqs_q4">Comment amï¿½liorer son score ?</a></li>
+<li><a href="#faqs_q5">Que sont les pertes d'ï¿½nergieï¿½?</a></li>
 <li><a href="#faqs_q6">Comment collectionner les plaques ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Les commandes de la caméra peuvent-elles être changées ?</h3>
-<p>Oui. Le menu Paramètres propose de nombreuses options à configurer. Essayez-les et choisissez celles qui vous conviennent le mieux.</p>
+<h3>1. Les commandes de la camï¿½ra peuvent-elles ï¿½tre changï¿½es ?</h3>
+<p>Oui. Le menu Paramï¿½tres propose de nombreuses options ï¿½ configurer. Essayez-les et choisissez celles qui vous conviennent le mieux.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Comment débloquer de nouvelles technologies ?</h3>
-<p>Participez aux campagnes solo pour débloquer de nombreuses technologies élémentaires. Vous pouvez également fabriquer des équipements supplémentaires dans le menu Configuration, en investissant la solarite obtenue dans les parties classées.</p>
+<h3>2. Comment dï¿½bloquer de nouvelles technologies ?</h3>
+<p>Participez aux campagnes solo pour dï¿½bloquer de nombreuses technologies ï¿½lï¿½mentaires. Vous pouvez ï¿½galement fabriquer des ï¿½quipements supplï¿½mentaires dans le menu Configuration, en investissant la solarite obtenue dans les parties classï¿½es.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Comment obtenir de nouvelles sentinelles ?</h3>
-<p>Chaque nouvelle sentinelle est constituée d'un ensemble de composants et de modules par défaut que vous devez fabriquer pour utiliser le châssis correspondant. Vos progrès technologiques vous permettront d'accéder à de nouveaux châssis.</p>
+<p>Chaque nouvelle sentinelle est constituï¿½e d'un ensemble de composants et de modules par dï¿½faut que vous devez fabriquer pour utiliser le chï¿½ssis correspondant. Vos progrï¿½s technologiques vous permettront d'accï¿½der ï¿½ de nouveaux chï¿½ssis.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. Comment améliorer son score ?</h3>
-<p>Infligez un maximum de dégâts et de destructions à vos adversaires, et évitez d'endommager vos coéquipiers.</p>
+<h3>4. Comment amï¿½liorer son score ?</h3>
+<p>Infligez un maximum de dï¿½gï¿½ts et de destructions ï¿½ vos adversaires, et ï¿½vitez d'endommager vos coï¿½quipiers.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
-<h3>5. Que sont les pertes d'énergie ?</h3>
-<p>La propulsion, le ciblage et le tir d'armes énergétiques utilisent les réserves d'énergie de votre sentinelle. Ces réserves se rechargent petit à petit, mais lorsqu'elles sont épuisées, votre sentinelle tombe à court d'énergie et est incapable de bouger jusqu'au refroidissement de ses systèmes. Pour éviter les pertes d'énergie, équipez plus de condensateurs et surveillez votre consommation d'énergie.</p>
+<h3>5. Que sont les pertes d'ï¿½nergieï¿½?</h3>
+<p>La propulsion, le ciblage et le tir d'armes ï¿½nergï¿½tiques utilisent les rï¿½serves d'ï¿½nergie de votre sentinelle. Ces rï¿½serves se rechargent petit ï¿½ petit, mais lorsqu'elles sont ï¿½puisï¿½es, votre sentinelle tombe ï¿½ court d'ï¿½nergie et est incapable de bouger jusqu'au refroidissement de ses systï¿½mes. Pour ï¿½viter les pertes d'ï¿½nergie, ï¿½quipez plus de condensateurs et surveillez votre consommation d'ï¿½nergie.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
 <h3>6. Comment collectionner les plaques ?</h3>
-<p>Les plaques sont attribuées en reconnaissance de prouesses exceptionnelles réalisées sur le champ de bataille. Les plaques gagnées dans les parties classées sont enregistrées. Consultez la page Exploits pour afficher le total de plaques que vous avez obtenues.</p>
+<p>Les plaques sont attribuï¿½es en reconnaissance de prouesses exceptionnelles rï¿½alisï¿½es sur le champ de bataille. Les plaques gagnï¿½es dans les parties classï¿½es sont enregistrï¿½es. Consultez la page Exploits pour afficher le total de plaques que vous avez obtenues.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>7. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>500 MHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -405,23 +405,23 @@ Questions fréquentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Avantages abonnés
+Avantages abonnï¿½s
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Les abonnés bénéficient de :</p>
+<p style="padding-bottom: 5px;">Les abonnï¿½s bï¿½nï¿½ficient de :</p>
 <ul style="line-height: 22px;">
-<li>Davantage de sentinelles à débloquer</li>
-<li>Une campagne supplémentaire de missions solo</li>
-<li>Accès à des technologies avancées</li>
+<li>Davantage de sentinelles ï¿½ dï¿½bloquer</li>
+<li>Une campagne supplï¿½mentaire de missions solo</li>
+<li>Accï¿½s ï¿½ des technologies avancï¿½es</li>
 <li>Davantage de champs de bataille</li>
-<li>Accès à tous les exploits</li>
-<li>Mode plein écran</li>
-<li>Aucune pub en cours de jeu</li> <li>Accès à toutes les extensions abonnés de FunOrb</li>
+<li>Accï¿½s ï¿½ tous les exploits</li>
+<li>Mode plein ï¿½cran</li>
+<li>Aucune pub en cours de jeu</li> <li>Accï¿½s ï¿½ toutes les extensions abonnï¿½s de FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=2/a=600/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/a=600/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -430,20 +430,20 @@ Avantages abonnés
 <div class="subsection" id="credits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Équipe de développement
+ï¿½quipe de dï¿½veloppement
 </div>
 </div>
 <div class="subsectionContent">
 <div>
 <p>
-<b>Développement :</b> Thomas D,&nbsp;David R<br>
+<b>Dï¿½veloppement :</b> Thomas D,&nbsp;David R<br>
 <b>Graphismes :</b> Adam S,&nbsp;Anthony A,&nbsp;David H,&nbsp;Kristian F,&nbsp;Peter S<br>
 <b>Son :</b> Adam B<br>
-<b>Assurance qualité :</b> Joe C,&nbsp;Ken W L,&nbsp;Michael T,&nbsp;Sally R,&nbsp;Alex P<br>
-<b>Traduction :</b> Sophie M,&nbsp;Frédérique B,&nbsp;Thomas Le M
+<b>Assurance qualitï¿½ :</b> Joe C,&nbsp;Ken W L,&nbsp;Michael T,&nbsp;Sally R,&nbsp;Alex P<br>
+<b>Traduction :</b> Sophie M,&nbsp;Frï¿½dï¿½rique B,&nbsp;Thomas Le M
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -456,25 +456,25 @@ Avantages abonnés
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=600/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../a=600/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=600/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/a=600/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=600/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/a=600/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=600/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/a=600/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=600/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=600/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/a=600/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/a=600/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/a=600/p=fBMLAyYZcKjB7H6LqG1ya8HsfouobXJrdthCWSLVEY4/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/a=600/p=fBMLAyYZcKjB7H6LqG1ya8HsfouobXJrdthCWSLVEY4/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

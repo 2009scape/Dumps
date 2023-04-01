@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,16 +23,16 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-1.css);/**/
+  /*\*/@import url(../../l=1/css/global-1.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=1/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
-<meta name="description" content="Der FunOrb-Ratgeber für Eltern.">
-<title>Ratgeber für Eltern</title>
+<meta name="description" content="Der FunOrb-Ratgeber fï¿½r Eltern.">
+<title>Ratgeber fï¿½r Eltern</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=1/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../l=1/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../l=1/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../l=1/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../l=1/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -85,32 +85,32 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/forums.ws?7,8" class="fly last">Kristallkugel</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
-<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../l=1/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
+<li><a href="../../l=1/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../l=1/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../l=1/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=parents_guide" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../l=1/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=parents_guide" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/index.ws"><img src="http://www.funorb.com/l=1/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/index.ws"><img src="http://www.funorb.com/l=1/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../index.ws"><img src="../../l=1/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../l=1/index.ws"><img src="../../l=1/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -126,7 +126,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; Ratgeber für Eltern</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; Ratgeber fï¿½r Eltern</span>
 </div>
 </div>
 </div>
@@ -134,9 +134,9 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Ratgeber für Eltern</h1>
+<h1 class="articleTitle">Ratgeber fï¿½r Eltern</h1>
 <div class="articleBody">
-<body> Willkommen beim FunOrb-Ratgeber für Eltern <br><br> Dieser Ratgeber ist dafür gedacht, Ihnen schnell und einfach alle Informationen zu geben, die Sie über FunOrb haben möchten. Die unten stehenden Fragen befassen sich mit den wichtigsten Aspekten, wie zum Beispiel, was FunOrb ist und wie man mitmachen kann, aber auch Informationen darüber, wie wir unsere Spieler schützen, wie wir Informationen vertraulich behandeln und wie man gesund und verantwortungsbewusst spielt. <br><br> <div class="faqsList">
+<body> Willkommen beim FunOrb-Ratgeber fï¿½r Eltern <br><br> Dieser Ratgeber ist dafï¿½r gedacht, Ihnen schnell und einfach alle Informationen zu geben, die Sie ï¿½ber FunOrb haben mï¿½chten. Die unten stehenden Fragen befassen sich mit den wichtigsten Aspekten, wie zum Beispiel, was FunOrb ist und wie man mitmachen kann, aber auch Informationen darï¿½ber, wie wir unsere Spieler schï¿½tzen, wie wir Informationen vertraulich behandeln und wie man gesund und verantwortungsbewusst spielt. <br><br> <div class="faqsList">
 <ol>
 <li><a href="#funorb">Was ist FunOrb?</a>
 <li><a href="#what">Was ist Jagex?</a>
@@ -149,112 +149,112 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </ol></div>
 <br>
 <a name="funorb"></a>
-<span class="title">1. Was ist FunOrb?</span><br><br> FunOrb bietet eine Sammlung von auf Java basierenden Browserspielen, die auf dem PC gespielt werden können. Man kann diese Spiele für kurze oder längere Zeit genießen und sie decken einen Großteil der verfügbaren Computerspiel-Genres ab. <br><br> Wenn Sie bei FunOrb teilnehmen wollen oder einige grundlegende Informationen zu dieser Seite und unserem Angebot wünschen, schauen Sie bitte <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=General_Most_Popular">hier</a> auf die Seite mit häufig gestellten Fragen. <br><br>
+<span class="title">1. Was ist FunOrb?</span><br><br> FunOrb bietet eine Sammlung von auf Java basierenden Browserspielen, die auf dem PC gespielt werden kï¿½nnen. Man kann diese Spiele fï¿½r kurze oder lï¿½ngere Zeit genieï¿½en und sie decken einen Groï¿½teil der verfï¿½gbaren Computerspiel-Genres ab. <br><br> Wenn Sie bei FunOrb teilnehmen wollen oder einige grundlegende Informationen zu dieser Seite und unserem Angebot wï¿½nschen, schauen Sie bitte <a href="../../l=1/kbase/view.ws?guid=General_Most_Popular">hier</a> auf die Seite mit hï¿½ufig gestellten Fragen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">2. Was ist Jagex?</span><br><br> Jagex ist eine Abkürzung für Java Gaming Experts. Es ist der Name der Firma, die das MMOG (Massively Multiplayer Online Game, zu Deutsch riesiges Online-Spiel) RuneScape und die Java-Minispiel-Seite FunOrb produziert. <br><br> Im Dezember 2001 schlossen sich Andrew Gower, Paul Gower und Constant Tedder zusammen und gründeten Jagex Limited, die Firma, die den Betrieb und die Entwicklung von RuneScape und den anderen Spielen von Andrew übernehmen sollte. Zu diesem Zeitpunkt gab es bereits über 1.000.000 Spielerkonten für RuneScape. <br><br> Nach der Gründung der Firma setzten die drei sich zwei Ziele: Erstens sollte der Betrieb von RuneScape sich wirtschaftlich rentieren, weshalb langfristige Werbeverträge abgeschlossen wurden, und zweitens sollte eine Premium-Version des Spiels im Abonnement angeboten werden. <br><br>
-<img style="display: inline; float: right;" src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/monkey_puzzle_2.gif" alt=""> Beide Ziele wurden innerhalb kurzer Zeit verwirklicht, denn schon am 27. Februar 2002 wurde RuneScapes Mitglieder-Version von Jagex veröffentlicht. Allein in der ersten Woche nach dem Start meldeten sich über 5.000 Spieler an und machten RuneScape somit augenblicklich zu einem der größten kommerziellen Java-Spiele der Welt. <br><br> Im März 2004 wurde RuneScape umfassenden Verbesserungen unterzogen. Die neue Version, die oft RuneScape 2 (RS2) genannt wird, umfasst eine ganz neue Spielengine und weitaus bessere Grafiken.<br><br>Seitdem ist RuneScape stetig gewachsen - nicht nur die Spielwelt, die regelmäßig mit neuen Geschichten, Abenteuern und Gebieten vom Entwicklerteam erweitert wird, sondern auch die ständig wachsende Spielergemeinschaft der geselligen Onlinespieler. <br><br> Im Jahr 2008 expandierte Jagex im Bereich der Computerspiel-Branche mit der Veröffentlichung von FunOrb, einer Minispiel-Webseite, die Spielern unvergleichlichen Spaß mit Java-Spielen ermöglicht. Um mehr über Jagex herauszufinden, klicken Sie bitte <a href="http://www.funorb.com/l=1/kbase/view.ws?guid=Jagex">hier</a>. <br><br>
+<span class="title">2. Was ist Jagex?</span><br><br> Jagex ist eine Abkï¿½rzung fï¿½r Java Gaming Experts. Es ist der Name der Firma, die das MMOG (Massively Multiplayer Online Game, zu Deutsch riesiges Online-Spiel) RuneScape und die Java-Minispiel-Seite FunOrb produziert. <br><br> Im Dezember 2001 schlossen sich Andrew Gower, Paul Gower und Constant Tedder zusammen und grï¿½ndeten Jagex Limited, die Firma, die den Betrieb und die Entwicklung von RuneScape und den anderen Spielen von Andrew ï¿½bernehmen sollte. Zu diesem Zeitpunkt gab es bereits ï¿½ber 1.000.000 Spielerkonten fï¿½r RuneScape. <br><br> Nach der Grï¿½ndung der Firma setzten die drei sich zwei Ziele: Erstens sollte der Betrieb von RuneScape sich wirtschaftlich rentieren, weshalb langfristige Werbevertrï¿½ge abgeschlossen wurden, und zweitens sollte eine Premium-Version des Spiels im Abonnement angeboten werden. <br><br>
+<img style="display: inline; float: right;" src="../../l=1/img/images/kbase/parents_guide/monkey_puzzle_2.gif" alt=""> Beide Ziele wurden innerhalb kurzer Zeit verwirklicht, denn schon am 27. Februar 2002 wurde RuneScapes Mitglieder-Version von Jagex verï¿½ffentlicht. Allein in der ersten Woche nach dem Start meldeten sich ï¿½ber 5.000 Spieler an und machten RuneScape somit augenblicklich zu einem der grï¿½ï¿½ten kommerziellen Java-Spiele der Welt. <br><br> Im Mï¿½rz 2004 wurde RuneScape umfassenden Verbesserungen unterzogen. Die neue Version, die oft RuneScape 2 (RS2) genannt wird, umfasst eine ganz neue Spielengine und weitaus bessere Grafiken.<br><br>Seitdem ist RuneScape stetig gewachsen - nicht nur die Spielwelt, die regelmï¿½ï¿½ig mit neuen Geschichten, Abenteuern und Gebieten vom Entwicklerteam erweitert wird, sondern auch die stï¿½ndig wachsende Spielergemeinschaft der geselligen Onlinespieler. <br><br> Im Jahr 2008 expandierte Jagex im Bereich der Computerspiel-Branche mit der Verï¿½ffentlichung von FunOrb, einer Minispiel-Webseite, die Spielern unvergleichlichen Spaï¿½ mit Java-Spielen ermï¿½glicht. Um mehr ï¿½ber Jagex herauszufinden, klicken Sie bitte <a href="../../l=1/kbase/view.ws?guid=Jagex">hier</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="free"></a>
-<span class="title">3. Ist FunOrb kostenlos?</span><br><br> Man kann unsere Spiele auf drei Arten spielen. Als unregistrierter Spieler, als registrierter Spieler und als Mitglied. Unregistrierte Spieler dürfen einen Großteil der verfügbaren Spiele spielen. Jedes Spiel steht aber auch in einer Mitglieder-Version zur Verfügung, dessen Inhalte die Spieldauer mindestens verdoppeln. <br><br>
+<span class="title">3. Ist FunOrb kostenlos?</span><br><br> Man kann unsere Spiele auf drei Arten spielen. Als unregistrierter Spieler, als registrierter Spieler und als Mitglied. Unregistrierte Spieler dï¿½rfen einen Groï¿½teil der verfï¿½gbaren Spiele spielen. Jedes Spiel steht aber auch in einer Mitglieder-Version zur Verfï¿½gung, dessen Inhalte die Spieldauer mindestens verdoppeln. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="safety"></a>
-<span class="title">4. Spieler-Sicherheit</span><br><br> Der wichtigste Aspekt einer Online-Gemeinschaft ist die Sicherheit aller Beteiligten. Hier bei Jagex sind mehr als die Hälfte unserer Mitarbeiter in der Kundenbetreuung beschäftigt, um zu gewährleisten, dass FunOrb ein unterhaltsamer und sicherer Ort bleibt. Diese Seite führt einige der wichtigsten Methoden auf, anhand derer wir das Spiel überwachen und verdeutlicht außerdem, wie Spieler selbst bei der Sicherheit der Spielergemeinschaft mitwirken können. <br><br>
+<span class="title">4. Spieler-Sicherheit</span><br><br> Der wichtigste Aspekt einer Online-Gemeinschaft ist die Sicherheit aller Beteiligten. Hier bei Jagex sind mehr als die Hï¿½lfte unserer Mitarbeiter in der Kundenbetreuung beschï¿½ftigt, um zu gewï¿½hrleisten, dass FunOrb ein unterhaltsamer und sicherer Ort bleibt. Diese Seite fï¿½hrt einige der wichtigsten Methoden auf, anhand derer wir das Spiel ï¿½berwachen und verdeutlicht auï¿½erdem, wie Spieler selbst bei der Sicherheit der Spielergemeinschaft mitwirken kï¿½nnen. <br><br>
 <p align="center">
-<img src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
-</p> Sind Sie ein Erziehungsberechtigter eines Spielers und wollen ein gravierendes Vorkommnis melden, dann e-mailen Sie: <img style="display: inline;" src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/parents_jagex_email.gif" alt="">. Sie müssen den Jagex-Kontonamen Ihres Kindes sowie eine ausführliche Beschreibung des Grundes für Ihre Anfrage beifügen. <br><br> Bitte vergessen Sie nicht, dass normale Anfragen zu einem Konto nicht an diese Adresse geschickt, sondern über die Kontoverwaltungs-Rubrik auf unserer Webseite abgewickelt werden müssen. <p align="center">
-<img src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+<img src="../../l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+</p> Sind Sie ein Erziehungsberechtigter eines Spielers und wollen ein gravierendes Vorkommnis melden, dann e-mailen Sie: <img style="display: inline;" src="../../l=1/img/images/kbase/parents_guide/parents_jagex_email.gif" alt="">. Sie mï¿½ssen den Jagex-Kontonamen Ihres Kindes sowie eine ausfï¿½hrliche Beschreibung des Grundes fï¿½r Ihre Anfrage beifï¿½gen. <br><br> Bitte vergessen Sie nicht, dass normale Anfragen zu einem Konto nicht an diese Adresse geschickt, sondern ï¿½ber die Kontoverwaltungs-Rubrik auf unserer Webseite abgewickelt werden mï¿½ssen. <p align="center">
+<img src="../../l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
 </p>
 <br><br>
-<b>Regelverstoß-Meldungen</b>
+<b>Regelverstoï¿½-Meldungen</b>
 <br>
-<img style="display: inline; float: right;" src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/transmogrify.gif" alt=""> Eine Methode, durch die wir den Spielern eine höhere Sicherheit ermöglichen, ist die Möglichkeit, Regelverstöße und und Beleidigungen durch andere Spieler zu melden. Nach einem Klick auf 'Regelverstoß melden' können sie den Namen des regelbrechenden Spielers eingeben und die entsprechende Kategorie auswählen. <br><br> Wenn ein Spieler einen Regelverstoß meldet, erhält unser Kundenbetreuungs-Team ein Protokoll der Unterhaltung zwischen dem gemeldeten und dem meldenden Spieler. So kann unser Team effektiv entscheiden, was für eine Strafe (wenn überhaupt) angebracht ist. <br><br> Es ist jedoch wichtig, dass Spieler das System nicht missbrauchen, indem sie falsche Meldungen machen. Jeder, der nachweislich die Kundenbetreuung missbraucht, muss mit entsprechenden Konsequenzen rechnen. Um mehr über unsere Verhaltensregeln zu lernen, klicken Sie bitte <a href="viewcategory.ws?cat_id=11">hier</a>. <br><br>
+<img style="display: inline; float: right;" src="../../l=1/img/images/kbase/parents_guide/transmogrify.gif" alt=""> Eine Methode, durch die wir den Spielern eine hï¿½here Sicherheit ermï¿½glichen, ist die Mï¿½glichkeit, Regelverstï¿½ï¿½e und und Beleidigungen durch andere Spieler zu melden. Nach einem Klick auf 'Regelverstoï¿½ melden' kï¿½nnen sie den Namen des regelbrechenden Spielers eingeben und die entsprechende Kategorie auswï¿½hlen. <br><br> Wenn ein Spieler einen Regelverstoï¿½ meldet, erhï¿½lt unser Kundenbetreuungs-Team ein Protokoll der Unterhaltung zwischen dem gemeldeten und dem meldenden Spieler. So kann unser Team effektiv entscheiden, was fï¿½r eine Strafe (wenn ï¿½berhaupt) angebracht ist. <br><br> Es ist jedoch wichtig, dass Spieler das System nicht missbrauchen, indem sie falsche Meldungen machen. Jeder, der nachweislich die Kundenbetreuung missbraucht, muss mit entsprechenden Konsequenzen rechnen. Um mehr ï¿½ber unsere Verhaltensregeln zu lernen, klicken Sie bitte <a href="viewcategory.ws?cat_id=11">hier</a>. <br><br>
 <b>Chatfilter</b>
-<br> Um eine weitgefächerte Spielerbevölkerung zu gewährleisten, und das Spiel Menschen jeden Alters zugänglich zu machen, haben wir ein ausgeklügeltes Chatfilter-System entwickelt, das alle Beschimpfungen, die in das Chatfenster eingegeben werden, blockiert. Außerdem blockt es sämtliche Web-Adressen und Anfragen nach Telefonnummern, was das Konto und die Privatsphäre des Spielers weiter schützt. Dieser Filter wird regelmäßig aktualisiert, was bedeutet, dass wir fortwährend daran arbeiten, dass Spieler keine Möglichkeit haben, das System zu umgehen. <br><br> Bitte beachten Sie, dass sich das nur auf die FunOrb-Spiele für mehrere Spieler bezieht, die meisten FunOrb-Spiele sind für einzelne Spieler, so dass dort kein Chatfilter notwendig ist. <br><br>
-<b>Wie Sie helfen können</b>
-<br> Es gibt mehrere Wege, wie Sie dabei helfen können, viele der hier aufgeführten Probleme zu vermeiden. Erstens empfehlen wir nachdrücklich, dass Eltern FunOrb-Spiele spielen und sich so mit dem Spiel vertraut machen. So können Sie sich ein besseres Bild von den Erlebnissen Ihres Kindes machen und werden es außerdem besser verstehen, wenn es von eventuellen Problemen berichtet. <br><br> Außerdem raten wir Ihnen, sich die <a href="viewcategory.ws?cat_id=11">Regeln</a> durchzulesen und sie Ihren Kindern zu erklären, bevor Sie sie die Spiele spielen lassen. Dies schützt sie nicht nur davor, versehentlich wichtige persönliche Informationen oder Daten bezüglich des Kontos im Spiel preiszugeben, sondern es bereitet sie auch besser auf mögliche Gefahren vor. <br><br>
+<br> Um eine weitgefï¿½cherte Spielerbevï¿½lkerung zu gewï¿½hrleisten, und das Spiel Menschen jeden Alters zugï¿½nglich zu machen, haben wir ein ausgeklï¿½geltes Chatfilter-System entwickelt, das alle Beschimpfungen, die in das Chatfenster eingegeben werden, blockiert. Auï¿½erdem blockt es sï¿½mtliche Web-Adressen und Anfragen nach Telefonnummern, was das Konto und die Privatsphï¿½re des Spielers weiter schï¿½tzt. Dieser Filter wird regelmï¿½ï¿½ig aktualisiert, was bedeutet, dass wir fortwï¿½hrend daran arbeiten, dass Spieler keine Mï¿½glichkeit haben, das System zu umgehen. <br><br> Bitte beachten Sie, dass sich das nur auf die FunOrb-Spiele fï¿½r mehrere Spieler bezieht, die meisten FunOrb-Spiele sind fï¿½r einzelne Spieler, so dass dort kein Chatfilter notwendig ist. <br><br>
+<b>Wie Sie helfen kï¿½nnen</b>
+<br> Es gibt mehrere Wege, wie Sie dabei helfen kï¿½nnen, viele der hier aufgefï¿½hrten Probleme zu vermeiden. Erstens empfehlen wir nachdrï¿½cklich, dass Eltern FunOrb-Spiele spielen und sich so mit dem Spiel vertraut machen. So kï¿½nnen Sie sich ein besseres Bild von den Erlebnissen Ihres Kindes machen und werden es auï¿½erdem besser verstehen, wenn es von eventuellen Problemen berichtet. <br><br> Auï¿½erdem raten wir Ihnen, sich die <a href="viewcategory.ws?cat_id=11">Regeln</a> durchzulesen und sie Ihren Kindern zu erklï¿½ren, bevor Sie sie die Spiele spielen lassen. Dies schï¿½tzt sie nicht nur davor, versehentlich wichtige persï¿½nliche Informationen oder Daten bezï¿½glich des Kontos im Spiel preiszugeben, sondern es bereitet sie auch besser auf mï¿½gliche Gefahren vor. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="recovery"></a>
 <span class="title">5. Spielkonto-Wiederherstellung</span><br><br>
 <b>Sperrung eines Kontos</b>
-<br> Wird das Konto Ihres Kindes gesperrt, erhält es eine Nachricht in seinem Mitteilungsfach, die ihm erklärt, gegen welche Regel es verstoßen hat, die Härte der Strafe, die es dafür zu erwarten hat und dazu noch einen Nachweis für sein Vergehen. Je nach dem, wie ernst der Regelverstoß war, kann die Sperrung vorübergehend oder dauerhaft sein. Bei verbalen Verstößen können wir den Spieler für bestimmte Zeit 'stumm schalten'. Eventuell werden wir das Konto auch mit Strafpunkten belegen. Diese sind mit Punkten auf einem Führerschein vergleichbar - sie zeigen uns und dem Spieler, dass er gegen die Regeln verstoßen hat und dass zukünftige Vergehen härter bestraft werden. <br><br>
-<img style="display: inline; float: left;" src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/dr_phlogistan.gif" alt="">
+<br> Wird das Konto Ihres Kindes gesperrt, erhï¿½lt es eine Nachricht in seinem Mitteilungsfach, die ihm erklï¿½rt, gegen welche Regel es verstoï¿½en hat, die Hï¿½rte der Strafe, die es dafï¿½r zu erwarten hat und dazu noch einen Nachweis fï¿½r sein Vergehen. Je nach dem, wie ernst der Regelverstoï¿½ war, kann die Sperrung vorï¿½bergehend oder dauerhaft sein. Bei verbalen Verstï¿½ï¿½en kï¿½nnen wir den Spieler fï¿½r bestimmte Zeit 'stumm schalten'. Eventuell werden wir das Konto auch mit Strafpunkten belegen. Diese sind mit Punkten auf einem Fï¿½hrerschein vergleichbar - sie zeigen uns und dem Spieler, dass er gegen die Regeln verstoï¿½en hat und dass zukï¿½nftige Vergehen hï¿½rter bestraft werden. <br><br>
+<img style="display: inline; float: left;" src="../../l=1/img/images/kbase/parents_guide/dr_phlogistan.gif" alt="">
 <b>Einspruch einlegen</b>
-<br> Wurde das Konto gesperrt, so hat der Besitzer manchmal die Möglichkeit, Einspruch einzulegen. Tut ihm der Regelverstoß wirklich leid, dann hat er die Möglichkeit, sich zu entschuldigen. Ist er überzeugt, dass der Fehler bei uns liegt und dass der Nachweis unsere Folgerungen nicht belegt, dann kann er den Vorschlag einbringen, dass wir uns geirrt haben. Sollte das Konto gestohlen sein oder hatte der Spieler zur Zeit des Verstoßes nicht die Kontrolle über sein Konto, dann kann er uns dies auch mitteilen, sodass wir überprüfen können, ob dieses Konto von Dritten übernommen wurde. <br><br> In manchen Fällen wird aufgrund der Schwere und Art des Verstoßes kein Einspruch möglich sein. Seien Sie versichert, dass wir uns hierbei absolut sicher über den Verstoß sind. Wir sperren Konten nur, wenn wir vollkommen davon überzeugt sind, dass der Besitzer des Kontos selbst für den Regelverstoß verantwortlich ist. <br><br>
+<br> Wurde das Konto gesperrt, so hat der Besitzer manchmal die Mï¿½glichkeit, Einspruch einzulegen. Tut ihm der Regelverstoï¿½ wirklich leid, dann hat er die Mï¿½glichkeit, sich zu entschuldigen. Ist er ï¿½berzeugt, dass der Fehler bei uns liegt und dass der Nachweis unsere Folgerungen nicht belegt, dann kann er den Vorschlag einbringen, dass wir uns geirrt haben. Sollte das Konto gestohlen sein oder hatte der Spieler zur Zeit des Verstoï¿½es nicht die Kontrolle ï¿½ber sein Konto, dann kann er uns dies auch mitteilen, sodass wir ï¿½berprï¿½fen kï¿½nnen, ob dieses Konto von Dritten ï¿½bernommen wurde. <br><br> In manchen Fï¿½llen wird aufgrund der Schwere und Art des Verstoï¿½es kein Einspruch mï¿½glich sein. Seien Sie versichert, dass wir uns hierbei absolut sicher ï¿½ber den Verstoï¿½ sind. Wir sperren Konten nur, wenn wir vollkommen davon ï¿½berzeugt sind, dass der Besitzer des Kontos selbst fï¿½r den Regelverstoï¿½ verantwortlich ist. <br><br>
 <b>Passwort-Anfragen</b>
-<br> Man greift auf jedes Konto mit einem Benutzernamen und einem vom Spieler gewählten Passwort zu. Wir legen unseren Spielern nahe, sich ein Passwort auszusuchen, das sie sich leicht merken können, das jedoch gleichzeitig für andere schwierig zu erraten ist. Wir raten unseren Spielern, sich ihr Passwort auf einem Blatt Papier aufzuschreiben und an einem sicheren Ort aufzubewahren, damit sie es nicht vergessen. Außerdem weisen wir Sie darauf hin, dass Sie Ihr Passwort niemandem verraten dürfen, nicht einmal Freunden oder Verwandten. <br><br> Wenn ein Spieler - aus welchem Grund auch immer - sein Passwort preisgibt, dann gibt er anderen die Gelegenheit, es zu benutzen. Hat Ihr Kind Probleme, auf sein Konto zuzugreifen, dann könnte es sein, dass jemand sein Passwort erfahren und es in der Zwischenzeit geändert hat. Sollte dies eintreten, kann der Spieler mithilfe einer Passwort-Anfrage versuchen, sein Konto zurückzubekommen. Das entsprechende Formular befindet sich <a href="http://www.funorb.com/l=1/account_management.ws">hier</a>. Auf dieser Seite wird der Spieler nach ein paar grundlegenden, aber sehr wichtigen Informationen gefragt: dem Namen seines Charakters und der Art der Anfrage, die er abschickt. <br><br> Nachdem man auf der ersten Seite auf 'Weiter' geklickt hat, erscheint das Formular zur Passwort-Anfrage, das ausgefüllt werden muss. Eventuell passen nicht alle Fragen zum Konto, aber alle relevanten sollten richtig ausgefüllt werden. Je sachbezogener die Informationen sind, die wir erhalten, desto besser stehen die Chancen, dass wir den wahren Eigentümer des Kontos ermitteln können. <br><br>
+<br> Man greift auf jedes Konto mit einem Benutzernamen und einem vom Spieler gewï¿½hlten Passwort zu. Wir legen unseren Spielern nahe, sich ein Passwort auszusuchen, das sie sich leicht merken kï¿½nnen, das jedoch gleichzeitig fï¿½r andere schwierig zu erraten ist. Wir raten unseren Spielern, sich ihr Passwort auf einem Blatt Papier aufzuschreiben und an einem sicheren Ort aufzubewahren, damit sie es nicht vergessen. Auï¿½erdem weisen wir Sie darauf hin, dass Sie Ihr Passwort niemandem verraten dï¿½rfen, nicht einmal Freunden oder Verwandten. <br><br> Wenn ein Spieler - aus welchem Grund auch immer - sein Passwort preisgibt, dann gibt er anderen die Gelegenheit, es zu benutzen. Hat Ihr Kind Probleme, auf sein Konto zuzugreifen, dann kï¿½nnte es sein, dass jemand sein Passwort erfahren und es in der Zwischenzeit geï¿½ndert hat. Sollte dies eintreten, kann der Spieler mithilfe einer Passwort-Anfrage versuchen, sein Konto zurï¿½ckzubekommen. Das entsprechende Formular befindet sich <a href="../../l=1/account_management.ws">hier</a>. Auf dieser Seite wird der Spieler nach ein paar grundlegenden, aber sehr wichtigen Informationen gefragt: dem Namen seines Charakters und der Art der Anfrage, die er abschickt. <br><br> Nachdem man auf der ersten Seite auf 'Weiter' geklickt hat, erscheint das Formular zur Passwort-Anfrage, das ausgefï¿½llt werden muss. Eventuell passen nicht alle Fragen zum Konto, aber alle relevanten sollten richtig ausgefï¿½llt werden. Je sachbezogener die Informationen sind, die wir erhalten, desto besser stehen die Chancen, dass wir den wahren Eigentï¿½mer des Kontos ermitteln kï¿½nnen. <br><br>
 <b>Status der Anfrage</b>
-<br> Spieler erhalten dann eine einmalige Vorgangsnummer, mit der sie den Status ihrer Passwort-Anfrage verfolgen können. Dazu klickt man auf der Seite <a href="http://www.funorb.com/l=1/account_management.ws">Kontoverwaltung</a> rechts unten auf 'Überprüfen Sie eine Anfrage'. <br><br><br><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/password_tracker2.gif" alt="[Bild: Überprüfen einer Anfrage]" title="Status einer Anfrage überprüfen">
+<br> Spieler erhalten dann eine einmalige Vorgangsnummer, mit der sie den Status ihrer Passwort-Anfrage verfolgen kï¿½nnen. Dazu klickt man auf der Seite <a href="../../l=1/account_management.ws">Kontoverwaltung</a> rechts unten auf 'ï¿½berprï¿½fen Sie eine Anfrage'. <br><br><br><img style="display: block; margin: 0 auto 0 auto;" src="../../l=1/img/images/kbase/parents_guide/password_tracker2.gif" alt="[Bild: ï¿½berprï¿½fen einer Anfrage]" title="Status einer Anfrage ï¿½berprï¿½fen">
 <br><br> Hier kann Ihr Kind seine Vorgangsnummer eingeben. <br><br>
 <b>Die Verhaltensregeln verstehen</b>
-<br> Um sicherzustellen, dass sowohl Sie als auch Ihr Kind mit den Jagex-Verhaltensregeln vertraut sind, lesen Sie sich bitte gemeinsam die <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> durch und erklären Sie bei Bedarf die verschiedenen Regeln, damit Ihr Kind sie richtig versteht. <br><br>
+<br> Um sicherzustellen, dass sowohl Sie als auch Ihr Kind mit den Jagex-Verhaltensregeln vertraut sind, lesen Sie sich bitte gemeinsam die <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> durch und erklï¿½ren Sie bei Bedarf die verschiedenen Regeln, damit Ihr Kind sie richtig versteht. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="privacy"></a>
-<span class="title">6. Datenschutz</span><br><br> Wir bei Jagex verpflichten uns zum Schutz ALLER persönlichen Daten unserer Spieler.<br><br>Wir respektieren die Privatsphäre unserer Online-Besucher und sind uns bewusst, wie wichtig es ist, die von uns erhaltenen Informationen zu schützen. Wir haben im gesamten Unternehmen <a href="http://www.funorb.com/l=1/privacy/privacy.ws">Datenschutzgrundsätze</a> eingeführt, die beschreiben, wie wir die Informationen, die Sie uns anvertrauen, sammeln, speichern und verwenden. <br><br> Jeder, der versucht, im Spiel an private Informationen anderer Spieler zu gelangen, verstößt gegen Regel 13 unserer <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> und wird entsprechend bestraft. <br><br>
+<span class="title">6. Datenschutz</span><br><br> Wir bei Jagex verpflichten uns zum Schutz ALLER persï¿½nlichen Daten unserer Spieler.<br><br>Wir respektieren die Privatsphï¿½re unserer Online-Besucher und sind uns bewusst, wie wichtig es ist, die von uns erhaltenen Informationen zu schï¿½tzen. Wir haben im gesamten Unternehmen <a href="../../l=1/privacy/privacy.ws">Datenschutzgrundsï¿½tze</a> eingefï¿½hrt, die beschreiben, wie wir die Informationen, die Sie uns anvertrauen, sammeln, speichern und verwenden. <br><br> Jeder, der versucht, im Spiel an private Informationen anderer Spieler zu gelangen, verstï¿½ï¿½t gegen Regel 13 unserer <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> und wird entsprechend bestraft. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="healthy"></a>
-<span class="title">7. Gesund bleiben</span><br><br> Unser Interesse an Sicherheit beschränkt sich nicht nur auf die Spielkonten Ihres Kindes. Da wir ein Unternehmen sind, das Spiele herstellt, an denen sich Tausende erfreuen können, sind wir natürlich auch am Wohlbefinden dieser Spieler interessiert. Darüber hinaus haben wir ein paar nützliche Informationen zusammengestellt, die den Spielern helfen sollten, bei bester Gesundheit zu bleiben. <br><br> Wenn man längere Zeit vor dem Computer verbringt, treten meist Probleme körperlicher Natur auf, d. h. Muskelschmerzen, hervorgerufen durch schlechte Haltung, oder Augenschmerzen aufgrund fehlender Spielpausen. Diese Probleme, und viele mehr, lassen sich leicht mit ein paar Tipps lösen. <br><br> Hier sind Verweise zu zwei sehr wichtigen Informationsseiten. <br><br> Unsere Seite <a href="viewarticle.ws?article_id=61">Gesundheit und Sicherheit</a> gibt Ihnen Ratschläge zu Punkten wie Lichtempfindlichkeit und RSI-Syndrom. <br><br> Sie gibt Ihnen und Ihrem Kind eine Übersicht darüber, wie man auf FunOrb verantwortungsbewusst Spaß haben kann, ohne seine Gesundheit oder sein Vergnügen aufs Spiel zu setzen. <br><br>
+<span class="title">7. Gesund bleiben</span><br><br> Unser Interesse an Sicherheit beschrï¿½nkt sich nicht nur auf die Spielkonten Ihres Kindes. Da wir ein Unternehmen sind, das Spiele herstellt, an denen sich Tausende erfreuen kï¿½nnen, sind wir natï¿½rlich auch am Wohlbefinden dieser Spieler interessiert. Darï¿½ber hinaus haben wir ein paar nï¿½tzliche Informationen zusammengestellt, die den Spielern helfen sollten, bei bester Gesundheit zu bleiben. <br><br> Wenn man lï¿½ngere Zeit vor dem Computer verbringt, treten meist Probleme kï¿½rperlicher Natur auf, d. h. Muskelschmerzen, hervorgerufen durch schlechte Haltung, oder Augenschmerzen aufgrund fehlender Spielpausen. Diese Probleme, und viele mehr, lassen sich leicht mit ein paar Tipps lï¿½sen. <br><br> Hier sind Verweise zu zwei sehr wichtigen Informationsseiten. <br><br> Unsere Seite <a href="viewarticle.ws?article_id=61">Gesundheit und Sicherheit</a> gibt Ihnen Ratschlï¿½ge zu Punkten wie Lichtempfindlichkeit und RSI-Syndrom. <br><br> Sie gibt Ihnen und Ihrem Kind eine ï¿½bersicht darï¿½ber, wie man auf FunOrb verantwortungsbewusst Spaï¿½ haben kann, ohne seine Gesundheit oder sein Vergnï¿½gen aufs Spiel zu setzen. <br><br>
 <p align="center">
-<img src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/bounce_down2.gif" alt="">
+<img src="../../l=1/img/images/kbase/parents_guide/bounce_down2.gif" alt="">
 </p>
 <br><br>
-<b>Wie Sie helfen können</b>
-<br>Bei der ganzen Hilfe und Unterstützung, die wir unseren Spielern bieten, sind wir immer erfreut über zusätzliche Ratschläge vonseiten der Eltern. Indem Sie an den Hobbys und Aktivitäten Ihres Kindes - was auch immer das sein mag - teilnehmen, können Sie leicht etwaige Sorgen aus dem Weg räumen und gewinnen obendrein noch die Möglichkeit, mit Ihren Kindern über Sachen zu sprechen, die ihnen Spaß machen. <br><br> Es gibt zwar keine Begrenzung, wie lange ein Konto eingeloggt bleiben kann, aber wir glauben dennoch, dass Eltern sich an der Beschränkung der Zeit, die ihre Kinder am Computer verbringen, beteiligen sollten. Dies kann zum Beispiel geschehen, indem man auf verantwortungsvolle Weise Zeit für das Spielen aber auch für andere Aktivitäten wie Sport oder Lesen einteilt. So eignet sich das Kind einen ausgeglichenen Lebenswandel an, bei dem es sowohl aktiv ist als auch unterhalten wird. <br><br> Wenn Sie zu irgendeiner Zeit das Gefühl haben, dass Ihr Kind länger FunOrb-Spiele spielt, als vernünftig ist, oder falls Sie bei einigen der Schritte aus <a href="viewarticle.ws?article_id=61">Verantwortungsbewusst spielen</a> Schwierigkeiten haben, dann wäre es eventuell eine gute Idee, sich Rat von einem Arzt zu holen. <br><br>
+<b>Wie Sie helfen kï¿½nnen</b>
+<br>Bei der ganzen Hilfe und Unterstï¿½tzung, die wir unseren Spielern bieten, sind wir immer erfreut ï¿½ber zusï¿½tzliche Ratschlï¿½ge vonseiten der Eltern. Indem Sie an den Hobbys und Aktivitï¿½ten Ihres Kindes - was auch immer das sein mag - teilnehmen, kï¿½nnen Sie leicht etwaige Sorgen aus dem Weg rï¿½umen und gewinnen obendrein noch die Mï¿½glichkeit, mit Ihren Kindern ï¿½ber Sachen zu sprechen, die ihnen Spaï¿½ machen. <br><br> Es gibt zwar keine Begrenzung, wie lange ein Konto eingeloggt bleiben kann, aber wir glauben dennoch, dass Eltern sich an der Beschrï¿½nkung der Zeit, die ihre Kinder am Computer verbringen, beteiligen sollten. Dies kann zum Beispiel geschehen, indem man auf verantwortungsvolle Weise Zeit fï¿½r das Spielen aber auch fï¿½r andere Aktivitï¿½ten wie Sport oder Lesen einteilt. So eignet sich das Kind einen ausgeglichenen Lebenswandel an, bei dem es sowohl aktiv ist als auch unterhalten wird. <br><br> Wenn Sie zu irgendeiner Zeit das Gefï¿½hl haben, dass Ihr Kind lï¿½nger FunOrb-Spiele spielt, als vernï¿½nftig ist, oder falls Sie bei einigen der Schritte aus <a href="viewarticle.ws?article_id=61">Verantwortungsbewusst spielen</a> Schwierigkeiten haben, dann wï¿½re es eventuell eine gute Idee, sich Rat von einem Arzt zu holen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="protect"></a>
-<span class="title">8. Schutz unserer Spieler</span><br><br> FunOrb wird täglich von mehreren hunderttausend Leuten gespielt, die mit Tausenden von Gleichgesinnten oder neuen Leuten aus der ganzen Welt reden oder interagieren können. <br><br> Um FunOrb zu einer sicheren Umgebung für alle Spieler zu machen, gibt es bei Jagex verschiedene Teams und Systeme, die verhindern, dass gegen die Verhaltensregeln verstoßen wird. Hier einige Informationen darüber, welche Maßnahmen wir ergreifen, um Ihre Sicherheit zu gewährleisten und um Sie zu unterstützen. <br><br>
-<p style="font-weight:bold; font-size: 17px; font-style: italic; text-align: center;"> Die Sicherheit unserer Spieler ist unsere höchste Priorität. </p>
+<span class="title">8. Schutz unserer Spieler</span><br><br> FunOrb wird tï¿½glich von mehreren hunderttausend Leuten gespielt, die mit Tausenden von Gleichgesinnten oder neuen Leuten aus der ganzen Welt reden oder interagieren kï¿½nnen. <br><br> Um FunOrb zu einer sicheren Umgebung fï¿½r alle Spieler zu machen, gibt es bei Jagex verschiedene Teams und Systeme, die verhindern, dass gegen die Verhaltensregeln verstoï¿½en wird. Hier einige Informationen darï¿½ber, welche Maï¿½nahmen wir ergreifen, um Ihre Sicherheit zu gewï¿½hrleisten und um Sie zu unterstï¿½tzen. <br><br>
+<p style="font-weight:bold; font-size: 17px; font-style: italic; text-align: center;"> Die Sicherheit unserer Spieler ist unsere hï¿½chste Prioritï¿½t. </p>
 <br>
-<b>Aktivitäten, die mit der Sicherheit unserer Spieler in Zusammenhang stehen</b>
-<br> Wir möchten, dass allen Spielern von FunOrb-Spielen bewusst ist, dass sie gut von uns beschützt werden. Darum nutzen wir mehrere Methoden, um die Geschehnisse im Spiel zu überwachen und zu kontrollieren: <br><br>
+<b>Aktivitï¿½ten, die mit der Sicherheit unserer Spieler in Zusammenhang stehen</b>
+<br> Wir mï¿½chten, dass allen Spielern von FunOrb-Spielen bewusst ist, dass sie gut von uns beschï¿½tzt werden. Darum nutzen wir mehrere Methoden, um die Geschehnisse im Spiel zu ï¿½berwachen und zu kontrollieren: <br><br>
 <ul>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_cs.gif);"> Unsere Kundenbetreuung kümmert sich fast ganztägig um Tausende von Regelverstößen und Anfragen. Dabei werden alle Personen ausfindig gemacht und geahndet, die im Spiel für Ärger sorgen. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_crown_silver.gif);">Spieler-Moderatoren - Diese sorgfältig von uns ausgesuchte Gruppe von Spielern ist in der Lage, Störenfriede mundtot zu machen, und sorgt somit für eine friedliche und freundliche Atmosphäre im Spiel. Andere Vorkommnisse können von ihnen an die Kundenbetreuung weitergegeben werden. Die Spieler-Moderatoren sind also unsere 'Augen und Ohren' und versorgen uns mit Informationen zu Vorkommnissen, die sich im Spiel zutragen. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_crown_green.gif);"> Forum-Moderatoren - Auch hierbei handelt es sich um eine sorgfältig ausgewählte Gruppe von Spielern, die das Forum überwachen und Regelverstöße verhindern. Außerdem können sie bestimmte Vorkommnisse an unser Jagex-Forum-Team weiterleiten. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_crown_gold.gif);"> Jagex-Moderatoren - Eine Gruppe von Jagex-Mitarbeitern, die das Spiel, die Spieler und Forum-Moderatoren überwachen. Natürlich wird auch unsere Website regelmäßig überprüft. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_lock.gif);"> ICU (Investigation in the Community) - Dieses spezialisierte Team untersucht Vorkommnisse in der Spielergemeinschaft. Das Team ist in weitere wichtige Gruppen unterteilt, von denen einige hochqualifizierte Mitglieder sich ausschließlich um den Schutz von Kindern kümmern. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_report.gif);"> 'Regelverstoß melden' - Diese, im Spiel verfügbare, Funktion erlaubt es Spielern, unserer Kundenbetreuung Regelverstöße anderer Spieler zu melden, die gerade im Spiel vorgefallen sind. Um sicherzugehen, dass alle Meldungen bearbeitet werden, kümmert sich ein großes Team fast ganztägig um deren Bearbeitung, sortiert nach Priorität und Grad des Verstoßes. <br><br>
-<li style="list-style-image: url(http://www.funorb.com/l=1/img/images/kbase/parents_guide/icon_star.gif);">Darüber hinaus gibt es noch ein paar interne Systeme, die uns dabei helfen, auffälliges Verhalten im Spiel zu entdecken und entsprechend zu handeln. Diese Systeme werden ständig überarbeitet und erweitert. So können wir sichergehen, dass die verwendete Technologie so effektiv wie möglich ist. </ul>
-<br> Sollten wir schwerwiegende Fälle bemerken, von denen wir glauben, dass sie die Sicherheit unserer Spieler gefährden, treten wir sofort mit der Polizei und den entsprechenden Behörden in Verbindung, mit denen wir sehr eng zusammenarbeiten. Für solche Vorkommnisse gibt es keine Entschuldigung, also nehmen wir sie sehr ernst. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_cs.gif);"> Unsere Kundenbetreuung kï¿½mmert sich fast ganztï¿½gig um Tausende von Regelverstï¿½ï¿½en und Anfragen. Dabei werden alle Personen ausfindig gemacht und geahndet, die im Spiel fï¿½r ï¿½rger sorgen. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_crown_silver.gif);">Spieler-Moderatoren - Diese sorgfï¿½ltig von uns ausgesuchte Gruppe von Spielern ist in der Lage, Stï¿½renfriede mundtot zu machen, und sorgt somit fï¿½r eine friedliche und freundliche Atmosphï¿½re im Spiel. Andere Vorkommnisse kï¿½nnen von ihnen an die Kundenbetreuung weitergegeben werden. Die Spieler-Moderatoren sind also unsere 'Augen und Ohren' und versorgen uns mit Informationen zu Vorkommnissen, die sich im Spiel zutragen. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_crown_green.gif);"> Forum-Moderatoren - Auch hierbei handelt es sich um eine sorgfï¿½ltig ausgewï¿½hlte Gruppe von Spielern, die das Forum ï¿½berwachen und Regelverstï¿½ï¿½e verhindern. Auï¿½erdem kï¿½nnen sie bestimmte Vorkommnisse an unser Jagex-Forum-Team weiterleiten. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_crown_gold.gif);"> Jagex-Moderatoren - Eine Gruppe von Jagex-Mitarbeitern, die das Spiel, die Spieler und Forum-Moderatoren ï¿½berwachen. Natï¿½rlich wird auch unsere Website regelmï¿½ï¿½ig ï¿½berprï¿½ft. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_lock.gif);"> ICU (Investigation in the Community) - Dieses spezialisierte Team untersucht Vorkommnisse in der Spielergemeinschaft. Das Team ist in weitere wichtige Gruppen unterteilt, von denen einige hochqualifizierte Mitglieder sich ausschlieï¿½lich um den Schutz von Kindern kï¿½mmern. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_report.gif);"> 'Regelverstoï¿½ melden' - Diese, im Spiel verfï¿½gbare, Funktion erlaubt es Spielern, unserer Kundenbetreuung Regelverstï¿½ï¿½e anderer Spieler zu melden, die gerade im Spiel vorgefallen sind. Um sicherzugehen, dass alle Meldungen bearbeitet werden, kï¿½mmert sich ein groï¿½es Team fast ganztï¿½gig um deren Bearbeitung, sortiert nach Prioritï¿½t und Grad des Verstoï¿½es. <br><br>
+<li style="list-style-image: url(../../l=1/img/images/kbase/parents_guide/icon_star.gif);">Darï¿½ber hinaus gibt es noch ein paar interne Systeme, die uns dabei helfen, auffï¿½lliges Verhalten im Spiel zu entdecken und entsprechend zu handeln. Diese Systeme werden stï¿½ndig ï¿½berarbeitet und erweitert. So kï¿½nnen wir sichergehen, dass die verwendete Technologie so effektiv wie mï¿½glich ist. </ul>
+<br> Sollten wir schwerwiegende Fï¿½lle bemerken, von denen wir glauben, dass sie die Sicherheit unserer Spieler gefï¿½hrden, treten wir sofort mit der Polizei und den entsprechenden Behï¿½rden in Verbindung, mit denen wir sehr eng zusammenarbeiten. Fï¿½r solche Vorkommnisse gibt es keine Entschuldigung, also nehmen wir sie sehr ernst. <br><br>
 <p align="center">
-<img src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
+<img src="../../l=1/img/images/kbase/parents_guide/spacer_gold.gif" alt="">
 </p>
-<b>Staatliche Behörden, mit denen wir zusammenarbeiten</b>
-<br> Wir arbeiten mit verschiedenen Behörden zusammen, die uns dabei unterstützen, unsere Spielergemeinschaft zu schützen. <br><br> Mithilfe der <b>Child Exploitation and Online Protection</b> Agentur (CEOP), einer britischen Behörde, die sich dem Schutz der Internetbenutzer auf der ganzen Welt verschrieben hat, konnten wir lernen, wie wir gegen die große Anzahl von verschiedenen Verstößen vorgehen konnten. Außerdem erhält unsere Kundenbetreuung fortlaufende Unterstützung von dieser Behörde. <br><br> Die CEOP ist Teil der <b>Virtual Global Taskforce</b> (VGT) - einer Gruppe internationaler Behörden aus der ganzen Welt, die zusammenarbeiten, um Kinder im Internet zu schützen. Zur VGT gehören unter anderem die <b>US Department of Homeland Security</b> und <b>Interpol</b>, was diese Behörde für uns zu einem sehr wichtigen Partner macht. Mit ihrer Hilfe können wir ein Höchstmaß an Sicherheit für unsere Spieler garantieren. <br><br> Die <b>National Society for the Prevention of Cruelty to Children</b> (NSPCC) ist eine britische Benefizgesellschaft, die sich um die Sicherheit von Kindern kümmert. Sie besitzt ein umfassendes Wissen und große Erfahrung, wenn es um Jugendschutz geht. Durch diese Zusammenarbeit können wir sichergehen, dass FunOrb ein freundlicher und sicherer Ort bleibt.<br><br>
+<b>Staatliche Behï¿½rden, mit denen wir zusammenarbeiten</b>
+<br> Wir arbeiten mit verschiedenen Behï¿½rden zusammen, die uns dabei unterstï¿½tzen, unsere Spielergemeinschaft zu schï¿½tzen. <br><br> Mithilfe der <b>Child Exploitation and Online Protection</b> Agentur (CEOP), einer britischen Behï¿½rde, die sich dem Schutz der Internetbenutzer auf der ganzen Welt verschrieben hat, konnten wir lernen, wie wir gegen die groï¿½e Anzahl von verschiedenen Verstï¿½ï¿½en vorgehen konnten. Auï¿½erdem erhï¿½lt unsere Kundenbetreuung fortlaufende Unterstï¿½tzung von dieser Behï¿½rde. <br><br> Die CEOP ist Teil der <b>Virtual Global Taskforce</b> (VGT) - einer Gruppe internationaler Behï¿½rden aus der ganzen Welt, die zusammenarbeiten, um Kinder im Internet zu schï¿½tzen. Zur VGT gehï¿½ren unter anderem die <b>US Department of Homeland Security</b> und <b>Interpol</b>, was diese Behï¿½rde fï¿½r uns zu einem sehr wichtigen Partner macht. Mit ihrer Hilfe kï¿½nnen wir ein Hï¿½chstmaï¿½ an Sicherheit fï¿½r unsere Spieler garantieren. <br><br> Die <b>National Society for the Prevention of Cruelty to Children</b> (NSPCC) ist eine britische Benefizgesellschaft, die sich um die Sicherheit von Kindern kï¿½mmert. Sie besitzt ein umfassendes Wissen und groï¿½e Erfahrung, wenn es um Jugendschutz geht. Durch diese Zusammenarbeit kï¿½nnen wir sichergehen, dass FunOrb ein freundlicher und sicherer Ort bleibt.<br><br>
 <p align="center">
-<img src="http://www.funorb.com/l=1/img/images/kbase/parents_guide/logos.gif" alt="Logos von CEOP, VGT, NSPCC, Cyber Tipline und WiredSafety">
-</p> <br><br> Wir pflegen allerdings auch Kontakt zu anderen Organisationen und sind bestrebt, weitere Partnerschaften mit Gruppen einzugehen, die sich mit dem Schutz von Internetbenutzern beschäftigt. Dazu gehören unter anderem <A href="http://www.cybertipline.com" target="_blank">www.cybertipline.com</A> oder <A href="http://www.wiredsafety.org" target="_blank">www.wiredsafety.org</A>, die sowohl Kindern als auch Erwachsenen helfen. <br><br> Wir unterstützen weiterhin sowohl die regionale als auch nationale Polizei auf der ganzen Welt und versorgen folgende Behörden auf Anfrage mit Informationen: <b>United States Secret Service</b> und <b>US Immigration and Customs Enforcement</b>. <br><br> Für weitere Informationen darüber, wie Sie Ihre Kinder bei der Internetnutzung schützen können, besuchen Sie bitte die Seite <a href="viewarticle.ws?article_id=61">'Spielen Sie sicher und verantwortungsbewusst'</a>. <br><br>
+<img src="../../l=1/img/images/kbase/parents_guide/logos.gif" alt="Logos von CEOP, VGT, NSPCC, Cyber Tipline und WiredSafety">
+</p> <br><br> Wir pflegen allerdings auch Kontakt zu anderen Organisationen und sind bestrebt, weitere Partnerschaften mit Gruppen einzugehen, die sich mit dem Schutz von Internetbenutzern beschï¿½ftigt. Dazu gehï¿½ren unter anderem <A href="http://www.cybertipline.com" target="_blank">www.cybertipline.com</A> oder <A href="http://www.wiredsafety.org" target="_blank">www.wiredsafety.org</A>, die sowohl Kindern als auch Erwachsenen helfen. <br><br> Wir unterstï¿½tzen weiterhin sowohl die regionale als auch nationale Polizei auf der ganzen Welt und versorgen folgende Behï¿½rden auf Anfrage mit Informationen: <b>United States Secret Service</b> und <b>US Immigration and Customs Enforcement</b>. <br><br> Fï¿½r weitere Informationen darï¿½ber, wie Sie Ihre Kinder bei der Internetnutzung schï¿½tzen kï¿½nnen, besuchen Sie bitte die Seite <a href="viewarticle.ws?article_id=61">'Spielen Sie sicher und verantwortungsbewusst'</a>. <br><br>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=4">Hilfe</a> : </b>
 <span class="articleMore">
-Ratgeber für Eltern</span>
+Ratgeber fï¿½r Eltern</span>
 </div>
 </div>
 </div>
@@ -266,11 +266,11 @@ Ratgeber für Eltern</span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../l=1/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../l=1/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

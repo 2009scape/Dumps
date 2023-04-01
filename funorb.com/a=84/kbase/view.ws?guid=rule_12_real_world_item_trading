@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="Game items must only be exchanged for items/services within the game.">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=84/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=84/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=84/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=84/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=84/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=84/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=84/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=84/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=84/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=84/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=84/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=84/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=84/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=84/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=84/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,27 +92,27 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=84/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=84/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=84/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=84/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=84/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=84/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=84/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=84/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=84/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=84/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=84/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=rule_12_real_world_item_trading" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/view.ws?guid=rule_12_real_world_item_trading" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/a=84/img/images/layout/en.gif" alt="English" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/a=84/img/images/layout/de.gif" alt="German" /></a>
+<a href="../../a=84/index.ws"><img src="../../a=84/img/images/layout/en.gif" alt="English" /></a>
+<a href="../../l=1/a=84/index.ws"><img src="../../a=84/img/images/layout/de.gif" alt="German" /></a>
 </span>
 </div>
 </li>
@@ -152,7 +152,7 @@ Below are some related questions which may help you to further understand and fo
 <div class="faqsList">
 <ol>
 <li><a href="#why">Why do we have this rule? </a>
-<li><a href="#items">Isn’t it up to me what I do with my items & account? </a>
+<li><a href="#items">Isnï¿½t it up to me what I do with my items & account? </a>
 <li><a href="#ebay">I have seen an account for sale on ebay, what should I do? </a>
 <li><a href="#forum">Am I allowed to accept a forum signature as payment for an item? </a>
 </ol></div>
@@ -160,23 +160,23 @@ Below are some related questions which may help you to further understand and fo
 <div class="hr"></div>
 <a name="why"></a>
 <span class="title">1. Why do we have this rule? </span><br><br>
-We have this rule for three reasons: Firstly, because we don’t want you to be able to buy your way to success in our games. If we let players start doing this it devalues our games for other players. We feel your status in real-life shouldn’t affect your ability to be successful in the game. Secondly, we cannot monitor the transactions made between players outside the game, and if players swap items for external benefits we can’t see, to us it looks like an unbalanced suspicious trade. Thirdly, often when players attempt to break this rule and sell items for real cash the items are actually stolen, so you could even end up getting in trouble for receiving stolen property. If you purchased an account you might find it suddenly returned to the original rightful owner and yourself out of pocket. <br><br>
+We have this rule for three reasons: Firstly, because we donï¿½t want you to be able to buy your way to success in our games. If we let players start doing this it devalues our games for other players. We feel your status in real-life shouldnï¿½t affect your ability to be successful in the game. Secondly, we cannot monitor the transactions made between players outside the game, and if players swap items for external benefits we canï¿½t see, to us it looks like an unbalanced suspicious trade. Thirdly, often when players attempt to break this rule and sell items for real cash the items are actually stolen, so you could even end up getting in trouble for receiving stolen property. If you purchased an account you might find it suddenly returned to the original rightful owner and yourself out of pocket. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="items"></a>
-<span class="title">2. Isn’t it up to me what I do with my items & account? </span><br><br>
+<span class="title">2. Isnï¿½t it up to me what I do with my items & account? </span><br><br>
 No, the terms and conditions state that your character, account and items are, and remain, the property of Jagex. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="ebay"></a>
 <span class="title">3. I have seen an account for sale on ebay, what should I do? </span><br><br>
 Please rest assured that members of Jagex staff check all known auction sites on a daily basis to ensure that no accounts are sold via an online auctioning web site. It should be remembered that all accounts (and items) remain the property of Jagex at all times, and we will not hesitate to remove such items from our games if we have evidence that rule breaking has taken place. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="forum"></a>
@@ -188,7 +188,7 @@ Forum signatures are not items or services in-game, therefore you are not able t
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=84/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -208,15 +208,15 @@ Forum signatures are not items or services in-game, therefore you are not able t
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=84/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=84/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=84/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=84/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=84/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=84/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

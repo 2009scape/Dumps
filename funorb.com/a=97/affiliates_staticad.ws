@@ -2,7 +2,7 @@
 <html>
 <head>
 <title>RuneScape - the massive online adventure game by Jagex Ltd.</title>
-<script src="http://www.funorb.com/a=97/css/AC_OETags-1.js" type="text/javascript"></script>
+<script src="../a=97/css/AC_OETags-1.js" type="text/javascript"></script>
 <style type="text/css">
    html{margin:0;padding:0;}
    
@@ -19,7 +19,7 @@
      try{hasReqestedVersion = DetectFlashVer(6, 0, 0);}catch(err){}
      if (hasReqestedVersion) {
       AC_FL_RunContent(
-       "src", "http://www.funorb.com/img/affil/addictinggames/addictinggames",
+       "src", "../img/affil/addictinggames/addictinggames",
        "width", "728",
        "height", "90",
        "align", "right",
@@ -39,7 +39,7 @@
 <style type="text/css">#noflash{display:inline;}</style>
 </noscript>
 <a id="noflash" href="http://www.runescape.com/a=97/members/members.ws" target="_blank">
-<img src="http://www.funorb.com/img/affil/addictinggames/addictinggames.jpg" alt="RuneScape - Play Now!">
+<img src="../img/affil/addictinggames/addictinggames.jpg" alt="RuneScape - Play Now!">
 </a>
 </div>
 </body>

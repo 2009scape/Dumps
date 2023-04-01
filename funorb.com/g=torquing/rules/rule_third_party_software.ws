@@ -19,16 +19,16 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=torquing/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=torquing/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../g=torquing/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../g=torquing/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-44.css);/**/
+  /*\*/@import url(../../css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=torquing/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../g=torquing/index.ws" ><b>
+<img src="../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -64,25 +64,25 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=torquing/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=torquing/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../g=torquing/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../g=torquing/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=torquing/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=torquing/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=torquing/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=torquing/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../g=torquing/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../g=torquing/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../g=torquing/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../g=torquing/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/g=torquing/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../g=torquing/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=torquing/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=torquing/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=torquing/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../g=torquing/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../g=torquing/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../g=torquing/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -93,23 +93,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://services.funorb.com/m=focommunity/g=torquing/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/g=torquing/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=torquing/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../g=torquing/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=torquing/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=torquing/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=torquing/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=torquing/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../g=torquing/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=torquing/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=torquing/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=torquing/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=torquing/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=torquing/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=torquing/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../g=torquing/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../g=torquing/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../g=torquing/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../g=torquing/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../g=torquing/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../g=torquing/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo/g=torquing/forums.ws" class="fly">Forums</
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=torquing/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_third_party_software.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=torquing/index.ws">
+<a id="countrydrop" href="../../g=torquing/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=torquing/index.ws"><img title="
+<li><a class="fly" href="../../g=torquing/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=torquing/index.ws"><img title="
+English" src="../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=torquing/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=torquing/index.ws"><img title="
+Deutsch" src="../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=torquing/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=torquing/index.ws"><img title="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=torquing/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/g=torquing/kbase/view.ws?guid=rules_of_conduct">Rules of FunOrb</a> &gt; Macroing, and use of bots or third-party software
+<a href="../../g=torquing/kbase/view.ws?guid=rules_of_conduct">Rules of FunOrb</a> &gt; Macroing, and use of bots or third-party software
 
 </div>
 </div>
@@ -189,7 +189,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <p>First, we don't want players to download third-party software from untrusted sources that can, and often do, contain keyloggers, trojans and viruses. Many players have had their accounts stolen because they have inadvertently installed hacking software on their machines. Even if the author has good intentions, an unintended flaw in their software could still put your account at risk. Some supposedly reputable software has had problems in the past. There are also cases of people deliberately writing software which looks like a useful add-on, but actually just steals your password.</p>
 <p>Secondly, macroing ruins the game for everyone else. We don't want some players having an unfair advantage and filling up all the best training spots with bots. This game is designed to be enjoyed by humans, not bots. In the past, when we have not enforced this rule, we have rapidly found it quickly spoils the game, and players themselves start demanding that we enforce it. Now we enforce it thoroughly.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
@@ -213,29 +213,29 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 </ol>
 <p>In any case, the use of such software is not recommended. We do not recommend the use of ANY third-party software, as it is potentially extremely dangerous. Please be aware that there is software out there that claims to be a great add-on, but actually installs a keylogger on your computer and steals your password! You should also be aware that there is dangerous software around that won't necessarily be spotted by your anti-virus software. Scanning downloads is, of course, a very good idea, but it still doesn't 100% eliminate the risk.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="software"></a>
 <span class="title">3. What do you mean by "software"? </span>
 <p>Software means any type of program, including: downloadable software (e.g an .exe file), or web-based software (e.g a website set up to perform a similar function with flash, java, javascript or serverside scripts).</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="macro"></a>
 <span class="title">4. How does the macro detection system work? </span>
 <p>Our macro detection system monitors activity on our servers and detects suspicious behaviour. This evidence is reviewed by our team of experts who either confirm or reject the system's analysis. Jagex will not reveal the exact mechanics of how this system works, because this would make circumvention easier.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="appeal"></a>
 <span class="title">5. Will I be able to appeal against a ban for macroing? </span>
 <p>Our policy has always been that we do not tolerate any form of cheating. We do not ban accounts lightly. Significant evidence is always collected before any action is taken against a player. We will not reveal the evidence that we have collected, since most cheats only want to know the evidence so that they can avoid getting caught the next time. You can submit an appeal by visiting the Account Management page and selecting 'Appeal an Offence'. For more information on Offence Appeals, click
-<a href="http://www.funorb.com/g=torquing/kbase/guid/bans_and_mutes#black">here</a>.</p>
+<a href="../../g=torquing/kbase/guid/bans_and_mutes#black">here</a>.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="afk"></a>
@@ -248,7 +248,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -259,30 +259,30 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=torquing/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../g=torquing/index.ws"><img alt="
+English" src="../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=torquing/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../l=1/g=torquing/index.ws"><img alt="
+Deutsch" src="../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=torquing/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../l=2/g=torquing/index.ws"><img alt="
+Fran&ccedil;ais" src="../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=torquing/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../l=3/g=torquing/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2013 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/g=torquing/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/g=torquing/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../g=torquing/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../g=torquing/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=torquing/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=torquing/" target="_blank"><img src="../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

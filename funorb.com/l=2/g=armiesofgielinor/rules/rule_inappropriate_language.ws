@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=armiesofgielinor/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=armiesofgielinor/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/g=armiesofgielinor/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/g=armiesofgielinor/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/g=armiesofgielinor/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -55,7 +55,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=armiesofgielinor/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=armiesofgielinor/messenger.js"></script>
 
@@ -64,52 +64,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=armiesofgielinor/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/g=armiesofgielinor/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/g=armiesofgielinor/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=armiesofgielinor/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=2/g=armiesofgielinor/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=armiesofgielinor/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=armiesofgielinor/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=armiesofgielinor/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=armiesofgielinor/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/g=armiesofgielinor/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=armiesofgielinor/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=armiesofgielinor/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=armiesofgielinor/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=armiesofgielinor/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=armiesofgielinor/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/g=armiesofgielinor/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=armiesofgielinor/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/g=armiesofgielinor/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/g=armiesofgielinor/forums.ws" class
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=armiesofgielinor/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_inappropriate_language.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws">
+<a id="countrydrop" href="../../../l=2/g=armiesofgielinor/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=armiesofgielinor/index.ws"><img title="
+<li><a class="fly" href="../../../g=armiesofgielinor/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=armiesofgielinor/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=armiesofgielinor/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=armiesofgielinor/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=armiesofgielinor/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=armiesofgielinor/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=2/g=armiesofgielinor/kbase/view.ws?guid=rules_of_conduct">Règles de FunOrb</a> &gt; Langage ou comportement outrancier 
+<a href="../../../l=2/g=armiesofgielinor/kbase/view.ws?guid=rules_of_conduct">Rï¿½gles de FunOrb</a> &gt; Langage ou comportement outrancier 
 </div>
 </div>
 </div>
@@ -164,70 +164,70 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 12 mai 2009</div>
-<p>Il est formellement interdit d'user d'un langage pouvant être considéré comme injurieux, raciste, obscène ou, d'une manière ou d'une autre, choquant, et en particulier les jurons. Les noms de compte injurieux ou outranciers sont également interdits.</p>
-<p>Si vous êtes victime d'un abus (remarques racistes, harcèlement, langage obscène ou vulgaire), veuillez nous en rendre compte à l'aide du bouton Signaler un abus figurant dans l'interface de discussion de tous nos jeux multijoueur.</p>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 12 mai 2009</div>
+<p>Il est formellement interdit d'user d'un langage pouvant ï¿½tre considï¿½rï¿½ comme injurieux, raciste, obscï¿½ne ou, d'une maniï¿½re ou d'une autre, choquant, et en particulier les jurons. Les noms de compte injurieux ou outranciers sont ï¿½galement interdits.</p>
+<p>Si vous ï¿½tes victime d'un abus (remarques racistes, harcï¿½lement, langage obscï¿½ne ou vulgaire), veuillez nous en rendre compte ï¿½ l'aide du bouton Signaler un abus figurant dans l'interface de discussion de tous nos jeux multijoueur.</p>
 <div class="hr"></div>
-<h4>Questions associées</h4>
-<p>Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.</p>
+<h4>Questions associï¿½es</h4>
+<p>Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.</p>
 <div class="faqsList">
 <ol>
-<li><a href="#why">Pourquoi cette règle ?</a></li>
+<li><a href="#why">Pourquoi cette rï¿½gle ?</a></li>
 <li><a href="#what">Que faut-il entendre par langage injurieux ou choquant ?</a></li>
-<li><a href="#okay">Peut-on demander à un joueur de sortir avec lui/elle ?</a></li>
+<li><a href="#okay">Peut-on demander ï¿½ un joueur de sortir avec lui/elle ?</a></li>
 <li><a href="#disguise">Et si on cache un mot injurieux en faisant une faute d'orthographe ?</a></li>
-<li><a href="#noob">On m'a traité de « noob ». Est-ce une injure ? Dois-je signaler ce joueur ?</a></li>
-<li><a href="#chat">Que signifie « inonder la fenêtre de discussion » ?</a></li>
+<li><a href="#noob">On m'a traitï¿½ de ï¿½ noob ï¿½. Est-ce une injure ? Dois-je signaler ce joueur ?</a></li>
+<li><a href="#chat">Que signifie ï¿½ inonder la fenï¿½tre de discussion ï¿½ ?</a></li>
 </ol>
 </div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Pourquoi cette règle ?</span>
-<p>Nous avons établi cette règle afin de garantir un environnement de jeu agréable. La plupart des joueurs ne trouvent pas les insultes amusantes. Veuillez donc respecter les autres joueurs lors des discussions. En outre, n'oubliez pas que les joueurs n'ont pas tous le même âge et les mêmes origines et par conséquent peuvent avoir une sensibilité différente de la vôtre.</p>
+<span class="title">1. Pourquoi cette rï¿½gle ?</span>
+<p>Nous avons ï¿½tabli cette rï¿½gle afin de garantir un environnement de jeu agrï¿½able. La plupart des joueurs ne trouvent pas les insultes amusantes. Veuillez donc respecter les autres joueurs lors des discussions. En outre, n'oubliez pas que les joueurs n'ont pas tous le mï¿½me ï¿½ge et les mï¿½mes origines et par consï¿½quent peuvent avoir une sensibilitï¿½ diffï¿½rente de la vï¿½tre.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
 <span class="title">2. Que faut-il entendre par langage injurieux ou choquant ?</span>
-<p>Ceci inclut, mais de manière non limitative, les discussions sur les drogues récréatives, le langage sexuellement explicite, le racolage, le racisme et autres préjugés, les menaces, le chantage et les injures. C'est une question de bon sens : ne dites pas ce que vous ne souhaiteriez pas entendre.</p>
+<p>Ceci inclut, mais de maniï¿½re non limitative, les discussions sur les drogues rï¿½crï¿½atives, le langage sexuellement explicite, le racolage, le racisme et autres prï¿½jugï¿½s, les menaces, le chantage et les injures. C'est une question de bon sens : ne dites pas ce que vous ne souhaiteriez pas entendre.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="okay"></a>
-<span class="title">3. Peut-on demander à un joueur de sortir avec lui/elle ?</span>
-<p>Non. Tout type de racolage est formellement interdit de manière à garantir la sécurité de tous nos joueurs.</p>
+<span class="title">3. Peut-on demander ï¿½ un joueur de sortir avec lui/elle ?</span>
+<p>Non. Tout type de racolage est formellement interdit de maniï¿½re ï¿½ garantir la sï¿½curitï¿½ de tous nos joueurs.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="disguise"></a>
 <span class="title">4. Et si on cache un mot injurieux en faisant une faute d'orthographe ?</span>
-<p>Nous considérons que le fait de mal orthographier un mot injurieux ou remplacer des lettres par des symboles afin d'éluder le filtre de discussion est un facteur aggravant.</p>
+<p>Nous considï¿½rons que le fait de mal orthographier un mot injurieux ou remplacer des lettres par des symboles afin d'ï¿½luder le filtre de discussion est un facteur aggravant.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="noob"></a>
-<span class="title">5. On m'a traité de « noob ». Est-ce une injure ? Dois-je signaler ce joueur ?</span>
-<p>Il est assez courant de se faire traiter de noob dans les jeux en ligne. Il n'y pas lieu de s'inquiéter, car cela signifie « nouveau joueur » en anglais. Tous les joueurs ont été débutants à un moment donné. Le mieux, c'est de ne pas y faire attention.</p>
+<span class="title">5. On m'a traitï¿½ de ï¿½ noob ï¿½. Est-ce une injure ? Dois-je signaler ce joueur ?</span>
+<p>Il est assez courant de se faire traiter de noob dans les jeux en ligne. Il n'y pas lieu de s'inquiï¿½ter, car cela signifie ï¿½ nouveau joueur ï¿½ en anglais. Tous les joueurs ont ï¿½tï¿½ dï¿½butants ï¿½ un moment donnï¿½. Le mieux, c'est de ne pas y faire attention.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="chat"></a>
-<span class="title">6. Que signifie « inonder la fenêtre de discussion » ?</span>
-<p>Inonder ou polluer la fenêtre de discussion consiste à la remplir de texte inutile. C'est également une offense et une injustice vis-à-vis des autres joueurs, car cela rend leurs communications et leurs échanges plus difficiles.</p>
-<p><i>Nous demandons à tout le monde d'observer cette règle pour garantir à chacun une expérience de jeu agréable dans FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, vous risquez une exclusion ou un blocage de la discussion. Les abonnés sous le coup d'une sanction n'ont droit à aucun type de remboursement.</i></p>
+<span class="title">6. Que signifie ï¿½ inonder la fenï¿½tre de discussion ï¿½ ?</span>
+<p>Inonder ou polluer la fenï¿½tre de discussion consiste ï¿½ la remplir de texte inutile. C'est ï¿½galement une offense et une injustice vis-ï¿½-vis des autres joueurs, car cela rend leurs communications et leurs ï¿½changes plus difficiles.</p>
+<p><i>Nous demandons ï¿½ tout le monde d'observer cette rï¿½gle pour garantir ï¿½ chacun une expï¿½rience de jeu agrï¿½able dans FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, vous risquez une exclusion ou un blocage de la discussion. Les abonnï¿½s sous le coup d'une sanction n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -236,25 +236,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=armiesofgielinor/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../g=armiesofgielinor/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=armiesofgielinor/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/g=armiesofgielinor/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=armiesofgielinor/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/g=armiesofgielinor/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=armiesofgielinor/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/g=armiesofgielinor/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/g=armiesofgielinor/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/g=armiesofgielinor/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/g=armiesofgielinor/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/g=armiesofgielinor/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=armiesofgielinor/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=armiesofgielinor/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

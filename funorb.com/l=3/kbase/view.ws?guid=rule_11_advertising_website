@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Você não tem permissão para anunciar ativamente em qualquer jogo ou fórum.">
+<meta name="description" content="Vocï¿½ nï¿½o tem permissï¿½o para anunciar ativamente em qualquer jogo ou fï¿½rum.">
 </head>
 <body id="navnavHelp">
 <a name="top"></a>
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_11_advertising_website" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_11_advertising_website" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -159,68 +159,68 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <h1 class="articleTitle">Regra 11 - Propaganda/Website</h1>
 <div class="articleBody">
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Data de vigência: 27 de fevereiro de 2008</div>
-<br> Você não está autorizado a anunciar ativamente em nenhum de nossos jogos ou fóruns. Isso inclui anúncios de qualquer website ou produto, e nenhum endereço na Web é permitido. Informe a outros jogadores que qualquer endereço na Web não é permitido. <br>
+<div style="font-weight:bold;" class="effectivedate">Data de vigï¿½ncia: 27 de fevereiro de 2008</div>
+<br> Vocï¿½ nï¿½o estï¿½ autorizado a anunciar ativamente em nenhum de nossos jogos ou fï¿½runs. Isso inclui anï¿½ncios de qualquer website ou produto, e nenhum endereï¿½o na Web ï¿½ permitido. Informe a outros jogadores que qualquer endereï¿½o na Web nï¿½o ï¿½ permitido. <br>
 <br>
 <div class="hr"></div>
-<b>Questões relacionadas</b><br> Abaixo estão algumas questões relacionadas que podem ajudar a entender e seguir esta regra.<br>
+<b>Questï¿½es relacionadas</b><br> Abaixo estï¿½o algumas questï¿½es relacionadas que podem ajudar a entender e seguir esta regra.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Por que temos esta regra? </a>
 <li><a href="#irc">Isso inclui IDs de programas mensageiros e canais IRC? </a>
-<li><a href="#rule">Esta regra inclui divulgar o link para meu site de clã ou de fãs? </a>
+<li><a href="#rule">Esta regra inclui divulgar o link para meu site de clï¿½ ou de fï¿½s? </a>
 <li><a href="#game">Posso anunciar meu website no jogo? </a>
-<li><a href="#fan">Vocês têm algumas condições que gostariam que os Sites de Fãs obedecessem? </a>
-<li><a href="#clan">Posso promover meu website Clã no jogo ou nos fóruns?</a>
+<li><a href="#fan">Vocï¿½s tï¿½m algumas condiï¿½ï¿½es que gostariam que os Sites de Fï¿½s obedecessem? </a>
+<li><a href="#clan">Posso promover meu website Clï¿½ no jogo ou nos fï¿½runs?</a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Por que temos esta regra? </span><br><br> Às vezes, os links para sites podem ser perigosos para os jogadores (levando-o a sites de conteúdo inadequado) ou para seu computador (fazendo o download de um vírus ao acessar o site). Esse cuidado foi tomado a fim de que nenhum link que leve a qualquer site seja anunciado no jogo ou nos Fóruns, protegendo, portanto, você e seu computador. <br><br>
+<span class="title">1. Por que temos esta regra? </span><br><br> ï¿½s vezes, os links para sites podem ser perigosos para os jogadores (levando-o a sites de conteï¿½do inadequado) ou para seu computador (fazendo o download de um vï¿½rus ao acessar o site). Esse cuidado foi tomado a fim de que nenhum link que leve a qualquer site seja anunciado no jogo ou nos Fï¿½runs, protegendo, portanto, vocï¿½ e seu computador. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="irc"></a>
-<span class="title">2. Isso inclui IDs de programas mensageiros e canais IRC? </span><br><br> Sim. Eles não são permitidos. <br><br>
+<span class="title">2. Isso inclui IDs de programas mensageiros e canais IRC? </span><br><br> Sim. Eles nï¿½o sï¿½o permitidos. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="rule"></a>
-<span class="title">3. Esta regra inclui divulgar o link para meu site de clã ou de fãs? </span><br><br> Sim. Infelizmente não temos os recursos para verificar todos os websites mencionado, e até mesmo sites bem-intencionados podem inadvertidamente conter riscos. Portanto, esta regra inclui TODOS os websites. <br><br>
+<span class="title">3. Esta regra inclui divulgar o link para meu site de clï¿½ ou de fï¿½s? </span><br><br> Sim. Infelizmente nï¿½o temos os recursos para verificar todos os websites mencionado, e atï¿½ mesmo sites bem-intencionados podem inadvertidamente conter riscos. Portanto, esta regra inclui TODOS os websites. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="game"></a>
-<span class="title">4. Posso anunciar qualquer website no jogo? </span><br><br> Não. Como sabemos, alguns sites são utilizados para coletar, sem deixar suspeitas, senhas de jogadores, o que prejudica o divertimento dos participantes do jogo. Levamos a segurança das senhas muito a sério e por essa razão exigimos o cumprimento da regra segundo a qual nenhum website é anunciado no jogo. Evidentemente, isso pode resultar em injustiça contra jogadores que criam websites destinados a ajudar a Comunidade de Jogos da Jagex. Entretanto, precisamos garantir que as contas dos jogadores estejam absolutamente seguras e com essa finalidade criamos essa política. Esperamos que em algum momento futuro isso possa mudar e mais sites de comunidades ocupem o lugar de sites de hackers. Por enquanto, a segurança das contas é essencial. <br><br>
+<span class="title">4. Posso anunciar qualquer website no jogo? </span><br><br> Nï¿½o. Como sabemos, alguns sites sï¿½o utilizados para coletar, sem deixar suspeitas, senhas de jogadores, o que prejudica o divertimento dos participantes do jogo. Levamos a seguranï¿½a das senhas muito a sï¿½rio e por essa razï¿½o exigimos o cumprimento da regra segundo a qual nenhum website ï¿½ anunciado no jogo. Evidentemente, isso pode resultar em injustiï¿½a contra jogadores que criam websites destinados a ajudar a Comunidade de Jogos da Jagex. Entretanto, precisamos garantir que as contas dos jogadores estejam absolutamente seguras e com essa finalidade criamos essa polï¿½tica. Esperamos que em algum momento futuro isso possa mudar e mais sites de comunidades ocupem o lugar de sites de hackers. Por enquanto, a seguranï¿½a das contas ï¿½ essencial. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="fan"></a>
-<span class="title">5. Vocês têm algumas condições que gostariam que os Sites de Fãs obedecessem? </span><br><br> Sim. Por favor, veja a seguir: <ol>
-<li>O site deverá seguir nossos Termos e Condições. <br><br><li>O site não deve promover qualquer atividade contrária às Regras de Conduta. <br><br><li>O site não deve publicar artigo, texto ou imagens retirados de qualquer um de nossos websites sem autorização. Se tal autorização for concedida, você deve mencionar o site correspondente como a fonte e incluir um link de retorno a ele. <br><br><li>O site não deve conter link de sites de conteúdo adulto nem promovê-los, ou de sites que contrariem os interesses da Jagex. <br><br><li>O site não deverá promover sites ou informações que forneçam ou apóiem atividades de hackers, cópias piratas de softwares ou outras atividades ilegais. </ol>
+<span class="title">5. Vocï¿½s tï¿½m algumas condiï¿½ï¿½es que gostariam que os Sites de Fï¿½s obedecessem? </span><br><br> Sim. Por favor, veja a seguir: <ol>
+<li>O site deverï¿½ seguir nossos Termos e Condiï¿½ï¿½es. <br><br><li>O site nï¿½o deve promover qualquer atividade contrï¿½ria ï¿½s Regras de Conduta. <br><br><li>O site nï¿½o deve publicar artigo, texto ou imagens retirados de qualquer um de nossos websites sem autorizaï¿½ï¿½o. Se tal autorizaï¿½ï¿½o for concedida, vocï¿½ deve mencionar o site correspondente como a fonte e incluir um link de retorno a ele. <br><br><li>O site nï¿½o deve conter link de sites de conteï¿½do adulto nem promovï¿½-los, ou de sites que contrariem os interesses da Jagex. <br><br><li>O site nï¿½o deverï¿½ promover sites ou informaï¿½ï¿½es que forneï¿½am ou apï¿½iem atividades de hackers, cï¿½pias piratas de softwares ou outras atividades ilegais. </ol>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="clan"></a>
-<span class="title">6. Posso divulgar meu website de clã no jogo ou nos fóruns?</span><br><br> É um violação às regras postar qualquer coisa que promova um website nos fóruns ou no jogo. Dessa maneira, se postar o URL de seu site de clã, você poderá ser banido. Sabemos que isso pode causar algumas inconveniências, mas, por favor, lembre-se de que esta regra existe para impossibiltar que as pessoas enviem jogadores para sites fraudulentos. <br><br>
-<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Não toleraremos jogadores que atrapalham, e, se você violar nossas regras, provavelmente sua conta será suspensa. Membros suspensos por violar nossas regras não têm direito a nenhum tipo de reembolso.</i></p>
+<span class="title">6. Posso divulgar meu website de clï¿½ no jogo ou nos fï¿½runs?</span><br><br> ï¿½ um violaï¿½ï¿½o ï¿½s regras postar qualquer coisa que promova um website nos fï¿½runs ou no jogo. Dessa maneira, se postar o URL de seu site de clï¿½, vocï¿½ poderï¿½ ser banido. Sabemos que isso pode causar algumas inconveniï¿½ncias, mas, por favor, lembre-se de que esta regra existe para impossibiltar que as pessoas enviem jogadores para sites fraudulentos. <br><br>
+<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Nï¿½o toleraremos jogadores que atrapalham, e, se vocï¿½ violar nossas regras, provavelmente sua conta serï¿½ suspensa. Membros suspensos por violar nossas regras nï¿½o tï¿½m direito a nenhum tipo de reembolso.</i></p>
 </div>
 <br style="clear: both;">
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Mais artigos em <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=26">Regra 9 - Encorajar outros a violarem regras</a>, <a href="viewarticle.ws?article_id=18">Regra 10 - Uso impróprio do Suporte ao Cliente</a>, Regra 11 - Propaganda/Website, <a href="viewarticle.ws?article_id=55">Regra 12 - Comércio de objetos do mundo real</a>, <a href="viewarticle.ws?article_id=34">Regra 13 - Dados pessoais</a></span>
+<a href="viewarticle.ws?article_id=26">Regra 9 - Encorajar outros a violarem regras</a>, <a href="viewarticle.ws?article_id=18">Regra 10 - Uso imprï¿½prio do Suporte ao Cliente</a>, Regra 11 - Propaganda/Website, <a href="viewarticle.ws?article_id=55">Regra 12 - Comï¿½rcio de objetos do mundo real</a>, <a href="viewarticle.ws?article_id=34">Regra 13 - Dados pessoais</a></span>
 </div>
 </div>
 </div>
@@ -231,17 +231,17 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

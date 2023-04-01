@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=84/css/global-8.css);/**/
+  /*\*/@import url(../../../a=84/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../a=84/css/layout.ws"></script>
 
 <style>
  #navGames #FO_section ul { margin: 0px; }
@@ -64,7 +64,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -81,15 +81,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,8 +97,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>

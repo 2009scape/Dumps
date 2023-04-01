@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=transmogrify/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=transmogrify/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=transmogrify/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=transmogrify/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/kickabout/intro.jpg);
+  background-image: url(../../l=2/img/images/game/kickabout/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/kickabout/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/kickabout/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/kickabout/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/kickabout/screen4a.jpg?1';
+images[0] = '../../l=2/img/images/game/kickabout/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/kickabout/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/kickabout/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/kickabout/screen4a.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=transmogrify/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=transmogrify/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=transmogrify/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=transmogrify/messenger.js"></script>
 
@@ -154,51 +154,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=transmogrify/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=transmogrify/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=transmogrify/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=transmogrify/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=transmogrify/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=transmogrify/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=transmogrify/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=transmogrify/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=transmogrify/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=transmogrify/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=transmogrify/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=transmogrify/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=transmogrify/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=transmogrify/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=transmogrify/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=transmogrify/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=transmogrify/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=transmogrify/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=transmogrify/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=transmogrify/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=transmogrify/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=transmogrify/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=transmogrify/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=transmogrify/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=transmogrify/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=transmogrify/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=transmogrify/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=transmogrify/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=transmogrify/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=transmogrify/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=transmogrify/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=transmogrify/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=kickabout" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=transmogrify/index.ws">
+<a id="countrydrop" href="../../l=2/g=transmogrify/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=transmogrify/index.ws"><img title="
+<li><a class="fly" href="../../g=transmogrify/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=transmogrify/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=transmogrify/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=transmogrify/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=transmogrify/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=transmogrify/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=transmogrify/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws?genreBox=sport">Sport</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=transmogrify/kickabout/play.ws">Kickabout League</a> &gt;
+<a href="../../l=2/g=transmogrify/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/g=transmogrify/gamelist.ws?genreBox=sport">Sport</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/g=transmogrify/kickabout/play.ws">Kickabout League</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=transmogrify/kickabout/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/g=transmogrify/kickabout/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -261,38 +261,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/g=transmogrify/gamelist.ws?genreBox=sport"><span class="genre">Sport</span></a><br> Pour la beauté du sport... </div>
+<a href="../../l=2/g=transmogrify/gamelist.ws?genreBox=sport"><span class="genre">Sport</span></a><br> Pour la beautï¿½ du sport... </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=transmogrify/kickabout/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/g=transmogrify/kickabout/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/kickabout/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/kickabout/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/kickabout/screen1_thumb.jpg?1);">
+<a href="../../l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/kickabout/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/kickabout/screen2_thumb.jpg?1);">
+<a href="../../l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/kickabout/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/kickabout/screen3_thumb.jpg?1);">
+<a href="../../l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/kickabout/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/kickabout/screen4a_thumb.jpg?1);">
+<a href="../../l=2/g=transmogrify/display_screenshot.ws?game=kickabout&screenshot=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/kickabout/screen4a_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Captures d'écran
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Caractéristiques
+Caractï¿½ristiques
 </div>
 </div>
 <div class="subsectionContent">
@@ -310,12 +310,12 @@ Caractéristiques
 <div class="benefitsContent">
 <div class="benefitsList">
 <ul>
- <li>Parties en ligne jusqu'à 8 joueurs.</li>
-<li>Footballeurs évolutifs selon leur XP.</li>
-<li>Enchères en ligne pour échanger des footballeurs.</li>
-<li>Progression au sein des ligues, jusqu'à la Division de diamant.</li>
-<li>Compétition en parties classées.</li>
-<li>Des exploits à remporter !</li>
+ <li>Parties en ligne jusqu'ï¿½ 8 joueurs.</li>
+<li>Footballeurs ï¿½volutifs selon leur XP.</li>
+<li>Enchï¿½res en ligne pour ï¿½changer des footballeurs.</li>
+<li>Progression au sein des ligues, jusqu'ï¿½ la Division de diamant.</li>
+<li>Compï¿½tition en parties classï¿½es.</li>
+<li>Des exploits ï¿½ remporter !</li>
 <li>GRATUIT !</li>
 </ul>
 </div>
@@ -332,8 +332,8 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>Kickabout League est un jeu de football en 5 vs 5, de type jeu d'arcade. Les parties multijoueur en ligne peuvent accueillir jusqu'à 8 participants (le gardien de but étant contrôlé par l'ordinateur). Mais le but du jeu n'est pas uniquement de gagner le match. À chaque partie, vos footballeurs s'amélioreront et gagneront de l'expérience. Vous pourrez également les vendre aux enchères et acheter des joueurs spécialisés de haut niveau pour les remplacer au sein de votre équipe.</p>
-<p>Au fur et à mesure que vous remporterez des parties classées, vous gravirez les échelons des diverses divisions. Si votre niveau est assez bon, vous parviendrez à vous hisser en Division de diamant et vous pourrez jouer chaque semaine pour tenter de remporter le trophée de diamant ! Si vous ne vous sentez pas d'humeur à entrer dans la compétition, vous pouvez tout simplement jouer avec vos amis en parties non classées.</p>
+<p>Kickabout League est un jeu de football en 5 vs 5, de type jeu d'arcade. Les parties multijoueur en ligne peuvent accueillir jusqu'ï¿½ 8 participants (le gardien de but ï¿½tant contrï¿½lï¿½ par l'ordinateur). Mais le but du jeu n'est pas uniquement de gagner le match. ï¿½ chaque partie, vos footballeurs s'amï¿½lioreront et gagneront de l'expï¿½rience. Vous pourrez ï¿½galement les vendre aux enchï¿½res et acheter des joueurs spï¿½cialisï¿½s de haut niveau pour les remplacer au sein de votre ï¿½quipe.</p>
+<p>Au fur et ï¿½ mesure que vous remporterez des parties classï¿½es, vous gravirez les ï¿½chelons des diverses divisions. Si votre niveau est assez bon, vous parviendrez ï¿½ vous hisser en Division de diamant et vous pourrez jouer chaque semaine pour tenter de remporter le trophï¿½e de diamant ! Si vous ne vous sentez pas d'humeur ï¿½ entrer dans la compï¿½tition, vous pouvez tout simplement jouer avec vos amis en parties non classï¿½es.</p>
 </div>
 </div>
 </div>
@@ -342,54 +342,54 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Pourquoi les footballeurs disparaissent-ils de mon écran par intermittence ?</a></li>
-<li><a href="#faqs_q2">Quelles sont les règles du jeu ?</a></li>
-<li><a href="#faqs_q3">Comment fonctionne le système de ligue ?</a></li>
+<li><a href="#faqs_q1">Pourquoi les footballeurs disparaissent-ils de mon ï¿½cran par intermittence ?</a></li>
+<li><a href="#faqs_q2">Quelles sont les rï¿½gles du jeu ?</a></li>
+<li><a href="#faqs_q3">Comment fonctionne le systï¿½me de ligue ?</a></li>
 <li><a href="#faqs_q4">Quel est le meilleur type de personnage ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Pourquoi les footballeurs disparaissent-ils de mon écran par intermittence ?</h3>
-<p>Ah, l'horrible fantôme du lag ! Kickabout League étant le premier jeu FunOrb en temps réel, il est plus sensible aux problèmes de lag sous certaines conditions. C'est pourquoi nous avons inclus dans le coin de l'écran des barres d'état vous permettant d'afficher le temps de latence des autres joueurs. Pour une jouabilité optimale, nous vous conseillons de jouer avec un temps de latence de moins de 200 ms.</p>
-<p>De nombreux facteurs peuvent augmenter le temps de latence de votre connexion internet, comme la distance entre votre ordinateur et le serveur. Nous vous recommandons donc de jouer à Kickabout sur le serveur le plus proche de votre emplacement géographique et d'affronter des adversaires qui font de même. Certains joueurs, disposant d'une connexion internet suffisamment rapide, pourront jouer sans connaître ce genre de problème, peu importe la distance les séparant eux ou leurs adversaires du serveur. Malheureusement, tout le monde n'a pas cette chance...</p>
-<p>D'ailleurs, ne soyez pas trop dur avec les joueurs ayant des problèmes de lag pendant une partie. Ce n'est pas leur faute ! Essayez plutôt de les aider en faisant des petites suggestions pour améliorer leur jouabilité à Kickabout... et la vôtre.</p>
+<h3>1. Pourquoi les footballeurs disparaissent-ils de mon ï¿½cran par intermittence ?</h3>
+<p>Ah, l'horrible fantï¿½me du lag ! Kickabout League ï¿½tant le premier jeu FunOrb en temps rï¿½el, il est plus sensible aux problï¿½mes de lag sous certaines conditions. C'est pourquoi nous avons inclus dans le coin de l'ï¿½cran des barres d'ï¿½tat vous permettant d'afficher le temps de latence des autres joueurs. Pour une jouabilitï¿½ optimale, nous vous conseillons de jouer avec un temps de latence de moins de 200 ms.</p>
+<p>De nombreux facteurs peuvent augmenter le temps de latence de votre connexion internet, comme la distance entre votre ordinateur et le serveur. Nous vous recommandons donc de jouer ï¿½ Kickabout sur le serveur le plus proche de votre emplacement gï¿½ographique et d'affronter des adversaires qui font de mï¿½me. Certains joueurs, disposant d'une connexion internet suffisamment rapide, pourront jouer sans connaï¿½tre ce genre de problï¿½me, peu importe la distance les sï¿½parant eux ou leurs adversaires du serveur. Malheureusement, tout le monde n'a pas cette chance...</p>
+<p>D'ailleurs, ne soyez pas trop dur avec les joueurs ayant des problï¿½mes de lag pendant une partie. Ce n'est pas leur faute ! Essayez plutï¿½t de les aider en faisant des petites suggestions pour amï¿½liorer leur jouabilitï¿½ ï¿½ Kickabout... et la vï¿½tre.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Quelles sont les règles du jeu ?</h3>
-<p>La première règle de Kickabout League est : PARLEZ-EN à vos amis passionnés de football ou de jeu. Proposez-leur une partie de Kickabout. Plus vous serez nombreux à jouer, plus les parties seront intéressantes !</p>
-<p>La deuxième règle de Kickabout est... euh, en fait il n'y en a pas. Tous les coups sont permis : pas de faute, de touche, ou de corner. Il n'y a pas de mi-temps, vous jouez simplement jusqu'à la fin du temps imparti. L'équipe ayant marqué le plus de buts remporte le match !</p>
+<h3>2. Quelles sont les rï¿½gles du jeu ?</h3>
+<p>La premiï¿½re rï¿½gle de Kickabout League est : PARLEZ-EN ï¿½ vos amis passionnï¿½s de football ou de jeu. Proposez-leur une partie de Kickabout. Plus vous serez nombreux ï¿½ jouer, plus les parties seront intï¿½ressantes !</p>
+<p>La deuxiï¿½me rï¿½gle de Kickabout est... euh, en fait il n'y en a pas. Tous les coups sont permis : pas de faute, de touche, ou de corner. Il n'y a pas de mi-temps, vous jouez simplement jusqu'ï¿½ la fin du temps imparti. L'ï¿½quipe ayant marquï¿½ le plus de buts remporte le match !</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Comment fonctionne le système de ligue ?</h3>
-<p>À la fin de chaque partie, le gagnant remporte 30 points en partie classée et 3 en non classée. Le score du perdant est réduit de 10 points en partie classée et de 1 en non classée. Aucun point n'est gagné ou perdu lors d'un match nul et votre score ne peut jamais tomber sous 0.</p>
-<p>Au fur et à mesure que votre score augmente, vous évoluerez au sein des ligues : Division d'étain (10 points), Division de bronze (180 points), Division d'argent (560 points), Division d'or (1 700 points), Division de platine (7 000 points) et Division de diamant (14 000 points). Après avoir atteint le score nécessaire pour entrer dans une division supérieure, votre score ne peut plus retomber sous ce score palier. Donc une fois dans la Division de diamant, vous y resterez !</p>
-<p>La Division de diamant fonctionne un peu différemment. Une fois dans cette division, vos points de ligue sont remplacés par des points de ligue de diamant. Les points sont réinitialisés tous les mardis, à 22h00 heure anglaise. Chaque semaine, le joueur avec le score le plus élevé reçoit le trophée de diamant (et remporte l'exploit Champion du monde). Pensez-vous être capable de remporter ce trophée ?</p>
+<h3>3. Comment fonctionne le systï¿½me de ligue ?</h3>
+<p>ï¿½ la fin de chaque partie, le gagnant remporte 30 points en partie classï¿½e et 3 en non classï¿½e. Le score du perdant est rï¿½duit de 10 points en partie classï¿½e et de 1 en non classï¿½e. Aucun point n'est gagnï¿½ ou perdu lors d'un match nul et votre score ne peut jamais tomber sous 0.</p>
+<p>Au fur et ï¿½ mesure que votre score augmente, vous ï¿½voluerez au sein des ligues : Division d'ï¿½tain (10 points), Division de bronze (180 points), Division d'argent (560 points), Division d'or (1 700 points), Division de platine (7 000 points) et Division de diamant (14 000 points). Aprï¿½s avoir atteint le score nï¿½cessaire pour entrer dans une division supï¿½rieure, votre score ne peut plus retomber sous ce score palier. Donc une fois dans la Division de diamant, vous y resterez !</p>
+<p>La Division de diamant fonctionne un peu diffï¿½remment. Une fois dans cette division, vos points de ligue sont remplacï¿½s par des points de ligue de diamant. Les points sont rï¿½initialisï¿½s tous les mardis, ï¿½ 22h00 heure anglaise. Chaque semaine, le joueur avec le score le plus ï¿½levï¿½ reï¿½oit le trophï¿½e de diamant (et remporte l'exploit Champion du monde). Pensez-vous ï¿½tre capable de remporter ce trophï¿½e ?</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Quel est le meilleur type de personnage ?</h3>
-<p>Chaque type de footballeur a ses avantages et ses inconvénients. Le sprinteur se déplace très vite, même quand il a le ballon. Mais les tacles ne sont pas son point fort. Le stoppeur est certes lent mais s'il est à la bonne distance et qu'il tourne au moment de tacler, personne ne peut arrêter cette brute. Le buteur ne vaut pas grand-chose en défense mais c'est un attaquant redoutable. Sa maîtrise des tirs puissants lui permet d'esquiver le gardien pour marquer.</p>
-<p>Le spécialiste n'a pas de compétence particulière mais il pourra adopter le mode de jeu d'autre joueur si vous lui attribuez un ou plusieurs bonus. Vous pouvez ainsi créer un footballeur polyvalent. En lui attribuant, par exemple, les compétences d'un sprinteur et d'un buteur, il pourra courir vite avec le ballon ET l'envoyer toucher le fond du filet grâce à ses tirs puissants.</p>
+<p>Chaque type de footballeur a ses avantages et ses inconvï¿½nients. Le sprinteur se dï¿½place trï¿½s vite, mï¿½me quand il a le ballon. Mais les tacles ne sont pas son point fort. Le stoppeur est certes lent mais s'il est ï¿½ la bonne distance et qu'il tourne au moment de tacler, personne ne peut arrï¿½ter cette brute. Le buteur ne vaut pas grand-chose en dï¿½fense mais c'est un attaquant redoutable. Sa maï¿½trise des tirs puissants lui permet d'esquiver le gardien pour marquer.</p>
+<p>Le spï¿½cialiste n'a pas de compï¿½tence particuliï¿½re mais il pourra adopter le mode de jeu d'autre joueur si vous lui attribuez un ou plusieurs bonus. Vous pouvez ainsi crï¿½er un footballeur polyvalent. En lui attribuant, par exemple, les compï¿½tences d'un sprinteur et d'un buteur, il pourra courir vite avec le ballon ET l'envoyer toucher le fond du filet grï¿½ce ï¿½ ses tirs puissants.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>5. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -397,20 +397,20 @@ Questions fréquentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Avantages abonnés
+Avantages abonnï¿½s
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Les abonnés bénéficient de :</p>
+<p style="padding-bottom: 5px;">Les abonnï¿½s bï¿½nï¿½ficient de :</p>
 <ul style="line-height: 22px;">
-<li>Extension Bonus - munissez vos footballeurs de compétences spéciales.</li>
-<li>Accès à tous les exploits.</li>
-<li>Mode plein écran.</li>
-<li>Aucune pub en cours de jeu.</li> <li>Accès à toutes les extensions abonnés de FunOrb.</li>
+<li>Extension Bonus - munissez vos footballeurs de compï¿½tences spï¿½ciales.</li>
+<li>Accï¿½s ï¿½ tous les exploits.</li>
+<li>Mode plein ï¿½cran.</li>
+<li>Aucune pub en cours de jeu.</li> <li>Accï¿½s ï¿½ toutes les extensions abonnï¿½s de FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=2/g=transmogrify/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/g=transmogrify/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -432,7 +432,7 @@ Development Team
 <b>Translation:</b> Linda H,&nbsp;Sophie M,&nbsp;Thomas Le M
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -445,25 +445,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=transmogrify/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=transmogrify/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=transmogrify/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=transmogrify/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=transmogrify/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=transmogrify/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=transmogrify/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=transmogrify/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=transmogrify/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=transmogrify/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=transmogrify/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=transmogrify/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=transmogrify/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=transmogrify/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

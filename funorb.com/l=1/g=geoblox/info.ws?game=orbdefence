@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=geoblox/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=geoblox/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=geoblox/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=geoblox/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/orbdefence/intro.jpg);
+  background-image: url(../../l=1/img/images/game/orbdefence/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/orbdefence/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/orbdefence/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/orbdefence/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/orbdefence/screen4a.jpg?1';
+images[0] = '../../l=1/img/images/game/orbdefence/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/orbdefence/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/orbdefence/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/orbdefence/screen4a.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=geoblox/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=geoblox/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=geoblox/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=geoblox/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=geoblox/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=geoblox/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=geoblox/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=geoblox/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=geoblox/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=geoblox/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=geoblox/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=geoblox/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=geoblox/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=geoblox/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=geoblox/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=geoblox/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=geoblox/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=geoblox/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=geoblox/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=geoblox/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=geoblox/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=geoblox/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=geoblox/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=geoblox/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=geoblox/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=geoblox/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=geoblox/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=geoblox/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=geoblox/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=geoblox/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=geoblox/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=geoblox/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=geoblox/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=orbdefence" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=geoblox/index.ws">
+<a id="countrydrop" href="../../l=1/g=geoblox/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=geoblox/index.ws"><img title="
+<li><a class="fly" href="../../g=geoblox/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=geoblox/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=geoblox/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=geoblox/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=geoblox/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=geoblox/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=geoblox/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=geoblox/orbdefence/play.ws">Orb-Verteidiger</a> &gt;
+<a href="../../l=1/g=geoblox/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=geoblox/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=geoblox/orbdefence/play.ws">Orb-Verteidiger</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=geoblox/orbdefence/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=geoblox/orbdefence/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=geoblox/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Verteidigt euch gegen die diabolischen Norbs, die eure Orbs bedrohen. </div>
+<a href="../../l=1/g=geoblox/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Verteidigt euch gegen die diabolischen Norbs, die eure Orbs bedrohen. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=geoblox/orbdefence/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=geoblox/orbdefence/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/orbdefence/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/orbdefence/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/orbdefence/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/orbdefence/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/orbdefence/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/orbdefence/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/orbdefence/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/orbdefence/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/orbdefence/screen4a_thumb.jpg?1);">
+<a href="../../l=1/g=geoblox/display_screenshot.ws?game=orbdefence&screenshot=screen4a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/orbdefence/screen4a_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -311,14 +311,14 @@ Orb-Verteidiger Mitglieder-Vorteile
 <div class="benefitsList">
 <ul>
 
-<li>Elektroschock-Geschütze und Barrieren</li>
+<li>Elektroschock-Geschï¿½tze und Barrieren</li>
 <li>Verteidigt euch gegen alle 10 Norb-Arten.</li>
 <li>5 neue Level</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/g=geoblox/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=geoblox/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -332,7 +332,7 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Die bösen Norbs haben es auf eure Orbs abgesehen und ihr müsst sie stoppen! Baut euch Verteidigungen auf und schlagt die Eindringlinge zurück. Wenn ihr eure Orbs verliert, habt ihr versagt! Wehrt euch mit Geschützen, die ihr ausbauen könnt, damit sie noch mächtiger werden. Aber passt gut auf: Ozomo, der Anführer der Norbs, wartet schon auf euch...</p>
+<p>Die bï¿½sen Norbs haben es auf eure Orbs abgesehen und ihr mï¿½sst sie stoppen! Baut euch Verteidigungen auf und schlagt die Eindringlinge zurï¿½ck. Wenn ihr eure Orbs verliert, habt ihr versagt! Wehrt euch mit Geschï¿½tzen, die ihr ausbauen kï¿½nnt, damit sie noch mï¿½chtiger werden. Aber passt gut auf: Ozomo, der Anfï¿½hrer der Norbs, wartet schon auf euch...</p>
 </div>
 </div>
 </div>
@@ -348,33 +348,33 @@ Fragen und Antworten
 <div class="faqsList">
 <ol>
 <li><a href="#faqs_q1">Wie kann ich mein Ergebnis verbessern?</a></li>
-<li><a href="#faqs_q2">Die Norbs zerstören immer meine Orbs. Was kann ich dagegen unternehmen?</a></li>
-<li><a href="#faqs_q3">Warum schießen meine Geschütze nicht?</a></li>
+<li><a href="#faqs_q2">Die Norbs zerstï¿½ren immer meine Orbs. Was kann ich dagegen unternehmen?</a></li>
+<li><a href="#faqs_q3">Warum schieï¿½en meine Geschï¿½tze nicht?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Wie kann ich meine Punktzahl verbessern?</h3>
-<p>Wenn ihr die Leertaste drückt, wird die nächste Welle früher ausgelöst und ihr steigert dadurch euren Bonus. Allerdings wird euch der Bonus nur dann zugesprochen, wenn ihr es schafft, den nächsten Endgegner zu töten. Wenn ihr einen Orb verliert, verliert ihr auch den Bonus.</p>
+<p>Wenn ihr die Leertaste drï¿½ckt, wird die nï¿½chste Welle frï¿½her ausgelï¿½st und ihr steigert dadurch euren Bonus. Allerdings wird euch der Bonus nur dann zugesprochen, wenn ihr es schafft, den nï¿½chsten Endgegner zu tï¿½ten. Wenn ihr einen Orb verliert, verliert ihr auch den Bonus.</p>
 <div class="hr"></div>
-<a name="faqs_q2"></a> <h3>2. Die Norbs zerstören immer meine Orbs. Was kann ich dagegen unternehmen?</h3>
-<p>Baut euch verschiedene Geschütze, um euch zu verteidigen. Jedes Geschütz hat spezielle Vor- und Nachteile, also müsst ihr immer das Geschütz wählen, das gegen eure aktuellen Gegner am besten wirkt. Ihr könnt eure Geschütze auch weiter ausbauen, indem ihr auf sie klickt, wenn sie blinken. Dadurch steigert ihr den Schaden, den die Geschütze anrichten können (und bei manchen auch die Reichweite).</p>
+<a name="faqs_q2"></a> <h3>2. Die Norbs zerstï¿½ren immer meine Orbs. Was kann ich dagegen unternehmen?</h3>
+<p>Baut euch verschiedene Geschï¿½tze, um euch zu verteidigen. Jedes Geschï¿½tz hat spezielle Vor- und Nachteile, also mï¿½sst ihr immer das Geschï¿½tz wï¿½hlen, das gegen eure aktuellen Gegner am besten wirkt. Ihr kï¿½nnt eure Geschï¿½tze auch weiter ausbauen, indem ihr auf sie klickt, wenn sie blinken. Dadurch steigert ihr den Schaden, den die Geschï¿½tze anrichten kï¿½nnen (und bei manchen auch die Reichweite).</p>
 <div class="hr"></div>
-<a name="faqs_q3"></a> <h3>3. Warum schießen meine Geschütze nicht?</h3>
-<p>Manche Norbs sind immun gegen gewisse Geschütze. Fliegbos können von Großschuss- und Strahlblast-Geschützen nicht getroffen werden, Eisenos sind abgehärtet gegen Eisschuss- und Großschuss-Geschütze.</p>
+<a name="faqs_q3"></a> <h3>3. Warum schieï¿½en meine Geschï¿½tze nicht?</h3>
+<p>Manche Norbs sind immun gegen gewisse Geschï¿½tze. Fliegbos kï¿½nnen von Groï¿½schuss- und Strahlblast-Geschï¿½tzen nicht getroffen werden, Eisenos sind abgehï¿½rtet gegen Eisschuss- und Groï¿½schuss-Geschï¿½tze.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>4. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -396,7 +396,7 @@ Development Team
 <b>Translation:</b> Heiko J,&nbsp;Florian P,&nbsp;Matthias P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -409,25 +409,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=geoblox/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=geoblox/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=geoblox/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=geoblox/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=geoblox/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=geoblox/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=geoblox/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=geoblox/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=geoblox/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=geoblox/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=geoblox/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=geoblox/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=geoblox/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=geoblox/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

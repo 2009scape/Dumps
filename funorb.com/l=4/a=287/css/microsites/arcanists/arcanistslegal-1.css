@@ -7,7 +7,7 @@
 
 
 body{
- background-image: url('http://www.funorb.com/l=4/img/microsites/arcanists/back.jpg');
+ background-image: url('../../../../../l=4/img/microsites/arcanists/back.jpg');
  background-repeat: repeat-x;
  background-position: center top;
  background-color: #13110f;
@@ -19,7 +19,7 @@ h1{
  width: 718px;
  height: 98px;
  font-size: 0px;
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/top.jpg') transparent no-repeat;
+ background: url('../../../../../l=4/img/microsites/arcanists/legal/top.jpg') transparent no-repeat;
  text-align: center;
  margin: 0px auto 0px -359px;
  position:   absolute;
@@ -37,7 +37,7 @@ h1 a{
  color: white;
  line-height: 18px;
  font-size: 13px;
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/mid.jpg') transparent no-repeat;
+ background: url('../../../../../l=4/img/microsites/arcanists/legal/mid.jpg') transparent no-repeat;
  height: 476px;
  padding-top: 4px;
  position:   absolute;
@@ -77,7 +77,7 @@ h1 a{
  border: none;
 }
 #bottom{
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/legal/bottom.jpg') transparent no-repeat;
+ background: url('../../../../../l=4/img/microsites/arcanists/legal/bottom.jpg') transparent no-repeat;
  margin: auto;
  width: 718px;
  height: 38px;
@@ -87,7 +87,7 @@ h1 a{
  left: 50%;
 }
 #copyright{
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
+ background: url('../../../../../l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
  margin: auto;
  width: 367px;
  height: 104px;

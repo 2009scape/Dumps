@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2011 Jagex Ltd, www.jagex.com">
@@ -19,15 +19,15 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/a=135/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/a=135/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/a=135/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/a=135/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=135/css/global-44.css);/**/
+  /*\*/@import url(../../../l=2/a=135/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=2/a=135/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=135/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/a=135/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
  body {
@@ -60,8 +60,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/a=135/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/a=135/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -70,7 +70,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=135/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/a=135/messenger.js"></script>
 
@@ -79,51 +79,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=135/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=135/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/a=135/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/a=135/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/a=135/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/a=135/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/a=135/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=2/a=135/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../../l=2/a=135/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/a=135/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/a=135/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=135/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/a=135/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/a=135/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/a=135/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/a=135/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/a=135/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/a=135/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/a=135/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=135/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/a=135/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=135/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/a=135/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/a=135/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/a=135/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/a=135/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/a=135/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/a=135/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/a=135/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/a=135/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -131,28 +131,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/a=135/loginform.ws?mod=www&amp;ssl=0&amp;dest=privacy/dataprotect.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/a=135/index.ws">
+<a id="countrydrop" href="../../../l=2/a=135/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="
+<li><a class="fly" href="../../../a=135/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=135/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=135/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=135/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -168,7 +168,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Politique de protection des données
+Politique de protection des donnï¿½es
 
 </div>
 </div>
@@ -179,32 +179,32 @@ Politique de protection des données
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p><b>Protection des données</b></p>
-<p> Jagex peut détenir une variété d'informations de contact personnelles telles que : <ul>
+<p><b>Protection des donnï¿½es</b></p>
+<p> Jagex peut dï¿½tenir une variï¿½tï¿½ d'informations de contact personnelles telles queï¿½: <ul>
 <li>Nom complet</li>
 <li>Adresse postale</li>
-<li>Adresse électronique</li>
-<li>Numéro de téléphone</li>
+<li>Adresse ï¿½lectronique</li>
+<li>Numï¿½ro de tï¿½lï¿½phone</li>
 </ul>
-<p> Notez qu'il est tout à fait possible que nous ne détenions que certaines, voire aucune de ces informations. Cela dépend de ce que vous avez saisi dans nos systèmes. <p> Si, pour des raisons de protection des données, vous avez des doutes sur l'exactitude des informations personnelles ci-dessus détenues par Jagex ou si vous souhaitez qu'elles soient supprimées de nos registres, suivez les étapes ci-dessous : <p>
-<b>1. Demande par écrit &amp; coordonnées</b>
-<p> Veuillez exposer brièvement et clairement votre demande. Elle doit inclure sur les points suivants : <ul>
-<li>Accès aux informations personnelles que nous détenons</li>
-<li>Modification des informations personnelles que nous détenons</li>
-<li>Suppression des informations personnelles que nous détenons</li>
+<p> Notez qu'il est tout ï¿½ fait possible que nous ne dï¿½tenions que certaines, voire aucune de ces informations. Cela dï¿½pend de ce que vous avez saisi dans nos systï¿½mes. <p> Si, pour des raisons de protection des donnï¿½es, vous avez des doutes sur l'exactitude des informations personnelles ci-dessus dï¿½tenues par Jagex ou si vous souhaitez qu'elles soient supprimï¿½es de nos registres, suivez les ï¿½tapes ci-dessousï¿½: <p>
+<b>1. Demande par ï¿½crit &amp; coordonnï¿½es</b>
+<p> Veuillez exposer briï¿½vement et clairement votre demande. Elle doit inclure sur les points suivants : <ul>
+<li>Accï¿½s aux informations personnelles que nous dï¿½tenons</li>
+<li>Modification des informations personnelles que nous dï¿½tenons</li>
+<li>Suppression des informations personnelles que nous dï¿½tenons</li>
 </ul>
-<p> Veuillez également inclure vos coordonnées complètes, notamment vos coordonnées postales et un numéro de téléphone comportant l'indicatif international. <p>
-<b>2. Preuve d'identité</b>
-<p> Nous exigeons l'une des pièce d'identité avec photo suivantes : <ul>
-<li>photocopie du passeport ;</li>
-<li>photocopie du permis de conduire avec photo ;</li>
+<p> Veuillez ï¿½galement inclure vos coordonnï¿½es complï¿½tes, notamment vos coordonnï¿½es postales et un numï¿½ro de tï¿½lï¿½phone comportant l'indicatif international. <p>
+<b>2. Preuve d'identitï¿½</b>
+<p> Nous exigeons l'une des piï¿½ce d'identitï¿½ avec photo suivantes : <ul>
+<li>photocopie du passeportï¿½;</li>
+<li>photocopie du permis de conduire avec photoï¿½;</li>
 </ul>
-<p> Le document photocopié doit comporter une photo nette de votre visage ainsi que votre nom complet. <p>
+<p> Le document photocopiï¿½ doit comporter une photo nette de votre visage ainsi que votre nom complet. <p>
 <b>3. Frais de demande</b>
-<p> Le traitement de votre demande de protection des données est facturé £10,00. Ces frais servent à couvrir les charges administratives et sont en accord avec les directives du Data Protection Act. Veuillez joindre un chèque de ce montant à l'ordre de Jagex Ltd dans votre demande par écrit. <p>
-<b>Notez que toutes</b> les étapes précédentes <b>doivent</b> être effectuées dans l'ordre afin que nous puissions délivrer, modifier ou supprimer les informations personnelles que nous détenons. Si les étapes précédentes n'ont pas <b>toutes</b> été effectuées, nous ne pourrons pas traiter la demande de protection des données. <p>
+<p> Le traitement de votre demande de protection des donnï¿½es est facturï¿½ ï¿½10,00. Ces frais servent ï¿½ couvrir les charges administratives et sont en accord avec les directives du Data Protection Act. Veuillez joindre un chï¿½que de ce montant ï¿½ l'ordre de Jagex Ltd dans votre demande par ï¿½crit. <p>
+<b>Notez que toutes</b> les ï¿½tapes prï¿½cï¿½dentes <b>doivent</b> ï¿½tre effectuï¿½es dans l'ordre afin que nous puissions dï¿½livrer, modifier ou supprimer les informations personnelles que nous dï¿½tenons. Si les ï¿½tapes prï¿½cï¿½dentes n'ont pas <b>toutes</b> ï¿½tï¿½ effectuï¿½es, nous ne pourrons pas traiter la demande de protection des donnï¿½es. <p>
 <b>Adresse d'envoi de votre demande</b>
-<p> Veuillez envoyer votre demande de protection des données en joignant vos coordonnées complètes, une pièce d'identité et un chèque du montant indiqué à l'adresse suivante : <p>
+<p> Veuillez envoyer votre demande de protection des donnï¿½es en joignant vos coordonnï¿½es complï¿½tes, une piï¿½ce d'identitï¿½ et un chï¿½que du montant indiquï¿½ ï¿½ l'adresse suivante : <p>
 Jagex Ltd.<br/>
 St. John's Innovation Centre<br/>
 Cowley Road<br/>
@@ -212,11 +212,11 @@ Cambridge<br/>
 CB4 0WS<br/>
 United Kingdom
 <p>
-<b>Que se passe-t-il ensuite ?</b>
-<p> Une fois votre demande de protection des données reçue, nous l'examinerons et vous contacterons sous 30 jours. Il est inutile d'essayer de nous contacter avant 30 jours ; cela n'accélérera en rien le processus. </p>
+<b>Que se passe-t-il ensuiteï¿½?</b>
+<p> Une fois votre demande de protection des donnï¿½es reï¿½ue, nous l'examinerons et vous contacterons sous 30 jours. Il est inutile d'essayer de nous contacter avant 30 jours ; cela n'accï¿½lï¿½rera en rien le processus. </p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -228,25 +228,25 @@ United Kingdom
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/a=135/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../a=135/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/a=135/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/a=135/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/a=135/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2011 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=135/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=135/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2011 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/a=135/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/a=135/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/a=135/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/a=135/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

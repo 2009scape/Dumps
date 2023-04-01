@@ -9,8 +9,8 @@ pt">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ pt">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=minerdisturbance/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=minerdisturbance/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=3/g=minerdisturbance/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=3/g=minerdisturbance/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <style type="text/css">
@@ -48,8 +48,8 @@ pt">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=3/g=minerdisturbance/index.ws" ><b>
+<img src="../../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -58,7 +58,7 @@ pt">
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=minerdisturbance/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=minerdisturbance/messenger.js"></script>
 
@@ -67,25 +67,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=minerdisturbance/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=3/g=minerdisturbance/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=3/g=minerdisturbance/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=minerdisturbance/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=3/g=minerdisturbance/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -95,24 +95,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=minerdisturbance/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/g=minerdisturbance/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://services.funorb.com/m=forum_fo_pt/l=3/g=minerdisturbance/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=minerdisturbance/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=minerdisturbance/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=minerdisturbance/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=minerdisturbance/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=minerdisturbance/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=3/g=minerdisturbance/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/parents.ws" class="fly">Guia para Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=minerdisturbance/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../../l=3/g=minerdisturbance/bugtracker.ws" class="fly last">Enviar um relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -120,28 +120,28 @@ http://services.funorb.com/m=forum_fo_pt/l=3/g=minerdisturbance/forums.ws" class
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=minerdisturbance/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws?cty=77" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws">
+<a id="countrydrop" href="../../../l=3/g=minerdisturbance/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=minerdisturbance/index.ws"><img title="
+<li><a class="fly" href="../../../g=minerdisturbance/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=minerdisturbance/index.ws"><img title="
+English" src="../../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=minerdisturbance/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws"><img title="
+Deutsch" src="../../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=minerdisturbance/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=minerdisturbance/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -158,7 +158,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-Termos e Condições
+Termos e Condiï¿½ï¿½es
 
 </div>
 </div>
@@ -169,9 +169,9 @@ Termos e Condições
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p> Se você residia na França ao criar sua conta e fez isso em 20 de agosto de 2008 ou após essa data, <a href="../terms/terms.ws?cty=74">clique aqui</a> para visualizar os Termos e Condições que se aplicam a você. </p>
-<p> Se você residia na Alemanha ao criar sua conta e fez isso em 14 de fevereiro de 2007 ou após essa data, <a href="../terms/terms.ws?cty=56">clique aqui</a> para visualizar os Termos e Condições que se aplicam a você. </p>
-<p> Se você residia no Brasil ao criar sua conta e fez isso em 18 de novembro de 2008 ou após essa data, <a href="../terms/terms.ws?cty=31">clique aqui</a> para visualizar os Termos e Condições que se aplicam a você. </p>
+<p> Se vocï¿½ residia na Franï¿½a ao criar sua conta e fez isso em 20 de agosto de 2008 ou apï¿½s essa data, <a href="../terms/terms.ws?cty=74">clique aqui</a> para visualizar os Termos e Condiï¿½ï¿½es que se aplicam a vocï¿½. </p>
+<p> Se vocï¿½ residia na Alemanha ao criar sua conta e fez isso em 14 de fevereiro de 2007 ou apï¿½s essa data, <a href="../terms/terms.ws?cty=56">clique aqui</a> para visualizar os Termos e Condiï¿½ï¿½es que se aplicam a vocï¿½. </p>
+<p> Se vocï¿½ residia no Brasil ao criar sua conta e fez isso em 18 de novembro de 2008 ou apï¿½s essa data, <a href="../terms/terms.ws?cty=31">clique aqui</a> para visualizar os Termos e Condiï¿½ï¿½es que se aplicam a vocï¿½. </p>
 <hr/>
 
 <b>Terms &amp; Conditions</b><br/><br/>
@@ -212,7 +212,7 @@ Termos e Condições
 <p>"User Content" means all information of any kind (including text, images, video, information and messages) uploaded or sent by users on or in connection with Jagex Products.</p>
 <b id="applicability">3. Applicability of the terms and conditions</b>
 <p>Please read these terms and conditions carefully. Your accepting them in full is a condition of your use of a Jagex Product (whether or not you subscribe). If you don't agree with any part, please do not use the Jagex Product.</p>
-<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="http://www.funorb.com/l=3/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
+<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="../../../l=3/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
 <b id="changes">4. Changes to the terms and conditions</b>
 <p>We may change these terms and conditions to reflect: (a) changes in applicable laws; (b) regulatory or security requirements; (c) relevant guidance or codes of practice; (d) technical alterations to Jagex Products; and (e) to improve clarity and consistency.</p>
 <p>Please check the terms and conditions whenever you use a Jagex Product. If you are not a subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date as shown above. If you are a subscriber, we will treat the first renewal date of your subscription after the changes as your acceptance of the changes. If you do not agree with the changes you should cancel your subscription (as explained below) before the renewal date.</p>
@@ -259,7 +259,7 @@ Termos e Condições
 <ul>
 <li>be obscene, hateful, inflammatory, threatening, harassing, sexually explicit or deceptive or fraudulent in anyway;</li>
 <li>promote violence or discrimination, promote or endorse any illegal activity or otherwise be objectionable;</li>
-<li>be defamatory or an invasion of an individual’s right to privacy;</li>
+<li>be defamatory or an invasion of an individualï¿½s right to privacy;</li>
 <li>infringe the intellectual property or other rights of any third party, including copyrights, trade marks, database rights, any rights of confidentiality or any similar rights;</li>
 <li>attempt to or purport to impersonate any person or misrepresent your identity, affiliation or connection to any other person;</li>
 <li>include hyperlinks or connections to third party websites;</li>
@@ -291,7 +291,7 @@ Termos e Condições
 <p>Upon cancellation you will not be charged any further subscription fees. No payments already made in respect of subscriptions or virtual currencies or items will be refunded (wholly or partly) but you can of course use up any unused membership credit in the account.</p>
 <b id="distance_selling">b. Right to cancel under Distance Selling Regulations</b>
 <p>If you are located in the EU, provided you have not started to use the subscription services by logging into a member's only world, you may cancel your order within 7 working days of placing it, in which case we will refund your subscription payment in full.</p>
-<p>You may cancel by emailing <img style="vertical-align: bottom;display: inline;" src="http://www.funorb.com/l=3/img/privacy/billingsupport.gif" alt=""/> or by giving us written notice to our registered office (details can be found at the beginning of these terms and conditions).</p>
+<p>You may cancel by emailing <img style="vertical-align: bottom;display: inline;" src="../../../l=3/img/privacy/billingsupport.gif" alt=""/> or by giving us written notice to our registered office (details can be found at the beginning of these terms and conditions).</p>
 <p>If you log into a member's only world, you are accepting the contract and waive the 7 days cancellation period.</p>
 <b id="virtual_currencies">14. Virtual currencies and virtual items</b>
 <p>In certain Jagex Products, we offer virtual currencies for sale or, in our discretion, as free promotions. Virtual currencies can be redeemed (i.e. used) to acquire certain digital goods/services, which we describe below as "Items". If you obtain virtual currency, you must check that it has been correctly credited to your account and tell us immediately if not.</p>
@@ -327,14 +327,14 @@ The terms of the <a href="http://www.jagex.com/l=3/g=minerdisturbance/privacy/pr
 <p>WE DO NOT ACCEPT LEGAL RESPONSIBILITY FOR ANY LOSS OR DAMAGE CAUSED BY US OR OUR EMPLOYEES OR AGENTS IN CIRCUMSTANCES WHERE (A) THERE IS NO BREACH OF A LEGAL DUTY OF CARE OWED TO YOU BY US OR BY ANY OF OUR EMPLOYEES OR AGENTS; (B) SUCH LOSS OR DAMAGE IS NOT A REASONABLY FORESEEABLE RESULT OF ANY SUCH BREACH; OR (C) SUCH LOSS OR DAMAGE RELATES TO A BUSINESS. YOU AGREE TO WAIVE ANY LEGAL DUTY OF CARE OWED TO YOU BY JAGEX, TO THE MAXIMUM EXTENT ALLOWED BY LAW.</p>
 <p>YOU WILL BE LIABLE FOR ANY LOSS OR DAMAGE WE SUFFER ARISING FROM YOUR BREACH OF THIS AGREEMENT OR MISUSE OF A JAGEX PRODUCT.</p>
 <b id="general">20. General</b>
-<p>These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagex’s licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.</p>
+<p>These terms and conditions and any document incorporated by reference constitute the entire agreement between the parties with respect to its subject matter and supersedes any previous terms and conditions between the parties in relation to such matters. The limitations, exclusions and restrictions in these terms and conditions shall inure to the benefit of Jagexï¿½s licensors, successor and assigns. Nothing in these terms and conditions affects your statutory rights as a consumer. Headings above are for guidance only and not binding. If we fail to enforce any provision of these terms and conditions, that failure will not preclude us from enforcing either that provision (or any similar provision) on a later occasion. If any provision of these terms and conditions is found by a court to be invalid, we agree that the court should endeavour to give effect to the parties' intentions as reflected in the provision and that other provisions remain in full force and effect. We may transfer all or part of our rights or duties under this agreement provided we take reasonable steps to ensure that your rights under this agreement are not prejudiced. As this agreement is personal to you, you may not transfer any of your rights or duties under it without our prior written consent. A person who is not a party to this agreement shall have no rights under the Contracts (Rights of Third Parties) Act 1999 to enforce any term of this agreement. These terms and conditions are governed by English law and any dispute connected with them or Jagex Products will be decided only by the courts of England.</p>
 <b id="complaints">21. Complaints</b>
 <p>If you are dissatisfied with this website or any aspect of it, please contact us via the forms on our website or write to our registered office above.</p>
 
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -346,25 +346,25 @@ The terms of the <a href="http://www.jagex.com/l=3/g=minerdisturbance/privacy/pr
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=minerdisturbance/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../../g=minerdisturbance/index.ws"><img alt="
+English" src="../../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=minerdisturbance/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../../l=1/g=minerdisturbance/index.ws"><img alt="
+Deutsch" src="../../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../../l=2/g=minerdisturbance/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../../l=3/g=minerdisturbance/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=minerdisturbance/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=minerdisturbance/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../../l=3/g=minerdisturbance/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../../l=3/g=minerdisturbance/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=minerdisturbance/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=minerdisturbance/" target="_blank"><img src="../../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

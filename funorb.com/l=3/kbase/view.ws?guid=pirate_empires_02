@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Pirate Empires - Diário de desenvolvimento">
+<meta name="description" content="Pirate Empires - Diï¿½rio de desenvolvimento">
 <style type="text/css">
 #ddHeader {
  position: relative;
@@ -39,7 +39,7 @@ pt">
  text-align: center;
  line-height: 26px;
  color: white;
- background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/header.png);
+ background: url(../../l=3/img/images/kbase/dev_diary/header.png);
 }
 .subheader {
  margin: 1em 0 0.5em;
@@ -49,7 +49,7 @@ pt">
  font-weight: bold;
  line-height: 18px;
  color: white;
- background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/subheader.png);
+ background: url(../../l=3/img/images/kbase/dev_diary/subheader.png);
 }
 .articleBody p {
  padding-left: 2px;
@@ -85,10 +85,10 @@ pt">
  right: 8px;
 }
 a.ddprev {
- background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev_hover.png);
+ background: url(../../l=3/img/images/kbase/dev_diary/prev_hover.png);
 }
 a.ddnext {
- background: url(http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_hover.png);
+ background: url(../../l=3/img/images/kbase/dev_diary/next_hover.png);
 }
 a.ddprev:hover img, a.ddnext:hover img {
  visibility: hidden;
@@ -109,8 +109,8 @@ a.ddprev:hover img, a.ddnext:hover img {
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -119,7 +119,7 @@ a.ddprev:hover img, a.ddnext:hover img {
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/messenger.js"></script>
 
@@ -128,15 +128,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -145,9 +145,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -157,45 +157,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=pirate_empires_02" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=pirate_empires_02" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
+<a id="countrydrop" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -212,7 +212,7 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=15">Diários de desenvolvimento</a> &gt; Pirate Empires: Parte 2 -  WIP ao mar</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=15">Diï¿½rios de desenvolvimento</a> &gt; Pirate Empires: Parte 2 -  WIP ao mar</span>
 
 
 </div>
@@ -226,37 +226,37 @@ http://forum-fo-pt.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/
 <div class="articleBody">
 <h2 id="ddHeader">
 
-<a class="ddprev" href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=pirate_empires_01" title="Anterior">
-<img src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/prev.png" alt="Anterior" />
+<a class="ddprev" href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/kbase/view.ws?guid=pirate_empires_01" title="Anterior">
+<img src="../../l=3/img/images/kbase/dev_diary/prev.png" alt="Anterior" />
 </a>
 
 Pirate Empires: Parte 2 -  WIP ao mar
 
-<img class="ddnext" src="http://www.funorb.com/l=3/img/images/kbase/dev_diary/next_null.png" alt="" />
+<img class="ddnext" src="../../l=3/img/images/kbase/dev_diary/next_null.png" alt="" />
 
 </h2>
-<img src="http://www.funorb.com/l=3/img/images/game/pirateempires/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="Pirate Empires - Diário de desenvolvimento - Banner" />
-<h3 class="subheader">30 de março de 2009 - WIP ao mar</h3>
+<img src="../../l=3/img/images/game/pirateempires/dev_diary/banner.jpg" style="display: block; margin: 0 auto 1em" alt="Pirate Empires - Diï¿½rio de desenvolvimento - Banner" />
+<h3 class="subheader">30 de marï¿½o de 2009 - WIP ao mar</h3>
 <div class="ddScreens" style="float: right; margin: 8px;">
-<img src="http://www.funorb.com/l=3/img/images/game/pirateempires/dev_diary/image3.jpg" alt="Batalha no mar - Mod" />
-<div class="ddCaption" style="margin:auto; width:310px;">Alguns JMods fazendo uma batalha no mar.<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/pirateempires/dev_diary/image3_large.jpg" target="_blank">aqui</a> para ver uma versão maior desta imagem.</div>
+<img src="../../l=3/img/images/game/pirateempires/dev_diary/image3.jpg" alt="Batalha no mar - Mod" />
+<div class="ddCaption" style="margin:auto; width:310px;">Alguns JMods fazendo uma batalha no mar.<br>Clique <a href="../../l=3/img/images/game/pirateempires/dev_diary/image3_large.jpg" target="_blank">aqui</a> para ver uma versï¿½o maior desta imagem.</div>
 </div>
-<p>Recentemente, estive trabalhando para melhorar a renderização das ilhas durante as batalhas no mar (onde elas podem ser bastante grandes) e no mapa mundi do jogo (onde elas podem ser bem pequenas). É meio complicado fazer um jogo desta magnitude, já que tenho que garantir que o jogo funcionará bem em computadores antigos e ao mesmo tempo que garantir uma conexão de rede confiável. Dessa forma, acabamos por fazer a maioria dos nossos cálculos em aritmética de ponto fixo. Isto é, nós usamos números inteiros em vez de números com ponto flutuante. Apesar de números com ponto flutuante serem mais precisos e poderem facilmente representar frações, eles podem ser mais lentos para o computador calcular, resultam em perda de exatidão e agem de forma imprevisível de um computador para o outro. </p>
-<p>Então a pergunta-chave que devemos fazer é: qual o tamanho de 1? Pode ser tranquilo para 1 representar 1cm nas batalhas ao mar, mas se usarmos isso para o mapa mundi do jogo, podemos acabar tendo um jogo com o mundo de no máximo 1km² - e é óbvio que isso não é suficiente para um pirata sobreviver. Se você aumentar muito a escala, porém, as animações e movimentos de câmera acabam quebrando. É como se estivéssemos tentando tirar bolhas de papel de parede essa semana!</p>
-<p>Outro dia, coloquei o jogo no nosso sistema interno (WIP - work-in-progress, em português, trabalho em andamento) do FunOrb para poder mostrá-lo a alguns colegas. Para dizer a verdade, queria mesmo era mostrar para um "rato de laboratório", mas quando há um jogo novo rodando na máquina de um colega o departamento inteiro fica interessado. As coisas rapidamente acabaram virando uma grande batalha, com outros membros da equipe de desenvolvimento do FunOrb morrendo de vontade de experimentar o jogo. </p>
+<p>Recentemente, estive trabalhando para melhorar a renderizaï¿½ï¿½o das ilhas durante as batalhas no mar (onde elas podem ser bastante grandes) e no mapa mundi do jogo (onde elas podem ser bem pequenas). ï¿½ meio complicado fazer um jogo desta magnitude, jï¿½ que tenho que garantir que o jogo funcionarï¿½ bem em computadores antigos e ao mesmo tempo que garantir uma conexï¿½o de rede confiï¿½vel. Dessa forma, acabamos por fazer a maioria dos nossos cï¿½lculos em aritmï¿½tica de ponto fixo. Isto ï¿½, nï¿½s usamos nï¿½meros inteiros em vez de nï¿½meros com ponto flutuante. Apesar de nï¿½meros com ponto flutuante serem mais precisos e poderem facilmente representar fraï¿½ï¿½es, eles podem ser mais lentos para o computador calcular, resultam em perda de exatidï¿½o e agem de forma imprevisï¿½vel de um computador para o outro. </p>
+<p>Entï¿½o a pergunta-chave que devemos fazer ï¿½: qual o tamanho de 1? Pode ser tranquilo para 1 representar 1cm nas batalhas ao mar, mas se usarmos isso para o mapa mundi do jogo, podemos acabar tendo um jogo com o mundo de no mï¿½ximo 1kmï¿½ - e ï¿½ ï¿½bvio que isso nï¿½o ï¿½ suficiente para um pirata sobreviver. Se vocï¿½ aumentar muito a escala, porï¿½m, as animaï¿½ï¿½es e movimentos de cï¿½mera acabam quebrando. ï¿½ como se estivï¿½ssemos tentando tirar bolhas de papel de parede essa semana!</p>
+<p>Outro dia, coloquei o jogo no nosso sistema interno (WIP - work-in-progress, em portuguï¿½s, trabalho em andamento) do FunOrb para poder mostrï¿½-lo a alguns colegas. Para dizer a verdade, queria mesmo era mostrar para um "rato de laboratï¿½rio", mas quando hï¿½ um jogo novo rodando na mï¿½quina de um colega o departamento inteiro fica interessado. As coisas rapidamente acabaram virando uma grande batalha, com outros membros da equipe de desenvolvimento do FunOrb morrendo de vontade de experimentar o jogo. </p>
 <div class="ddScreens" style="float: left; margin: 8px 8px 18px 8px;">
-<img src="http://www.funorb.com/l=3/img/images/game/pirateempires/dev_diary/image4.jpg" alt="WIP (do inglês, trabalho em andamento) da taverna" />
-<div class="ddCaption" style="margin:auto; width:310px;">Uma taverna construída <i>muito</i> antigamente (com marcador de posição para gráficos).<br>Clique <a href="http://www.funorb.com/l=3/img/images/game/pirateempires/dev_diary/image4_large.jpg" target="_blank">aqui</a> para ver uma versão maior desta imagem.</div>
+<img src="../../l=3/img/images/game/pirateempires/dev_diary/image4.jpg" alt="WIP (do inglï¿½s, trabalho em andamento) da taverna" />
+<div class="ddCaption" style="margin:auto; width:310px;">Uma taverna construï¿½da <i>muito</i> antigamente (com marcador de posiï¿½ï¿½o para grï¿½ficos).<br>Clique <a href="../../l=3/img/images/game/pirateempires/dev_diary/image4_large.jpg" target="_blank">aqui</a> para ver uma versï¿½o maior desta imagem.</div>
 </div>
 <div style="width: 379px; float: right;">
-<p>É sempre muito bom ver pessoas novas jogando o jogo que você está desenvolvendo - te ajuda a ver o que há de errado com ele, coisas que você não conseguia ver antes. Até mesmo coisas simples, como ver que alguém está com dificuldade de usar uma interface, podem ajudar você a melhorar a qualidade final do jogo. Este "pequeno" teste fez com que eu e <b><i>Mod Dunk</i></b> acabássemos com uma verdadeira montanha de coisinhas para consertar e melhorar nas batalhas no mar. Temos ainda muito trabalho a fazer neste jogo até que ele atinja nosso padrão de qualidade, mas estamos chegando lá.</p>
-<p style="clear: right;">Além disso, nós também estamos trabalhando nos portos. Temos colocado marinheiros de todos os tipos que você pode imaginar nas tavernas: de marinheiros robustos e corajosos aos vilões mais sanguinários dos sete mares - os quais você poderá recrutar para a sua tripulação! E nos certificamos de que os saques estocados nos porões dos seus navios fiquem tão "organizados" quanto um pirata de renome merece: tudo empilhado! (O que me faz lembrar um pouco a minha mesa...)</p>
-<p><b><i>Mod Wivlaro<br>Desenvolvedor do FunOrb<br>(Nível de rum no momento: baixo)</i></b></p>
+<p>ï¿½ sempre muito bom ver pessoas novas jogando o jogo que vocï¿½ estï¿½ desenvolvendo - te ajuda a ver o que hï¿½ de errado com ele, coisas que vocï¿½ nï¿½o conseguia ver antes. Atï¿½ mesmo coisas simples, como ver que alguï¿½m estï¿½ com dificuldade de usar uma interface, podem ajudar vocï¿½ a melhorar a qualidade final do jogo. Este "pequeno" teste fez com que eu e <b><i>Mod Dunk</i></b> acabï¿½ssemos com uma verdadeira montanha de coisinhas para consertar e melhorar nas batalhas no mar. Temos ainda muito trabalho a fazer neste jogo atï¿½ que ele atinja nosso padrï¿½o de qualidade, mas estamos chegando lï¿½.</p>
+<p style="clear: right;">Alï¿½m disso, nï¿½s tambï¿½m estamos trabalhando nos portos. Temos colocado marinheiros de todos os tipos que vocï¿½ pode imaginar nas tavernas: de marinheiros robustos e corajosos aos vilï¿½es mais sanguinï¿½rios dos sete mares - os quais vocï¿½ poderï¿½ recrutar para a sua tripulaï¿½ï¿½o! E nos certificamos de que os saques estocados nos porï¿½es dos seus navios fiquem tï¿½o "organizados" quanto um pirata de renome merece: tudo empilhado! (O que me faz lembrar um pouco a minha mesa...)</p>
+<p><b><i>Mod Wivlaro<br>Desenvolvedor do FunOrb<br>(Nï¿½vel de rum no momento: baixo)</i></b></p>
 </div>
 <br class="clear" />
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 </div>
@@ -268,17 +268,17 @@ Pirate Empires: Parte 2 -  WIP ao mar
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/p=wftSWYZJrXv0xa-t7zCjUPTFr*3vMKNQ8mjS9SRSWkA/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

@@ -7,7 +7,7 @@
 
 
 body{
- background-image: url('http://www.funorb.com/l=4/img/microsites/arcanists/back.jpg');
+ background-image: url('../../../../../l=4/img/microsites/arcanists/back.jpg');
  background-repeat: repeat-x;
  background-position: center top;
  background-color: #13110f;
@@ -15,7 +15,7 @@ body{
  font-family: Arial,Helvetica,FreeSans,sans-serif;
 }
 #copyright{
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
+ background: url('../../../../../l=4/img/microsites/arcanists/copyright_alpha.png') transparent no-repeat;
  margin: auto;
  width: 367px;
  height: 104px;
@@ -48,7 +48,7 @@ body{
  padding: 0px;
 }
 #header{
- background: url('http://www.funorb.com/l=4/img/microsites/arcanists/play/top.jpg');
+ background: url('../../../../../l=4/img/microsites/arcanists/play/top.jpg');
  width:      776px;
  height:      137px;
  text-align:    center;
@@ -134,7 +134,7 @@ body{
 
 
  #bookmark {
-  background: black url('http://www.funorb.com/l=4/img/microsites/arcanists/social_bg.jpg') no-repeat top left;
+  background: black url('../../../../../l=4/img/microsites/arcanists/social_bg.jpg') no-repeat top left;
   margin:      auto;
   width:      776px;
   background-color: black;

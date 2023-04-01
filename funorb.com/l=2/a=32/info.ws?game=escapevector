@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jeux en ligne gratuits, jeux de réflexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rétro, jeux classiques, jeux Web, jeux de stratégie, jeux multijoueur, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jeux en ligne gratuits, jeux de rï¿½flexion, puzzle games, jeux de plate-forme, jeux d'arcade, jeux de tir, jeux d'action, jeux Java, joueur occasionnel, jeux de course, jeux automobile, jeux de mots, jeux rï¿½tro, jeux classiques, jeux Web, jeux de stratï¿½gie, jeux multijoueur, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace jeux en ligne gratuit de Jagex, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2008 Jagex Ltd, www.jagex.com">
@@ -20,12 +20,12 @@ fr">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/a=32/css/global-8.css);/**/
+  /*\*/@import url(../../l=2/a=32/css/global-8.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/a=32/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/a=32/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=2/a=32/css/layout.ws"></script>
+<script type="text/javascript" src="../../l=2/a=32/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -41,12 +41,12 @@ fr">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/a=32/css/info-3.css");/**/
+ /*\*/@import url("../../l=2/a=32/css/info-3.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/a=32/img/images/game/escapevector/intro.jpg);
+  background-image: url(../../l=2/a=32/img/images/game/escapevector/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/a=32/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../l=2/a=32/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -58,10 +58,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen4.jpg';
+images[0] = '../../l=2/a=32/img/images/game/escapevector/screen1.jpg';
+images[1] = '../../l=2/a=32/img/images/game/escapevector/screen2.jpg';
+images[2] = '../../l=2/a=32/img/images/game/escapevector/screen3.jpg';
+images[3] = '../../l=2/a=32/img/images/game/escapevector/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -125,35 +125,35 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="affiliate">
-<a href="http://www.funorb.com/l=2/a=32/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../l=2/a=32/index.ws" id="logo"><span>FunOrb</span></a>
 <a href="http://www.wildgames.com" target="_blank">
-<img id="afflogo" src="http://www.funorb.com/l=2/a=32/img/affil/partners/hp.gif" alt="HP Desktop" />
+<img id="afflogo" src="../../l=2/a=32/img/affil/partners/hp.gif" alt="HP Desktop" />
 </a>
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/a=32/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/a=32/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/a=32/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/a=32/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p3"><a id="account" class="top_link" href="https://create.funorb.com/l=2/a=32/"><span>S'inscrire</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
-<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Créer un compte gratuit</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/members.ws" class="fly last">Avantages abonné</a></li>
+<li><a href="https://create.funorb.com/l=2/a=32/" class="fly">Crï¿½er un compte gratuit</a></li>
+<li><a href="../../l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/a=32/members.ws" class="fly last">Avantages abonnï¿½</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://focommunity.funorb.com/l=2/a=32/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
@@ -162,37 +162,37 @@ function imageGoto(self, img){
 <li><a href="http://forum-fo-fr.funorb.com/l=2/a=32/forums.ws?0,1" class="fly">Annonces</a></li>
 <li><a href="http://achievements.funorb.com/l=2/a=32/" class="fly">Exploits</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=2/a=32/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Téléchargements FunOrb</a></li>
+<li><a href="http://orbcoins.funorb.com/l=2/a=32/" class="fly last">Tï¿½lï¿½chargements FunOrb</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/a=32/kbase/view.ws?guid=help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problèmes de mot de passe</a></li>
-<li><a href="http://www.funorb.com/l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/a=32/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/a=32/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/a=32/kbase/view.ws?guid=password_support" class="fly">Problï¿½mes de mot de passe</a></li>
+<li><a href="../../l=2/a=32/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
-<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Créer un compte</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=2/a=32/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=escapevector" id="signIn" class="top_link"><span>Se connecter</span></a></li>
+<li class="top p7"><a href="https://create.funorb.com/l=2/a=32/" id="register" class="top_link"><span>Crï¿½er un compte</span></a></li>
+<li class="top p8"><a href="../../l=2/a=32/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=escapevector" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=32/index.ws">
-<img alt="English" src="http://www.funorb.com/l=2/a=32/img/images/layout/en.gif">
+<a href="../../a=32/index.ws">
+<img alt="English" src="../../l=2/a=32/img/images/layout/en.gif">
 </a>
-<a href="http://www.funorb.com/l=1/a=32/index.ws">
-<img alt="Deutsch" src="http://www.funorb.com/l=2/a=32/img/images/layout/de.gif">
+<a href="../../l=1/a=32/index.ws">
+<img alt="Deutsch" src="../../l=2/a=32/img/images/layout/de.gif">
 </a>
-<a href="http://www.funorb.com/l=2/a=32/index.ws">
-<img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=2/a=32/img/images/layout/fr.gif">
+<a href="../../l=2/a=32/index.ws">
+<img alt="Fran&ccedil;ais" src="../../l=2/a=32/img/images/layout/fr.gif">
 </a>
 </span>
 </div>
@@ -209,13 +209,13 @@ function imageGoto(self, img){
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/a=32/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/a=32/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=2/a=32/escapevector/play.ws">Tracto Vector</a> &gt;
+<a href="../../l=2/a=32/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/a=32/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
+<a name="link0" id="link0" href="../../l=2/a=32/escapevector/play.ws">Tracto Vector</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/a=32/escapevector/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/a=32/escapevector/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -228,39 +228,39 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/a=32/gamelist.ws?genreBox=arcade"><span class="genre">Arcade</span></a><br> Pilotez votre vaisseau dans des grottes terrifiantes et récupérez la technologie terrestre. </div>
+<a href="../../l=2/a=32/gamelist.ws?genreBox=arcade"><span class="genre">Arcade</span></a><br> Pilotez votre vaisseau dans des grottes terrifiantes et rï¿½cupï¿½rez la technologie terrestre. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a class="buttonWide" href="https://create.funorb.com/l=2/a=32/"><div>Créer un compte gratuit</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=2/a=32/escapevector/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a class="buttonWide" href="https://create.funorb.com/l=2/a=32/"><div>Crï¿½er un compte gratuit</div></a><br />
+<a name="link1" id="link1" class="buttonPlayBig" href="../../l=2/a=32/escapevector/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
-<div class="subsectionTitle">Captures d'écran</div>
+<div class="subsectionTitle">Captures d'ï¿½cran</div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/a=32/img/images/game/escapevector/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen1_thumb.jpg);">
+<a href="../../l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/a=32/img/images/game/escapevector/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen2_thumb.jpg);">
+<a href="../../l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/a=32/img/images/game/escapevector/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen3_thumb.jpg);">
+<a href="../../l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/a=32/img/images/game/escapevector/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/a=32/img/images/game/escapevector/screen4_thumb.jpg);">
+<a href="../../l=2/a=32/display_screenshot.ws?dirname=escapevector&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/a=32/img/images/game/escapevector/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -270,21 +270,21 @@ Plus d'infos </span>
 <a name="benefits"></a>
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
-<div class="subsectionTitle">Tracto Vector Avantages abonné</div>
+<div class="subsectionTitle">Tracto Vector Avantages abonnï¿½</div>
 </div>
 <div class="subsectionContent">
 <div class="benefitsPadding"></div>
 <div class="benefitsContent">
 <div class="benefitsList">
 <ul>
-<li>12 niveaux supplémentaires</li>
+<li>12 niveaux supplï¿½mentaires</li>
 <li>4 super power-ups</li>
-<li>15 exploits corsés</li>
-<li>Mode plein écran</li>
+<li>15 exploits corsï¿½s</li>
+<li>Mode plein ï¿½cran</li>
 <li>Aucune pub en cours de jeu</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/a=32/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -297,9 +297,9 @@ Plus d'infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Vous incarnez un pilote dont la mission est de récupérer la technologie des humains, dérobée par les extraterrestres. Mais votre ennemi n'est pas celui que vous croyez ! Pour atteindre votre objectif, vous devrez défier la pesanteur dans d'effroyables grottes...</p>
-<p>Avancez prudemment dans chaque niveau, anéantissez les défenses extraterrestres et localisez l'équipement. Ça, c'est la partie facile... Ensuite, vous devrez regagner la surface sans vous écraser ou détruire notre technologie...</p>
-<p>Aurez-vous le sang-froid, l'adresse et la détermination nécessaires pour affronter les extraterrestres ET les lois de la pesanteur ? Bonne chance, Commandant.</p>
+<p>Vous incarnez un pilote dont la mission est de rï¿½cupï¿½rer la technologie des humains, dï¿½robï¿½e par les extraterrestres. Mais votre ennemi n'est pas celui que vous croyez ! Pour atteindre votre objectif, vous devrez dï¿½fier la pesanteur dans d'effroyables grottes...</p>
+<p>Avancez prudemment dans chaque niveau, anï¿½antissez les dï¿½fenses extraterrestres et localisez l'ï¿½quipement. ï¿½a, c'est la partie facile... Ensuite, vous devrez regagner la surface sans vous ï¿½craser ou dï¿½truire notre technologie...</p>
+<p>Aurez-vous le sang-froid, l'adresse et la dï¿½termination nï¿½cessaires pour affronter les extraterrestres ET les lois de la pesanteur ? Bonne chance, Commandant.</p>
 </div>
 </div>
 </div>
@@ -308,49 +308,49 @@ Plus d'infos </span>
 <a name="faqs"></a>
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
-<div class="subsectionTitle">Questions fréquentes</div>
+<div class="subsectionTitle">Questions frï¿½quentes</div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
 <li><a href="#faqs_q1">Des conseils pour piloter mon vaisseau ?</a></li>
 <li><a href="#faqs_q2">Comment ramasser les conteneurs ?</a></li>
-<li><a href="#faqs_q3">Comment empêcher les conteneurs de bouger de façon incontrôlable ?</a></li>
+<li><a href="#faqs_q3">Comment empï¿½cher les conteneurs de bouger de faï¿½on incontrï¿½lable ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
 <h3>1. Des conseils pour piloter mon vaisseau ?</h3>
-<p>Le plus important, c'est de ne pas oublier que votre vaisseau conserve son élan. Une fois propulsé dans une direction, il continue d'avancer dans cette direction. Pour vous arrêter, vous devez vous propulser dans la direction inverse.</p>
-<p>N'orientez pas le vaisseau directement dans la trajectoire souhaitée. Maintenez-le bien droit et propulsez-vous suffisamment pour contrer la force de gravité. Pour descendre, propulsez-vous à moindre puissance. Pour tourner, faites pivoter légèrement votre vaisseau et continuez de vous propulser normalement. Pour redresser votre vaisseau, continuez de vous propulser mais repassez à la verticale puis tournez légèrement dans l'autre afin d'annuler le mouvement horizontal.</p>
-<p>Le niveau du didacticiel est idéal pour vous familiariser avec le pilotage de votre vaisseau sans courir le risque de vous écraser. N'oubliez pas que vous pouvez activer votre bouclier en appuyant sur Espace ou sur Maj.</p>
+<p>Le plus important, c'est de ne pas oublier que votre vaisseau conserve son ï¿½lan. Une fois propulsï¿½ dans une direction, il continue d'avancer dans cette direction. Pour vous arrï¿½ter, vous devez vous propulser dans la direction inverse.</p>
+<p>N'orientez pas le vaisseau directement dans la trajectoire souhaitï¿½e. Maintenez-le bien droit et propulsez-vous suffisamment pour contrer la force de gravitï¿½. Pour descendre, propulsez-vous ï¿½ moindre puissance. Pour tourner, faites pivoter lï¿½gï¿½rement votre vaisseau et continuez de vous propulser normalement. Pour redresser votre vaisseau, continuez de vous propulser mais repassez ï¿½ la verticale puis tournez lï¿½gï¿½rement dans l'autre afin d'annuler le mouvement horizontal.</p>
+<p>Le niveau du didacticiel est idï¿½al pour vous familiariser avec le pilotage de votre vaisseau sans courir le risque de vous ï¿½craser. N'oubliez pas que vous pouvez activer votre bouclier en appuyant sur Espace ou sur Maj.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Comment ramasser les conteneurs ?</h3>
-<p>La meilleure façon de ramasser les conteneurs est de se poser juste à côté. L'amarrage a lieu automatiquement à l'aide du câble si vous êtes suffisamment proche du conteneur.</p>
-<p>Maintenez votre vaisseau bien droit et descendez lentement tout en vous propulsant suffisamment pour conserver une vitesse réduite. Pour annuler tout mouvement latéral, faites pivoter légèrement votre vaisseau dans la direction opposée. Lorsque vous vous rapprochez du sol, vérifiez que le vaisseau est à la verticale et atterrissez.</p>
-<p>Lorsque vous êtes prêt à redécoller, allez-y franchement. Une fois qu'un conteneur a quitté le sol, il ne doit plus le toucher ou percuter d'obstacles ou il explosera.</p>
+<p>La meilleure faï¿½on de ramasser les conteneurs est de se poser juste ï¿½ cï¿½tï¿½. L'amarrage a lieu automatiquement ï¿½ l'aide du cï¿½ble si vous ï¿½tes suffisamment proche du conteneur.</p>
+<p>Maintenez votre vaisseau bien droit et descendez lentement tout en vous propulsant suffisamment pour conserver une vitesse rï¿½duite. Pour annuler tout mouvement latï¿½ral, faites pivoter lï¿½gï¿½rement votre vaisseau dans la direction opposï¿½e. Lorsque vous vous rapprochez du sol, vï¿½rifiez que le vaisseau est ï¿½ la verticale et atterrissez.</p>
+<p>Lorsque vous ï¿½tes prï¿½t ï¿½ redï¿½coller, allez-y franchement. Une fois qu'un conteneur a quittï¿½ le sol, il ne doit plus le toucher ou percuter d'obstacles ou il explosera.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Comment empêcher les conteneurs de bouger de façon incontrôlable ?</h3>
-<p>Pour immobiliser un conteneur, repérez le moment où il atteint son plein effet de balancier. Propulsez-vous alors de façon à vous positionner juste au-dessus. Il devrait se stabiliser, ce qui vous permettra d'en reprendre le contrôle.</p>
-<p>Si vous vous apercevez que le conteneur risque de percuter un mur, propulsez-vous immédiatement dans la direction opposée. Le conteneur se balancer, mais en tirant sur le câble, vous devriez l'empêcher de s'écraser. Vous devrez peut-être vous propulser ainsi plusieurs fois d'avant en arrière pour immobiliser totalement le conteneur.</p>
-<p>La partie sécurisée de la zone d'entraînement du vaisseau mère (didacticiel) est un bon endroit pour apprendre à récupérer les conteneurs. Attention quand même à ne pas vous approcher trop des murs, car votre bouclier ne protège que votre vaisseau !</p>
+<h3>3. Comment empï¿½cher les conteneurs de bouger de faï¿½on incontrï¿½lable ?</h3>
+<p>Pour immobiliser un conteneur, repï¿½rez le moment oï¿½ il atteint son plein effet de balancier. Propulsez-vous alors de faï¿½on ï¿½ vous positionner juste au-dessus. Il devrait se stabiliser, ce qui vous permettra d'en reprendre le contrï¿½le.</p>
+<p>Si vous vous apercevez que le conteneur risque de percuter un mur, propulsez-vous immï¿½diatement dans la direction opposï¿½e. Le conteneur se balancer, mais en tirant sur le cï¿½ble, vous devriez l'empï¿½cher de s'ï¿½craser. Vous devrez peut-ï¿½tre vous propulser ainsi plusieurs fois d'avant en arriï¿½re pour immobiliser totalement le conteneur.</p>
+<p>La partie sï¿½curisï¿½e de la zone d'entraï¿½nement du vaisseau mï¿½re (didacticiel) est un bon endroit pour apprendre ï¿½ rï¿½cupï¿½rer les conteneurs. Attention quand mï¿½me ï¿½ ne pas vous approcher trop des murs, car votre bouclier ne protï¿½ge que votre vaisseau !</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>4. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées<b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es<b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<br> Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques. <br><br>
-Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications. <br><br>
-Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes. <br><br> Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.
+<br> Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques. <br><br>
+Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications. <br><br>
+Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes. <br><br> Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/a=32/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -364,11 +364,11 @@ Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../l=2/a=32/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../l=2/a=32/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=2/a=32/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=2/a=32/img/images/layout/jagex_footer.gif" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

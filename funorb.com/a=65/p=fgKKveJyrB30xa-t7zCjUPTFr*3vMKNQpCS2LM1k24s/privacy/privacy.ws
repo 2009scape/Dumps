@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=65/css/global-4.css);/**/
+  /*\*/@import url(../../../a=65/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=65/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=65/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=65/css/layout.ws"></script>
+<script type="text/javascript" src="../../../a=65/css/layout.ws"></script>
 
 <style type="text/css">
  #article b { color: white; }
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,27 +92,27 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=faqs" class="fly">FAQs</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=faqs" class="fly">FAQs</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/loginapplet/login.ws?mod=www&ssl=0&dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/loginapplet/login.ws?mod=www&ssl=0&dest=privacy/privacy.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws"><img src="http://www.funorb.com/a=65/img/images/layout/en.gif" alt="English" /></a>
-<a href="http://www.funorb.com/l=1/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws"><img src="http://www.funorb.com/a=65/img/images/layout/de.gif" alt="German" /></a>
+<a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws"><img src="../../../a=65/img/images/layout/en.gif" alt="English" /></a>
+<a href="../../../l=1/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/index.ws"><img src="../../../a=65/img/images/layout/de.gif" alt="German" /></a>
 </span>
 </div>
 </li>
@@ -147,8 +147,8 @@ This is the privacy policy of Jagex Limited and any companies within our group (
 <p>We are committed to protecting your privacy and take special measures to ensure the confidentiality of personally identifiable information collected from or about you. This privacy policy explains how we collect, store and use such personally identifiable information. ("Personally identifiable information" is information that identifies you and can be used to contact or locate you in real life, such as your real full name, e-mail address, mobile number, postal address or credit card information.)</p>
 <p>Please read this policy carefully. Your accepting it in full is a condition of your use of our websites (whether or not you are a subscriber). If you don't agree with this policy, or any part, please don't use our websites. Your using any of our websites is treated as an acceptance of the version of this policy in effect at the time of your use.</p>
 <p>We may change this policy at any time. Please check it whenever you return to the site. We will treat your continued use of our websites as acceptance of these changes from their effective date as shown above.</p>
-<p>If you have any questions about this privacy policy, please contact us by emailing <img style="vertical-align: bottom" src="http://www.funorb.com/a=65/img/privacy/privacy.gif"> and do not use our websites until you are satisfied and can accept this policy in its entirety.</p>
-<p>In this privacy policy, "Jagex Products Jagex Products" is used as shorthand for all versions of "RuneScape®", "FunOrb®" and any other online games released by Jagex from time to time including all Jagex websites used to play those games.</p>
+<p>If you have any questions about this privacy policy, please contact us by emailing <img style="vertical-align: bottom" src="../../../a=65/img/privacy/privacy.gif"> and do not use our websites until you are satisfied and can accept this policy in its entirety.</p>
+<p>In this privacy policy, "Jagex Products Jagex Products" is used as shorthand for all versions of "RuneScapeï¿½", "FunOrbï¿½" and any other online games released by Jagex from time to time including all Jagex websites used to play those games.</p>
 <p>References to "Terminating" an account include all or any of: locking / suspending, temporarily banning or permanently banning the account.</p>
 <p>
 <b>What personally identifiable information do we collect and store?</b><br>
@@ -191,7 +191,7 @@ A cookie is a text-only string of information that a website transfers to the co
 <p>Persistent cookies remain in the cookie file of your browser for a specific period. Cookies can help a website to arrange content to match your preferred interests more quickly. Most major websites use cookies. Cookies cannot be used by themselves to identify you.</p>
 <p>We use persistent cookies to track your country (to enable us to provide country-specific content) and to track whether you entered our websites from a link on site of one of our business partners. Persistent cookies also allow you to login when you return to the site, by storing your login information on your own computer. Additionally we may use persistent cookies to store information about which adverts from our site have been displayed to you to help avoid showing the same one repeatedly or to provide more that we hope will meet your needs or interests</p>
 <p>Our advertisers also use cookies and other proprietary technologies to better determine your advert-related interests and how to provide better services and features that meet your needs or interests. For more information about this, see under "Third Parties" below.</p>
-<p>If you wish to opt-out of the use of these cookies <a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/cookies.ws">click here</a> for clear instructions. Some features may not be available if you reject cookies.</p>
+<p>If you wish to opt-out of the use of these cookies <a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/cookies.ws">click here</a> for clear instructions. Some features may not be available if you reject cookies.</p>
 <p>For more information about cookies, <a href="http://www.allaboutcookies.org" target="_blank">click here</a>.</p>
 <p>
 <b>
@@ -211,10 +211,10 @@ We will only collect personally identifiable information to the extent we believ
 <p>
 <b>
 Review, correction and deletion of information from our records</b><br>
-If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our <a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/privacy/dataprotect.ws">Data Protection Policy</a> (Its terms are incorporated into this document by reference.)</p>
+If for data protection purposes you are concerned that the personally identifiable information which we hold about you is not accurate, or should you wish to have your personal information removed from our records, please see our <a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/privacy/dataprotect.ws">Data Protection Policy</a> (Its terms are incorporated into this document by reference.)</p>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=65/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../a=65/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -228,15 +228,15 @@ If for data protection purposes you are concerned that the personally identifiab
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=65/p=fgKKveJyrB30xa-t7zCjUPTFr*3vMKNQpCS2LM1k24s/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=65/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../a=65/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

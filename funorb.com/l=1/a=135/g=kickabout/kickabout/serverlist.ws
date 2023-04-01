@@ -19,15 +19,15 @@ de">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/a=135/g=kickabout/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/a=135/g=kickabout/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../../l=1/a=135/g=kickabout/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../../l=1/a=135/g=kickabout/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=135/css/global-44.css);/**/
+  /*\*/@import url(../../../../l=1/a=135/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/l=1/a=135/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=135/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../../l=1/a=135/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
  body {
@@ -88,15 +88,15 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/a=135/g=kickabout/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../../l=1/a=135/g=kickabout/index.ws" ><b>
+<img src="../../../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf Jetzt Spielen und dann auf Kostenloses Spielkonto erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/a=135/g=kickabout/messengercommon0.js"></script>
@@ -107,25 +107,25 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=135/g=kickabout/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../../l=1/a=135/g=kickabout/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../../l=1/a=135/g=kickabout/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/a=135/g=kickabout/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../../l=1/a=135/g=kickabout/account_management.ws"><span>Spielkonto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -136,23 +136,23 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="http://services.funorb.com/m=focommunity/l=1/a=135/g=kickabout/" class="fly">Community-Startseite</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_de/l=1/a=135/g=kickabout/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/a=135/g=kickabout/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/a=135/g=kickabout/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/a=135/g=kickabout/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=135/g=kickabout/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../../l=1/a=135/g=kickabout/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/g=kickabout/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../../../l=1/a=135/g=kickabout/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -160,28 +160,28 @@ http://services.funorb.com/m=forum_fo_de/l=1/a=135/g=kickabout/forums.ws" class=
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/a=135/g=kickabout/loginform.ws?mod=www&amp;ssl=0&amp;dest=kickabout/serverlist.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=135/g=kickabout/index.ws">
+<a id="countrydrop" href="../../../../l=1/a=135/g=kickabout/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/g=kickabout/index.ws"><img title="
+<li><a class="fly" href="../../../../a=135/g=kickabout/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/g=kickabout/index.ws"><img title="
+English" src="../../../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../../l=1/a=135/g=kickabout/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/g=kickabout/index.ws"><img title="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../../l=2/a=135/g=kickabout/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/g=kickabout/index.ws"><img title="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../../l=3/a=135/g=kickabout/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -197,9 +197,9 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=135/g=kickabout/gamelist.ws?genreBox=sport">Sport</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/a=135/g=kickabout/kickabout/play.ws">Kickabout League</a> &gt;
+<a href="../../../../l=1/a=135/g=kickabout/gamelist.ws">Spiele</a> &gt;
+<a href="../../../../l=1/a=135/g=kickabout/gamelist.ws?genreBox=sport">Sport</a> &gt;
+<a onclick="suffixize(this)" href="../../../../l=1/a=135/g=kickabout/kickabout/play.ws">Kickabout League</a> &gt;
 Serverliste 
 </div>
 </div>
@@ -210,7 +210,7 @@ Serverliste
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p> Unten befindet sich eine Liste der Server für das Spiel Kickabout League. Falls ihr einen bestimmten Server auswählen wollt, müsst ihr nur auf seinen Namen klicken. Die Spalte Ort sagt aus, wo sich der Server befindet. Ihr solltet einen Server in eurer Nähe auswählen, um die Verbindung zu beschleunigen. </p>
+<p> Unten befindet sich eine Liste der Server fï¿½r das Spiel Kickabout League. Falls ihr einen bestimmten Server auswï¿½hlen wollt, mï¿½sst ihr nur auf seinen Namen klicken. Die Spalte Ort sagt aus, wo sich der Server befindet. Ihr solltet einen Server in eurer Nï¿½he auswï¿½hlen, um die Verbindung zu beschleunigen. </p>
 <table>
 <thead>
 <tr class="row_a">
@@ -271,25 +271,25 @@ UK
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=135/g=kickabout/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../../a=135/g=kickabout/index.ws"><img alt="
+English" src="../../../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=135/g=kickabout/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../../../l=1/a=135/g=kickabout/index.ws"><img alt="
+Deutsch" src="../../../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/g=kickabout/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../../../l=2/a=135/g=kickabout/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/g=kickabout/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../../../l=3/a=135/g=kickabout/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2011 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=135/g=kickabout/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=135/g=kickabout/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2011 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../../l=1/a=135/g=kickabout/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../../l=1/a=135/g=kickabout/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/a=135/g=kickabout/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/a=135/g=kickabout/" target="_blank"><img src="../../../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

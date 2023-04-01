@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=dungeonassault/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=dungeonassault/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=2/g=dungeonassault/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=2/g=dungeonassault/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=2/css/info-8.css");/**/
+ /*\*/@import url("../../l=2/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=2/img/images/game/vertigo2/intro.jpg);
+  background-image: url(../../l=2/img/images/game/vertigo2/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=2/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=2/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=2/img/images/game/vertigo2/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=2/img/images/game/vertigo2/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=2/img/images/game/vertigo2/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=2/img/images/game/vertigo2/screen4.jpg?1';
+images[0] = '../../l=2/img/images/game/vertigo2/screen1.jpg?1';
+images[1] = '../../l=2/img/images/game/vertigo2/screen2.jpg?1';
+images[2] = '../../l=2/img/images/game/vertigo2/screen3.jpg?1';
+images[3] = '../../l=2/img/images/game/vertigo2/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=dungeonassault/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=2/g=dungeonassault/index.ws" ><b>
+<img src="../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=dungeonassault/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=dungeonassault/messenger.js"></script>
 
@@ -154,51 +154,51 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=dungeonassault/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=2/g=dungeonassault/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=2/g=dungeonassault/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../l=2/g=dungeonassault/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../l=2/g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../l=2/g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../l=2/g=dungeonassault/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=dungeonassault/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=2/g=dungeonassault/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/account_management.ws" class="fly last">Gestion de compte</a></li>
+<li><a href="../../l=2/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../l=2/g=dungeonassault/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../l=2/g=dungeonassault/account_management.ws" class="fly last">Gestion de compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=dungeonassault/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=dungeonassault/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=dungeonassault/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=dungeonassault/" class="fly">Coin communautï¿½</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_fr/l=2/g=dungeonassault/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../l=2/g=dungeonassault/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=dungeonassault/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=dungeonassault/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=dungeonassault/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=dungeonassault/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=dungeonassault/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=2/g=dungeonassault/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=dungeonassault/bugtracker.ws" class="fly last">Signaler un bug</a></li>
+<li><a href="../../l=2/g=dungeonassault/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../l=2/g=dungeonassault/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../l=2/g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../l=2/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../l=2/g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../l=2/g=dungeonassault/bugtracker.ws" class="fly last">Signaler un bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=dungeonassault/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=vertigo2" id="signIn" class="top_link"><span>Connexion</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=dungeonassault/index.ws">
+<a id="countrydrop" href="../../l=2/g=dungeonassault/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=dungeonassault/index.ws"><img title="
+<li><a class="fly" href="../../g=dungeonassault/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img title="
+English" src="../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=dungeonassault/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img title="
+Deutsch" src="../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=dungeonassault/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=dungeonassault/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws">Jeux</a> &gt;
-<a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=2/g=dungeonassault/vertigo2/play.ws">Vertigo 2</a> &gt;
+<a href="../../l=2/g=dungeonassault/gamelist.ws">Jeux</a> &gt;
+<a href="../../l=2/g=dungeonassault/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../l=2/g=dungeonassault/vertigo2/play.ws">Vertigo 2</a> &gt;
 Plus d'infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=2/g=dungeonassault/vertigo2/serverlist.ws">Liste des serveurs</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=2/g=dungeonassault/vertigo2/serverlist.ws">Liste des serveurs</a>
 </span>
 
 </div>
@@ -261,38 +261,38 @@ Plus d'infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Un classique des jeux de plateforme qui donne le vertige.... ! </div>
+<a href="../../l=2/g=dungeonassault/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Un classique des jeux de plateforme qui donne le vertige.... ! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Description</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Questions fréquentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=2/g=dungeonassault/vertigo2/play.ws"></a>
+<a class="buttonWide" href="#faqs"><div>Questions frï¿½quentes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=2/g=dungeonassault/vertigo2/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Captures d'écran
+Captures d'ï¿½cran
 </div>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=2/img/images/game/vertigo2/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=2/img/images/game/vertigo2/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/vertigo2/screen1_thumb.jpg?1);">
+<a href="../../l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/vertigo2/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/vertigo2/screen2_thumb.jpg?1);">
+<a href="../../l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/vertigo2/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/vertigo2/screen3_thumb.jpg?1);">
+<a href="../../l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/vertigo2/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=2/img/images/game/vertigo2/screen4_thumb.jpg?1);">
+<a href="../../l=2/g=dungeonassault/display_screenshot.ws?game=vertigo2&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=2/img/images/game/vertigo2/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -319,7 +319,7 @@ Avantages de l'abonnement FunOrb
 
 </ul>
 </div>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=2/g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -333,10 +333,10 @@ Description
 </div>
 <div class="subsectionContent">
 <div>
-<p>Le jeu de plateforme 3D Jagex fait son come-back : des niveaux à faire tourner la tête, des pièges à tout-va, des téléporteurs et beaucoup de peinture ! Vertigo 2 est un retour au jeu original avec des graphismes améliorés et deux nouveaux modes.</p>
-<p>Pour ceux qui n'ont pas connu le premier jeu, Vertigo 2 est le jeu de plateforme par excellence. Serez-vous à la hauteur des 50 niveaux ? Aurez-vous le vertige ? Ferez-vous la grande chute ? N'attendez plus, lancez-vous !</p>
-<p>Au mode solo classique du jeu original, nous avons ajouté un mode multijoueur en ligne. Jouez jusqu'à 30 niveaux en tandem avec un ami ou battez-vous en duel.</p>
-<p>En plus de toutes ces nouveautés, Vertigo offre également un mode Top chrono sur 50 niveaux solo. Battez votre propre record pour chaque niveau et mettez vos amis au défi.</p>
+<p>Le jeu de plateforme 3D Jagex fait son come-back : des niveaux ï¿½ faire tourner la tï¿½te, des piï¿½ges ï¿½ tout-va, des tï¿½lï¿½porteurs et beaucoup de peinture ! Vertigo 2 est un retour au jeu original avec des graphismes amï¿½liorï¿½s et deux nouveaux modes.</p>
+<p>Pour ceux qui n'ont pas connu le premier jeu, Vertigo 2 est le jeu de plateforme par excellence. Serez-vous ï¿½ la hauteur des 50 niveaux ? Aurez-vous le vertige ? Ferez-vous la grande chute ? N'attendez plus, lancez-vous !</p>
+<p>Au mode solo classique du jeu original, nous avons ajoutï¿½ un mode multijoueur en ligne. Jouez jusqu'ï¿½ 30 niveaux en tandem avec un ami ou battez-vous en duel.</p>
+<p>En plus de toutes ces nouveautï¿½s, Vertigo offre ï¿½galement un mode Top chrono sur 50 niveaux solo. Battez votre propre record pour chaque niveau et mettez vos amis au dï¿½fi.</p>
 </div>
 </div>
 </div>
@@ -345,49 +345,49 @@ Description
 <div class="subsection" id="faqs" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Questions fréquentes
+Questions frï¿½quentes
 </div>
 </div>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Comment est calculé le temps du mode Top chrono ?</a></li>
+<li><a href="#faqs_q1">Comment est calculï¿½ le temps du mode Top chrono ?</a></li>
 <li><a href="#faqs_q2">J'ai peint tous les blocs en violet, mais le jeu me dit qu'il en reste. Comment cela se fait-il ?</a></li>
-<li><a href="#faqs_q3">Depuis que je suis passé au niveau inférieur, je n'arrive plus à remonter !</a></li>
-<li><a href="#faqs_q4">Y a-t-il d'autres commandes de déplacement que les touches fléchées ?</a></li>
-<li><a href="#faqs_q5">Qui peut jouer aux parties multijoueur classées ?</a></li>
+<li><a href="#faqs_q3">Depuis que je suis passï¿½ au niveau infï¿½rieur, je n'arrive plus ï¿½ remonter !</a></li>
+<li><a href="#faqs_q4">Y a-t-il d'autres commandes de dï¿½placement que les touches flï¿½chï¿½es ?</a></li>
+<li><a href="#faqs_q5">Qui peut jouer aux parties multijoueur classï¿½es ?</a></li>
 <li><a href="#faqs_spec">Quelle est la configuration minimale requise pour ce jeu ?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Comment est calculé le temps du mode Top chrono ?</h3>
-<p>Le temps total du mode Top Chrono est obtenu en aditionnant les meilleurs temps de chaque niveau, et en ajoutant 10 minutes pour chaque niveau qu'il vous reste à tenter. Même si vous ne pensez pas pouvoir terminer un niveau rapidement, il vaut quand même mieux essayer et gagner ainsi quelques minutes.</p>
+<h3>1. Comment est calculï¿½ le temps du mode Top chrono ?</h3>
+<p>Le temps total du mode Top Chrono est obtenu en aditionnant les meilleurs temps de chaque niveau, et en ajoutant 10 minutes pour chaque niveau qu'il vous reste ï¿½ tenter. Mï¿½me si vous ne pensez pas pouvoir terminer un niveau rapidement, il vaut quand mï¿½me mieux essayer et gagner ainsi quelques minutes.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. J'ai peint tous les blocs en violet, mais le jeu me dit qu'il en reste. Comment cela se fait-il ?</h3>
-<p>Certains blocs bleus ne peuvent pas être peints. En mode solo et tandem, les blocs fissurés sont équivalents à des bleus. Vous devez passer dessus pour vous en débarrasser. Si vous n'en voyez aucun, essayez tous les téléporteurs. Ils mènent parfois à des endroits que vous avez manqués.</p>
+<p>Certains blocs bleus ne peuvent pas ï¿½tre peints. En mode solo et tandem, les blocs fissurï¿½s sont ï¿½quivalents ï¿½ des bleus. Vous devez passer dessus pour vous en dï¿½barrasser. Si vous n'en voyez aucun, essayez tous les tï¿½lï¿½porteurs. Ils mï¿½nent parfois ï¿½ des endroits que vous avez manquï¿½s.</p>
 <div class="hr"></div>
-<a name="faqs_q3"></a> <h3>3. Depuis que je suis passé au niveau inférieur, je n'arrive plus à remonter !</h3>
-<p>D'abord, si c'est en effet le cas, la solution est de laisser ce niveau pour la fin tout en gardant assez de peinture pour le terminer.Parfois les plateformes ambulantes se déplacent plus loin lorsqu'un bloc sur le passage a été détruit. Vérifiez qu'il n'y en a pas une à proximité.</p>
+<a name="faqs_q3"></a> <h3>3. Depuis que je suis passï¿½ au niveau infï¿½rieur, je n'arrive plus ï¿½ remonter !</h3>
+<p>D'abord, si c'est en effet le cas, la solution est de laisser ce niveau pour la fin tout en gardant assez de peinture pour le terminer.Parfois les plateformes ambulantes se dï¿½placent plus loin lorsqu'un bloc sur le passage a ï¿½tï¿½ dï¿½truit. Vï¿½rifiez qu'il n'y en a pas une ï¿½ proximitï¿½.</p>
 <div class="hr"></div>
-<a name="faqs_q4"></a> <h3>4. Y a-t-il d'autres commandes de déplacement que les touches fléchées ?</h3>
-<p>Oui. Vous pouvez vous déplacer en utilisant les touches fléchées ou les touches R, D, F, G. Pour sauter, vous pouvez utiliser la barre d'espace ou la touche ENTRÉE. À vous de choisir ce qui vous convient le mieux.</p>
+<a name="faqs_q4"></a> <h3>4. Y a-t-il d'autres commandes de dï¿½placement que les touches flï¿½chï¿½es ?</h3>
+<p>Oui. Vous pouvez vous dï¿½placer en utilisant les touches flï¿½chï¿½es ou les touches R, D, F, G. Pour sauter, vous pouvez utiliser la barre d'espace ou la touche ENTRï¿½E. ï¿½ vous de choisir ce qui vous convient le mieux.</p>
 <div class="hr"></div>
-<a name="faqs_q5"></a> <h3>5. Qui peut jouer aux parties multijoueur classées ?</h3>
-<p>Les parties multijoueur classées sont ouvertes aux abonnés comme au non-abonnés.</p>
+<a name="faqs_q5"></a> <h3>5. Qui peut jouer aux parties multijoueur classï¿½es ?</h3>
+<p>Les parties multijoueur classï¿½es sont ouvertes aux abonnï¿½s comme au non-abonnï¿½s.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Quelle est la configuration minimale requise pour ce jeu ?</h3>
-<p>La configuration minimale recommandée pour ce jeu est la suivante :</p>
+<p>La configuration minimale recommandï¿½e pour ce jeu est la suivante :</p>
 <ul>
 <li>1,0 GHz <li>128 Mo de RAM </ul>
-<p>Pour tirer pleinement parti du jeu, les spécifications techniques <b>recommandées</b> sont les suivantes :</p>
+<p>Pour tirer pleinement parti du jeu, les spï¿½cifications techniques <b>recommandï¿½es</b> sont les suivantes :</p>
 <ul>
 <li>1,5 GHz <li>256 Mo de RAM </ul>
-<p>Vous trouverez ci-dessous une explication des termes utilisés dans nos spécifications techniques.</p>
-<p>Le <b>mégahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci détermine la rapidité d'exécution des jeux et autres applications.</p>
-<p>Le <b>mégaoctet (Mo)</b> est l'unité de mesure de la mémoire de l'ordinateur. La mémoire détermine la vitesse à laquelle l'ordinateur fonctionne lorsqu'il exécute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exécute simultanément un grand nombre de programmes.</p>
-<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour télécharger la dernière version de Sun Java.</p>
+<p>Vous trouverez ci-dessous une explication des termes utilisï¿½s dans nos spï¿½cifications techniques.</p>
+<p>Le <b>mï¿½gahertz (MHz)/gigahertz (GHz)</b> mesure la vitesse du processeur de l'ordinateur. Celle-ci dï¿½termine la rapiditï¿½ d'exï¿½cution des jeux et autres applications.</p>
+<p>Le <b>mï¿½gaoctet (Mo)</b> est l'unitï¿½ de mesure de la mï¿½moire de l'ordinateur. La mï¿½moire dï¿½termine la vitesse ï¿½ laquelle l'ordinateur fonctionne lorsqu'il exï¿½cute des programmes de grande taille (des jeux, par exemple) ou lorsqu'il exï¿½cute simultanï¿½ment un grand nombre de programmes.</p>
+<p>Cliquez <a href="http://www.java.com/getjava" target="_blank">ici</a> pour tï¿½lï¿½charger la derniï¿½re version de Sun Java.</p>
 </div>
 </div>
 </div>
@@ -405,10 +405,10 @@ Development Team
 <b>Graphics:</b> Anthony A,&nbsp;David H,&nbsp;Peter S<br>
 <b>Audio:</b> Grace D,&nbsp;Ian T<br>
 <b>Quality Assurance:</b> Ken W L,&nbsp;Michael T,&nbsp;Sally R<br>
-<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frédérique B
+<b>Translation:</b> Sophie M,&nbsp;Thomas Le M,&nbsp;Frï¿½dï¿½rique B
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 </div>
@@ -421,25 +421,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=dungeonassault/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../g=dungeonassault/index.ws"><img alt="
+English" src="../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../l=1/g=dungeonassault/index.ws"><img alt="
+Deutsch" src="../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../l=2/g=dungeonassault/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../l=3/g=dungeonassault/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=dungeonassault/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=dungeonassault/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.jagex.com/l=2/g=dungeonassault/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.jagex.com/l=2/g=dungeonassault/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=dungeonassault/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=dungeonassault/" target="_blank"><img src="../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

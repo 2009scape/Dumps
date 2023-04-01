@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,15 +23,15 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
-<meta name="description" content="Informationen über Jagex.">
+<meta name="description" content="Informationen ï¿½ber Jagex.">
 <title>Jagex</title>
 </head>
 <body id="navHelp">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=10" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=10" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -142,40 +142,40 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="faqsList">
 <ol>
 <li><a href="#experience">Kann ich bei Jagex ein Praktikum machen?</a>
-<li><a href="#work">Kann ich für Jagex arbeiten?</a>
+<li><a href="#work">Kann ich fï¿½r Jagex arbeiten?</a>
 <li><a href="#what">Was ist Jagex?</a>
 <li><a href="#contact">Wie kann ich Jagex kontaktieren?</a>
-<li><a href="#credits">Vollständige Mitarbeiter-Übersicht</a>
+<li><a href="#credits">Vollstï¿½ndige Mitarbeiter-ï¿½bersicht</a>
 </ol></div>
 <br>
 <a name="experience"></a>
-<span class="title">1. Kann ich bei Jagex ein Praktikum machen?</span><br><br> Obwohl wir Praktika für Studenten generell gutheißen, können wir solche Plätze leider nicht anbieten, da in der Firma tagtäglich mit Betriebsgeheimnissen und persönlichen Daten umgegangen wird.<br><br>Des Weiteren erfordern alle Arbeitsplätze in der Firma viel spezialisiertes Training, was sich für ein Praktikum nicht rentieren würde.<br><br>Diese Situation könnte sich in Zukunft ändern, momentan haben wir jedoch keine Pläne, Praktikumsplätze anzubieten.<br><br> Wir bieten allerdings einjährige Stellen für Studenten an (nur in England). Weitere Informationen dazu finden Sie auf unserer <a href="http://www.jagex.com/corporate" target="_blank">Firmenwebsite</a>. <br><br>
+<span class="title">1. Kann ich bei Jagex ein Praktikum machen?</span><br><br> Obwohl wir Praktika fï¿½r Studenten generell gutheiï¿½en, kï¿½nnen wir solche Plï¿½tze leider nicht anbieten, da in der Firma tagtï¿½glich mit Betriebsgeheimnissen und persï¿½nlichen Daten umgegangen wird.<br><br>Des Weiteren erfordern alle Arbeitsplï¿½tze in der Firma viel spezialisiertes Training, was sich fï¿½r ein Praktikum nicht rentieren wï¿½rde.<br><br>Diese Situation kï¿½nnte sich in Zukunft ï¿½ndern, momentan haben wir jedoch keine Plï¿½ne, Praktikumsplï¿½tze anzubieten.<br><br> Wir bieten allerdings einjï¿½hrige Stellen fï¿½r Studenten an (nur in England). Weitere Informationen dazu finden Sie auf unserer <a href="http://www.jagex.com/corporate" target="_blank">Firmenwebsite</a>. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="work"></a>
-<span class="title">2. Kann ich für Jagex arbeiten?</span><br><br> Sollten Sie sich für eine Position bei Jagex bewerben wollen, finden Sie eine vollständige Liste aller Stellenangebote unter 'Vacancies' im Abschnitt 'Careers' auf unserer <a href="http://www.jagex.com" target="_blank">Firmenseite</a>.<br><br>Bitte beachten Sie, dass für alle Positionen in der Firma sehr spezialisiertes Training erforderlich ist, aus welchem Grund nur ernstgemeinte Bewerbungen hochqualifizierter Kandidaten in Betracht gezogen werden. Außerdem müssen Sie eine Arbeitserlaubnis für das Vereinigte Königreich haben und bereit sein, in unseren Büros in Großbritannien zu arbeiten. Wir akzeptieren keine Bewerbungen für 'Telearbeitsplätze'. <br><br>
+<span class="title">2. Kann ich fï¿½r Jagex arbeiten?</span><br><br> Sollten Sie sich fï¿½r eine Position bei Jagex bewerben wollen, finden Sie eine vollstï¿½ndige Liste aller Stellenangebote unter 'Vacancies' im Abschnitt 'Careers' auf unserer <a href="http://www.jagex.com" target="_blank">Firmenseite</a>.<br><br>Bitte beachten Sie, dass fï¿½r alle Positionen in der Firma sehr spezialisiertes Training erforderlich ist, aus welchem Grund nur ernstgemeinte Bewerbungen hochqualifizierter Kandidaten in Betracht gezogen werden. Auï¿½erdem mï¿½ssen Sie eine Arbeitserlaubnis fï¿½r das Vereinigte Kï¿½nigreich haben und bereit sein, in unseren Bï¿½ros in Groï¿½britannien zu arbeiten. Wir akzeptieren keine Bewerbungen fï¿½r 'Telearbeitsplï¿½tze'. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">3. Was ist Jagex</span><br><br> Jagex, dessen Abkürzung für Java Gaming Experts (Java-Spiel-Experten) steht, ist der Name der Firma, die RuneScape, das Online-Rollenspiel für Tausende von Spielern (MMORPG), sowie FunOrb, die Seite mit kleinen Java-Spielen und eine Anzahl weiterer kleiner Spiele produziert.<br><br>Im Dezember 2001 schlossen sich Andrew Gower, Paul Gower und Constant Tedder zusammen und gründeten Jagex Limited, die Firma, die den Betrieb und die Entwicklung von RuneScape und den anderen Spielen von Andrew übernehmen sollte. Zu diesem Zeitpunkt gab es bereits über 1.000.000 Spielkonten für RuneScape.<br><br>Nach der Gründung der Firma setzten die drei sich zwei Ziele: Erstens sollte der Betrieb von RuneScape sich wirtschaftlich rentieren, weshalb langfristige Werbeverträge abgeschlossen wurden, und zweitens sollte eine Premium-Version des Spiels im Abonnement angeboten werden.<br><br>Beide Ziele wurden innerhalb kurzer Zeit verwirklicht, denn schon am 27. Februar 2002 wurde RuneScapes Mitglieder-Version von Jagex veröffentlicht. Allein in der ersten Woche nach dem Start meldeten sich über 5.000 Spieler an und machten RuneScape somit augenblicklich zu einem der größten kommerziellen Java-Spiele der Welt.<br><br>Im März 2004 wurde RuneScape umfassenden Verbesserungen unterzogen. Die neue Version, die oft RuneScape 2 (RS2) genannt wird, umfasst eine ganz neue Spielengine und weitaus bessere Grafiken.<br><br>Seitdem ist RuneScape stetig gewachsen - nicht nur die Spielwelt, die regelmäßig mit neuen Geschichten, Abenteuern und Gebieten vom Entwicklerteam erweitert wird, sondern auch die ständig wachsende Spielergemeinschaft der geselligen Onlinespieler. <br><br> Im Jahr 2008 expandierte Jagex im Bereich der Computerspiel-Branche mit der Veröffentlichung von FunOrb, einer Minispiel-Webseite, die Spielern unvergleichlichen Spaß mit Java-Spielen ermöglicht. <br><br>
+<span class="title">3. Was ist Jagex</span><br><br> Jagex, dessen Abkï¿½rzung fï¿½r Java Gaming Experts (Java-Spiel-Experten) steht, ist der Name der Firma, die RuneScape, das Online-Rollenspiel fï¿½r Tausende von Spielern (MMORPG), sowie FunOrb, die Seite mit kleinen Java-Spielen und eine Anzahl weiterer kleiner Spiele produziert.<br><br>Im Dezember 2001 schlossen sich Andrew Gower, Paul Gower und Constant Tedder zusammen und grï¿½ndeten Jagex Limited, die Firma, die den Betrieb und die Entwicklung von RuneScape und den anderen Spielen von Andrew ï¿½bernehmen sollte. Zu diesem Zeitpunkt gab es bereits ï¿½ber 1.000.000 Spielkonten fï¿½r RuneScape.<br><br>Nach der Grï¿½ndung der Firma setzten die drei sich zwei Ziele: Erstens sollte der Betrieb von RuneScape sich wirtschaftlich rentieren, weshalb langfristige Werbevertrï¿½ge abgeschlossen wurden, und zweitens sollte eine Premium-Version des Spiels im Abonnement angeboten werden.<br><br>Beide Ziele wurden innerhalb kurzer Zeit verwirklicht, denn schon am 27. Februar 2002 wurde RuneScapes Mitglieder-Version von Jagex verï¿½ffentlicht. Allein in der ersten Woche nach dem Start meldeten sich ï¿½ber 5.000 Spieler an und machten RuneScape somit augenblicklich zu einem der grï¿½ï¿½ten kommerziellen Java-Spiele der Welt.<br><br>Im Mï¿½rz 2004 wurde RuneScape umfassenden Verbesserungen unterzogen. Die neue Version, die oft RuneScape 2 (RS2) genannt wird, umfasst eine ganz neue Spielengine und weitaus bessere Grafiken.<br><br>Seitdem ist RuneScape stetig gewachsen - nicht nur die Spielwelt, die regelmï¿½ï¿½ig mit neuen Geschichten, Abenteuern und Gebieten vom Entwicklerteam erweitert wird, sondern auch die stï¿½ndig wachsende Spielergemeinschaft der geselligen Onlinespieler. <br><br> Im Jahr 2008 expandierte Jagex im Bereich der Computerspiel-Branche mit der Verï¿½ffentlichung von FunOrb, einer Minispiel-Webseite, die Spielern unvergleichlichen Spaï¿½ mit Java-Spielen ermï¿½glicht. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="contact"></a>
-<span class="title">4. Wie kann ich Jagex kontaktieren?</span><br><br> Aus Sicherheitsgründen bieten wir für die Spieler von FunOrb leider keine telefonische Kundenbetreuung an. Wir kommunizieren prinzipiell nur über das FunOrb-Mitteilungsfach mit unseren Spielern. Unserer Meinung nach ist dies völlig angemessen für alle Anfragen, die Sie an uns haben sollten.<br><br>Wenn Sie uns etwas schicken möchten, was über die erlaubte Zeichenzahl unseres Mitteilungssystems hinausgeht, dann teilen Sie die Mitteilung bitte auf und schicken Sie sie uns separat.<br><br>Unsere Anschrift lautet: <br><br>St Andrew's House <br>90 St. Andrews Road <br>Cambridge <br>Cambridgeshire CB4 1DL<br>Großbritannien<br><br>Bitte beachten Sie:<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Keine Anfragen zum Spiel, zu Konten, Einsprüche gegen Kontosperrung, Mitgliedschaftsanliegen oder ähnliche Mitteilungen, die normalerweise über das Mitteilungsfach beantwortet werden, werden unter dieser Adresse bearbeitet.<br><li>Es ist uns nicht möglich, uns zugesandte Artikel zurückzuschicken, selbst wenn Sie einen Rückumschlag beilegen.<br></ul>
+<span class="title">4. Wie kann ich Jagex kontaktieren?</span><br><br> Aus Sicherheitsgrï¿½nden bieten wir fï¿½r die Spieler von FunOrb leider keine telefonische Kundenbetreuung an. Wir kommunizieren prinzipiell nur ï¿½ber das FunOrb-Mitteilungsfach mit unseren Spielern. Unserer Meinung nach ist dies vï¿½llig angemessen fï¿½r alle Anfragen, die Sie an uns haben sollten.<br><br>Wenn Sie uns etwas schicken mï¿½chten, was ï¿½ber die erlaubte Zeichenzahl unseres Mitteilungssystems hinausgeht, dann teilen Sie die Mitteilung bitte auf und schicken Sie sie uns separat.<br><br>Unsere Anschrift lautet: <br><br>St Andrew's House <br>90 St. Andrews Road <br>Cambridge <br>Cambridgeshire CB4 1DL<br>Groï¿½britannien<br><br>Bitte beachten Sie:<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>Keine Anfragen zum Spiel, zu Konten, Einsprï¿½che gegen Kontosperrung, Mitgliedschaftsanliegen oder ï¿½hnliche Mitteilungen, die normalerweise ï¿½ber das Mitteilungsfach beantwortet werden, werden unter dieser Adresse bearbeitet.<br><li>Es ist uns nicht mï¿½glich, uns zugesandte Artikel zurï¿½ckzuschicken, selbst wenn Sie einen Rï¿½ckumschlag beilegen.<br></ul>
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="credits"></a>
-<span class="title">5. Vollständige Mitarbeiter-Übersicht</span><br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/a=84/img/images/kbase/category_pages/navbar_jagex2.gif" alt="Jagex" title="Jagex"><br>
+<span class="title">5. Vollstï¿½ndige Mitarbeiter-ï¿½bersicht</span><br><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../../l=1/a=84/img/images/kbase/category_pages/navbar_jagex2.gif" alt="Jagex" title="Jagex"><br>
 <br>
 <center>
 <table style="text-align: center;" align="center">
@@ -183,7 +183,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <td style="vertical-align: top;">
 <b><u>Entwicklung</u></b>
 <p>
-<b>Gründer und Hauptentwickler</b><br> Andrew G </p>
+<b>Grï¿½nder und Hauptentwickler</b><br> Andrew G </p>
 <p>
 <b>Leiter der Entwicklerteams</b><br> Christoph V<br> Henrique O </p>
 <p>
@@ -199,7 +199,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <p>
 <b>Leiter des Entwicklerteams</b><br> Alex J<br> </p>
 <p>
-<b>Entwicklerteam</b><br> Adam B<br> Alex M<br> Anthony G-S<br> Anthony W<br> Ashleigh B<br> Benny P<br> Daniel J<br> Doug H<br> Frédérique M<br> Gabriel M<br> Graham B<br> Ian G<br> Ingrid J<br> James B<br> Jennie T<br> John A<br> John H<br> Jonathan S<br> Liam P<br> Marion C<br> Matt H<br> Nancy J<br> Oscar G<br> Paul B<br> Paul G<br> Rod C<br> Stuart W<br> Tim C<br> Tytn H </p>
+<b>Entwicklerteam</b><br> Adam B<br> Alex M<br> Anthony G-S<br> Anthony W<br> Ashleigh B<br> Benny P<br> Daniel J<br> Doug H<br> Frï¿½dï¿½rique M<br> Gabriel M<br> Graham B<br> Ian G<br> Ingrid J<br> James B<br> Jennie T<br> John A<br> John H<br> Jonathan S<br> Liam P<br> Marion C<br> Matt H<br> Nancy J<br> Oscar G<br> Paul B<br> Paul G<br> Rod C<br> Stuart W<br> Tim C<br> Tytn H </p>
 <p>
 <b>Leiter von FunOrb</b><br> Mark F </p>
 <p>
@@ -224,9 +224,9 @@ Eoin McD<br> Geoffrey C<br> Guiseppe G<br> Hayden B<br> Hayo K<br> James W<br> J
 <p>
 <b>Websystem-Programmierer</b><br> Andrew S<br> Andrew S<br> Andrew S<br> Chris K<br> Chris S<br> Daniel M<br> Duncan M<br> Francois K<br> Helmy E<br> James N<br> Jonathan L<br> Justin E<br> Mark S<br> Philip B<br> Sebastian M<br> Stephen B<br> Steven G<br> Svend H<br> Thomas H </p>
 <p>
-<b>Abteilungsleiter (Qualitätssicherung)</b><br> Dean O<br> Martin I </p>
+<b>Abteilungsleiter (Qualitï¿½tssicherung)</b><br> Dean O<br> Martin I </p>
 <p>
-<b>Qualitätssicherung</b><br> Adam D<br> Andrew C<br> Benjamin L<br> Chris L<br> Christopher E<br> Craig S<br> Dan G<br> Daniel O'R<br> David H<br> David M<br> David S<br> Ilya K<br> Joe C<br> Kevin D<br> Matt B<br> Michael T<br> Nick C<br> Nicola T<br> Reece W<br> Thomas H<br> Will K-W </p>
+<b>Qualitï¿½tssicherung</b><br> Adam D<br> Andrew C<br> Benjamin L<br> Chris L<br> Christopher E<br> Craig S<br> Dan G<br> Daniel O'R<br> David H<br> David M<br> David S<br> Ilya K<br> Joe C<br> Kevin D<br> Matt B<br> Michael T<br> Nick C<br> Nicola T<br> Reece W<br> Thomas H<br> Will K-W </p>
 <p>
 <b>Leiter der Web-Editoren</b><br> Mark K </p>
 <p>
@@ -234,24 +234,24 @@ Eoin McD<br> Geoffrey C<br> Guiseppe G<br> Hayden B<br> Hayo K<br> James W<br> J
 <p>
 <b>Lokalisierungsmanager</b><br> Simon S </p>
 <p>
-<b>Übersetzung-Abteilungsleiter (Frankreich)</b><br> Frédérique B </p>
+<b>ï¿½bersetzung-Abteilungsleiter (Frankreich)</b><br> Frï¿½dï¿½rique B </p>
 <p>
-<b>Übersetzung-Abteilungsleiter (Deutschland)</b><br> Heiko J </p>
+<b>ï¿½bersetzung-Abteilungsleiter (Deutschland)</b><br> Heiko J </p>
 <p>
-<b>Übersetzerteam (Deutsch)</b><br> Gesine P<br> Matthias P<br> Veronika H </p>
+<b>ï¿½bersetzerteam (Deutsch)</b><br> Gesine P<br> Matthias P<br> Veronika H </p>
 <p>
 <b>Leiter der Systemadministration</b><br> Thomas S </p>
 <p>
 <b>Systemadministrationsteam</b><br> Adam C<br> Andrew P<br> Peder P </p>
 <p>
-<b>Büroadministrationsteam</b><br> Alex M<br> Scott E<br> Scott M </p>
+<b>Bï¿½roadministrationsteam</b><br> Alex M<br> Scott E<br> Scott M </p>
 </td>
 <td style="width: 10px;">
 </td>
 <td style="vertical-align: top; text-align:center;" width="45%">
 <b><u>Unternehmensleitung</u></b>
 <p>
-<b>Hauptgeschäftsführer</b><br> Geoff I </p>
+<b>Hauptgeschï¿½ftsfï¿½hrer</b><br> Geoff I </p>
 <p>
 <b>Finanzdirektor</b><br> Riaan H </p>
 <p>
@@ -261,7 +261,7 @@ Eoin McD<br> Geoffrey C<br> Guiseppe G<br> Hayden B<br> Hayo K<br> James W<br> J
 <p>
 <b>Betriebsleiter - Technologie</b><br> Richard B </p>
 <p>
-<b>Manager für Anzeigenakquise (weltweit)</b><br> Ollie C </p>
+<b>Manager fï¿½r Anzeigenakquise (weltweit)</b><br> Ollie C </p>
 <p>
 <b>PR-Manager</b><br> Adam T </p>
 <p>
@@ -289,7 +289,7 @@ Robert K </p>
 <p>
 <b>Kundenbetreuung-Teammanager</b><br> Kelvin P </p>
 <p>
-<b>Manager für strategische Planung und Systementwicklung</b><br> Jay A </p>
+<b>Manager fï¿½r strategische Planung und Systementwicklung</b><br> Jay A </p>
 <p>
 <b>Betriebsleiter (Kundenbetreuung)</b><br> Rob S </p>
 <p>
@@ -309,17 +309,17 @@ Robert K </p>
 <p>
 <b>Spielersicherheit</b><br> Alex E<br> Ali P<br> Andrew D<br> Ashley H<br> Daniel C<br> Dave C<br> David K<br> Dean D<br> Fraser P<br> John S-H<br> Ken W-L<br> Luke M<br> Mark L<br> Matthew P<br> Melvin B<br> Neil J<br> Neil M<br> Polly H<br> Paul R<br> Richard G<br> Sally R<br> Simon G-P<br> Stephen W<br> Steve A<br> Usmaan S<br> Vicki M<br> Warren S </p>
 <p>
-<b>Abteilungsleiter (Service-Qualitätskontrolle)</b><br> Jeremy McK </p>
+<b>Abteilungsleiter (Service-Qualitï¿½tskontrolle)</b><br> Jeremy McK </p>
 <p>
-<b>Schichtleiter (Service-Qualitätskontrolle)</b><br> Andrew McM </p>
+<b>Schichtleiter (Service-Qualitï¿½tskontrolle)</b><br> Andrew McM </p>
 <p>
-<b>Service-Qualitätskontrolle</b><br> Aidan L<br> Andy W<br> Ben W<br> Danielle A<br> Davina B<br> Jason W<br> Milton L<br> Tannice P<br> Wessel F </p>
+<b>Service-Qualitï¿½tskontrolle</b><br> Aidan L<br> Andy W<br> Ben W<br> Danielle A<br> Davina B<br> Jason W<br> Milton L<br> Tannice P<br> Wessel F </p>
 <p>
-<b>Abteilungsleiter (Team für Regelverstoß-Meldungen und Einsprüche gegen Kontosperrungen)</b><br> Ben H<br> Bradley W<br> Chris R<br> David L<br> Emma F<br> Hayley B </p>
+<b>Abteilungsleiter (Team fï¿½r Regelverstoï¿½-Meldungen und Einsprï¿½che gegen Kontosperrungen)</b><br> Ben H<br> Bradley W<br> Chris R<br> David L<br> Emma F<br> Hayley B </p>
 <p>
-<b>Schichtleiter (Team für Regelverstoß-Meldungen und Einsprüche gegen Kontosperrungen)</b><br> Augusto S<br> Richard H<br> Roshid C<br> Stephen W </p>
+<b>Schichtleiter (Team fï¿½r Regelverstoï¿½-Meldungen und Einsprï¿½che gegen Kontosperrungen)</b><br> Augusto S<br> Richard H<br> Roshid C<br> Stephen W </p>
 <p>
-<b>Team für Regelverstoß-Meldungen und Einsprüche gegen Kontosperrungen</b><br> Adam D<br> Alec V<br> Alexander C<br> Alexander D<br> Alexander H<br> Alistair H<br> Andrew B<br> Andrew M<br> Anezi O<br> Benjamin C<br> Brian P<br> Carl B<br> Carl F<br> Chris M<br> Christopher S<br> Daniel H<br> David T<br> David W<br> Eileen K<br> Fabio H<br> Frances T<br> Guy S<br> Hassan M<br> Ian H<br> Ian M<br> Imran R<br> Ikram A<br> James C<br> James H<br> James H<br> James N<br> James W<br> Jason Y<br> John C<br> Joseph B<br> Justin T<br> Karen M<br> Ketan M<br> Lara C<br> Lee B<br> Lee B<br> Lee V<br> Loudon St. H<br> Luke R<br> Marcus M<br> Martin H<br> Martyn C<br> Matthew G<br> Michelle B<br> Morgan C<br> Nana A<br> Nicholas H<br> Owen W<br> Patrick J<br> Richard D<br> Richard G<br> Richard S<br> Ross D<br> Rupa V<br> Sally Da C<br> Samuel B<br> Scott J<br> Simon C<br> Steve W<br> Steven H<br> Stuart F<br> Sudeep B<br> Tyson S </p>
+<b>Team fï¿½r Regelverstoï¿½-Meldungen und Einsprï¿½che gegen Kontosperrungen</b><br> Adam D<br> Alec V<br> Alexander C<br> Alexander D<br> Alexander H<br> Alistair H<br> Andrew B<br> Andrew M<br> Anezi O<br> Benjamin C<br> Brian P<br> Carl B<br> Carl F<br> Chris M<br> Christopher S<br> Daniel H<br> David T<br> David W<br> Eileen K<br> Fabio H<br> Frances T<br> Guy S<br> Hassan M<br> Ian H<br> Ian M<br> Imran R<br> Ikram A<br> James C<br> James H<br> James H<br> James N<br> James W<br> Jason Y<br> John C<br> Joseph B<br> Justin T<br> Karen M<br> Ketan M<br> Lara C<br> Lee B<br> Lee B<br> Lee V<br> Loudon St. H<br> Luke R<br> Marcus M<br> Martin H<br> Martyn C<br> Matthew G<br> Michelle B<br> Morgan C<br> Nana A<br> Nicholas H<br> Owen W<br> Patrick J<br> Richard D<br> Richard G<br> Richard S<br> Ross D<br> Rupa V<br> Sally Da C<br> Samuel B<br> Scott J<br> Simon C<br> Steve W<br> Steven H<br> Stuart F<br> Sudeep B<br> Tyson S </p>
 <p>
 <b>Abteilungsleiter (Kundenbetreuung)</b><br> Chris G<br> Ross H </p>
 <p>
@@ -355,7 +355,7 @@ Tom M<br> Thomas W<br> William D<br> William T </p>
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -373,11 +373,11 @@ Tom M<br> Thomas W<br> William D<br> William T </p>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

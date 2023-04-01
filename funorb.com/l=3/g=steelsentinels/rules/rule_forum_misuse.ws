@@ -9,8 +9,8 @@ pt">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ pt">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=steelsentinels/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=steelsentinels/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=3/g=steelsentinels/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=3/g=steelsentinels/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ pt">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=steelsentinels/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=3/g=steelsentinels/index.ws" ><b>
+<img src="../../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -55,7 +55,7 @@ pt">
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=steelsentinels/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=steelsentinels/messenger.js"></script>
 
@@ -64,25 +64,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=steelsentinels/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=steelsentinels/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=3/g=steelsentinels/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=3/g=steelsentinels/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../../l=3/g=steelsentinels/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../../l=3/g=steelsentinels/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../../l=3/g=steelsentinels/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../../l=3/g=steelsentinels/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=steelsentinels/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=3/g=steelsentinels/account_management.ws"><span>Conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+<li><a href="../../../l=3/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../../l=3/g=steelsentinels/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../../l=3/g=steelsentinels/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,24 +92,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=steelsentinels/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../../l=3/g=steelsentinels/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=steelsentinels/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=steelsentinels/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=steelsentinels/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=steelsentinels/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=steelsentinels/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=3/g=steelsentinels/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/parents.ws" class="fly">Guia para Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=steelsentinels/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+<li><a href="../../../l=3/g=steelsentinels/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../../l=3/g=steelsentinels/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="../../../l=3/g=steelsentinels/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../../l=3/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../../l=3/g=steelsentinels/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../../l=3/g=steelsentinels/bugtracker.ws" class="fly last">Enviar um relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/forums.ws" class="
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=steelsentinels/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_forum_misuse.ws" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=steelsentinels/index.ws">
+<a id="countrydrop" href="../../../l=3/g=steelsentinels/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=steelsentinels/index.ws"><img title="
+<li><a class="fly" href="../../../g=steelsentinels/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=steelsentinels/index.ws"><img title="
+English" src="../../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=steelsentinels/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=steelsentinels/index.ws"><img title="
+Deutsch" src="../../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=steelsentinels/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=steelsentinels/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=steelsentinels/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=3/g=steelsentinels/kbase/view.ws?guid=rules_of_conduct">Regras do FunOrb</a> &gt; Uso indevido dos fóruns 
+<a href="../../../l=3/g=steelsentinels/kbase/view.ws?guid=rules_of_conduct">Regras do FunOrb</a> &gt; Uso indevido dos fï¿½runs 
 </div>
 </div>
 </div>
@@ -164,49 +164,49 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Data de vigência: 12 de maio de 2009</div>
-<p>Você não deve fazer mau uso de nossos fóruns oficiais. O código de conduta do fórum (com link na parte superior dos fóruns) detalha de maneira clara e precisa o comportamento aceitável e o não aceitável.</p>
+<div style="font-weight:bold;" class="effectivedate">Data de vigï¿½ncia: 12 de maio de 2009</div>
+<p>Vocï¿½ nï¿½o deve fazer mau uso de nossos fï¿½runs oficiais. O cï¿½digo de conduta do fï¿½rum (com link na parte superior dos fï¿½runs) detalha de maneira clara e precisa o comportamento aceitï¿½vel e o nï¿½o aceitï¿½vel.</p>
 <br>
 <div class="hr"></div>
-<h4>Questões relacionadas</h4>
-<p>Abaixo estão algumas questões relacionadas que podem ajudar a entender e seguir esta regra.</p>
+<h4>Questï¿½es relacionadas</h4>
+<p>Abaixo estï¿½o algumas questï¿½es relacionadas que podem ajudar a entender e seguir esta regra.</p>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Por que temos esta regra? </a></li>
-<li><a href="#forums">O que não é tolerado nos fóruns? </a></li>
-<li><a href="#promote">Posso promover meu site de fãs/clã nos fóruns do jogo? </a></li>
+<li><a href="#forums">O que nï¿½o ï¿½ tolerado nos fï¿½runs? </a></li>
+<li><a href="#promote">Posso promover meu site de fï¿½s/clï¿½ nos fï¿½runs do jogo? </a></li>
 </ol>
 </div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
 <span class="title">1. Por que temos esta regra? </span>
-<p>Esta regra existe para manter um ambiente divertido e amistoso nos fóruns. O principal propósito dos fóruns é os jogadores se ajudarem mutuamente. Isso pode ocorrer por meio de bate-papos ou transações, mas sempre em um ambiente seguro.</p>
+<p>Esta regra existe para manter um ambiente divertido e amistoso nos fï¿½runs. O principal propï¿½sito dos fï¿½runs ï¿½ os jogadores se ajudarem mutuamente. Isso pode ocorrer por meio de bate-papos ou transaï¿½ï¿½es, mas sempre em um ambiente seguro.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 <div class="hr"></div>
 <a name="forums"></a>
-<span class="title">2. O que não é tolerado nos fóruns? </span>
+<span class="title">2. O que nï¿½o ï¿½ tolerado nos fï¿½runs? </span>
 <p>A Jagex <a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/codeofconduct.ws">Código de Conduta do Fórum</a>
- detalha de maneira precisa o comportamento aceitável e o não aceitável nos fóruns Jagex. Há também lembretes na parte superior de cada fórum com explicações de aspectos das regras do fórum.</p>
+http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/codeofconduct.ws">Cï¿½digo de Conduta do Fï¿½rum</a>
+ detalha de maneira precisa o comportamento aceitï¿½vel e o nï¿½o aceitï¿½vel nos fï¿½runs Jagex. Hï¿½ tambï¿½m lembretes na parte superior de cada fï¿½rum com explicaï¿½ï¿½es de aspectos das regras do fï¿½rum.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 <div class="hr"></div>
 <a name="promote"></a>
-<span class="title">Posso promover meu site de fãs/clã nos fóruns do jogo? </span>
-<p>É uma violação das regras postar qualquer coisa que promova um site nos fóruns ou no jogo. Dessa maneira, se você postar o URL de seu site de clã, poderá ser suspenso. Sabemos que isso pode causar algumas inconveniências, mas, por favor, lembre-se de que essa regra existe para impossibilitar que as pessoas enviem jogadores para sites fraudulentos.</p>
-<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir nossas regras. Não toleraremos jogadores que incomodam e, se você violar nossas regras, provavelmente sua conta receberá uma suspensão ou restrição. Membros suspensos ou restringidos por violarem as nossas regras não têm direito a nenhum tipo de reembolso.</i></p>
+<span class="title">Posso promover meu site de fï¿½s/clï¿½ nos fï¿½runs do jogo? </span>
+<p>ï¿½ uma violaï¿½ï¿½o das regras postar qualquer coisa que promova um site nos fï¿½runs ou no jogo. Dessa maneira, se vocï¿½ postar o URL de seu site de clï¿½, poderï¿½ ser suspenso. Sabemos que isso pode causar algumas inconveniï¿½ncias, mas, por favor, lembre-se de que essa regra existe para impossibilitar que as pessoas enviem jogadores para sites fraudulentos.</p>
+<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir nossas regras. Nï¿½o toleraremos jogadores que incomodam e, se vocï¿½ violar nossas regras, provavelmente sua conta receberï¿½ uma suspensï¿½o ou restriï¿½ï¿½o. Membros suspensos ou restringidos por violarem as nossas regras nï¿½o tï¿½m direito a nenhum tipo de reembolso.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -215,25 +215,25 @@ http://services.funorb.com/m=forum_fo_pt/l=3/g=steelsentinels/codeofconduct.ws">
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=steelsentinels/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../../g=steelsentinels/index.ws"><img alt="
+English" src="../../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=steelsentinels/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../../l=1/g=steelsentinels/index.ws"><img alt="
+Deutsch" src="../../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=steelsentinels/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../../l=2/g=steelsentinels/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=steelsentinels/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../../l=3/g=steelsentinels/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/g=steelsentinels/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/g=steelsentinels/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../../l=3/g=steelsentinels/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../../l=3/g=steelsentinels/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=steelsentinels/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=steelsentinels/" target="_blank"><img src="../../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

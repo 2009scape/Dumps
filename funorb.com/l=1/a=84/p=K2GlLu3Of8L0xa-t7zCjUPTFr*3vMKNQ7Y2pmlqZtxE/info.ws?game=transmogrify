@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <style>
  @media all {
@@ -44,12 +44,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/a=84/css/info-2.css");/**/
+ /*\*/@import url("../../../l=1/a=84/css/info-2.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/intro.jpg);
+  background-image: url(../../../l=1/a=84/img/images/game/transmogrify/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/a=84/img/images/info/button_subscribe_225.gif);
+  background-image: url(../../../l=1/a=84/img/images/info/button_subscribe_225.gif);
  }
 </style>
 <script type="text/javascript">
@@ -61,10 +61,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen1.jpg';
-images[1] = 'http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen2.jpg';
-images[2] = 'http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen3.jpg';
-images[3] = 'http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen4.jpg';
+images[0] = '../../../l=1/a=84/img/images/game/transmogrify/screen1.jpg';
+images[1] = '../../../l=1/a=84/img/images/game/transmogrify/screen2.jpg';
+images[2] = '../../../l=1/a=84/img/images/game/transmogrify/screen3.jpg';
+images[3] = '../../../l=1/a=84/img/images/game/transmogrify/screen4.jpg';
 //
 function clearLoading(){
  try{
@@ -128,7 +128,7 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -141,15 +141,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -157,8 +157,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -167,33 +167,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=transmogrify" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/loginapplet/login.ws?mod=www&ssl=0&dest=info.ws?game=transmogrify" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -209,13 +209,13 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?genreBox=word">Wortspiel</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/play.ws">Transmogrify</a> &gt;
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws">Spiele</a> &gt;
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?genreBox=word">Wortspiel</a> &gt;
+<a name="link0" id="link0" href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/play.ws">Transmogrify</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/serverlist.ws">Serverliste</a>
 </span>
 </div>
 </div>
@@ -227,12 +227,12 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?genreBox=word"><span class="genre">Wortspiel</span></a><br> Klaubt Wörter aus einem Gewirr von Buchstaben und sackt dabei ordentlich Punkte ein. </div>
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/gamelist.ws?genreBox=word"><span class="genre">Wortspiel</span></a><br> Klaubt Wï¿½rter aus einem Gewirr von Buchstaben und sackt dabei ordentlich Punkte ein. </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
 <a class="buttonWide" href="https://create.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/"><div>Kontoerstellung</div></a><br />
-<a name="link1" id="link1" class="buttonPlayBig" href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/play.ws"></a>
+<a name="link1" id="link1" class="buttonPlayBig" href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/transmogrify/play.ws"></a>
 <script language="javascript"> document.getElementById("link1").href+=suffix; </script>
 </div>
 
@@ -243,23 +243,23 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../../l=1/a=84/img/images/game/transmogrify/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen1_thumb.jpg);">
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../../l=1/a=84/img/images/game/transmogrify/screen1_thumb.jpg);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen2_thumb.jpg);">
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../../l=1/a=84/img/images/game/transmogrify/screen2_thumb.jpg);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen3_thumb.jpg);">
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../../l=1/a=84/img/images/game/transmogrify/screen3_thumb.jpg);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/a=84/img/images/game/transmogrify/screen4_thumb.jpg);">
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/display_screenshot.ws?dirname=transmogrify&filename=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../../l=1/a=84/img/images/game/transmogrify/screen4_thumb.jpg);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -284,7 +284,7 @@ Mehr Infos </span>
 <li>Voller Zugang zum Forum</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -297,8 +297,8 @@ Mehr Infos </span>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Transmogrify ist ein Wörterspiel, bei dem ihre eure Fähigkeit, Anagramme zu bilden, bis zum Äußersten unter Beweis stellen müsst. Anfänger können ein Rennen gegen die Zeit aufnehmen oder versuchen, einen hohen Vielfaltsbonus zu erspielen. Erfahrenere Spieler können versuchen, beides auf einmal zu erreichen und alle können nach schwierigen 12-Buchstaben-Wörtern suchen.</p>
-<p>Bonuspunkte erhalten diejenigen, die die längsten und abwechslungsreichsten Wörter bilden.</p>
+<p>Transmogrify ist ein Wï¿½rterspiel, bei dem ihre eure Fï¿½higkeit, Anagramme zu bilden, bis zum ï¿½uï¿½ersten unter Beweis stellen mï¿½sst. Anfï¿½nger kï¿½nnen ein Rennen gegen die Zeit aufnehmen oder versuchen, einen hohen Vielfaltsbonus zu erspielen. Erfahrenere Spieler kï¿½nnen versuchen, beides auf einmal zu erreichen und alle kï¿½nnen nach schwierigen 12-Buchstaben-Wï¿½rtern suchen.</p>
+<p>Bonuspunkte erhalten diejenigen, die die lï¿½ngsten und abwechslungsreichsten Wï¿½rter bilden.</p>
 </div>
 </div>
 </div>
@@ -312,38 +312,38 @@ Mehr Infos </span>
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Warum akzeptiert Transmogrify mein außerordentlich eloquentes Wort nicht? </a></li>
+<li><a href="#faqs_q1">Warum akzeptiert Transmogrify mein auï¿½erordentlich eloquentes Wort nicht? </a></li>
 <li><a href="#faqs_q2">Wie funktioniert der Vielfaltsbonus?</a></li>
-<li><a href="#faqs_q3">Was mache ich, wenn ich keine Wörter in den Buchstaben finde, die ich erhalten habe? </a></li>
+<li><a href="#faqs_q3">Was mache ich, wenn ich keine Wï¿½rter in den Buchstaben finde, die ich erhalten habe? </a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Warum akzeptiert Transmogrify mein außerordentlich eloquentes Wort nicht? </h3>
-<p>Bitte stellt sicher, dass ihr das deutsche Wörterbuch ausgewählt habt, wenn ihr in deutscher Sprache spielt.</p> <p>Selbst wenn ihr das richtige Wörterbuch benutzt, können wir seine Vollständigkeit leider nicht garantieren.</p>
+<h3>1. Warum akzeptiert Transmogrify mein auï¿½erordentlich eloquentes Wort nicht? </h3>
+<p>Bitte stellt sicher, dass ihr das deutsche Wï¿½rterbuch ausgewï¿½hlt habt, wenn ihr in deutscher Sprache spielt.</p> <p>Selbst wenn ihr das richtige Wï¿½rterbuch benutzt, kï¿½nnen wir seine Vollstï¿½ndigkeit leider nicht garantieren.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Wie funktioniert der Vielfaltsbonus?</h3>
-<p>Jedes Wort wird mit dem vorhergehenden Wort verglichen. Der Vielfaltsbonus errechnet sich aus dem Unterschied zwischen der Länge des Wortes und der Länge der längsten Buchstabenfolge, die es mit dem vorhergehenden Wort gemeinsam hat.</p>
+<p>Jedes Wort wird mit dem vorhergehenden Wort verglichen. Der Vielfaltsbonus errechnet sich aus dem Unterschied zwischen der Lï¿½nge des Wortes und der Lï¿½nge der lï¿½ngsten Buchstabenfolge, die es mit dem vorhergehenden Wort gemeinsam hat.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>5. Was mache ich, wenn ich keine Wörter in den Buchstaben finde, die ich erhalten habe? </h3>
-<p>Wenn ihr wirklich daran verzweifelt, könnt ihr das Feld leer lassen und 'Fertig' drücken. Ihr erhaltet keine Punkte für die Runde, aber ihr bekommt einen neuen Satz von acht Buchstaben für die nächste Runde.</p>
+<h3>5. Was mache ich, wenn ich keine Wï¿½rter in den Buchstaben finde, die ich erhalten habe? </h3>
+<p>Wenn ihr wirklich daran verzweifelt, kï¿½nnt ihr das Feld leer lassen und 'Fertig' drï¿½cken. Ihr erhaltet keine Punkte fï¿½r die Runde, aber ihr bekommt einen neuen Satz von acht Buchstaben fï¿½r die nï¿½chste Runde.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>4. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>500 MHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<br> Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen. <br><br>
-<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden. <br><br>
-<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
+<br> Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen. <br><br>
+<b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden. <br><br>
+<b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen. <br><br> Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -357,11 +357,11 @@ Mehr Infos </span>
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/p=K2GlLu3Of8L0xa-t7zCjUPTFr*3vMKNQ7Y2pmlqZtxE/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=crazycrystals/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=crazycrystals/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=crazycrystals/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=crazycrystals/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/shatteredplans/intro.jpg);
+  background-image: url(../../l=3/img/images/game/shatteredplans/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/shatteredplans/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/shatteredplans/screen2a.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/shatteredplans/screen3a.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/shatteredplans/screen4b.jpg?1';
+images[0] = '../../l=3/img/images/game/shatteredplans/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/shatteredplans/screen2a.jpg?1';
+images[2] = '../../l=3/img/images/game/shatteredplans/screen3a.jpg?1';
+images[3] = '../../l=3/img/images/game/shatteredplans/screen4b.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=crazycrystals/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=crazycrystals/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=crazycrystals/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=crazycrystals/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=crazycrystals/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=crazycrystals/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=crazycrystals/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=crazycrystals/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=crazycrystals/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=crazycrystals/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=crazycrystals/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=crazycrystals/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=crazycrystals/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=crazycrystals/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=crazycrystals/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=crazycrystals/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=crazycrystals/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=crazycrystals/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=crazycrystals/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=crazycrystals/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=crazycrystals/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=shatteredplans" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws">
+<a id="countrydrop" href="../../l=3/g=crazycrystals/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=crazycrystals/index.ws"><img title="
+<li><a class="fly" href="../../g=crazycrystals/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=crazycrystals/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=crazycrystals/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=crazycrystals/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=crazycrystals/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=crazycrystals/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?genreBox=strategy">Estratégia</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=crazycrystals/shatteredplans/play.ws">Ofensiva Galáctica</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=crazycrystals/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=crazycrystals/gamelist.ws?genreBox=strategy">Estratï¿½gia</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=crazycrystals/shatteredplans/play.ws">Ofensiva Galï¿½ctica</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=crazycrystals/shatteredplans/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=crazycrystals/shatteredplans/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?genreBox=strategy"><span class="genre">Estratégia</span></a><br> Domine os mundos conforme sua vontade, extraia seus recursos e conquiste a galáxia. </div>
+<a href="../../l=3/g=crazycrystals/gamelist.ws?genreBox=strategy"><span class="genre">Estratï¿½gia</span></a><br> Domine os mundos conforme sua vontade, extraia seus recursos e conquiste a galï¿½xia. </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=crazycrystals/shatteredplans/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=crazycrystals/shatteredplans/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/shatteredplans/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/shatteredplans/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/shatteredplans/screen1_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/shatteredplans/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen2a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/shatteredplans/screen2a_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen2a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/shatteredplans/screen2a_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen3a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/shatteredplans/screen3a_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen3a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/shatteredplans/screen3a_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen4b" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/shatteredplans/screen4b_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=shatteredplans&screenshot=screen4b" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/shatteredplans/screen4b_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -302,7 +302,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Características de Ofensiva Galáctica
+Caracterï¿½sticas de Ofensiva Galï¿½ctica
 </div>
 </div>
 <div class="subsectionContent">
@@ -311,10 +311,10 @@ Características de Ofensiva Galáctica
 <div class="benefitsList">
 <ul>
 
-<li>Modo Ofensiva para um jogador - enfrente três adversários de IA.</li>
-<li>Multijogador on-line para até 6 pessoas.</li>
-<li>Dispute jogos não qualificatórios.</li>
-<li>Jogue GRÁTIS!</li>
+<li>Modo Ofensiva para um jogador - enfrente trï¿½s adversï¿½rios de IA.</li>
+<li>Multijogador on-line para atï¿½ 6 pessoas.</li>
+<li>Dispute jogos nï¿½o qualificatï¿½rios.</li>
+<li>Jogue GRï¿½TIS!</li>
 </ul>
 </div>
 </div>
@@ -325,12 +325,12 @@ Características de Ofensiva Galáctica
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Ofensiva Galáctica é um jogo de estratégia multijogador baseado em rodadas onde os jogadores expandem territórios até controlarem a galáxia. Envie suas frotas e veja os resultados acontecerem; tome sistemas estelares e extraia seus recursos; construa projetos poderosos para ajudar na conquista; forme alianças estratégicas; construa frotas de naves; e destrua os planos dos inimigos.</p>
+<p>Ofensiva Galï¿½ctica ï¿½ um jogo de estratï¿½gia multijogador baseado em rodadas onde os jogadores expandem territï¿½rios atï¿½ controlarem a galï¿½xia. Envie suas frotas e veja os resultados acontecerem; tome sistemas estelares e extraia seus recursos; construa projetos poderosos para ajudar na conquista; forme alianï¿½as estratï¿½gicas; construa frotas de naves; e destrua os planos dos inimigos.</p>
 </div>
 </div>
 </div>
@@ -345,49 +345,49 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Por onde começo?</a></li>
-<li><a href="#faqs_q2">O que são os projetos especiais, como os consigo e o que eles fazem?</a></li>
-<li><a href="#faqs_q3">O que significam as linhas cruzadas sobre o meu território?</a></li>
-<li><a href="#faqs_q4">Por que minhas naves não se movem - dei ordem para deixarem um sistema?</a></li>
-<li><a href="#faqs_q5">Como funciona o sistema de qualificações?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_q1">Por onde comeï¿½o?</a></li>
+<li><a href="#faqs_q2">O que sï¿½o os projetos especiais, como os consigo e o que eles fazem?</a></li>
+<li><a href="#faqs_q3">O que significam as linhas cruzadas sobre o meu territï¿½rio?</a></li>
+<li><a href="#faqs_q4">Por que minhas naves nï¿½o se movem - dei ordem para deixarem um sistema?</a></li>
+<li><a href="#faqs_q5">Como funciona o sistema de qualificaï¿½ï¿½es?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Por onde começo?</h3>
-<p>O melhor lugar para começar a aprender como jogar Ofensiva Galáctica é o tutorial, talvez mais de uma vez. O tutorial ensina tudo, como fazer movimentos, atacar sistemas, extrair recursos e projetos especiais. O tutorial também permite jogar contra dois inimigos controlados por inteligência artificial.</p>
-<p>Depois do tutorial, talvez valha a pena jogar alguns jogos no modo Ofensiva para um jogador. Este modo coloca você contra alguns outros adversários da inteligência artificial, permitindo aperfeiçoar habilidades e experimentar tipos diferentes de jogos antes de enfrentar inimigos humanos no lobby Multijogador. Você também encontrará uma recapitulação de todo o tutorial nas Instruções.</p>
+<h3>1. Por onde comeï¿½o?</h3>
+<p>O melhor lugar para comeï¿½ar a aprender como jogar Ofensiva Galï¿½ctica ï¿½ o tutorial, talvez mais de uma vez. O tutorial ensina tudo, como fazer movimentos, atacar sistemas, extrair recursos e projetos especiais. O tutorial tambï¿½m permite jogar contra dois inimigos controlados por inteligï¿½ncia artificial.</p>
+<p>Depois do tutorial, talvez valha a pena jogar alguns jogos no modo Ofensiva para um jogador. Este modo coloca vocï¿½ contra alguns outros adversï¿½rios da inteligï¿½ncia artificial, permitindo aperfeiï¿½oar habilidades e experimentar tipos diferentes de jogos antes de enfrentar inimigos humanos no lobby Multijogador. Vocï¿½ tambï¿½m encontrarï¿½ uma recapitulaï¿½ï¿½o de todo o tutorial nas Instruï¿½ï¿½es.</p>
 <div class="hr"></div>
-<a name="faqs_q2"></a> <h3>2. O que são os projetos especiais, como os consigo e o que eles fazem?</h3>
-<p>Há quatro projetos especiais que podem ser a diferença entre a vitória e a derrota: Rede Defensiva, Terraformação, Bomba Estelar e Projeto Tannhäuser.</p>
-<p>Na primeira vez que capturar um sistema, sua pesquisa em cada projeto aumenta junto com a produção de recursos desse sistema (como mostrado na janela de Projetos no jogo). Os recursos são compatíveis com os projetos da seguinte forma:</p>
-<p><b>Rede defensiva - Metal (azul)</b><br>Conta efetivamente a força de um sistema como o dobro do tamanho das frotas</p>
-<p><b>Terraformação - Biomassa (verde)</b><br>Aumenta a produção de recursos do sistema em seis unidades de recurso</p>
-<p><b>Bomba estelar - Energia (laranja)</b><br>Destrói metade das frotas inimigas do sistema de destino (ou uma rede de defesa, caso o sistema possua uma) e cancela quaisquer movimentos fora desse sistema</p>
-<p><b>Tannhäuser - Exóticas (magenta)</b><br>Cria uma nova fenda espacial entre um dos sistemas e qualquer outro sistema na galáxia</p>
+<a name="faqs_q2"></a> <h3>2. O que sï¿½o os projetos especiais, como os consigo e o que eles fazem?</h3>
+<p>Hï¿½ quatro projetos especiais que podem ser a diferenï¿½a entre a vitï¿½ria e a derrota: Rede Defensiva, Terraformaï¿½ï¿½o, Bomba Estelar e Projeto Tannhï¿½user.</p>
+<p>Na primeira vez que capturar um sistema, sua pesquisa em cada projeto aumenta junto com a produï¿½ï¿½o de recursos desse sistema (como mostrado na janela de Projetos no jogo). Os recursos sï¿½o compatï¿½veis com os projetos da seguinte forma:</p>
+<p><b>Rede defensiva - Metal (azul)</b><br>Conta efetivamente a forï¿½a de um sistema como o dobro do tamanho das frotas</p>
+<p><b>Terraformaï¿½ï¿½o - Biomassa (verde)</b><br>Aumenta a produï¿½ï¿½o de recursos do sistema em seis unidades de recurso</p>
+<p><b>Bomba estelar - Energia (laranja)</b><br>Destrï¿½i metade das frotas inimigas do sistema de destino (ou uma rede de defesa, caso o sistema possua uma) e cancela quaisquer movimentos fora desse sistema</p>
+<p><b>Tannhï¿½user - Exï¿½ticas (magenta)</b><br>Cria uma nova fenda espacial entre um dos sistemas e qualquer outro sistema na galï¿½xia</p>
 <div class="hr"></div>
-<a name="faqs_q3"></a> <h3>3. O que significam as linhas cruzadas sobre o meu território?</h3>
-<p>Qualquer sistema sombreado está sob o perigo de cair frente aos inimigos. Caso você esteja jogando com as regras Clássicas, isso também poderá fazer com que outros sistemas vizinhos caiam (esses sistemas também devem estar sombreados). Tente colocar uma segunda camada de defesa atrás das suas linhas de frente para evitar colocar seus sistemas em risco.</p>
+<a name="faqs_q3"></a> <h3>3. O que significam as linhas cruzadas sobre o meu territï¿½rio?</h3>
+<p>Qualquer sistema sombreado estï¿½ sob o perigo de cair frente aos inimigos. Caso vocï¿½ esteja jogando com as regras Clï¿½ssicas, isso tambï¿½m poderï¿½ fazer com que outros sistemas vizinhos caiam (esses sistemas tambï¿½m devem estar sombreados). Tente colocar uma segunda camada de defesa atrï¿½s das suas linhas de frente para evitar colocar seus sistemas em risco.</p>
 <div class="hr"></div>
-<a name="faqs_q4"></a> <h3>4. Por que minhas naves não se movem - dei ordem para deixarem um sistema?</h3>
-<p>Parece que um dos seus adversários usou uma Bomba Estelar no sistema de onde suas frotas estavam partindo. As frotas são incapazes de deixar o sistema ao mesmo tempo que em uma Bomba Estelar é detonada lá.</p>
+<a name="faqs_q4"></a> <h3>4. Por que minhas naves nï¿½o se movem - dei ordem para deixarem um sistema?</h3>
+<p>Parece que um dos seus adversï¿½rios usou uma Bomba Estelar no sistema de onde suas frotas estavam partindo. As frotas sï¿½o incapazes de deixar o sistema ao mesmo tempo que em uma Bomba Estelar ï¿½ detonada lï¿½.</p>
 <div class="hr"></div>
-<a name="faqs_q5"></a> <h3>5. Como funciona o sistema de qualificações?</h3>
-<p>O sistema de qualificações de Ofensiva Galáctica recompensa os jogadores por sobreviverem o máximo possível. Mesmo se achar que não vai ganhar o jogo, você ainda poderá alcançar uma qualificação positiva por durar mais que outros jogadores.</p>
+<a name="faqs_q5"></a> <h3>5. Como funciona o sistema de qualificaï¿½ï¿½es?</h3>
+<p>O sistema de qualificaï¿½ï¿½es de Ofensiva Galï¿½ctica recompensa os jogadores por sobreviverem o mï¿½ximo possï¿½vel. Mesmo se achar que nï¿½o vai ganhar o jogo, vocï¿½ ainda poderï¿½ alcanï¿½ar uma qualificaï¿½ï¿½o positiva por durar mais que outros jogadores.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>6. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>6. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>500 MHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -395,20 +395,20 @@ Perguntas frequentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Benefícios para membros do FunOrb
+Benefï¿½cios para membros do FunOrb
 </div>
 </div>
 <div class="subsectionContent">
 <div>
 <p style="padding-bottom: 5px;">Os membros ganham:</p>
 <ul style="line-height: 22px;">
-<li>Dispute jogos qualificatórios ou não qualificatórios.</li>
+<li>Dispute jogos qualificatï¿½rios ou nï¿½o qualificatï¿½rios.</li>
 <li>Acesso a todas as Conquistas.</li>
 <li>Modo tela cheia.</li>
-<li>Sem anúncios durante o jogo.</li> <li>Acesso total a todo conteúdo exclusivo para membros do FunOrb.</li>
+<li>Sem anï¿½ncios durante o jogo.</li> <li>Acesso total a todo conteï¿½do exclusivo para membros do FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -430,7 +430,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -443,25 +443,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=crazycrystals/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=crazycrystals/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=crazycrystals/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=crazycrystals/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=crazycrystals/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=crazycrystals/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=crazycrystals/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=crazycrystals/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=crazycrystals/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=crazycrystals/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=crazycrystals/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=crazycrystals/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=crazycrystals/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

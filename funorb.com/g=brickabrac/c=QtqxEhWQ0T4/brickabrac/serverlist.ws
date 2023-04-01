@@ -19,15 +19,15 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/g=brickabrac/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/g=brickabrac/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../g=brickabrac/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../g=brickabrac/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/css/global-40.css);/**/
+  /*\*/@import url(../../../css/global-40.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/js/jquery/jquery_1_3_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../css/ieFix-2.css);</style>
 <![endif]-->
 
 <style>
@@ -75,18 +75,18 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/g=brickabrac/index.ws" ><b>
+<a id="logo" href="../../../g=brickabrac/index.ws" ><b>
 <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" width="203" height="80">
-<param name="movie" value="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.swf" />
-<param name="FlashVars" value="homePath=http://www.funorb.com/g=brickabrac/" />
+<param name="movie" value="../../../img/images/layout/logo_funorb_tombracer.swf" />
+<param name="FlashVars" value="homePath=../../../g=brickabrac/" />
 <param name="AllowScriptAccess" value="always" />
 <!--[if !IE]>-->
-<object type="application/x-shockwave-flash" data="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
-<param name="FlashVars" value="homePath=http://www.funorb.com/g=brickabrac/" />
+<object type="application/x-shockwave-flash" data="../../../img/images/layout/logo_funorb_tombracer.swf" width="203" height="80">
+<param name="FlashVars" value="homePath=../../../g=brickabrac/" />
 <param name="AllowScriptAccess" value="always" />
 <!--<![endif]-->
 <!-- Non Flash alternative -->
-<img src="http://www.funorb.com/img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
+<img src="../../../img/images/layout/logo_funorb_tombracer.jpg" alt="FunOrb" />
 <!--[if !IE]>-->
 </object>
 <!--<![endif]-->
@@ -109,15 +109,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/g=brickabrac/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/g=brickabrac/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../g=brickabrac/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../g=brickabrac/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=brickabrac/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../g=brickabrac/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../g=brickabrac/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../g=brickabrac/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../g=brickabrac/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -126,9 +126,9 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/g=brickabrac/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../g=brickabrac/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../g=brickabrac/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../g=brickabrac/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -139,23 +139,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li><a href="http://services.funorb.com/m=focommunity/g=brickabrac/" class="fly">Community Home</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo/g=brickabrac/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../g=brickabrac/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/g=brickabrac/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/g=brickabrac/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/g=brickabrac/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/g=brickabrac/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../g=brickabrac/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/g=brickabrac/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/g=brickabrac/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../g=brickabrac/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../g=brickabrac/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../g=brickabrac/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../g=brickabrac/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../g=brickabrac/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../../g=brickabrac/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -164,28 +164,28 @@ http://services.funorb.com/m=forum_fo/g=brickabrac/forums.ws" class="fly">Forums
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/g=brickabrac/loginform.ws?mod=www&amp;ssl=0&amp;dest=brickabrac/serverlist.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/g=brickabrac/index.ws">
+<a id="countrydrop" href="../../../g=brickabrac/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=brickabrac/index.ws"><img title="
+<li><a class="fly" href="../../../g=brickabrac/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=brickabrac/index.ws"><img title="
+English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=brickabrac/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=brickabrac/index.ws"><img title="
+Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=brickabrac/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=brickabrac/index.ws"><img title="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=brickabrac/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -201,9 +201,9 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/g=brickabrac/gamelist.ws">Games</a> &gt;
-<a href="http://www.funorb.com/g=brickabrac/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/g=brickabrac/brickabrac/play.ws">Brick-À-Brac</a> &gt;
+<a href="../../../g=brickabrac/gamelist.ws">Games</a> &gt;
+<a href="../../../g=brickabrac/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../../g=brickabrac/brickabrac/play.ws">Brick-ï¿½-Brac</a> &gt;
 Server List
 
 </div>
@@ -216,7 +216,7 @@ Server List
 
 <div class="articleBody">
 <p>
-Below is a list of servers for the game Brick-À-Brac. If
+Below is a list of servers for the game Brick-ï¿½-Brac. If
 there is a particular server that you want to use, choose it by
 clicking on its name. The location column shows you the country in
 which the server is located. Choosing a server which is close to you
@@ -284,30 +284,30 @@ Europe
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/g=brickabrac/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../../g=brickabrac/index.ws"><img alt="
+English" src="../../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=brickabrac/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../../l=1/g=brickabrac/index.ws"><img alt="
+Deutsch" src="../../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=brickabrac/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../../l=2/g=brickabrac/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=brickabrac/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../../l=3/g=brickabrac/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2010 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/g=brickabrac/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/g=brickabrac/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../g=brickabrac/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../g=brickabrac/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/g=brickabrac/p=bcu9g*DbBJDB7H6LqG1ya8HsfouobXJredaFO4jciSg/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/g=brickabrac/p=bcu9g*DbBJDB7H6LqG1ya8HsfouobXJredaFO4jciSg/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

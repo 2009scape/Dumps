@@ -9,7 +9,7 @@ de">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
@@ -20,15 +20,15 @@ de">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../../l=1/a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Sie dürfen keine externe Software benutzen, um sich einen Vorteil zu verschaffen.">
+<meta name="description" content="Sie dï¿½rfen keine externe Software benutzen, um sich einen Vorteil zu verschaffen.">
 <title>Regel 7 - Benutzung von externer Software</title>
 </head>
 <body id="navHelp">
@@ -44,13 +44,13 @@ de">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
 
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=1/a=135/messengercommon0.js"></script>
@@ -61,15 +61,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=135/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=135/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=135/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=135/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=135/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=135/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=135/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=135/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=135/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=135/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -90,44 +90,44 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <li><a href="
 http://forum-fo-de.funorb.com/l=1/a=135/forums.ws" class="fly">Alle Foren</a></li>
 <li><a href="
-http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=135/" class="fly">Erfolge</a></li>
 <li><a href="http://hiscore-fo.funorb.com/l=1/a=135/" class="fly">Highscores &amp; Wertungen</a></li>
 <li><a href="http://orbcoins.funorb.com/l=1/a=135/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=135/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=135/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=135/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=135/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=135/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=135/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=135/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=24" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=24" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/a=135/index.ws">
+<a id="countrydrop" href="../../../l=1/a=135/index.ws">
 <span>
-<img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">
+<img alt="Deutsch" src="../../../l=1/a=135/img/images/layout/de.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../../a=135/index.ws"><img title="English" alt="English" src="../../../l=1/a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="../../../l=1/a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../../l=1/a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../../l=1/a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -156,11 +156,11 @@ http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen
 <div class="articleBody">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Gültig ab: 27. Februar 2008</div>
-<br> Sie dürfen keine Software benutzen, mit der Sie sich einen unfairen Vorteil gegenüber anderen Spielern verschaffen würden. Dies gilt für Software, die automatisch Vorgänge ausführt oder Eingaben macht, Makros und Bots. Sie dürfen auch nicht unsere Mechanismen umgehen, die inaktive Spieler nach einer gewissen Zeit automatisch aus dem Spiel abmelden. <br><br> Außerdem dürfen Sie keine externe Software benutzen, die dazu ermutigt, unsere Regeln zu brechen oder externe Software, die Funktionen beinhaltet, die speziell für unsere Spiele gedacht sind und auf irgendeine Art und Weise unsere Spielerkonten gefährdet. <br>
+<div style="font-weight:bold;" class="effectivedate">Gï¿½ltig ab: 27. Februar 2008</div>
+<br> Sie dï¿½rfen keine Software benutzen, mit der Sie sich einen unfairen Vorteil gegenï¿½ber anderen Spielern verschaffen wï¿½rden. Dies gilt fï¿½r Software, die automatisch Vorgï¿½nge ausfï¿½hrt oder Eingaben macht, Makros und Bots. Sie dï¿½rfen auch nicht unsere Mechanismen umgehen, die inaktive Spieler nach einer gewissen Zeit automatisch aus dem Spiel abmelden. <br><br> Auï¿½erdem dï¿½rfen Sie keine externe Software benutzen, die dazu ermutigt, unsere Regeln zu brechen oder externe Software, die Funktionen beinhaltet, die speziell fï¿½r unsere Spiele gedacht sind und auf irgendeine Art und Weise unsere Spielerkonten gefï¿½hrdet. <br>
 <br>
 <div class="hr"></div>
-<b>Diesbezügliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen können, diese Regel besser zu verstehen.<br>
+<b>Diesbezï¿½gliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen kï¿½nnen, diese Regel besser zu verstehen.<br>
 <br>
 <div class="faqsList">
 <ol>
@@ -168,57 +168,57 @@ http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen
 <li><a href="#what">Welche externe Software ist NICHT erlaubt? </a>
 <li><a href="#software">Was genau ist mit 'Software' gemeint? </a>
 <li><a href="#macro">Wie funktioniert das neue Makro-Entdeckungssystem? </a>
-<li><a href="#appeal">Kann ich Einspruch einlegen, wenn mein Konto wegen eines Makro-Regelverstoßes gesperrt wird? </a>
+<li><a href="#appeal">Kann ich Einspruch einlegen, wenn mein Konto wegen eines Makro-Regelverstoï¿½es gesperrt wird? </a>
 <li><a href="#afk">Was ist AFK-Training? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Warum gibt es diese Regel? </span><br><br> Erstens wollen wir nicht, dass Spieler für unsere Spiele externe Software von unzuverlässigen Seiten herunterladen, da es erwiesen ist, dass diese oft Keylogger, Trojaner und Viren enthält. Vielen Spielern wurden schon ihre Konten gestohlen, weil sie, ohne es zu wissen, Hackprogramme auf ihrem Computer installiert hatten. Selbst wenn der Entwickler der Software keine bösen Absichten hatte, kann ein unbeabsichtigter Defekt in der Software trotzdem Ihr Konto gefährden. Sogar vermeintlich seriöse Softwarehersteller hatten schon mit solchen Problemen zu kämpfen. Außerdem hat es Fälle gegeben, in denen Entwickler mit Absicht Programme entwickelt haben, die nützlich für unsere Spiele wirken, in Wahrheit aber nur darauf angelegt sind, Passwörter zu stehlen. <br><br> Zweitens ruiniert die Benutzung von Makros den Spielspaß für alle anderen. Wir wollen nicht, dass einige Spieler einen unfairen Vorteil gegenüber anderen haben und alle Plätze, an denen man bekannterweise gut seine Fertigkeiten trainieren kann, mit Bots füllen. Dieses Spiel ist für Menschen gedacht, nicht für Bots. In der Vergangenheit haben wir diese Regel nicht sehr streng verfolgt und schnell festgestellt, dass dies den Spielspaß ruinierte. Die Spieler haben sich selbst dafür ausgesprochen, dass wir diese Regel mit mehr Nachdruck durchsetzen. Deshalb achten wir jetzt sehr sorgfältig darauf, dass diese Regel auch befolgt wird. <br><br>
+<span class="title">1. Warum gibt es diese Regel? </span><br><br> Erstens wollen wir nicht, dass Spieler fï¿½r unsere Spiele externe Software von unzuverlï¿½ssigen Seiten herunterladen, da es erwiesen ist, dass diese oft Keylogger, Trojaner und Viren enthï¿½lt. Vielen Spielern wurden schon ihre Konten gestohlen, weil sie, ohne es zu wissen, Hackprogramme auf ihrem Computer installiert hatten. Selbst wenn der Entwickler der Software keine bï¿½sen Absichten hatte, kann ein unbeabsichtigter Defekt in der Software trotzdem Ihr Konto gefï¿½hrden. Sogar vermeintlich seriï¿½se Softwarehersteller hatten schon mit solchen Problemen zu kï¿½mpfen. Auï¿½erdem hat es Fï¿½lle gegeben, in denen Entwickler mit Absicht Programme entwickelt haben, die nï¿½tzlich fï¿½r unsere Spiele wirken, in Wahrheit aber nur darauf angelegt sind, Passwï¿½rter zu stehlen. <br><br> Zweitens ruiniert die Benutzung von Makros den Spielspaï¿½ fï¿½r alle anderen. Wir wollen nicht, dass einige Spieler einen unfairen Vorteil gegenï¿½ber anderen haben und alle Plï¿½tze, an denen man bekannterweise gut seine Fertigkeiten trainieren kann, mit Bots fï¿½llen. Dieses Spiel ist fï¿½r Menschen gedacht, nicht fï¿½r Bots. In der Vergangenheit haben wir diese Regel nicht sehr streng verfolgt und schnell festgestellt, dass dies den Spielspaï¿½ ruinierte. Die Spieler haben sich selbst dafï¿½r ausgesprochen, dass wir diese Regel mit mehr Nachdruck durchsetzen. Deshalb achten wir jetzt sehr sorgfï¿½ltig darauf, dass diese Regel auch befolgt wird. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
 <span class="title">2. Welche externe Software ist NICHT erlaubt? </span><br><br> Die folgende externe Software, aber nicht nur diese, verschafft Spielern einen unfairen Vorteil: <ol>
-<br><li>Software, die versucht, direkt mit dem Spiel-Server zu kommunizieren. <br><br><li>Software, welche die Kommunikation zwischen dem Client und dem Server überwacht, modifiziert oder entschlüsselt. <br><br><li>Software, die automatisch Eingaben (im Client) erzeugt. Dazu gehört Software, die den Mauszeiger automatisch bewegt, Mausklicks erzeugt oder Tastatureingaben für den Spieler übernimmt. <br><br><li>Externe Software, die Teile unserer Webseite benutzt und Features hat, die speziell auf unsere Spiele zugeschnitten sind (z. B. Hilfsprogramme ('toolkits')), darf nicht auf der Webseite benutzt werden, es sei denn diese Software hält sich an alle bestehenden und folgende neue Regeln: <br><br><li>Sie darf nicht dazu ermutigen, die Regeln zu brechen und auch sonst in keiner Art und Weise unsere Spielkonten gefährden. <br><br><li>Sie darf keine Werbung oder Links zu anderen Websites enthalten, die Spieler dazu ermutigen könnten, Regeln zu brechen oder die die Spieler gefährden könnte. <br><br><li>Sie darf keine wiederholten Anfragen auf Seiten und Inhalte unserer Website oder andere bandbreitenintensive Abfragen von unseren Servern durchführen. Jede Seite und alle Inhalte dürfen nur von unseren Benutzern zum Zeitpunkt ihrer Anfrage aufgerufen werden. <br><br><li>Sie darf nicht die Navigationschritte unserer Website zum Erreichen der Weltenauswahl-Seite umgehen. Die Software darf beim Start nur die Hauptseite unserer Website anzeigen (also www.funorb.com) und darf keine Abkürzungen oder direkte Verknüpfungen zur Weltenauswahl-Seite, den Welten-Seiten oder dem Spiel-Client enthalten. <br><br><li>Sie darf nicht die Werbung auf unserer Website ausblenden oder Spieler dazu ermutigen. Um das zu verhindern, muss die Software die Seite so anzeigen, dass das Fenster bei einer höheren Bildschirmauflösung als 800x600 mindestens 630 Pixel hoch ist oder die Höhe geändert werden kann. Das heißt also, dass das Spiel als auch die Werbung gleichzeitig vollständig sichtbar sein müssen. <br><br><li>Sie darf es nicht ermöglichen, dass Welten auf der Weltenauswahl-Seite, die als 'VOLL' markiert sind, ausgewählt werden oder nahezu volle Welten einfacher zu erreichen sind als ohne diese Software. Außerdem darf sie keine Features enthalten, die das Überwachen von vollen Welten ermöglicht. <br><br><li>Falls die Software eine eigene, integrierte Chatfunktion beinhaltet, die vom RuneScape-Chat getrennt ist, sollte es für Spieler offensichtlich gemacht werden, dass dieser Chat nicht Teil vom Spiel und in keiner Weise offiziell ist oder von Jagex in irgendeiner Form unterstützt oder moderiert wird. Des Weiteren sollte dieser Chat trotzdem moderiert werden (aber nicht durch uns) und die Moderatoren sollten darauf achten, dass die Unterhaltung nicht gegen unsere Verhaltensregeln verstößt. Um Verwirrung mit dem offiziellen Spiel-Chat zu vermeiden, dürfen Moderatoren des externen Chats nicht mit einer silbernen oder goldenen Krone gekennzeichnet sein. Wenn der Chat auf IRC basiert, sollte die Software nur Zugang zu IRC-Chaträumen gewähren, die nicht gegen die oben beschriebenen Regeln verstoßen. </ol> Die Spieler sollten sich dessen bewusst sein, dass wir die Benutzung solcher Software nicht befürworten oder empfehlen. Da der Gebrauch externer Software potenziell äußerst gefährlich sein kann, raten wir davon ab, in irgendeiner Art und Weise externe Software in Verbindung mit dem Spiel zu benutzen. Bitte seien Sie sich im Klaren darüber, dass es Software gibt, die sich als tolles Zusatzprogramm für eins unserer Spiele ausgibt, in Wirklichkeit aber auf Ihrem Computer einen Keylogger installiert und dadurch Ihr Passwort stiehlt. Sie sollten sich außerdem bewusst sein, dass es gefährliche Software gibt, die von Ihrer Antivirensoftware nicht unbedingt erkannt wird. Ihre Downloads auf Viren zu überprüfen, ist natürlich empfehlenswert, aber nicht 100 % verlässlich. <br><br>
+<br><li>Software, die versucht, direkt mit dem Spiel-Server zu kommunizieren. <br><br><li>Software, welche die Kommunikation zwischen dem Client und dem Server ï¿½berwacht, modifiziert oder entschlï¿½sselt. <br><br><li>Software, die automatisch Eingaben (im Client) erzeugt. Dazu gehï¿½rt Software, die den Mauszeiger automatisch bewegt, Mausklicks erzeugt oder Tastatureingaben fï¿½r den Spieler ï¿½bernimmt. <br><br><li>Externe Software, die Teile unserer Webseite benutzt und Features hat, die speziell auf unsere Spiele zugeschnitten sind (z. B. Hilfsprogramme ('toolkits')), darf nicht auf der Webseite benutzt werden, es sei denn diese Software hï¿½lt sich an alle bestehenden und folgende neue Regeln: <br><br><li>Sie darf nicht dazu ermutigen, die Regeln zu brechen und auch sonst in keiner Art und Weise unsere Spielkonten gefï¿½hrden. <br><br><li>Sie darf keine Werbung oder Links zu anderen Websites enthalten, die Spieler dazu ermutigen kï¿½nnten, Regeln zu brechen oder die die Spieler gefï¿½hrden kï¿½nnte. <br><br><li>Sie darf keine wiederholten Anfragen auf Seiten und Inhalte unserer Website oder andere bandbreitenintensive Abfragen von unseren Servern durchfï¿½hren. Jede Seite und alle Inhalte dï¿½rfen nur von unseren Benutzern zum Zeitpunkt ihrer Anfrage aufgerufen werden. <br><br><li>Sie darf nicht die Navigationschritte unserer Website zum Erreichen der Weltenauswahl-Seite umgehen. Die Software darf beim Start nur die Hauptseite unserer Website anzeigen (also www.funorb.com) und darf keine Abkï¿½rzungen oder direkte Verknï¿½pfungen zur Weltenauswahl-Seite, den Welten-Seiten oder dem Spiel-Client enthalten. <br><br><li>Sie darf nicht die Werbung auf unserer Website ausblenden oder Spieler dazu ermutigen. Um das zu verhindern, muss die Software die Seite so anzeigen, dass das Fenster bei einer hï¿½heren Bildschirmauflï¿½sung als 800x600 mindestens 630 Pixel hoch ist oder die Hï¿½he geï¿½ndert werden kann. Das heiï¿½t also, dass das Spiel als auch die Werbung gleichzeitig vollstï¿½ndig sichtbar sein mï¿½ssen. <br><br><li>Sie darf es nicht ermï¿½glichen, dass Welten auf der Weltenauswahl-Seite, die als 'VOLL' markiert sind, ausgewï¿½hlt werden oder nahezu volle Welten einfacher zu erreichen sind als ohne diese Software. Auï¿½erdem darf sie keine Features enthalten, die das ï¿½berwachen von vollen Welten ermï¿½glicht. <br><br><li>Falls die Software eine eigene, integrierte Chatfunktion beinhaltet, die vom RuneScape-Chat getrennt ist, sollte es fï¿½r Spieler offensichtlich gemacht werden, dass dieser Chat nicht Teil vom Spiel und in keiner Weise offiziell ist oder von Jagex in irgendeiner Form unterstï¿½tzt oder moderiert wird. Des Weiteren sollte dieser Chat trotzdem moderiert werden (aber nicht durch uns) und die Moderatoren sollten darauf achten, dass die Unterhaltung nicht gegen unsere Verhaltensregeln verstï¿½ï¿½t. Um Verwirrung mit dem offiziellen Spiel-Chat zu vermeiden, dï¿½rfen Moderatoren des externen Chats nicht mit einer silbernen oder goldenen Krone gekennzeichnet sein. Wenn der Chat auf IRC basiert, sollte die Software nur Zugang zu IRC-Chatrï¿½umen gewï¿½hren, die nicht gegen die oben beschriebenen Regeln verstoï¿½en. </ol> Die Spieler sollten sich dessen bewusst sein, dass wir die Benutzung solcher Software nicht befï¿½rworten oder empfehlen. Da der Gebrauch externer Software potenziell ï¿½uï¿½erst gefï¿½hrlich sein kann, raten wir davon ab, in irgendeiner Art und Weise externe Software in Verbindung mit dem Spiel zu benutzen. Bitte seien Sie sich im Klaren darï¿½ber, dass es Software gibt, die sich als tolles Zusatzprogramm fï¿½r eins unserer Spiele ausgibt, in Wirklichkeit aber auf Ihrem Computer einen Keylogger installiert und dadurch Ihr Passwort stiehlt. Sie sollten sich auï¿½erdem bewusst sein, dass es gefï¿½hrliche Software gibt, die von Ihrer Antivirensoftware nicht unbedingt erkannt wird. Ihre Downloads auf Viren zu ï¿½berprï¿½fen, ist natï¿½rlich empfehlenswert, aber nicht 100 % verlï¿½sslich. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="software"></a>
-<span class="title">3. Was genau ist mit 'Software' gemeint? </span><br><br> Damit sind alle Arten von Software gemeint, einschließlich: Software, die heruntergeladen werden kann (also z. B. eine .exe-Datei) oder webbasierte Software (wie z. B. Webseiten, die Java, Javascript, Flash oder serverseitige Skripte benutzen, um ähnliche Funktionen durchzuführen). <br><br>
+<span class="title">3. Was genau ist mit 'Software' gemeint? </span><br><br> Damit sind alle Arten von Software gemeint, einschlieï¿½lich: Software, die heruntergeladen werden kann (also z. B. eine .exe-Datei) oder webbasierte Software (wie z. B. Webseiten, die Java, Javascript, Flash oder serverseitige Skripte benutzen, um ï¿½hnliche Funktionen durchzufï¿½hren). <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="macro"></a>
-<span class="title">4. Wie funktioniert das neue Makro-Entdeckungssystem? </span><br><br> Das neue System überwacht die Aktivitäten der Spieler auf verdächtiges Verhalten. Dieses Beweismaterial wird dann von unseren Experten ausgewertet, die die Analyse des Systems dann entweder bestätigen oder ablehnen. Jagex wird die genaue Arbeitsweise dieses Systems nicht offenbaren, um dessen Umgehung nicht zu erleichtern. <br><br>
+<span class="title">4. Wie funktioniert das neue Makro-Entdeckungssystem? </span><br><br> Das neue System ï¿½berwacht die Aktivitï¿½ten der Spieler auf verdï¿½chtiges Verhalten. Dieses Beweismaterial wird dann von unseren Experten ausgewertet, die die Analyse des Systems dann entweder bestï¿½tigen oder ablehnen. Jagex wird die genaue Arbeitsweise dieses Systems nicht offenbaren, um dessen Umgehung nicht zu erleichtern. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="appeal"></a>
-<span class="title">5. Kann ich Einspruch einlegen, wenn mein Konto wegen eines Makro-Regelverstoßes gesperrt wird? </span><br><br> Unsere Richtlinien besagen, dass wir keinen Betrug dulden. Konten werden von uns nicht ohne gute Gründe gesperrt. Wir sammeln zuerst stichhaltige Beweise, bevor wir gegen einen Spieler vorgehen. Wir legen die von uns gesammelten Beweise nicht offen, um es Spielern schwerer zu machen, ihr Verhalten in Zukunft zu verbergen. <br><br>
+<span class="title">5. Kann ich Einspruch einlegen, wenn mein Konto wegen eines Makro-Regelverstoï¿½es gesperrt wird? </span><br><br> Unsere Richtlinien besagen, dass wir keinen Betrug dulden. Konten werden von uns nicht ohne gute Grï¿½nde gesperrt. Wir sammeln zuerst stichhaltige Beweise, bevor wir gegen einen Spieler vorgehen. Wir legen die von uns gesammelten Beweise nicht offen, um es Spielern schwerer zu machen, ihr Verhalten in Zukunft zu verbergen. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="afk"></a>
-<span class="title">6. Was ist AFK-Training? </span><br><br> AFK-Training (AFK = Away From Keyboard - nicht am Computer) bezieht sich auf das Spielen von unseren Spielen, wenn Sie gar nicht am Computer sitzen. Dieses Verhalten ist natürlich nicht erlaubt. Sie sollten sich immer abmelden, bevor Sie Ihren Computer verlassen. <br><br>
-<p><i>Wir sind ständig bestrebt, die Atmosphäre auf FunOrb für alle Spieler so angenehm wie möglich zu gestalten. Bitte halten Sie sich also an diese Regel. Störende Spieler werden nicht geduldet und bei Regelverstößen kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rückerstattung der von ihnen bezahlten Gebühren.</i></p>
+<span class="title">6. Was ist AFK-Training? </span><br><br> AFK-Training (AFK = Away From Keyboard - nicht am Computer) bezieht sich auf das Spielen von unseren Spielen, wenn Sie gar nicht am Computer sitzen. Dieses Verhalten ist natï¿½rlich nicht erlaubt. Sie sollten sich immer abmelden, bevor Sie Ihren Computer verlassen. <br><br>
+<p><i>Wir sind stï¿½ndig bestrebt, die Atmosphï¿½re auf FunOrb fï¿½r alle Spieler so angenehm wie mï¿½glich zu gestalten. Bitte halten Sie sich also an diese Regel. Stï¿½rende Spieler werden nicht geduldet und bei Regelverstï¿½ï¿½en kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rï¿½ckerstattung der von ihnen bezahlten Gebï¿½hren.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=135/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=21">Regel 5 - Spieler, die sich als Jagex-Mitarbeiter ausgeben</a>, <a href="viewarticle.ws?article_id=48">Regel 6 - Kontoteilung und -handel</a>, Regel 7 - Benutzung von externer Software, <a href="viewarticle.ws?article_id=19">Regel 8 - Mehrfaches Einloggen</a>, <a href="viewarticle.ws?article_id=26">Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen</a></span>
+<a href="viewarticle.ws?article_id=21">Regel 5 - Spieler, die sich als Jagex-Mitarbeiter ausgeben</a>, <a href="viewarticle.ws?article_id=48">Regel 6 - Kontoteilung und -handel</a>, Regel 7 - Benutzung von externer Software, <a href="viewarticle.ws?article_id=19">Regel 8 - Mehrfaches Einloggen</a>, <a href="viewarticle.ws?article_id=26">Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoï¿½en</a></span>
 </div>
 </div>
 </div>
@@ -229,17 +229,17 @@ http://forum-fo-de.funorb.com/l=1/a=135/forums.ws?0,1" class="fly">Ankündigungen
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/l=1/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=1/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=1/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../../a=135/index.ws"><img alt="English" src="../../../l=1/a=135/img/images/layout/en.gif">English</a>
+<a href="../../../l=1/a=135/index.ws"><img alt="Deutsch" src="../../../l=1/a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../../l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="../../../l=1/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../../l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../../l=1/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=135/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=135/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=135/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=135/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=135/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=135/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

@@ -9,8 +9,8 @@ pt">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -19,14 +19,14 @@ pt">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../l=3/favicon.ico">
+<link rel="SHORTCUT ICON" href="../l=3/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-31.css);/**/
+  /*\*/@import url(../l=3/css/global-31.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@ pt">
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-7.css");/**/
+ /*\*/@import url("../l=3/css/info-7.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/hostilespawn/intro.jpg);
+  background-image: url(../l=3/img/images/game/hostilespawn/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/hostilespawn/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/hostilespawn/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/hostilespawn/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/hostilespawn/screen4.jpg?1';
+images[0] = '../l=3/img/images/game/hostilespawn/screen1.jpg?1';
+images[1] = '../l=3/img/images/game/hostilespawn/screen2.jpg?1';
+images[2] = '../l=3/img/images/game/hostilespawn/screen3.jpg?1';
+images[3] = '../l=3/img/images/game/hostilespawn/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -136,8 +136,8 @@ function imageGoto(self, img){
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb_halloween09.jpg" alt="FunOrb" />
+<a id="logo" href="../l=3/index.ws" ><b>
+<img src="../l=3/img/images/layout/logo_funorb_halloween09.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -146,7 +146,7 @@ function imageGoto(self, img){
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/messenger.js"></script>
 
@@ -155,15 +155,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../l=3/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../l=3/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../l=3/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -172,9 +172,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://secure.funorb.com/m=create/l=3/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
+<li><a href="../l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../l=3/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../l=3/account_management.ws" class="fly last">Gerenciamento de conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -184,24 +184,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://services.funorb.com/m=forum_fo_pt/l=3/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://services.funorb.com/m=forum_fo_pt/l=3/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../l=3/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../l=3/kbase/guid/help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/parents.ws" class="fly">Guia para Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/bugtracker.ws" class="fly last">Enviar um relatório de erro</a></li>
+<li><a href="../l=3/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../l=3/parents.ws" class="fly">Guia para Pais</a></li>
+<li><a href="../l=3/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../l=3/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../l=3/bugtracker.ws" class="fly last">Enviar um relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -210,19 +210,19 @@ http://services.funorb.com/m=forum_fo_pt/l=3/forums.ws" class="fly">Fóruns</a></
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=hostilespawn" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/index.ws">
+<a id="countrydrop" href="../l=3/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../index.ws"><img title="English" alt="English" src="../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -237,12 +237,12 @@ http://services.funorb.com/m=forum_fo_pt/l=3/forums.ws" class="fly">Fóruns</a></
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/hostilespawn/play.ws">Invasão Alien</a> &gt;
-Mais informações </span>
+<a href="../l=3/gamelist.ws">Jogos</a> &gt;
+<a href="../l=3/gamelist.ws?genreBox=shooter">Tiro</a> &gt;
+<a onclick="suffixize(this)" href="../l=3/hostilespawn/play.ws">Invasï¿½o Alien</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/hostilespawn/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../l=3/hostilespawn/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -255,12 +255,12 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Répteis alienígenas hostis infestaram o planeta de Kerrus. Livre-se deles! </div>
+<a href="../l=3/gamelist.ws?genreBox=shooter"><span class="genre">Tiro</span></a><br> Rï¿½pteis alienï¿½genas hostis infestaram o planeta de Kerrus. Livre-se deles! </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
 <a class="buttonWide" href="https://secure.funorb.com/m=create/l=3/"><div>Criar conta gratuita</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/hostilespawn/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../l=3/hostilespawn/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -271,23 +271,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/hostilespawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../l=3/img/images/game/hostilespawn/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/hostilespawn/screen1_thumb.jpg?1);">
+<a href="../l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../l=3/img/images/game/hostilespawn/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/hostilespawn/screen2_thumb.jpg?1);">
+<a href="../l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../l=3/img/images/game/hostilespawn/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/hostilespawn/screen3_thumb.jpg?1);">
+<a href="../l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../l=3/img/images/game/hostilespawn/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/hostilespawn/screen4_thumb.jpg?1);">
+<a href="../l=3/display_screenshot.ws?game=hostilespawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../l=3/img/images/game/hostilespawn/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -297,7 +297,7 @@ Capturas de tela
 <div class="subsection" id="benefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
- Benefícios dos membros
+ Benefï¿½cios dos membros
 </div>
 </div>
 <div class="subsectionContent">
@@ -306,14 +306,14 @@ Capturas de tela
 <div class="benefitsList">
 <ul>
 
-<li>Jogar todos os 10 níveis</li>
+<li>Jogar todos os 10 nï¿½veis</li>
 <li>Usar poderosas armas de energia</li>
-<li>Cinco novos tipos de alienígenas</li>
+<li>Cinco novos tipos de alienï¿½genas</li>
 <li>Modo de tela cheia</li>
-<li>Sem anúncios durante o jogo</li>
+<li>Sem anï¿½ncios durante o jogo</li>
 </ul>
 </div>
-<a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../l=3/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -322,13 +322,13 @@ Capturas de tela
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Depois que a Nave UFE Starship Hammerhead fracassou em relatar sua missão, você foi enviado para investigar. À medida que procurou pela agora abandonada nave, descobriu a presença podre de répteis alienígenas... e eles são hostis!</p>
-<p>Pegue a sua arma automática padrão e limpe a Hammerhead, depois desça até a superfície do planeta Kerrus para acabar com a infestação na base... com a ajuda de algumas armas mais poderosas.</p>
+<p>Depois que a Nave UFE Starship Hammerhead fracassou em relatar sua missï¿½o, vocï¿½ foi enviado para investigar. ï¿½ medida que procurou pela agora abandonada nave, descobriu a presenï¿½a podre de rï¿½pteis alienï¿½genas... e eles sï¿½o hostis!</p>
+<p>Pegue a sua arma automï¿½tica padrï¿½o e limpe a Hammerhead, depois desï¿½a atï¿½ a superfï¿½cie do planeta Kerrus para acabar com a infestaï¿½ï¿½o na base... com a ajuda de algumas armas mais poderosas.</p>
 </div>
 </div>
 </div>
@@ -343,53 +343,53 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Não consigo me acostumar com os controles!</a></li>
-<li><a href="#faqs_q2">Como ganhar saúde novamente?</a></li>
-<li><a href="#faqs_q3">Como funciona o sistema de classificação?</a></li>
-<li><a href="#faqs_q4">O que é o modo Difícil e onde o acesso?</a></li>
+<li><a href="#faqs_q1">Nï¿½o consigo me acostumar com os controles!</a></li>
+<li><a href="#faqs_q2">Como ganhar saï¿½de novamente?</a></li>
+<li><a href="#faqs_q3">Como funciona o sistema de classificaï¿½ï¿½o?</a></li>
+<li><a href="#faqs_q4">O que ï¿½ o modo Difï¿½cil e onde o acesso?</a></li>
 <li><a href="#faqs_q5">Como pego mais de duas armas?</a></li>
-<li><a href="#faqs_q6">Por que dimiunui a munição de uma de minhas armas quando estou usando a outra?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_q6">Por que dimiunui a muniï¿½ï¿½o de uma de minhas armas quando estou usando a outra?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Não consigo me acostumar com os controles!</h3>
-<p>Há dois métodos de controle no jogo. O primeiro (padrão) move o fuzileiro em relação à tela: o segundo move o fuzileiro em relação ao cursor do mouse. Estes dois métodos podem ser alternados com a tecla 'TAB'. Tente ambos para ver qual se encaixa melhor com seu estilo de jogo. Você também pode escolher entre usar as teclas de seta do teclado ou as teclas WASD para movimentar-se.</p>
+<h3>1. Nï¿½o consigo me acostumar com os controles!</h3>
+<p>Hï¿½ dois mï¿½todos de controle no jogo. O primeiro (padrï¿½o) move o fuzileiro em relaï¿½ï¿½o ï¿½ tela: o segundo move o fuzileiro em relaï¿½ï¿½o ao cursor do mouse. Estes dois mï¿½todos podem ser alternados com a tecla 'TAB'. Tente ambos para ver qual se encaixa melhor com seu estilo de jogo. Vocï¿½ tambï¿½m pode escolher entre usar as teclas de seta do teclado ou as teclas WASD para movimentar-se.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Como ganho saúde novamente?</h3>
-<p>Quando você sobe na classificação, uma parte da saúde é reabastecida e a saúde máxima aumenta.</p>
+<h3>2. Como ganho saï¿½de novamente?</h3>
+<p>Quando vocï¿½ sobe na classificaï¿½ï¿½o, uma parte da saï¿½de ï¿½ reabastecida e a saï¿½de mï¿½xima aumenta.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Como funciona o sistema de classificação?</h3>
-<p>À medida que você ganha pontos, um fino medidor branco acima da classificação/pontuação vai sendo preenchido. Quando estiver completo, você passa para a próximo classificação (e ganha um aumento na saúde), e o medidor esvazia-se novamente.</p>
-<p>Duas maneira de subir na classificação mais rapidamente é completar cada nível em pouco tempo e jogar no modo Difícil.</p>
+<h3>3. Como funciona o sistema de classificaï¿½ï¿½o?</h3>
+<p>ï¿½ medida que vocï¿½ ganha pontos, um fino medidor branco acima da classificaï¿½ï¿½o/pontuaï¿½ï¿½o vai sendo preenchido. Quando estiver completo, vocï¿½ passa para a prï¿½ximo classificaï¿½ï¿½o (e ganha um aumento na saï¿½de), e o medidor esvazia-se novamente.</p>
+<p>Duas maneira de subir na classificaï¿½ï¿½o mais rapidamente ï¿½ completar cada nï¿½vel em pouco tempo e jogar no modo Difï¿½cil.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. O que é o modo Difícil e onde o acesso?</h3>
-<p>O modo Difícil é desbloqueado depois de você completar o jogo com a dificuldade padrão. No modo Difícil, você deve completar os níveis de planeta (níveis 4-10) dentro de um estrito limite de tempo, que é o dobro do tempo padrão de cada nível. Ah, e como o nome sugere, é difícil.</p>
+<h3>4. O que ï¿½ o modo Difï¿½cil e onde o acesso?</h3>
+<p>O modo Difï¿½cil ï¿½ desbloqueado depois de vocï¿½ completar o jogo com a dificuldade padrï¿½o. No modo Difï¿½cil, vocï¿½ deve completar os nï¿½veis de planeta (nï¿½veis 4-10) dentro de um estrito limite de tempo, que ï¿½ o dobro do tempo padrï¿½o de cada nï¿½vel. Ah, e como o nome sugere, ï¿½ difï¿½cil.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Como pego mais de duas armas?</h3>
-<p>Você pode carregar somente duas armas ao mesmo tempo, mas pode trocar as armas atuais por qualquer nova que encontrar. Ficando em cima da nova arma e pressionando a tecla 'Q' trocará a arma primária; pressionando 'E' trocará a arma secundária. Você pode pegar duas armas iguais.</p>
+<p>Vocï¿½ pode carregar somente duas armas ao mesmo tempo, mas pode trocar as armas atuais por qualquer nova que encontrar. Ficando em cima da nova arma e pressionando a tecla 'Q' trocarï¿½ a arma primï¿½ria; pressionando 'E' trocarï¿½ a arma secundï¿½ria. Vocï¿½ pode pegar duas armas iguais.</p>
 <div class="hr"></div>
 <a name="faqs_q6"></a>
-<h3>6. Por que diminui a munição de uma de minhas armas quando estou usando a outra?</h3>
-<p>Algumas armas compartilham o tipo de munição. A arma automática e a C.R.A.G. usam o mesmo tipo de projétil. O canhão de plasma e a catapulta magnética usam células de energia como fonte de munição. Entretanto, cada arma usa diferentes quantidades de munição por tiro.</p>
+<h3>6. Por que diminui a muniï¿½ï¿½o de uma de minhas armas quando estou usando a outra?</h3>
+<p>Algumas armas compartilham o tipo de muniï¿½ï¿½o. A arma automï¿½tica e a C.R.A.G. usam o mesmo tipo de projï¿½til. O canhï¿½o de plasma e a catapulta magnï¿½tica usam cï¿½lulas de energia como fonte de muniï¿½ï¿½o. Entretanto, cada arma usa diferentes quantidades de muniï¿½ï¿½o por tiro.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>7. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>7. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>1.0 GHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -404,13 +404,13 @@ Equipe de Desenvolvimento
 <div>
 <p>
 <b>Desenvolvimento:</b> Thomas D<br>
-<b>Design gráfico:</b> Laura W<br>
-<b>Áudio:</b> Ian T<br>
+<b>Design grï¿½fico:</b> Laura W<br>
+<b>ï¿½udio:</b> Ian T<br>
 <b>Controle de Qualidade:</b> Michael T,&nbsp;Craig S,&nbsp;Joe C<br>
-<b>Tradução:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
+<b>Traduï¿½ï¿½o:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -423,17 +423,17 @@ Equipe de Desenvolvimento
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../index.ws"><img alt="English" src="../l=3/img/images/layout/en.gif">English</a>
+<a href="../l=1/index.ws"><img alt="Deutsch" src="../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd. no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd. no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../l=3/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../l=3/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

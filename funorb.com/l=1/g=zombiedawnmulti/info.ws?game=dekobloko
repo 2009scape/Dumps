@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=zombiedawnmulti/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=zombiedawnmulti/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=zombiedawnmulti/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=zombiedawnmulti/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/dekobloko/intro.jpg);
+  background-image: url(../../l=1/img/images/game/dekobloko/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/dekobloko/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/dekobloko/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/dekobloko/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/dekobloko/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/dekobloko/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/dekobloko/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/dekobloko/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/dekobloko/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=zombiedawnmulti/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=zombiedawnmulti/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=zombiedawnmulti/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=zombiedawnmulti/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=zombiedawnmulti/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawnmulti/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=zombiedawnmulti/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=zombiedawnmulti/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=zombiedawnmulti/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=zombiedawnmulti/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=zombiedawnmulti/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=zombiedawnmulti/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=zombiedawnmulti/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=zombiedawnmulti/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=zombiedawnmulti/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=zombiedawnmulti/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=zombiedawnmulti/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=dekobloko" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=zombiedawnmulti/index.ws">
+<a id="countrydrop" href="../../l=1/g=zombiedawnmulti/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=zombiedawnmulti/index.ws"><img title="
+<li><a class="fly" href="../../g=zombiedawnmulti/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=zombiedawnmulti/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=zombiedawnmulti/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=zombiedawnmulti/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=zombiedawnmulti/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=zombiedawnmulti/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=zombiedawnmulti/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=zombiedawnmulti/dekobloko/play.ws">Deko Bloko</a> &gt;
+<a href="../../l=1/g=zombiedawnmulti/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=zombiedawnmulti/gamelist.ws?genreBox=puzzle">Puzzle</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=zombiedawnmulti/dekobloko/play.ws">Deko Bloko</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=zombiedawnmulti/dekobloko/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=zombiedawnmulti/dekobloko/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Ein farbenfrohes Mehrspieler-Geschicklichkeitsspiel, dessen Formen euch verfolgen werden </div>
+<a href="../../l=1/g=zombiedawnmulti/gamelist.ws?genreBox=puzzle"><span class="genre">Puzzle</span></a><br> Ein farbenfrohes Mehrspieler-Geschicklichkeitsspiel, dessen Formen euch verfolgen werden </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=zombiedawnmulti/dekobloko/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=zombiedawnmulti/dekobloko/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/dekobloko/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/dekobloko/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/dekobloko/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/dekobloko/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/dekobloko/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/dekobloko/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/dekobloko/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/dekobloko/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/dekobloko/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=zombiedawnmulti/display_screenshot.ws?game=dekobloko&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/dekobloko/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -313,7 +313,7 @@ Features - Deko Bloko
 
 <li>Marathon- und Herausforderungsmodi</li>
 <li>Acht verschiedene Themen</li>
-<li>Online-Mehrspieler für bis zu 8 Personen</li>
+<li>Online-Mehrspieler fï¿½r bis zu 8 Personen</li>
 <li>Bewertete und unbewertete Partien</li>
 <li>Zugang zu allen Erfolgen</li>
 <li>KOSTENLOS</li>
@@ -332,8 +332,8 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Bei Deko Bloko müsst ihr passende Formen aufeinanderstapeln. Der Witz dabei ist, dass jede Form, die ihr zerstört, zu einem soliden Block verschmilzt und bei eurem Gegner landet. In den Mehrspieler-Spielern werdet ihr daher mit vielen seltsamen Figuren beworfen, die ihr schnell beseitigen und jemand anderem zuschustern müsst. Deko Bloko ist am explosivsten, wenn ihr zu acht gegeneinander spielt, unmögliche Figuren baut und dem tödlichen Mix noch eine Prise Powerups hinzufügt.</p>
-<p>Außerdem erwarten euch zwei Einzelspieler-Modi, mit denen ihr in den Marathon und Herausforderung-Highscores punkten könnt. Damit auch eure Augen nicht zu kurz kommen, gibt es farbenfrohe Themen für alle Spielmodi, die ihr nach und nach freischalten könnt.</p>
+<p>Bei Deko Bloko mï¿½sst ihr passende Formen aufeinanderstapeln. Der Witz dabei ist, dass jede Form, die ihr zerstï¿½rt, zu einem soliden Block verschmilzt und bei eurem Gegner landet. In den Mehrspieler-Spielern werdet ihr daher mit vielen seltsamen Figuren beworfen, die ihr schnell beseitigen und jemand anderem zuschustern mï¿½sst. Deko Bloko ist am explosivsten, wenn ihr zu acht gegeneinander spielt, unmï¿½gliche Figuren baut und dem tï¿½dlichen Mix noch eine Prise Powerups hinzufï¿½gt.</p>
+<p>Auï¿½erdem erwarten euch zwei Einzelspieler-Modi, mit denen ihr in den Marathon und Herausforderung-Highscores punkten kï¿½nnt. Damit auch eure Augen nicht zu kurz kommen, gibt es farbenfrohe Themen fï¿½r alle Spielmodi, die ihr nach und nach freischalten kï¿½nnt.</p>
 </div>
 </div>
 </div>
@@ -348,39 +348,39 @@ Fragen und Antworten
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Was bedeutet die Auswahlmöglichkeit 'Angriffe' in der Lobby?</a></li>
+<li><a href="#faqs_q1">Was bedeutet die Auswahlmï¿½glichkeit 'Angriffe' in der Lobby?</a></li>
 <li><a href="#faqs_q2">Wie kann ich im Einzelspieler-Modus meine Punktzahl verbessern?</a></li>
 <li><a href="#faqs_q3">Warum bekomme ich keine Powerups?</a></li> <li><a href="#faqs_q4">Wie kann ich im Mehrspieler-Modus gewinnen?</a></li> <li><a href="#faqs_q5">Was bedeutet Deko Bloko?</a></li> <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Was bedeutet die Auswahlmöglichkeit 'Angriffe' in der Lobby?</h3>
-<p>Die Art der Angriffe bestimmt, was mit den Spielsteinen passiert, die ihr zerstört. In der schwachen Einstellung landen nur die losen Spielsteine selbst beim Gegner. Bei der Einstellung 'Mittel' werden die zerstörten Spielsteine und die damit zusammenhängenden Gebilde in solide Formen verwandelt und landen beim Gegner. 'Stark' bedeutet, dass sogar alles, was durch Powerups zerstört wird, zum Gegner geschickt wird.</p>
+<h3>1. Was bedeutet die Auswahlmï¿½glichkeit 'Angriffe' in der Lobby?</h3>
+<p>Die Art der Angriffe bestimmt, was mit den Spielsteinen passiert, die ihr zerstï¿½rt. In der schwachen Einstellung landen nur die losen Spielsteine selbst beim Gegner. Bei der Einstellung 'Mittel' werden die zerstï¿½rten Spielsteine und die damit zusammenhï¿½ngenden Gebilde in solide Formen verwandelt und landen beim Gegner. 'Stark' bedeutet, dass sogar alles, was durch Powerups zerstï¿½rt wird, zum Gegner geschickt wird.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a> <h3>2. Wie kann ich im Einzelspieler-Modus meine Punktzahl verbessern?</h3>
-<p>Ihr müsst tricksen und die Formen so anhäufen, dass ihr sie gleichzeitig oder in Ketten detonieren lassen könnt. Ihr könnt auch Berge von Formen stapeln und mit einem Powerup zerstören. Entwickelt eigene Strategien für jedes Thema der Meister-Herausforderungen und schon werdet ihr massenhaft Punkte einfahren!</p>
+<p>Ihr mï¿½sst tricksen und die Formen so anhï¿½ufen, dass ihr sie gleichzeitig oder in Ketten detonieren lassen kï¿½nnt. Ihr kï¿½nnt auch Berge von Formen stapeln und mit einem Powerup zerstï¿½ren. Entwickelt eigene Strategien fï¿½r jedes Thema der Meister-Herausforderungen und schon werdet ihr massenhaft Punkte einfahren!</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a> <h3>3. Warum bekomme ich keine Powerups?</h3>
-<p>Das kann verschiedene Gründe haben. Ihr müsst zwei oder mehr Formen gleichzeitig zerstören, um einen Powerup zu erhalten. Im Marathon- und Meister-Herausforderungsmodus bekommt ihr erst Powerups, wenn ihr einige der Themen abgearbeitet habt - das Spiel sagt euch dann Bescheid. Im Mehrspieler-Modus müsst ihr beim Einrichten des Spiels Powerups erlauben (einige Powerups sind nur für Mitglieder).</p>
+<p>Das kann verschiedene Grï¿½nde haben. Ihr mï¿½sst zwei oder mehr Formen gleichzeitig zerstï¿½ren, um einen Powerup zu erhalten. Im Marathon- und Meister-Herausforderungsmodus bekommt ihr erst Powerups, wenn ihr einige der Themen abgearbeitet habt - das Spiel sagt euch dann Bescheid. Im Mehrspieler-Modus mï¿½sst ihr beim Einrichten des Spiels Powerups erlauben (einige Powerups sind nur fï¿½r Mitglieder).</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a> <h3>4. Wie kann ich im Mehrspieler-Modus gewinnen?</h3>
-<p>Versucht, die Stücke zu stapeln, damit ihr eurem Gegner viele solide Formen auf einmal präsentieren könnt. Bildet unkonventionelle Figuren, die euren Gegner verwirren und zur Weißglut bringen. Beobachtet eure Mitspieler und plant eure nächsten Schritte dementsprechend.</p>
+<p>Versucht, die Stï¿½cke zu stapeln, damit ihr eurem Gegner viele solide Formen auf einmal prï¿½sentieren kï¿½nnt. Bildet unkonventionelle Figuren, die euren Gegner verwirren und zur Weiï¿½glut bringen. Beobachtet eure Mitspieler und plant eure nï¿½chsten Schritte dementsprechend.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a> <h3>5. Was bedeutet Deko Bloko?</h3>
-<p>Der Name Deko Bloko ist eine Mischung aus dem japanischen Wort 'dekoboko', was 'uneben' bzw. 'rau' bedeutet, und 'Block'. Die Bezeichnung uneben passt gut auf die soliden Formen, denen ihr im Spiel begegnen werdet. 'Dekoboko' wird auf Japanisch normalerweise phonetisch dargestellt, kann aber auch folgendermaßen geschrieben werden: <img style="display: inline; margin: 0 auto 0 auto;" src="http://www.funorb.com/l=1/img/images/game/dekobloko/dekoboko.jpg" alt="dekoboko" title="dekoboko">.</p>
+<p>Der Name Deko Bloko ist eine Mischung aus dem japanischen Wort 'dekoboko', was 'uneben' bzw. 'rau' bedeutet, und 'Block'. Die Bezeichnung uneben passt gut auf die soliden Formen, denen ihr im Spiel begegnen werdet. 'Dekoboko' wird auf Japanisch normalerweise phonetisch dargestellt, kann aber auch folgendermaï¿½en geschrieben werden: <img style="display: inline; margin: 0 auto 0 auto;" src="../../l=1/img/images/game/dekobloko/dekoboko.jpg" alt="dekoboko" title="dekoboko">.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -400,7 +400,7 @@ Vorteile einer Mitgliedschaft
 <li>Keine Werbung</li> <li>Zugang zu allen Mitglieder-Erweiterungen auf FunOrb</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=zombiedawnmulti/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -422,7 +422,7 @@ Development Team
 <b>Translation:</b> Heiko J,&nbsp;Florian P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -435,25 +435,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=zombiedawnmulti/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=zombiedawnmulti/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=zombiedawnmulti/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=zombiedawnmulti/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=zombiedawnmulti/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=zombiedawnmulti/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=zombiedawnmulti/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=zombiedawnmulti/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=zombiedawnmulti/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=zombiedawnmulti/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=zombiedawnmulti/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=zombiedawnmulti/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=zombiedawnmulti/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=zombiedawnmulti/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

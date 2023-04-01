@@ -10,7 +10,7 @@ pt">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="keywords" content="Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, Jagex">
-<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeça, ação, estratégia, tiros, palavras, corridas, e muito mais!">
+<meta name="description" content="FunOrb, jogos on-line gratuitos com base em navegador da Jagex, os mesmos criadores do RuneScape. Vibre com jogos de quebra-cabeï¿½a, aï¿½ï¿½o, estratï¿½gia, tiros, palavras, corridas, e muito mais!">
 <meta name="title" content="FunOrb - Free Online Games">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2009 Jagex Ltd, www.jagex.com">
@@ -20,14 +20,14 @@ pt">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-22.css);/**/
+  /*\*/@import url(../../l=3/css/global-22.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <meta name="language" content="en, de, fr, pt">
-<meta name="description" content="Não use linguagem ofensiva, racista ou obscena.">
+<meta name="description" content="Nï¿½o use linguagem ofensiva, racista ou obscena.">
 </head>
 <body id="navnavHelp">
 <a name="top"></a>
@@ -43,8 +43,8 @@ pt">
 <div class="rght"></div>
 <div class="container">
 
-<a id="logo" href="http://www.funorb.com/l=3/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_funorb.jpg" alt="FunOrb" />
 </b></a>
 <div id="shell">
 <div class="lft"></div>
@@ -53,7 +53,7 @@ pt">
 
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO!</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO!</span>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messengercommon0.js"></script>
 <script type="text/javascript" src="http://fomessenger.funorb.com/l=3/messenger.js"></script>
 
@@ -62,15 +62,15 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
-<li><a href="http://www.funorb.com/l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/gamelist.ws?playerBox=1" class="fly">Jogos - Jogador solo</a></li>
+<li><a href="../../l=3/gamelist.ws?playerBox=2" class="fly">Jogos - Multijogadores</a></li>
+<li><a href="../../l=3/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -79,9 +79,9 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=3/" class="fly">Criar conta gratuita</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/members.ws" class="fly">Benefícios do membro</a></li>
-<li><a href="http://www.funorb.com/l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
+<li><a href="../../l=3/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/members.ws" class="fly">Benefï¿½cios do membro</a></li>
+<li><a href="../../l=3/account_management.ws" class="fly last">Gerenciamento da conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -91,45 +91,45 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <ul class="sub">
 <li><a href="http://focommunity.funorb.com/l=3/" class="fly">Comunidade - Principal</a></li>
 <li><a href="
-http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=dev_diary" class="fly">Diários de desenvolvimento</a></li>
+http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fï¿½runs</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://achievements.funorb.com/l=3/" class="fly">Conquistas</a></li>
-<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://hiscore-fo.funorb.com/l=3/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://orbcoins.funorb.com/l=3/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/kbase/view.ws?guid=help"><span>Ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/parents.ws" class="fly">Guia para os pais</a></li>
-<li><a href="http://www.funorb.com/l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
-<li><a href="http://www.funorb.com/l=3/bugtracker.ws" class="fly last">Enviar relatório de erros</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/parents.ws" class="fly">Guia para os pais</a></li>
+<li><a href="../../l=3/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar assinatura</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/kbase/view.ws?guid=password_support" class="fly">Problemas com senhas</a></li>
+<li><a href="../../l=3/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erros</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=3/" id="register" class="top_link"><span>Criar conta</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_1_offensive_language" id="signIn" class="top_link"><span>Login</span></a></li>
+<li class="top p8"><a href="../../l=3/loginapplet/login.ws?mod=www&amp;ssl=0&amp;dest=kbase/view.ws?guid=rule_1_offensive_language" id="signIn" class="top_link"><span>Login</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/index.ws">
+<a id="countrydrop" href="../../l=3/index.ws">
 <span>
-<img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/index.ws"><img title="English" alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../index.ws"><img title="English" alt="English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/index.ws"><img title="Deutsch" alt="Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -159,68 +159,68 @@ http://forum-fo-pt.funorb.com/l=3/forums.ws" class="fly">Fóruns</a></li>
 <h1 class="articleTitle">Regra 1 - Linguagem ofensiva</h1>
 <div class="articleBody">
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Data de vigência: 27 de fevereiro de 2008</div>
-<br> Você não deve usar nenhuma linguagem que possa ser considerada ofensiva, racista, obscena ou de outra forma inapropriada. Isso inclui o uso de palavrões. <br><br> Se você recebeu um insulto grave, como, por exemplo, comentários racistas, assédio ou linguagem vulgar ou obscena, por favor, denuncie usando o botão Denunciar Abuso no jogo, que pode ser encontrado na interface de todos os nossos jogos multijogadores <br>
+<div style="font-weight:bold;" class="effectivedate">Data de vigï¿½ncia: 27 de fevereiro de 2008</div>
+<br> Vocï¿½ nï¿½o deve usar nenhuma linguagem que possa ser considerada ofensiva, racista, obscena ou de outra forma inapropriada. Isso inclui o uso de palavrï¿½es. <br><br> Se vocï¿½ recebeu um insulto grave, como, por exemplo, comentï¿½rios racistas, assï¿½dio ou linguagem vulgar ou obscena, por favor, denuncie usando o botï¿½o Denunciar Abuso no jogo, que pode ser encontrado na interface de todos os nossos jogos multijogadores <br>
 <br>
 <div class="hr"></div>
-<b>Questões relacionadas</b><br> Abaixo estão algumas questões relacionadas que podem ajudar a entender e seguir esta regra.<br>
+<b>Questï¿½es relacionadas</b><br> Abaixo estï¿½o algumas questï¿½es relacionadas que podem ajudar a entender e seguir esta regra.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Por que temos esta regra?</a>
-<li><a href="#what">O que você quer dizer com linguagem ofensiva ou imprópria?</a>
-<li><a href="#okay">É permitido procurar namorado ou namorada nos jogos?</a>
-<li><a href="#disguise">É permitido grafar uma palavra ofensiva de modo errado para disfarçá-la?</a>
-<li><a href="#noob">Fui chamado de ‘novato’. Isso é ofensivo? Eu deveria denunciar esse jogador?</a>
-<li><a href="#chat">O que é inundar a janela de bate-papo?</a>
+<li><a href="#what">O que vocï¿½ quer dizer com linguagem ofensiva ou imprï¿½pria?</a>
+<li><a href="#okay">ï¿½ permitido procurar namorado ou namorada nos jogos?</a>
+<li><a href="#disguise">ï¿½ permitido grafar uma palavra ofensiva de modo errado para disfarï¿½ï¿½-la?</a>
+<li><a href="#noob">Fui chamado de ï¿½novatoï¿½. Isso ï¿½ ofensivo? Eu deveria denunciar esse jogador?</a>
+<li><a href="#chat">O que ï¿½ inundar a janela de bate-papo?</a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Por que temos esta regra?</span><br><br> Temos esta regra para manter o ambiente agradável em nossos jogos. Para muitas pessoas, não é divertido jogar quando um outro indivíduo está sendo grosseiro ou ofensivo, então, por favor, tenha consideração pelos outros quando conversar. Além disso, lembre-se de que nem todos os jogadores são da mesma idade ou vêm da mesma cultura, por isso podem se ofender ou aborrecer mais do que você imagina. <br><br>
+<span class="title">1. Por que temos esta regra?</span><br><br> Temos esta regra para manter o ambiente agradï¿½vel em nossos jogos. Para muitas pessoas, nï¿½o ï¿½ divertido jogar quando um outro indivï¿½duo estï¿½ sendo grosseiro ou ofensivo, entï¿½o, por favor, tenha consideraï¿½ï¿½o pelos outros quando conversar. Alï¿½m disso, lembre-se de que nem todos os jogadores sï¿½o da mesma idade ou vï¿½m da mesma cultura, por isso podem se ofender ou aborrecer mais do que vocï¿½ imagina. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">2. O que você quer dizer com linguagem ofensiva ou imprópria?</span><br><br> Isso inclui (mas não se limita a): conversas sobre consumo de drogas, linguagem sexual explícita, proposta indecorosa, racismo ou outra discriminação, ameaça, chantagem e palavrões. É simplesmente uma questão de bom senso: tente não dizer nada que alguém possa achar ofensivo. <br><br>
+<span class="title">2. O que vocï¿½ quer dizer com linguagem ofensiva ou imprï¿½pria?</span><br><br> Isso inclui (mas nï¿½o se limita a): conversas sobre consumo de drogas, linguagem sexual explï¿½cita, proposta indecorosa, racismo ou outra discriminaï¿½ï¿½o, ameaï¿½a, chantagem e palavrï¿½es. ï¿½ simplesmente uma questï¿½o de bom senso: tente nï¿½o dizer nada que alguï¿½m possa achar ofensivo. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="okay"></a>
-<span class="title">3. É permitido procurar namorado ou namorada nos jogos?</span><br><br> Não, isso é proposta indecorosa e não é permitido de maneira nenhuma. Serve para garantir a proteção de todos os nossos jogadores. <br><br>
+<span class="title">3. ï¿½ permitido procurar namorado ou namorada nos jogos?</span><br><br> Nï¿½o, isso ï¿½ proposta indecorosa e nï¿½o ï¿½ permitido de maneira nenhuma. Serve para garantir a proteï¿½ï¿½o de todos os nossos jogadores. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="disguise"></a>
-<span class="title">4. É permitido grafar uma palavra ofensiva de modo errado para disfarçá-la?</span><br><br> Não, por favor, não faça isso. Na verdade, escrever uma palavra ofensiva de modo errado ou usar símbolos que substituam letras para evitar o filtro do bate-papo é considerado pior. <br><br>
+<span class="title">4. ï¿½ permitido grafar uma palavra ofensiva de modo errado para disfarï¿½ï¿½-la?</span><br><br> Nï¿½o, por favor, nï¿½o faï¿½a isso. Na verdade, escrever uma palavra ofensiva de modo errado ou usar sï¿½mbolos que substituam letras para evitar o filtro do bate-papo ï¿½ considerado pior. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="noob"></a>
-<span class="title">5. Fui chamado de ‘novato’. Isso é ofensivo? Eu deveria denunciar esse jogador?</span><br><br> Chamar outros jogadores de ‘novatos’ é muito comum na maioria dos jogos on-line.<br>
-<br> Isso não é algo com que você deva se preocupar quando significar ‘jogador inexperiente’. Todo jogador já foi um ‘novato’. <br> A melhor coisa a fazer é ignorar isso. <br><br>
+<span class="title">5. Fui chamado de ï¿½novatoï¿½. Isso ï¿½ ofensivo? Eu deveria denunciar esse jogador?</span><br><br> Chamar outros jogadores de ï¿½novatosï¿½ ï¿½ muito comum na maioria dos jogos on-line.<br>
+<br> Isso nï¿½o ï¿½ algo com que vocï¿½ deva se preocupar quando significar ï¿½jogador inexperienteï¿½. Todo jogador jï¿½ foi um ï¿½novatoï¿½. <br> A melhor coisa a fazer ï¿½ ignorar isso. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 <div class="hr"></div>
 <a name="chat"></a>
-<span class="title">6. O que é inundar a janela de bate-papo?</span><br><br> Fazer spam ou "inundar" é encher a janela de bate-papo com textos desnecessários. Isso também ofende, atrapalha e é injusto para com outros jogadores, pois traz mais dificuldade para eles se comunicarem e realizarem transações entre si. <br><br>
-<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Não toleraremos jogadores que atrapalham, e, se você violar nossas regras, provavelmente sua conta será suspensa. Membros suspensos por violar nossas regras não têm direito a nenhum tipo de reembolso.</i></p>
+<span class="title">6. O que ï¿½ inundar a janela de bate-papo?</span><br><br> Fazer spam ou "inundar" ï¿½ encher a janela de bate-papo com textos desnecessï¿½rios. Isso tambï¿½m ofende, atrapalha e ï¿½ injusto para com outros jogadores, pois traz mais dificuldade para eles se comunicarem e realizarem transaï¿½ï¿½es entre si. <br><br>
+<p><i>Para que o FunOrb continue sendo apreciado por todos, favor observar e seguir essa regra. Nï¿½o toleraremos jogadores que atrapalham, e, se vocï¿½ violar nossas regras, provavelmente sua conta serï¿½ suspensa. Membros suspensos por violar nossas regras nï¿½o tï¿½m direito a nenhum tipo de reembolso.</i></p>
 </div>
 <br style="clear: both;">
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao início" title="Voltar ao início" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao inï¿½cio" title="Voltar ao inï¿½cio" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Mais artigos em <a href="viewcategory.ws?cat_id=11">Regras de Conduta</a> : </b>
 <span class="articleMore">
-Regra 1 - Linguagem ofensiva, <a href="viewarticle.ws?article_id=37">Regra 2 - Trapaça de objetos</a>, <a href="viewarticle.ws?article_id=14">Regra 3 - Roubar senhas</a>, <a href="viewarticle.ws?article_id=50">Regra 4 - Trapacear/Abusar de erros</a>, <a href="viewarticle.ws?article_id=21">Regra 5 - Fingir ser funcionário da Jagex</a></span>
+Regra 1 - Linguagem ofensiva, <a href="viewarticle.ws?article_id=37">Regra 2 - Trapaï¿½a de objetos</a>, <a href="viewarticle.ws?article_id=14">Regra 3 - Roubar senhas</a>, <a href="viewarticle.ws?article_id=50">Regra 4 - Trapacear/Abusar de erros</a>, <a href="viewarticle.ws?article_id=21">Regra 5 - Fingir ser funcionï¿½rio da Jagex</a></span>
 </div>
 </div>
 </div>
@@ -231,17 +231,17 @@ Regra 1 - Linguagem ofensiva, <a href="viewarticle.ws?article_id=37">Regra 2 - T
 <div class="clear"></div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/index.ws"><img alt="English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/index.ws"><img alt="Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../index.ws"><img alt="English" src="../../l=3/img/images/layout/en.gif">English</a>
+<a href="../../l=1/index.ws"><img alt="Deutsch" src="../../l=3/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/index.ws"><img alt="Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2009 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Limited no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.funorb.com/l=3/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.funorb.com/l=3/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2009 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Limited no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="../../l=3/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="../../l=3/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

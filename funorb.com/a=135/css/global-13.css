@@ -76,7 +76,7 @@ body {
  font-size:11px;
  text-align:center;
  color:#fff;
- background: #0a3b76 url(http://www.funorb.com/a=135/img/images/layout/bg_body.png) repeat-y center top;
+ background: #0a3b76 url(../../a=135/img/images/layout/bg_body.png) repeat-y center top;
 }
 
 iframe { border: none; }
@@ -117,7 +117,7 @@ img { border:0px; }
 
  .hr {
   height: 16px;
-  background: url(http://www.funorb.com/a=135/img/images/layout/hr.gif) repeat-x center;
+  background: url(../../a=135/img/images/layout/hr.gif) repeat-x center;
   border: none;
   font-size: 1px;
  }
@@ -193,7 +193,7 @@ img { border:0px; }
 
 
 #navigation {
- background:url(http://www.funorb.com/a=135/img/images/layout/nav.gif) repeat-x 116px;
+ background:url(../../a=135/img/images/layout/nav.gif) repeat-x 116px;
  margin:0px 9px;
  height:116px;
  width:758px;
@@ -204,7 +204,7 @@ img { border:0px; }
 }
 
 #navigation .lft {
- background:url(http://www.funorb.com/a=135/img/images/layout/nav.gif) no-repeat;
+ background:url(../../a=135/img/images/layout/nav.gif) no-repeat;
  position:absolute;
  left:-9px;
  height:116px;
@@ -212,7 +212,7 @@ img { border:0px; }
 }
 
 #navigation .rght {
- background:url(http://www.funorb.com/a=135/img/images/layout/nav.gif) no-repeat right -232px;
+ background:url(../../a=135/img/images/layout/nav.gif) no-repeat right -232px;
  height:217px;
  position:absolute;
  right:-9px;
@@ -223,7 +223,7 @@ img { border:0px; }
 
 
 #logo {
- background:url(http://www.funorb.com/a=135/img/images/layout/logo_funOrb.jpg) no-repeat;
+ background:url(../../a=135/img/images/layout/logo_funOrb.jpg) no-repeat;
  width:203px;
  height:80px;
  display:block;
@@ -264,7 +264,7 @@ img { border:0px; }
 #affiliate {
  position: relative;
  height: 80px;
- background: black url(http://www.funorb.com/a=135/img/images/layout/affiliate_header.jpg) no-repeat right top;
+ background: black url(../../a=135/img/images/layout/affiliate_header.jpg) no-repeat right top;
 }
 
 #affiliate #logo {
@@ -289,7 +289,7 @@ img { border:0px; }
  height:80px;
  width:550px;
  overflow:hidden;
- background:url(http://www.funorb.com/a=135/img/images/layout/nav_headerbg.gif) repeat-x 0px -80px;
+ background:url(../../a=135/img/images/layout/nav_headerbg.gif) repeat-x 0px -80px;
  color:#999999;
  text-align:left;
  font-size:10px;
@@ -331,7 +331,7 @@ img { border:0px; }
 }
 
 #shell .lft {
- background:url(http://www.funorb.com/a=135/img/images/layout/nav_headerbg.gif) repeat-x;
+ background:url(../../a=135/img/images/layout/nav_headerbg.gif) repeat-x;
  height:80px;
  position:absolute;
  left:0px;
@@ -340,7 +340,7 @@ img { border:0px; }
 }
 
 #shell .rght {
- background:url(http://www.funorb.com/a=135/img/images/layout/nav_headerbg.gif) repeat-x 0px -160px;
+ background:url(../../a=135/img/images/layout/nav_headerbg.gif) repeat-x 0px -160px;
  height:80px;
  position:absolute;
  right:0px;
@@ -353,7 +353,7 @@ img { border:0px; }
 
 
 #latestRelease {
- background:url(http://www.funorb.com/a=135/img/images/layout/releaseBar.gif) repeat-x 217px;
+ background:url(../../a=135/img/images/layout/releaseBar.gif) repeat-x 217px;
  margin:0px 15px;
  height:195px;
  width:746px;
@@ -361,7 +361,7 @@ img { border:0px; }
 }
 
 #latestRelease .lft {
- background:url(http://www.funorb.com/a=135/img/images/layout/releaseBar.gif) no-repeat;
+ background:url(../../a=135/img/images/layout/releaseBar.gif) no-repeat;
  position:absolute;
  left:-14px;
  height:195px;
@@ -369,7 +369,7 @@ img { border:0px; }
 }
 
 #latestRelease .rght {
- background:url(http://www.funorb.com/a=135/img/images/layout/releaseBar.gif) no-repeat right -389px;
+ background:url(../../a=135/img/images/layout/releaseBar.gif) no-repeat right -389px;
  height:195px;
  position:absolute;
  right:-14px;
@@ -395,7 +395,7 @@ img { border:0px; }
  display:block;
  float:left;
  position:relative;
- background: url(http://www.funorb.com/a=135/img/images/layout/menu2.gif) repeat-x;
+ background: url(../../a=135/img/images/layout/menu2.gif) repeat-x;
  text-align:center;
 }
 
@@ -404,7 +404,7 @@ img { border:0px; }
 .menu li.top:hover a#help,
 .menu li.top:hover a#forums,
 .menu li.top:hover a#register {
-  background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
+  background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
 }
 
 .menu li.top:hover a#account span,
@@ -412,7 +412,7 @@ img { border:0px; }
 .menu li.top:hover a#help span,
 .menu li.top:hover a#forums span,
 .menu li.top:hover a#register span {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -114px;
 }
 
 
@@ -448,7 +448,7 @@ img { border:0px; }
 .menu li.p5 {width:80px; }
 .menu li.p6 {width:10px; }
 .menu li.p6:hover {
- background: url(http://www.funorb.com/a=135/img/images/layout/menu2.gif) repeat-x;
+ background: url(../../a=135/img/images/layout/menu2.gif) repeat-x;
 }
 .menu li.p7 {width:110px; }
 .menu li.p8 {width:98px; }
@@ -464,7 +464,7 @@ img { border:0px; }
 
 
 body#navHome .menu li a#home {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -38px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -38px;
 }
 
 body#navAccount .menu li a#account,
@@ -474,7 +474,7 @@ body#navForums .menu li a#forums,
 body#navRegister .menu li a#register,
 body#navSignOut .menu li a#signOut,
 body#navSignIn .menu li a#signIn {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
 }
 
 
@@ -486,13 +486,13 @@ body#navForums .menu li a#forums span,
 body#navRegister .menu li a#register span,
 body#navSignIn .menu li a#signIn span,
 body#navSignOut .menu li a#signOut span {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -114px;
 }
 
 
 
-.menu li a#home {width:80px; background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat;}
-.menu li a#home:hover { background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -38px;}
+.menu li a#home {width:80px; background:url(../../a=135/img/images/layout/menu.gif) no-repeat;}
+.menu li a#home:hover { background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -38px;}
 
 
 .menu li a#signIn,
@@ -502,7 +502,7 @@ body#navSignOut .menu li a#signOut span {
 .menu li a#help,
 .menu li a#forums,
 .menu li a#register {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -76px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -76px;
 }
 
 .menu li a#home span,
@@ -513,7 +513,7 @@ body#navSignOut .menu li a#signOut span {
 .menu li a#signIn span,
 .menu li a#register span {
  margin-left:3px;
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -76px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -76px;
  display:block;
 }
 
@@ -527,7 +527,7 @@ body#navSignOut .menu li a#signOut span {
 .menu li a#help:hover span,
 .menu li a#forums:hover span,
 .menu li a#register:hover span {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -114px;
 }
 
 .menu li a#signIn:hover,
@@ -537,7 +537,7 @@ body#navSignOut .menu li a#signOut span {
 .menu li a#help:hover,
 .menu li a#forums:hover,
 .menu li a#register:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat 0px -114px;
 }
 
 .menu li a#signIn:hover span,
@@ -561,10 +561,10 @@ body#navSignOut .menu li a#signOut span {
  width: 95px;
  display: block;
  color: #d50009;
- background: url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -76px;}
+ background: url(../../a=135/img/images/layout/menu.gif) no-repeat right -76px;}
 
 .menu li a#signOut:hover span {
- background: url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -114px;
+ background: url(../../a=135/img/images/layout/menu.gif) no-repeat right -114px;
  color: white;
 }
 
@@ -572,16 +572,16 @@ body#navSignOut .menu li a#signOut span {
  color: #00c721;
  width:95px;
  display:block;
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -76px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -76px;
 }
 .menu li a#signIn:hover span {
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right -114px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right -114px;
  color: white;
 }
 
 #lang {
  float: none;
- background: transparent url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat scroll right 0px;
+ background: transparent url(../../a=135/img/images/layout/menu.gif) no-repeat scroll right 0px;
  padding-top:7px;
  line-height:0px;
  height: 26px;
@@ -590,7 +590,7 @@ body#navSignOut .menu li a#signOut span {
 #lang div {
  width:99px;
  display:block;
- background:url(http://www.funorb.com/a=135/img/images/layout/menu.gif) no-repeat right 0px;
+ background:url(../../a=135/img/images/layout/menu.gif) no-repeat right 0px;
 }
 
 
@@ -610,7 +610,7 @@ body#navSignOut .menu li a#signOut span {
 .menu :hover ul.sub {
  left:0;
  top:33px;
- background: url(http://www.funorb.com/a=135/img/images/layout/subMenu.png) no-repeat bottom;
+ background: url(../../a=135/img/images/layout/subMenu.png) no-repeat bottom;
  z-index:1000;
  padding-bottom:7px;
  white-space:nowrap;
@@ -622,10 +622,10 @@ body#navSignOut .menu li a#signOut span {
 .menu :hover ul.sub li a {margin-left:7px; display:block; font-size:11px; height:20px; width:139px; line-height:20px; text-indent:5px; color:#fff; text-decoration:none; font-weight:normal;}
 .menu :hover ul.sub li a.fly { border-bottom:solid 1px #3e3e3e; }
 .menu :hover ul.sub li a:hover {background:#212121;}
-.menu :hover ul.sub li a.fly:hover {background:transparent url(http://www.funorb.com/a=135/img/images/layout/subMenu_highlight.gif) no-repeat top left;}
+.menu :hover ul.sub li a.fly:hover {background:transparent url(../../a=135/img/images/layout/subMenu_highlight.gif) no-repeat top left;}
 
 .menu :hover ul.sub li a.last { border: none; }
-.menu :hover ul.sub li a.last:hover { background-image: url(http://www.funorb.com/a=135/img/images/layout/subMenu_highlightLast.gif); }
+.menu :hover ul.sub li a.last:hover { background-image: url(../../a=135/img/images/layout/subMenu_highlightLast.gif); }
 
 
 .menu :hover ul :hover ul,
@@ -654,12 +654,12 @@ body#navSignOut .menu li a#signOut span {
 
 .sectionHeader {
  height: 32px;
- background: url(http://www.funorb.com/a=135/img/images/layout/section_header.gif);
+ background: url(../../a=135/img/images/layout/section_header.gif);
 }
 
 .sectionHeaderRight {
  height: 32px;
- background: url(http://www.funorb.com/a=135/img/images/layout/section_header_right.gif) no-repeat top right;
+ background: url(../../a=135/img/images/layout/section_header_right.gif) no-repeat top right;
 }
 
 .sectionTitle {
@@ -678,7 +678,7 @@ body#navSignOut .menu li a#signOut span {
 }
 
 .sectionGradient .sectionBorder {
- background: url(http://www.funorb.com/a=135/img/images/layout/section_border.gif) top;
+ background: url(../../a=135/img/images/layout/section_border.gif) top;
 }
 
 .sectionBackground {
@@ -687,7 +687,7 @@ body#navSignOut .menu li a#signOut span {
 }
 
 .sectionGradient .sectionBackground {
- background: url(http://www.funorb.com/a=135/img/images/layout/section_bg.gif) top;
+ background: url(../../a=135/img/images/layout/section_bg.gif) top;
 }
 
 .sectionContent {
@@ -709,19 +709,19 @@ body#navSignOut .menu li a#signOut span {
  margin: 0 -1px;
  height: 5px;
  font-size: 1px;
- background: url(http://www.funorb.com/a=135/img/images/layout/section_footer.gif) top left;
+ background: url(../../a=135/img/images/layout/section_footer.gif) top left;
 }
 
 .sectionFooter div {
  height: 5px;
  font-size: 1px;
- background: url(http://www.funorb.com/a=135/img/images/layout/section_footer_right.gif) no-repeat top right;
+ background: url(../../a=135/img/images/layout/section_footer_right.gif) no-repeat top right;
 }
 
 .subsection {
  height: 1%;
  margin: 0 auto;
- background: transparent url(http://www.funorb.com/a=135/img/images/layout/subsection_header_right.gif) top right no-repeat;
+ background: transparent url(../../a=135/img/images/layout/subsection_header_right.gif) top right no-repeat;
  font-size: 12px;
  text-align:left;
 }
@@ -730,7 +730,7 @@ body#navSignOut .menu li a#signOut span {
  height: 21px;
  padding-left: 24px;
  margin-right: 7px;
- background: transparent url(http://www.funorb.com/a=135/img/images/layout/subsection_header.gif) top left no-repeat;
+ background: transparent url(../../a=135/img/images/layout/subsection_header.gif) top left no-repeat;
 }
 
 .subsectionTitle {
@@ -760,17 +760,17 @@ body#navSignOut .menu li a#signOut span {
 
 .buttonInfo {
  width: 26px;
- background:url(http://www.funorb.com/a=135/img/images/layout/info_play_button.gif) no-repeat bottom left;
+ background:url(../../a=135/img/images/layout/info_play_button.gif) no-repeat bottom left;
  cursor:pointer;
 }
 
 .buttonInfo:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/info_play_button.gif) no-repeat top left;
+ background:url(../../a=135/img/images/layout/info_play_button.gif) no-repeat top left;
 }
 
 .buttonPlay {
  width: 69px;
- background:url(http://www.funorb.com/a=135/img/images/layout/info_play_button.gif) no-repeat top right;
+ background:url(../../a=135/img/images/layout/info_play_button.gif) no-repeat top right;
  text-decoration:none;
  font-weight:bold;
  color:#fff;
@@ -779,12 +779,12 @@ body#navSignOut .menu li a#signOut span {
 
 .buttonPlay:hover,
 .buttonPlaySmall:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/info_play_button.gif) no-repeat bottom right;
+ background:url(../../a=135/img/images/layout/info_play_button.gif) no-repeat bottom right;
 }
 
 .buttonPlaySmall {
  width: 52px;
- background:url(http://www.funorb.com/a=135/img/images/layout/info_play_button.gif) no-repeat top right;
+ background:url(../../a=135/img/images/layout/info_play_button.gif) no-repeat top right;
  text-decoration:none;
  font-weight:bold;
  color:#fff;
@@ -809,17 +809,17 @@ body#navSignOut .menu li a#signOut span {
 }
 
 .buttonNew {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_bg.gif) no-repeat top left;
+ background:url(../../a=135/img/images/layout/new_button_bg.gif) no-repeat top left;
  width:95px;
 }
 
 .buttonNewMedium {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_medium_bg.gif) no-repeat top left;
+ background:url(../../a=135/img/images/layout/new_button_medium_bg.gif) no-repeat top left;
  width:120px;
 }
 
 .buttonNewWide {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_wide_bg.gif) no-repeat top left;
+ background:url(../../a=135/img/images/layout/new_button_wide_bg.gif) no-repeat top left;
  width:150px;
 }
 
@@ -828,7 +828,7 @@ body#navSignOut .menu li a#signOut span {
 #buttonNext
 {
  width: 61px;
- background-image: url(http://www.funorb.com/a=135/img/images/layout/button_blue_mini_61.gif);
+ background-image: url(../../a=135/img/images/layout/button_blue_mini_61.gif);
 }
 
 #buttonPrev {
@@ -842,22 +842,22 @@ body#navSignOut .menu li a#signOut span {
 }
 
 .buttonNew:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_bg.gif) no-repeat bottom left;
+ background:url(../../a=135/img/images/layout/new_button_bg.gif) no-repeat bottom left;
 }
 
 .buttonNewMedium:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_medium_bg.gif) no-repeat bottom left;
+ background:url(../../a=135/img/images/layout/new_button_medium_bg.gif) no-repeat bottom left;
 }
 
 .buttonNewWide:hover {
- background:url(http://www.funorb.com/a=135/img/images/layout/new_button_wide_bg.gif) no-repeat bottom left;
+ background:url(../../a=135/img/images/layout/new_button_wide_bg.gif) no-repeat bottom left;
 }
 
 .buttonWide {
  display: block;
  width: 169px;
  height: 29px;
- background: top url(http://www.funorb.com/a=135/img/images/layout/button_wide.gif);
+ background: top url(../../a=135/img/images/layout/button_wide.gif);
  text-align: center;
  font-size: 13px;
  font-weight: bold;
@@ -882,7 +882,7 @@ body#navSignOut .menu li a#signOut span {
  position: relative;
  height:77px;
  clear:both;
- background: transparent url(http://www.funorb.com/a=135/img/images/layout/footer_bg.gif) no-repeat center bottom;
+ background: transparent url(../../a=135/img/images/layout/footer_bg.gif) no-repeat center bottom;
  text-align:center;
  font-size: 0px; /* IE fix */
 }
@@ -1018,7 +1018,7 @@ span.FO_username, span.highlight {
 .articleTitle {
  margin: 0 0 5px;
  padding: 3px 8px;
- background: #1B4688 url(http://www.funorb.com/a=135/img/images/layout/article_title.gif) top center no-repeat;
+ background: #1B4688 url(../../a=135/img/images/layout/article_title.gif) top center no-repeat;
  font-size: 18px;
  font-weight: normal;
  color: white;

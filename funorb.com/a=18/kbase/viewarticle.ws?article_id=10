@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=18/css/global-4.css);/**/
+  /*\*/@import url(../../a=18/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=18/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=18/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=18/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=18/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
 <meta name="description" content="Information about Jagex.">
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=18/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=18/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=18/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=18/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=18/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=18/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=18/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=18/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=18/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=18/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=18/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -92,27 +92,27 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=18/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=18/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=18/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=18/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=18/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=18/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=18/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=10" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=18/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=10" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/en.gif" alt="English" /></a>
-<a href="http://www.funorb.com/l=1/a=18/index.ws"><img src="http://www.funorb.com/a=18/img/images/layout/de.gif" alt="German" /></a>
+<a href="../../a=18/index.ws"><img src="../../a=18/img/images/layout/en.gif" alt="English" /></a>
+<a href="../../l=1/a=18/index.ws"><img src="../../a=18/img/images/layout/de.gif" alt="German" /></a>
 </span>
 </div>
 </li>
@@ -154,15 +154,15 @@ Whilst we support the principle of work experience for students, we are unfortun
 We do, however, offer a one-year industrial placement opportunity for university students. For more information, please see the 'Careers' section of our <a href="http://www.jagex.com/corporate" target="_blank">corporate website</a>.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="work"></a>
 <span class="title">2. Can I work for Jagex?</span><br><br>
-Should you wish to apply for one of the positions within the Jagex team then you will find a full list of available positions on our <a href="http://www.jagex.com" target="_blank">corporate website</a> under 'Vacancies' on the 'Careers' tab.<br><br>Please note that all of the roles within the company require a large amount of specialised training so only genuine and highly skilled candidates will be considered. You will also need to be able and eligible to work in our UK offices. At this time, we are not accepting any contract, part time or “Work from home” applications.
+Should you wish to apply for one of the positions within the Jagex team then you will find a full list of available positions on our <a href="http://www.jagex.com" target="_blank">corporate website</a> under 'Vacancies' on the 'Careers' tab.<br><br>Please note that all of the roles within the company require a large amount of specialised training so only genuine and highly skilled candidates will be considered. You will also need to be able and eligible to work in our UK offices. At this time, we are not accepting any contract, part time or ï¿½Work from homeï¿½ applications.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
@@ -171,7 +171,7 @@ Jagex, which stands for Java Gaming Experts, is the name of the company which pr
 In 2008, Jagex expanded its presence in the gaming industry with the release of FunOrb, a mini-games website offering players an unrivalled experience in multiplayer Java gaming!
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="contact"></a>
@@ -179,12 +179,12 @@ In 2008, Jagex expanded its presence in the gaming industry with the release of 
 We are sorry, but due to security reasons we do not offer telephone support to the players of FunOrb. It is our policy for us to only communicate with our members via the FunOrb Messaging system, which we believe is totally adequate for any communication you wish to send us.<br><br>If you have something you wish to send that is larger than the message system character limit will allow then please split it and send us the message in multiple posts.<br><br>Our postal address is: <br><br>St Andrews House, <br>90 St Andrews Road, <br>Cambridge, <br>Cambridgeshire CB4 1DL,<br>UK.<br><br>Please be aware that:<br><ul style="margin-top: 0px; margin-bottom: 0px; "><br><li>No game queries, account queries, ban appeals, membership issues, or similar messages that would normally be handled via the RuneScape Messaging system will be dealt with via this address.<br><li>We will not be able to return any items that are sent to us, even if a returns package is included.<br></ul>
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="credits"></a>
 <span class="title">5. Full Credits List</span><br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=18/img/images/kbase/category_pages/navbar_jagex2.gif" alt="Jagex" title="Jagex"><br>
+<img style="display: block; margin: 0 auto 0 auto;" src="../../a=18/img/images/kbase/category_pages/navbar_jagex2.gif" alt="Jagex" title="Jagex"><br>
 <br>
 <center>
 <table style="text-align: center;" align="center">
@@ -223,7 +223,7 @@ Michael G
 Alex J<br> </p>
 <p>
 <b>Content Development Team</b><br>
-Adam B<br> Alex M<br> Anthony G-S<br> Anthony W<br> Ashleigh B<br> Benny P<br> Daniel J<br> Doug H<br> Frédérique M<br> Gabriel M<br> Graham B<br> Ian G<br> Ingrid J<br> James B<br> Jennie T<br> John A<br> John H<br> Jonathan S<br> Liam P<br> Marion C<br> Matt H<br> Nancy J<br> Oscar G<br> Paul B<br> Paul G<br> Rod C<br> Stuart W<br> Tim C<br> Tytn H </p>
+Adam B<br> Alex M<br> Anthony G-S<br> Anthony W<br> Ashleigh B<br> Benny P<br> Daniel J<br> Doug H<br> Frï¿½dï¿½rique M<br> Gabriel M<br> Graham B<br> Ian G<br> Ingrid J<br> James B<br> Jennie T<br> John A<br> John H<br> Jonathan S<br> Liam P<br> Marion C<br> Matt H<br> Nancy J<br> Oscar G<br> Paul B<br> Paul G<br> Rod C<br> Stuart W<br> Tim C<br> Tytn H </p>
 <p>
 <b>Head of FunOrb</b><br>
 Mark F
@@ -405,7 +405,7 @@ Stephen R
 </p>
 <p>
 <b>French Unit Leader</b><br>
-Frédérique B
+Frï¿½dï¿½rique B
 </p>
 <p>
 <b>German Unit Leader</b><br>
@@ -798,7 +798,7 @@ Martina L
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=18/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -818,15 +818,15 @@ Martina L
 <div id="copyRight">
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=18/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=18/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=18/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

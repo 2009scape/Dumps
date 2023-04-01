@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=dungeonassault/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=dungeonassault/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=dungeonassault/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=dungeonassault/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/zombiedawn/intro.jpg);
+  background-image: url(../../l=1/img/images/game/zombiedawn/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/zombiedawn/screen1a.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/zombiedawn/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/zombiedawn/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/zombiedawn/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/zombiedawn/screen1a.jpg?1';
+images[1] = '../../l=1/img/images/game/zombiedawn/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/zombiedawn/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/zombiedawn/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=dungeonassault/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=dungeonassault/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=dungeonassault/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=dungeonassault/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=dungeonassault/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=dungeonassault/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=dungeonassault/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=dungeonassault/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=dungeonassault/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=dungeonassault/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=dungeonassault/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=dungeonassault/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=dungeonassault/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=dungeonassault/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=dungeonassault/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=dungeonassault/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=dungeonassault/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=dungeonassault/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=dungeonassault/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=dungeonassault/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=dungeonassault/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=dungeonassault/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=dungeonassault/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=dungeonassault/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=dungeonassault/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=dungeonassault/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=dungeonassault/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=dungeonassault/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=dungeonassault/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=dungeonassault/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=zombiedawn" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=dungeonassault/index.ws">
+<a id="countrydrop" href="../../l=1/g=dungeonassault/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=dungeonassault/index.ws"><img title="
+<li><a class="fly" href="../../g=dungeonassault/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=dungeonassault/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=dungeonassault/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=dungeonassault/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=dungeonassault/zombiedawn/play.ws">Zombie-Meister</a> &gt;
+<a href="../../l=1/g=dungeonassault/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=dungeonassault/gamelist.ws?genreBox=strategy">Strategie</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=dungeonassault/zombiedawn/play.ws">Zombie-Meister</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=dungeonassault/zombiedawn/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=dungeonassault/zombiedawn/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kontrolliert Zombie-Horden, stiftet Chaos unter den 'Nicht-Toten' und erobert die Welt! </div>
+<a href="../../l=1/g=dungeonassault/gamelist.ws?genreBox=strategy"><span class="genre">Strategie</span></a><br> Kontrolliert Zombie-Horden, stiftet Chaos unter den 'Nicht-Toten' und erobert die Welt! </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=dungeonassault/zombiedawn/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=dungeonassault/zombiedawn/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/zombiedawn/screen1a.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/zombiedawn/screen1a.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen1a">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen1a">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen1a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/zombiedawn/screen1a_thumb.jpg?1);">
+<a href="../../l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen1a" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/zombiedawn/screen1a_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/zombiedawn/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/zombiedawn/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/zombiedawn/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/zombiedawn/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/zombiedawn/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=dungeonassault/display_screenshot.ws?game=zombiedawn&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/zombiedawn/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -315,7 +315,7 @@ Features - Zombie-Meister
 <li>3 unterschiedliche Bonus-Level</li>
 <li>8 verschiedene Extras</li>
 <li>Zombifiziert Wachen, Ermittler und Spezialagenten</li>
-<li>Erobert das Weiße Haus</li>
+<li>Erobert das Weiï¿½e Haus</li>
 <li>Schwierigkeitsstufe SCHWER</li>
 <li>Abwechslungsreiche Spielerfolge</li>
 <li>KOSTENLOS</li>
@@ -334,7 +334,7 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Die Apokalypse der Untoten naht, aber zum Glück habt ihr das Kommando! Als Befehlshaber über eine Zombie-Horde müsst ihr euch in 24 knochenbrecherischen Levels das Gehirn zermartern, um schließlich das Weiße Haus zu stürmen und die Menschheit zu überwältigen. Doch euer Hunger nach Macht kennt keine Grenzen: In Großbritannien warten weitere 24 Levels (unter anderem der Buckingham Palace) darauf, von euch im Schlurf erobert zu werden. Zombie-Meister ist voller Action, Strategie, Puzzle und Untoten-Spaß!</p>
+<p>Die Apokalypse der Untoten naht, aber zum Glï¿½ck habt ihr das Kommando! Als Befehlshaber ï¿½ber eine Zombie-Horde mï¿½sst ihr euch in 24 knochenbrecherischen Levels das Gehirn zermartern, um schlieï¿½lich das Weiï¿½e Haus zu stï¿½rmen und die Menschheit zu ï¿½berwï¿½ltigen. Doch euer Hunger nach Macht kennt keine Grenzen: In Groï¿½britannien warten weitere 24 Levels (unter anderem der Buckingham Palace) darauf, von euch im Schlurf erobert zu werden. Zombie-Meister ist voller Action, Strategie, Puzzle und Untoten-Spaï¿½!</p>
 </div>
 </div>
 </div>
@@ -363,48 +363,48 @@ Fragen und Antworten
 <div class="hr"></div>
 <a name="faqs_q2"></a>
 <h3>2. Welche Extras gibt es?</h3>
-<p>Es gibt insgesamt 8 Extras, die in den 'Washington D.C.'-Levels eingeführt werden:</p>
+<p>Es gibt insgesamt 8 Extras, die in den 'Washington D.C.'-Levels eingefï¿½hrt werden:</p>
 <ul>
 <li>Fluch - verwandelt einen Menschen sofort in einen Zombie</li>
-<li>Explosion - Zombie und alles in der Nähe explodiert</li>
-<li>Verkleidung - Menschen laufen nicht davon... bis es zu spät ist</li> <li>Schmelze - Zombie schmilzt zu einer klebrigen Masse, welche Menschen verlangsamt</li>
-<li>Phantom - hinterlässt einen Geist des Zombies, den Menschen wie normale Zombies ansehen</li>
-<li>Schrei - Menschen bleiben für 15 Sekunden wie angewurzelt stehen</li>
+<li>Explosion - Zombie und alles in der Nï¿½he explodiert</li>
+<li>Verkleidung - Menschen laufen nicht davon... bis es zu spï¿½t ist</li> <li>Schmelze - Zombie schmilzt zu einer klebrigen Masse, welche Menschen verlangsamt</li>
+<li>Phantom - hinterlï¿½sst einen Geist des Zombies, den Menschen wie normale Zombies ansehen</li>
+<li>Schrei - Menschen bleiben fï¿½r 15 Sekunden wie angewurzelt stehen</li>
 <li>Geschwindigkeit - verdoppelt die Schlurfgeschwindigkeit deiner Zombies</li>
-<li>Stärke - es werden 3 Schüsse benötigt, um einen Zombie zu zerstören</li>
+<li>Stï¿½rke - es werden 3 Schï¿½sse benï¿½tigt, um einen Zombie zu zerstï¿½ren</li>
 </ul>
-<p>In den britischen Levels stehen euch 6 weitere Extras zur Verfügung:</p>
+<p>In den britischen Levels stehen euch 6 weitere Extras zur Verfï¿½gung:</p>
 <ul>
-<li>Durchbruch - damit könnt euch einen Weg durch Wände bahnen</li>
-<li>Furcht - versetzt selbst die mutigsten Menschen in Panik</li> <li>Gifthauch - schafft eine Barriere aus säurehaltigem Gas, durch die die Menschen weder sehen noch gehen können</li>
-<li>Erdbeben - lässt alle Fenster eines Levels zerspringen</li>
+<li>Durchbruch - damit kï¿½nnt euch einen Weg durch Wï¿½nde bahnen</li>
+<li>Furcht - versetzt selbst die mutigsten Menschen in Panik</li> <li>Gifthauch - schafft eine Barriere aus sï¿½urehaltigem Gas, durch die die Menschen weder sehen noch gehen kï¿½nnen</li>
+<li>Erdbeben - lï¿½sst alle Fenster eines Levels zerspringen</li>
 <li>Fesseln - verlangsamt alle Menschen und Zombies in einem Gebiet</li>
-<li>Druckwelle - bricht Türen auf und schleudert die Umstehenden in die Luft</li>
+<li>Druckwelle - bricht Tï¿½ren auf und schleudert die Umstehenden in die Luft</li>
 </ul>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
 <h3>3. Ich habe den Level vermasselt. Was soll ich unternehmen?</h3>
-<p>Du kannst den Level bis zu drei mal neustarten. Dazu musst du nur 'ESC' drücken und 'Neustart' auswählen.</p>
+<p>Du kannst den Level bis zu drei mal neustarten. Dazu musst du nur 'ESC' drï¿½cken und 'Neustart' auswï¿½hlen.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
 <h3>4. Wo kommen die Soldaten her?</h3>
-<p>Auf fast jedem Level nach dem Einkaufszentrum müsst ihr das Zeitlimit einhalten, um alle Menschen zu zombifizieren. Die Soldaten positionieren sich zwischenzeitlich in den Tunneln und Kellern unter dem Level und stürmen aus der Luke, sobald die Zeit abgelaufen ist.</p>
+<p>Auf fast jedem Level nach dem Einkaufszentrum mï¿½sst ihr das Zeitlimit einhalten, um alle Menschen zu zombifizieren. Die Soldaten positionieren sich zwischenzeitlich in den Tunneln und Kellern unter dem Level und stï¿½rmen aus der Luke, sobald die Zeit abgelaufen ist.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a>
 <h3>5. Wie kann ich mein Ergebnis verbessern?</h3>
-<p>Die verängstigten Menschen sollten mit deiner übermächtigen Menge an Zombies überwältigt werden, aber ein paar von ihnen setzen sich auch zur Wehr und zerstören deine Schlurfer. Versuche einen Level mit einer heimlicheren Taktik abzuschließen. Je mehr Zombies überleben, desto mehr Punkte erhältst du. Die Geschwindigkeit, in der ein Level abgeschlossen wird ist auch sehr wichtig.</p>
+<p>Die verï¿½ngstigten Menschen sollten mit deiner ï¿½bermï¿½chtigen Menge an Zombies ï¿½berwï¿½ltigt werden, aber ein paar von ihnen setzen sich auch zur Wehr und zerstï¿½ren deine Schlurfer. Versuche einen Level mit einer heimlicheren Taktik abzuschlieï¿½en. Je mehr Zombies ï¿½berleben, desto mehr Punkte erhï¿½ltst du. Die Geschwindigkeit, in der ein Level abgeschlossen wird ist auch sehr wichtig.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
 <h3>6. Welche Mindestvoraussetzungen setzt dieses Spiel?</h3>
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>500 MHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -418,19 +418,19 @@ Vorteile einer Mitgliedschaft
 </div>
 <div class="subsectionContent">
 <div>
-<p style="padding-bottom: 5px;">Falls euch die kostenlose Version gefallen hat, solltet ihr die Vorteile für Mitglieder beachten:</p>
+<p style="padding-bottom: 5px;">Falls euch die kostenlose Version gefallen hat, solltet ihr die Vorteile fï¿½r Mitglieder beachten:</p>
 <ul style="line-height: 22px;">
-<li>24 weitere Levels, randvoll mit angelsächsischer Zombie-Action</li>
-<li>3 weitere großartige Bonus-Level</li>
-<li>6 zusätzliche Extras</li>
-<li>Neue Gegner, unter anderem Jäger und Grenadiere</li>
-<li>Übernahme des Buckingham Palace</li>
-<li>Unzählige Extra-Erfolge</li>
+<li>24 weitere Levels, randvoll mit angelsï¿½chsischer Zombie-Action</li>
+<li>3 weitere groï¿½artige Bonus-Level</li>
+<li>6 zusï¿½tzliche Extras</li>
+<li>Neue Gegner, unter anderem Jï¿½ger und Grenadiere</li>
+<li>ï¿½bernahme des Buckingham Palace</li>
+<li>Unzï¿½hlige Extra-Erfolge</li>
 <li>Vollbildmodus</li>
 <li>Keine Werbung in den Spielen</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=dungeonassault/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -452,7 +452,7 @@ Development Team
 <b>Translation:</b> Heiko J,&nbsp;Gesine P,&nbsp;Matthias P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -465,25 +465,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=dungeonassault/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=dungeonassault/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=dungeonassault/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=dungeonassault/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=dungeonassault/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=dungeonassault/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=dungeonassault/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=dungeonassault/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=dungeonassault/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=dungeonassault/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=dungeonassault/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=dungeonassault/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=dungeonassault/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=dungeonassault/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

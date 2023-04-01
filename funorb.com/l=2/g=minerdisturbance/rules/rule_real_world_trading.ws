@@ -9,8 +9,8 @@ fr">
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jouez à des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rétro, jeux classiques, jeux de stratégie, jeux multijoueurs, arcanistes, Jagex">
-<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le créateur de RuneScape. Des jeux de réflexion, de stratégie, d'action, de tir, de mots, de course et bien plus encore !">
+<meta name="keywords" content="Jouez ï¿½ des jeux en ligne gratuits, puzzles, jeux de plateformes, jeux d'arcade, jeux de tir, action, jeux java, jeux de course, jeux de mots, jeux rï¿½tro, jeux classiques, jeux de stratï¿½gie, jeux multijoueurs, arcanistes, Jagex">
+<meta name="description" content="FunOrb, espace de jeux en ligne gratuits de Jagex Games Studio, le crï¿½ateur de RuneScape. Des jeux de rï¿½flexion, de stratï¿½gie, d'action, de tir, de mots, de course et bien plus encore !">
 <meta name="title" content="FunOrb - Jeux en ligne gratuit de Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2013 Jagex Ltd, www.jagex.com">
@@ -19,16 +19,16 @@ fr">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=2/g=minerdisturbance/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=2/g=minerdisturbance/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../l=2/g=minerdisturbance/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../l=2/g=minerdisturbance/favicon.ico">
 <title>FunOrb - Jeux en ligne gratuit de Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=2/css/global-44.css);/**/
+  /*\*/@import url(../../../l=2/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=2/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=2/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=2/css/ieFix-2.css);</style>
 <![endif]-->
 
 </head>
@@ -45,8 +45,8 @@ fr">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws" ><b>
-<img src="http://www.funorb.com/l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../l=2/g=minerdisturbance/index.ws" ><b>
+<img src="../../../l=2/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -55,7 +55,7 @@ fr">
 <div id="teleText">
 <h1 id="welcomeText">Bienvenue sur FunOrb - Les meilleurs jeux en ligne gratuits</h1>
 <span id="teletext_inner">
-Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de créer un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Créer un compte gratuit.</span>
+Pour accï¿½der ï¿½ certains jeux multijoueur, aux meilleurs scores et aux exploits, il suffit de crï¿½er un compte. C'est simple, rapide et GRATUIT ! Cliquez sur le bouton Jouer de nos jeux, puis sur Crï¿½er un compte gratuit.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=minerdisturbance/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=2/g=minerdisturbance/messenger.js"></script>
 
@@ -64,52 +64,52 @@ Pour accéder à certains jeux multijoueur, aux meilleurs scores et aux exploits, 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=2/g=minerdisturbance/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=2/g=minerdisturbance/index.ws" id="home" class="top_link"><span>Accueil</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=2/g=minerdisturbance/gamelist.ws"><span>Jeux</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/gamelist.ws" class="fly">Tous les jeux</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/options.ws" class="fly last">Options Java</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/gamelist.ws" class="fly">Tous les jeux</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/gamelist.ws?playerBox=1" class="fly">Jeux solo</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/gamelist.ws?playerBox=2" class="fly">Jeux multijoueur</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/options.ws" class="fly last">Options Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=2/g=minerdisturbance/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../l=2/g=minerdisturbance/account_management.ws"><span>Compte</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner à FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/members.ws" class="fly">Avantages abonné</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/account_management.ws" class="fly last">Gestion du compte</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">S'abonner ï¿½ FunOrb</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/members.ws" class="fly">Avantages abonnï¿½</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/account_management.ws" class="fly last">Gestion du compte</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=minerdisturbance/"><span>Communauté</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p4"><a id="forums" class="top_link" href="http://services.funorb.com/m=focommunity/l=2/g=minerdisturbance/"><span>Communautï¿½</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://services.funorb.com/m=focommunity/l=2/g=minerdisturbance/" class="fly">Coin communauté</a></li>
+<li><a href="http://services.funorb.com/m=focommunity/l=2/g=minerdisturbance/" class="fly">Coin communautï¿½</a></li>
 <li><a href="
 http://services.funorb.com/m=forum_fo_fr/l=2/g=minerdisturbance/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/kbase/guid/dev_diary" class="fly">Journal des développeurs</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/kbase/guid/dev_diary" class="fly">Journal des dï¿½veloppeurs</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=2/g=minerdisturbance/" class="fly">Exploits</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=2/g=minerdisturbance/" class="fly">Highscores &amp; classement</a></li>
-<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=minerdisturbance/" class="fly last">Téléchargements</a></li>
+<li><a href="http://services.funorb.com/m=orbcoins/l=2/g=minerdisturbance/" class="fly last">Tï¿½lï¿½chargements</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=2/g=minerdisturbance/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=2/g=minerdisturbance/kbase/guid/help"><span>Aide</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/kbase/guid/customer_support" class="fly">Service clientèle</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/parents.ws" class="fly">Guide parental</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/kbase/guid/rules_of_conduct" class="fly">Règles</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se désabonner</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
-<li><a href="http://www.funorb.com/l=2/g=minerdisturbance/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/kbase/guid/customer_support" class="fly">Service clientï¿½le</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/parents.ws" class="fly">Guide parental</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/kbase/guid/rules_of_conduct" class="fly">Rï¿½gles</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Se dï¿½sabonner</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recouvrement de compte</a></li>
+<li><a href="../../../l=2/g=minerdisturbance/bugtracker.ws" class="fly last">Envoyer un rapport de bug</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -117,28 +117,28 @@ http://services.funorb.com/m=forum_fo_fr/l=2/g=minerdisturbance/forums.ws" class
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=2/g=minerdisturbance/loginform.ws?mod=www&amp;ssl=0&amp;dest=rules/rule_real_world_trading.ws" id="signIn" class="top_link"><span>Se connecter</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws">
+<a id="countrydrop" href="../../../l=2/g=minerdisturbance/index.ws">
 <span>
 <img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=minerdisturbance/index.ws"><img title="
+<li><a class="fly" href="../../../g=minerdisturbance/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=minerdisturbance/index.ws"><img title="
+English" src="../../../l=2/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/g=minerdisturbance/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws"><img title="
+Deutsch" src="../../../l=2/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/g=minerdisturbance/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws"><img title="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/g=minerdisturbance/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -153,7 +153,7 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=2/g=minerdisturbance/kbase/view.ws?guid=rules_of_conduct">Règles de FunOrb</a> &gt; RMT ou leveling assisté 
+<a href="../../../l=2/g=minerdisturbance/kbase/view.ws?guid=rules_of_conduct">Rï¿½gles de FunOrb</a> &gt; RMT ou leveling assistï¿½ 
 </div>
 </div>
 </div>
@@ -164,18 +164,18 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div style="padding:5px;background:#0B2540;">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;" class="effectivedate">Date d'entrée en vigueur : 17 février 2010</div>
-<p>Vous pouvez échanger des objets uniquement contre d'autres objets ou services d'un même jeu. L'échange d'objets de jeu contre d'autres avantages dans d'autres jeux en ligne, de l'argent ou des avantages réels est strictement interdit.</p>
+<div style="font-weight:bold;" class="effectivedate">Date d'entrï¿½e en vigueur : 17 fï¿½vrier 2010</div>
+<p>Vous pouvez ï¿½changer des objets uniquement contre d'autres objets ou services d'un mï¿½me jeu. L'ï¿½change d'objets de jeu contre d'autres avantages dans d'autres jeux en ligne, de l'argent ou des avantages rï¿½els est strictement interdit.</p>
 <br>
 <div class="hr"></div>
-<h4>Questions associées</h4>
-<p>Vous trouverez ci-dessous des questions associées qui vous aideront à mieux comprendre et respecter cette règle.</p>
+<h4>Questions associï¿½es</h4>
+<p>Vous trouverez ci-dessous des questions associï¿½es qui vous aideront ï¿½ mieux comprendre et respecter cette rï¿½gle.</p>
 <div class="faqsList">
 <ol>
 <li><a href="#rwt">Qu'est-ce que le RMT ? </a></li>
-<li><a href="#why">Pourquoi cette règle ? </a></li>
+<li><a href="#why">Pourquoi cette rï¿½gle ? </a></li>
 <li><a href="#items">Ce que je fais de mes objets et de mon compte ne concerne-t-il pas que moi ? </a></li>
-<li><a href="#ebay">J'ai vu un compte à vendre sur Ebay. Que dois-je faire ? </a></li>
+<li><a href="#ebay">J'ai vu un compte ï¿½ vendre sur Ebay. Que dois-je faire ? </a></li>
 <li><a href="#forum">Puis-je accepter une signature de forum en paiement d'un objet ? </a></li>
 </ol>
 </div>
@@ -183,43 +183,43 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 <div class="hr"></div>
 <a name="rwt"></a>
 <span class="title">1. Qu'est-ce que le RMT ? </span>
-<p>Le RMT (ou trafic d'argent réel) est le terme employé pour désigner l'achat dans le monde réel de services visant à faire avancer votre personnage Jagex. Cela inclut entre autres : l'achat de pièces d'or ou d'objets, l'achat d'un compte Jagex ou l'achat d'expérience dans une compétence, un mini-jeu ou une quête.</p>
+<p>Le RMT (ou trafic d'argent rï¿½el) est le terme employï¿½ pour dï¿½signer l'achat dans le monde rï¿½el de services visant ï¿½ faire avancer votre personnage Jagex. Cela inclut entre autres : l'achat de piï¿½ces d'or ou d'objets, l'achat d'un compte Jagex ou l'achat d'expï¿½rience dans une compï¿½tence, un mini-jeu ou une quï¿½te.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">2. Pourquoi cette règle ? </span>
-<p>Trois raisons dictent cette règle. Tout d'abord, nous ne souhaitons pas que vous achetiez votre réussite dans RuneScape. Si nous laissions certains joueurs le faire, cela dévaloriserait RuneScape aux yeux d'autres joueurs. D'après nous, votre statut dans la vie ne doit avoir aucune influence sur votre succès au jeu. Ensuite, nous sommes dans l'incapacité de contrôler les transactions entre joueurs en dehors de RuneScape. Pour nous, l'échange d'éléments de jeu contre des avantages réels qui ne nous sont pas visibles constitue un commerce partial et suspect. Enfin, il est fréquent que les joueurs qui tentent d'enfreindre cette règle vendent des objets volés de RuneScape. Ainsi, vous pourriez vous attirer des ennuis pour recel de biens volés. Si vous achetez un compte, il peut être subitement rendu à qui de droit et vous risquez d'en être de votre poche. </p>
+<span class="title">2. Pourquoi cette rï¿½gle ? </span>
+<p>Trois raisons dictent cette rï¿½gle. Tout d'abord, nous ne souhaitons pas que vous achetiez votre rï¿½ussite dans RuneScape. Si nous laissions certains joueurs le faire, cela dï¿½valoriserait RuneScape aux yeux d'autres joueurs. D'aprï¿½s nous, votre statut dans la vie ne doit avoir aucune influence sur votre succï¿½s au jeu. Ensuite, nous sommes dans l'incapacitï¿½ de contrï¿½ler les transactions entre joueurs en dehors de RuneScape. Pour nous, l'ï¿½change d'ï¿½lï¿½ments de jeu contre des avantages rï¿½els qui ne nous sont pas visibles constitue un commerce partial et suspect. Enfin, il est frï¿½quent que les joueurs qui tentent d'enfreindre cette rï¿½gle vendent des objets volï¿½s de RuneScape. Ainsi, vous pourriez vous attirer des ennuis pour recel de biens volï¿½s. Si vous achetez un compte, il peut ï¿½tre subitement rendu ï¿½ qui de droit et vous risquez d'en ï¿½tre de votre poche. </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="items"></a>
 <span class="title">3. Ce que je fais de mes objets et de mon compte ne concerne-t-il pas que moi ? </span>
-<p>Non. Les Conditions d'utilisation stipulent que votre personnage RuneScape, votre compte et vos objets sont et demeurent la propriété de Jagex.</p>
+<p>Non. Les Conditions d'utilisation stipulent que votre personnage RuneScape, votre compte et vos objets sont et demeurent la propriï¿½tï¿½ de Jagex.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="ebay"></a>
-<span class="title">4. J'ai vu un compte à vendre sur Ebay. Que dois-je faire ? </span>
-<p>Soyez assuré que des membres du personnel de Jagex surveillent les sites d'enchères quotidiennement afin de garantir qu'aucun compte RuneScape ne soit vendu sur ces sites. Il est important de se souvenir que tous les comptes et objets de jeu sont et restent la propriété exclusive de Jagex. Nous n'hésiterons pas à supprimer ces éléments de nos jeux si nous avons la preuve que nos règles ont été transgressées.</p>
+<span class="title">4. J'ai vu un compte ï¿½ vendre sur Ebay. Que dois-je faire ? </span>
+<p>Soyez assurï¿½ que des membres du personnel de Jagex surveillent les sites d'enchï¿½res quotidiennement afin de garantir qu'aucun compte RuneScape ne soit vendu sur ces sites. Il est important de se souvenir que tous les comptes et objets de jeu sont et restent la propriï¿½tï¿½ exclusive de Jagex. Nous n'hï¿½siterons pas ï¿½ supprimer ces ï¿½lï¿½ments de nos jeux si nous avons la preuve que nos rï¿½gles ont ï¿½tï¿½ transgressï¿½es.</p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 <div class="hr"></div>
 <a name="forum"></a>
 <span class="title">5. Puis-je accepter une signature de forum en paiement d'un objet ? </span>
-<p>Les signatures de forum ne sont pas des objets ou services de jeux. Par conséquent, vous ne pouvez pas les accepter en paiement d'un élément de jeu dans RuneScape.</p>
-<p><i>Nous demandons à tout le monde d'observer cette règle pour garantir à chacun une expérience de jeu agréable dans FunOrb. Nous ne tolérerons pas les éléments perturbateurs. Si vous enfreignez le règlement, vous risquez une exclusion ou un blocage de la discussion. Les abonnés sous le coup d'une sanction n'ont droit à aucun type de remboursement.</i></p>
+<p>Les signatures de forum ne sont pas des objets ou services de jeux. Par consï¿½quent, vous ne pouvez pas les accepter en paiement d'un ï¿½lï¿½ment de jeu dans RuneScape.</p>
+<p><i>Nous demandons ï¿½ tout le monde d'observer cette rï¿½gle pour garantir ï¿½ chacun une expï¿½rience de jeu agrï¿½able dans FunOrb. Nous ne tolï¿½rerons pas les ï¿½lï¿½ments perturbateurs. Si vous enfreignez le rï¿½glement, vous risquez une exclusion ou un blocage de la discussion. Les abonnï¿½s sous le coup d'une sanction n'ont droit ï¿½ aucun type de remboursement.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 </div>
 </div>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
+<a href="#top"><img src="../../../l=2/img/images/layout/backtotop.gif" alt="Haut de la page" title="Haut de la page" /></a>
 </p>
 </div>
 <div class="sectionFooter"><div></div></div>
@@ -228,25 +228,25 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif"><
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="http://www.funorb.com/g=minerdisturbance/index.ws"><img alt="
-English" src="http://www.funorb.com/l=2/img/images/layout/en.gif">
+<div id="languagefooter"> Choisissez votre langue :&nbsp; <a href="../../../g=minerdisturbance/index.ws"><img alt="
+English" src="../../../l=2/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=minerdisturbance/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=2/img/images/layout/de.gif">
+<a href="../../../l=1/g=minerdisturbance/index.ws"><img alt="
+Deutsch" src="../../../l=2/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=minerdisturbance/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=2/img/images/layout/fr.gif">
+<a href="../../../l=2/g=minerdisturbance/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../l=2/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=minerdisturbance/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=2/img/images/layout/br.gif">
+<a href="../../../l=3/g=minerdisturbance/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../l=2/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques déposées de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
-<p> Pour utiliser ce service, vous devez accepter nos <a href="http://www.funorb.com/l=2/g=minerdisturbance/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="http://www.funorb.com/l=2/g=minerdisturbance/privacy/privacy.ws" name="privacy">Charte de confidentialité</a>. </p>
+<p> Copyright ï¿½ 2008 - 2013 Jagex Ltd. Jagex et FunOrb sont des marques dï¿½posï¿½es de Jagex Limited au Royaume-Uni et des marques de commerce dans d'autres pays. </p>
+<p> Pour utiliser ce service, vous devez accepter nos <a href="../../../l=2/g=minerdisturbance/terms/terms.ws" name="terms">Conditions d'utilisation</a> et notre <a href="../../../l=2/g=minerdisturbance/privacy/privacy.ws" name="privacy">Charte de confidentialitï¿½</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=2/g=minerdisturbance/" target="_blank"><img src="http://www.funorb.com/l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
+<a href="http://www.jagex.com/l=2/g=minerdisturbance/" target="_blank"><img src="../../../l=2/img/images/layout/jagex_footer.gif?1" alt="Logo Jagex" /></a>
 </div>
 </div>
 </div>

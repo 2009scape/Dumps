@@ -7,8 +7,8 @@
 <meta http-equiv="imagetoolbar" content="no">
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
-<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de ação, em java, jogos casuais, de corrida, de palavras, de lógica, retro, clássicos, direto no navegador, de estratégia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
-<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocínio, ação, estratégia, tiro, palavras, corridas e muito mais!">
+<meta name="keywords" content="Jogos on-line gratuitos, jogos de enigma, plataforma, arcade, de tiro, de aï¿½ï¿½o, em java, jogos casuais, de corrida, de palavras, de lï¿½gica, retro, clï¿½ssicos, direto no navegador, de estratï¿½gia, jogos multijogador, arcanistas, Jagex, Play Free Online Games, puzzle games, platform games, arcade games, shooter games, action games, java games, casual games, racing games, word games, retro games, classic games, browser games, strategy games, multiplayer games, arcanists, kickabout, steel sentinels">
+<meta name="description" content="FunOrb, jogos on-line gratuitos via navegador da Jagex Games Studio, os mesmos criadores do RuneScape. Vibre com jogos de raciocï¿½nio, aï¿½ï¿½o, estratï¿½gia, tiro, palavras, corridas e muito mais!">
 <meta name="title" content="FunOrb - Jogos gratuitos on-line da Jagex Games Studio">
 <meta name="Author" content="www.jagex.com">
 <meta name="Copyright" content="Copyright 1999 - 2015 Jagex Ltd, www.jagex.com">
@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=3/g=crazycrystals/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=3/g=crazycrystals/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=3/g=crazycrystals/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=3/g=crazycrystals/favicon.ico">
 <title>FunOrb - Jogos gratuitos on-line da Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=3/css/global-44.css);/**/
+  /*\*/@import url(../../l=3/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=3/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=3/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=3/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=3/css/info-8.css");/**/
+ /*\*/@import url("../../l=3/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=3/img/images/game/escapevector/intro.jpg);
+  background-image: url(../../l=3/img/images/game/escapevector/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=3/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=3/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=3/img/images/game/escapevector/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=3/img/images/game/escapevector/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=3/img/images/game/escapevector/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=3/img/images/game/escapevector/screen4.jpg?1';
+images[0] = '../../l=3/img/images/game/escapevector/screen1.jpg?1';
+images[1] = '../../l=3/img/images/game/escapevector/screen2.jpg?1';
+images[2] = '../../l=3/img/images/game/escapevector/screen3.jpg?1';
+images[3] = '../../l=3/img/images/game/escapevector/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,8 +135,8 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws" ><b>
-<img src="http://www.funorb.com/l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=3/g=crazycrystals/index.ws" ><b>
+<img src="../../l=3/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -145,7 +145,7 @@ function imageGoto(self, img){
 <div id="teleText">
 <h1 id="welcomeText">Bem-vindo ao FunOrb - O melhor em jogos on-line gratuitos</h1>
 <span id="teletext_inner">
-Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuações e ações, crie uma conta. É rápido, fácil e completamente GRATUITO! Basta clicar no botão Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
+Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melhores pontuaï¿½ï¿½es e aï¿½ï¿½es, crie uma conta. ï¿½ rï¿½pido, fï¿½cil e completamente GRATUITO! Basta clicar no botï¿½o Jogar Agora dos nossos jogos e clicar em "Criar uma conta gratuita".</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=crazycrystals/messengercommon0.js"></script>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=3/g=crazycrystals/messenger.js"></script>
 
@@ -154,25 +154,25 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=3/g=crazycrystals/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=3/g=crazycrystals/index.ws" id="home" class="top_link"><span>Principal</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=3/g=crazycrystals/gamelist.ws"><span>Jogos</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws" class="fly">Todos os jogos</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/options.ws" class="fly last">Opções Java</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws" class="fly">Todos os jogos</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws?playerBox=1" class="fly">Jogos para um jogador</a></li>
+<li><a href="../../l=3/g=crazycrystals/gamelist.ws?playerBox=2" class="fly">Jogos multijogadores</a></li>
+<li><a href="../../l=3/g=crazycrystals/options.ws" class="fly last">Opï¿½ï¿½es Java</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=3/g=crazycrystals/account_management.ws"><span>conta</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/members.ws" class="fly">Benefícios dos membros</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/account_management.ws" class="fly last">Configurações de Conta</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Assinar o FunOrb</a></li>
+<li><a href="../../l=3/g=crazycrystals/members.ws" class="fly">Benefï¿½cios dos membros</a></li>
+<li><a href="../../l=3/g=crazycrystals/account_management.ws" class="fly last">Configuraï¿½ï¿½es de Conta</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -181,24 +181,24 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=3/g=crazycrystals/" class="fly">Comunidade - Principal</a></li>
-<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=crazycrystals/forums.ws" class="fly">Fórum</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/dev_diary" class="fly">Diários de desenvolvimento</a></li>
+<li><a href="http://services.funorb.com/m=forum_fo_pt/l=3/g=crazycrystals/forums.ws" class="fly">Fï¿½rum</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/dev_diary" class="fly">Diï¿½rios de desenvolvimento</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=3/g=crazycrystals/" class="fly">Conquistas</a></li>
-<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=crazycrystals/" class="fly">Recordes e Pontuações</a></li>
+<li><a href="http://services.funorb.com/m=hiscore_fo/l=3/g=crazycrystals/" class="fly">Recordes e Pontuaï¿½ï¿½es</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=3/g=crazycrystals/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=3/g=crazycrystals/kbase/guid/help"><span>ajuda</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/parents.ws" class="fly">Guia para os Pais</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperação de conta</a></li>
-<li><a href="http://www.funorb.com/l=3/g=crazycrystals/bugtracker.ws" class="fly last">Enviar relatório de erro</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/customer_support" class="fly">Suporte ao Cliente</a></li>
+<li><a href="../../l=3/g=crazycrystals/parents.ws" class="fly">Guia para os Pais</a></li>
+<li><a href="../../l=3/g=crazycrystals/kbase/guid/rules_of_conduct" class="fly">Regras</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Cancelar recebimento</a></li>
+<li><a href="../../l=3/g=crazycrystals/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Recuperaï¿½ï¿½o de conta</a></li>
+<li><a href="../../l=3/g=crazycrystals/bugtracker.ws" class="fly last">Enviar relatï¿½rio de erro</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Para obter acesso a qualquer um de nossos jogos multijogadores, tabelas das melh
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=3/g=crazycrystals/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=escapevector" id="signIn" class="top_link"><span>Entrar</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws">
+<a id="countrydrop" href="../../l=3/g=crazycrystals/index.ws">
 <span>
 <img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/pt.gif">
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/pt.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=crazycrystals/index.ws"><img title="
+<li><a class="fly" href="../../g=crazycrystals/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=crazycrystals/index.ws"><img title="
+English" src="../../l=3/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=crazycrystals/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=crazycrystals/index.ws"><img title="
+Deutsch" src="../../l=3/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=crazycrystals/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=crazycrystals/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=crazycrystals/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws">Jogos</a> &gt;
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?genreBox=action">Ação</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=3/g=crazycrystals/escapevector/play.ws">Escape Vector</a> &gt;
-Mais informações </span>
+<a href="../../l=3/g=crazycrystals/gamelist.ws">Jogos</a> &gt;
+<a href="../../l=3/g=crazycrystals/gamelist.ws?genreBox=action">Aï¿½ï¿½o</a> &gt;
+<a onclick="suffixize(this)" href="../../l=3/g=crazycrystals/escapevector/play.ws">Escape Vector</a> &gt;
+Mais informaï¿½ï¿½es </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=3/g=crazycrystals/escapevector/serverlist.ws">Lista de servidores</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=3/g=crazycrystals/escapevector/serverlist.ws">Lista de servidores</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mais informações </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/gamelist.ws?genreBox=action"><span class="genre">Ação</span></a><br> Pilote sua nave por cavernas retorcidas para recuperar a tecnologia roubada da Terra. </div>
+<a href="../../l=3/g=crazycrystals/gamelist.ws?genreBox=action"><span class="genre">Aï¿½ï¿½o</span></a><br> Pilote sua nave por cavernas retorcidas para recuperar a tecnologia roubada da Terra. </div>
 </div>
-<a class="buttonWide" href="#description"><div>Descrição</div></a><br />
-<a class="buttonWide" href="#faqs"><div>Perguntas freqüentes</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=3/g=crazycrystals/escapevector/play.ws"></a>
+<a class="buttonWide" href="#description"><div>Descriï¿½ï¿½o</div></a><br />
+<a class="buttonWide" href="#faqs"><div>Perguntas freqï¿½entes</div></a><br />
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=3/g=crazycrystals/escapevector/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Capturas de tela
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=3/img/images/game/escapevector/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=3/img/images/game/escapevector/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/escapevector/screen1_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/escapevector/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/escapevector/screen2_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/escapevector/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/escapevector/screen3_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/escapevector/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=3/img/images/game/escapevector/screen4_thumb.jpg?1);">
+<a href="../../l=3/g=crazycrystals/display_screenshot.ws?game=escapevector&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=3/img/images/game/escapevector/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -312,10 +312,10 @@ Recursos de Escape Vector
 <ul>
 
 <li>Navegue por cavernas estreitas.</li>
-<li>Destrua as defesas alienígenas.</li>
-<li>Lute contra as leis da física para evitar colidir a sua nave.</li>
-<li>Acesse os níveis "Resgate" em ambos os modos Normal e Difícil.</li>
-<li>Jogue GRÁTIS!</li>
+<li>Destrua as defesas alienï¿½genas.</li>
+<li>Lute contra as leis da fï¿½sica para evitar colidir a sua nave.</li>
+<li>Acesse os nï¿½veis "Resgate" em ambos os modos Normal e Difï¿½cil.</li>
+<li>Jogue GRï¿½TIS!</li>
 </ul>
 </div>
 </div>
@@ -326,14 +326,14 @@ Recursos de Escape Vector
 <div class="subsection" id="description" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Descrição
+Descriï¿½ï¿½o
 </div>
 </div>
 <div class="subsectionContent">
 <div>
-<p>Escape Vector guia você como o melhor piloto em uma missão para recuperar tecnologia roubada. Esqueça os alienígenas ladrões, entretanto seu maior inimigo é a gravidade e as cavernas retorcidas onde eles esconderam nossa tecnologia.</p>
-<p>Você deve navegar cuidadosamente por cada nível, esquivar-se e destruir as defesas alienígenas e localizar sua recompensa...e esta é a parte mais fácil! Depois você deve voar de volta à superfície sem colidir a nave ou destruir nossa tecnologia.</p>
-<p>Você acha que tem sangue frio, habilidade e determinação para superar os alienígenas E as leis da física? Boa sorte, Comandante.</p>
+<p>Escape Vector guia vocï¿½ como o melhor piloto em uma missï¿½o para recuperar tecnologia roubada. Esqueï¿½a os alienï¿½genas ladrï¿½es, entretanto seu maior inimigo ï¿½ a gravidade e as cavernas retorcidas onde eles esconderam nossa tecnologia.</p>
+<p>Vocï¿½ deve navegar cuidadosamente por cada nï¿½vel, esquivar-se e destruir as defesas alienï¿½genas e localizar sua recompensa...e esta ï¿½ a parte mais fï¿½cil! Depois vocï¿½ deve voar de volta ï¿½ superfï¿½cie sem colidir a nave ou destruir nossa tecnologia.</p>
+<p>Vocï¿½ acha que tem sangue frio, habilidade e determinaï¿½ï¿½o para superar os alienï¿½genas E as leis da fï¿½sica? Boa sorte, Comandante.</p>
 </div>
 </div>
 </div>
@@ -348,48 +348,48 @@ Perguntas frequentes
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Há dicas para controlar a minha nave?</a></li>
-<li><a href="#faqs_q2">Como coleto contêineres?</a></li>
-<li><a href="#faqs_q3">Como faço com que os contêineres não continuem descontrolados?</a></li>
-<li><a href="#faqs_q4">Por que recebi automaticamente as conquistas Prêmio Cinturão (Normal), Corredor lunar (Normal), Escavador lunar (Normal) ou Herói da Terra (Normal)?</a></li>
-<li><a href="#faqs_spec">Quais são as especificações mínimas para este jogo?</a></li>
+<li><a href="#faqs_q1">Hï¿½ dicas para controlar a minha nave?</a></li>
+<li><a href="#faqs_q2">Como coleto contï¿½ineres?</a></li>
+<li><a href="#faqs_q3">Como faï¿½o com que os contï¿½ineres nï¿½o continuem descontrolados?</a></li>
+<li><a href="#faqs_q4">Por que recebi automaticamente as conquistas Prï¿½mio Cinturï¿½o (Normal), Corredor lunar (Normal), Escavador lunar (Normal) ou Herï¿½i da Terra (Normal)?</a></li>
+<li><a href="#faqs_spec">Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</a></li>
 </ol>
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Há dicas para controlar a minha nave?</h3>
-<p>A coisa mais importante de lembrar é que sua nave tem impulso. Uma vez que você se impulsiona em uma direção, continuará movendo-se nessa direção. Para parar, você deverá impulsionar em uma direção contrária à trajetória atual.</p>
-<p>Não se oriente diretamente para onde deseja viajar. Fique na vertical e impulsione apenas o suficiente para contrapor-se à gravidade. Se desejar descer, impulsione menos. Se desejar ir lateralmente, gire levemente a nave e continue a impulsionar normalmente. Quando desejar parar de mover-se lateralmente, continue impulsionando, mas gire a nave de volta para a vertical, depois levemente para o outro lado para contrapor o impulso horizontal.</p>
-<p>O tutorial é um lugar seguro para habituar-se a controlar a nave, sem muito medo de explodir. Mesmo assim, não esqueça que você pode ativar o escudo pressionando "Espaço" ou "Shift", o que protegerá a nave no caso de uma colisão.</p>
+<h3>1. Hï¿½ dicas para controlar a minha nave?</h3>
+<p>A coisa mais importante de lembrar ï¿½ que sua nave tem impulso. Uma vez que vocï¿½ se impulsiona em uma direï¿½ï¿½o, continuarï¿½ movendo-se nessa direï¿½ï¿½o. Para parar, vocï¿½ deverï¿½ impulsionar em uma direï¿½ï¿½o contrï¿½ria ï¿½ trajetï¿½ria atual.</p>
+<p>Nï¿½o se oriente diretamente para onde deseja viajar. Fique na vertical e impulsione apenas o suficiente para contrapor-se ï¿½ gravidade. Se desejar descer, impulsione menos. Se desejar ir lateralmente, gire levemente a nave e continue a impulsionar normalmente. Quando desejar parar de mover-se lateralmente, continue impulsionando, mas gire a nave de volta para a vertical, depois levemente para o outro lado para contrapor o impulso horizontal.</p>
+<p>O tutorial ï¿½ um lugar seguro para habituar-se a controlar a nave, sem muito medo de explodir. Mesmo assim, nï¿½o esqueï¿½a que vocï¿½ pode ativar o escudo pressionando "Espaï¿½o" ou "Shift", o que protegerï¿½ a nave no caso de uma colisï¿½o.</p>
 <div class="hr"></div>
 <a name="faqs_q2"></a>
-<h3>2. Como coleto contêineres?</h3>
-<p>A resposta rápida é: simplesmente pousando próximo a eles. A trava da nave se conectará automaticamente a qualquer contêiner que você tenha pousado próximo o suficiente.</p>
-<p>Mantenha a nave na vertical e deixe-a cair devagar em direção ao solo, impulsionando gentilmente para manter a velocidade baixa. Contraponha qualquer movimento lateral girando levemente na direção oposta. Quando estiver próximo ao solo, verifique duas vezes se está reto e depois pouse.</p>
-<p>Ao decolar novamente, faça isso com confiança e propósito. Assim que um contêiner deixar o solo, ele explodirá se tocar o solo novamente ou qualquer outro obstáculo.</p>
+<h3>2. Como coleto contï¿½ineres?</h3>
+<p>A resposta rï¿½pida ï¿½: simplesmente pousando prï¿½ximo a eles. A trava da nave se conectarï¿½ automaticamente a qualquer contï¿½iner que vocï¿½ tenha pousado prï¿½ximo o suficiente.</p>
+<p>Mantenha a nave na vertical e deixe-a cair devagar em direï¿½ï¿½o ao solo, impulsionando gentilmente para manter a velocidade baixa. Contraponha qualquer movimento lateral girando levemente na direï¿½ï¿½o oposta. Quando estiver prï¿½ximo ao solo, verifique duas vezes se estï¿½ reto e depois pouse.</p>
+<p>Ao decolar novamente, faï¿½a isso com confianï¿½a e propï¿½sito. Assim que um contï¿½iner deixar o solo, ele explodirï¿½ se tocar o solo novamente ou qualquer outro obstï¿½culo.</p>
 <div class="hr"></div>
 <a name="faqs_q3"></a>
-<h3>3. Como faço com que os contêineres não continuem descontrolados?</h3>
-<p>Para parar a movimentação dos contêineres, espere que esteja de um lado do seu movimento, quando não está se movendo, depois impulsione até a nave estar diretamente acima dele. Ele deverá ficar onde está, dando a você uma chance de retomar o controle.</p>
-<p>Se você vir que o contêiner está prestes a movimentar-se e atingir uma parede, imediatamente impulsione forte na direção contrária. O contêiner se movimentará, mas você estará empurrando contra ele, por isso ele não atingirá a parede. Talvez você tenha que manter a impulsão para frente e para trás desta maneira algumas vezes antes de poder parar completamente o movimento do contêiner.</p>
-<p>A seção segura da área de exercícios na nave-mãe (no tutorial) é um bom lugar para brincar com um contêiner, mas fique longe das paredes, já que o escudo protege somente a nave.</p>
+<h3>3. Como faï¿½o com que os contï¿½ineres nï¿½o continuem descontrolados?</h3>
+<p>Para parar a movimentaï¿½ï¿½o dos contï¿½ineres, espere que esteja de um lado do seu movimento, quando nï¿½o estï¿½ se movendo, depois impulsione atï¿½ a nave estar diretamente acima dele. Ele deverï¿½ ficar onde estï¿½, dando a vocï¿½ uma chance de retomar o controle.</p>
+<p>Se vocï¿½ vir que o contï¿½iner estï¿½ prestes a movimentar-se e atingir uma parede, imediatamente impulsione forte na direï¿½ï¿½o contrï¿½ria. O contï¿½iner se movimentarï¿½, mas vocï¿½ estarï¿½ empurrando contra ele, por isso ele nï¿½o atingirï¿½ a parede. Talvez vocï¿½ tenha que manter a impulsï¿½o para frente e para trï¿½s desta maneira algumas vezes antes de poder parar completamente o movimento do contï¿½iner.</p>
+<p>A seï¿½ï¿½o segura da ï¿½rea de exercï¿½cios na nave-mï¿½e (no tutorial) ï¿½ um bom lugar para brincar com um contï¿½iner, mas fique longe das paredes, jï¿½ que o escudo protege somente a nave.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a>
-<h3>4. Por que recebi automaticamente as conquistas Prêmio Cinturão (Normal), Corredor lunar (Normal), Escavador lunar (Normal) ou Herói da Terra (Normal)?</h3>
-<p>Se você tinha as conquistas Prêmio Cinturão, Corredor lunar, Escavador lunar ou Herói da Terra anteriormente, você automaticamente ganha a versão Normal destas conquistas. Se você foi bom o bastante para alcançar estas conquistas enquanto jogava no modo Difícil, então é óbvio que conseguiria obtê-las no modo Normal.</p>
+<h3>4. Por que recebi automaticamente as conquistas Prï¿½mio Cinturï¿½o (Normal), Corredor lunar (Normal), Escavador lunar (Normal) ou Herï¿½i da Terra (Normal)?</h3>
+<p>Se vocï¿½ tinha as conquistas Prï¿½mio Cinturï¿½o, Corredor lunar, Escavador lunar ou Herï¿½i da Terra anteriormente, vocï¿½ automaticamente ganha a versï¿½o Normal destas conquistas. Se vocï¿½ foi bom o bastante para alcanï¿½ar estas conquistas enquanto jogava no modo Difï¿½cil, entï¿½o ï¿½ ï¿½bvio que conseguiria obtï¿½-las no modo Normal.</p>
 <div class="hr"></div>
 <a name="faqs_spec"></a>
-<h3>5. Quais são as especificações mínimas para este jogo?</h3>
-<p>As especificações mínimas recomendadas para este jogo são:</p>
+<h3>5. Quais sï¿½o as especificaï¿½ï¿½es mï¿½nimas para este jogo?</h3>
+<p>As especificaï¿½ï¿½es mï¿½nimas recomendadas para este jogo sï¿½o:</p>
 <ul>
 <li>1.0 GHz <li>128 MB de RAM </ul>
-<p>As especificações <b>recomendadas</b> para aproveitar ao máximo este jogo são:</p>
+<p>As especificaï¿½ï¿½es <b>recomendadas</b> para aproveitar ao mï¿½ximo este jogo sï¿½o:</p>
 <ul>
 <li>1.5 GHz <li>256 MB de RAM </ul>
-<p>Abaixo você encontrará uma explicação dos termos das nossas especificações técnicas.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> é uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que você pode executar jogos e aplicativos, por exemplo.</p>
-<p>Os <b>Megabytes (MB)</b> são usados para medir a quantidade de memória do computador. Isso afeta a rapidez com que o computador é executado ao usar programas grandes, como jogos, ou quando você executa vários programas ao mesmo tempo.</p>
-<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a última versão do Sun Java.</p>
+<p>Abaixo vocï¿½ encontrarï¿½ uma explicaï¿½ï¿½o dos termos das nossas especificaï¿½ï¿½es tï¿½cnicas.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> ï¿½ uma medida que define a velocidade do processador do computador. Isso afeta a rapidez com que vocï¿½ pode executar jogos e aplicativos, por exemplo.</p>
+<p>Os <b>Megabytes (MB)</b> sï¿½o usados para medir a quantidade de memï¿½ria do computador. Isso afeta a rapidez com que o computador ï¿½ executado ao usar programas grandes, como jogos, ou quando vocï¿½ executa vï¿½rios programas ao mesmo tempo.</p>
+<p>Clique <a href="http://www.java.com/getjava" target="_blank">aqui</a> para obter a ï¿½ltima versï¿½o do Sun Java.</p>
 </div>
 </div>
 </div>
@@ -397,21 +397,21 @@ Perguntas frequentes
 <div class="subsection" id="furtherBenefits" style="">
 <div class="subsectionHeader">
 <div class="subsectionTitle">
-Benefícios do membro do FunOrb
+Benefï¿½cios do membro do FunOrb
 </div>
 </div>
 <div class="subsectionContent">
 <div>
 <p style="padding-bottom: 5px;">Os membros ganham:</p>
 <ul style="line-height: 22px;">
-<li>Acesse o nível "Retaliação".</li>
-<li>Acesse o nível "Simulador".</li>
+<li>Acesse o nï¿½vel "Retaliaï¿½ï¿½o".</li>
+<li>Acesse o nï¿½vel "Simulador".</li>
 <li>Modo de tela cheia.</li>
 <li>Acesso a todas as Conquistas.</li>
-<li>Acesso total a todo conteúdo exclusivo para membros do FunOrb.</li>
+<li>Acesso total a todo conteï¿½do exclusivo para membros do FunOrb.</li>
 </ul>
 <p>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=3/g=crazycrystals/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </p>
 </div>
 </div>
@@ -433,7 +433,7 @@ Development Team
 <b>Translation:</b> Claudio D C,&nbsp;Florian P,&nbsp;Matthias P,&nbsp;Marsel De S
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
+<a href="#top"><img src="../../l=3/img/images/layout/backtotop.gif" alt="Voltar ao topo" title="Voltar ao topo" /></a>
 </p>
 </div>
 </div>
@@ -446,25 +446,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="http://www.funorb.com/g=crazycrystals/index.ws"><img alt="
-English" src="http://www.funorb.com/l=3/img/images/layout/en.gif">
+<div id="languagefooter"> Selecione o idioma:&nbsp; <a href="../../g=crazycrystals/index.ws"><img alt="
+English" src="../../l=3/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=crazycrystals/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=3/img/images/layout/de.gif">
+<a href="../../l=1/g=crazycrystals/index.ws"><img alt="
+Deutsch" src="../../l=3/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=crazycrystals/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=3/img/images/layout/fr.gif">
+<a href="../../l=2/g=crazycrystals/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=3/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=crazycrystals/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=3/img/images/layout/br.gif">
+<a href="../../l=3/g=crazycrystals/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=3/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex e FunOrb são marcas registradas da Jagex Ltd no Reino Unido e em outros países do mundo. </p>
-<p> Ao utilizar nossos serviços, você concorda com nossos <a href="http://www.jagex.com/l=3/g=crazycrystals/terms/terms.ws" name="terms">Termos e Condições</a> e <a href="http://www.jagex.com/l=3/g=crazycrystals/privacy/privacy.ws" name="privacy">Política de Privacidade</a>. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex e FunOrb sï¿½o marcas registradas da Jagex Ltd no Reino Unido e em outros paï¿½ses do mundo. </p>
+<p> Ao utilizar nossos serviï¿½os, vocï¿½ concorda com nossos <a href="http://www.jagex.com/l=3/g=crazycrystals/terms/terms.ws" name="terms">Termos e Condiï¿½ï¿½es</a> e <a href="http://www.jagex.com/l=3/g=crazycrystals/privacy/privacy.ws" name="privacy">Polï¿½tica de Privacidade</a>. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=3/g=crazycrystals/" target="_blank"><img src="http://www.funorb.com/l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
+<a href="http://www.jagex.com/l=3/g=crazycrystals/" target="_blank"><img src="../../l=3/img/images/layout/jagex_footer.gif?1" alt="Logotipo Jagex" /></a>
 </div>
 </div>
 </div>

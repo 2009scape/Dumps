@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Bans and Mutes and how to appeal them.">
@@ -44,7 +44,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -61,15 +61,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=135/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=135/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -77,8 +77,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=135/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=135/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -97,54 +97,54 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=135/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=135/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=9" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/index.ws">
+<a id="countrydrop" href="../../a=135/index.ws">
 <span>
 <img alt="
 English
-" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+" src="../../a=135/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="
+<li><a class="fly" href="../../a=135/index.ws"><img title="
 English
 " alt="
 English
-" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="
+" src="../../a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=135/index.ws"><img title="
 
 Deutsch
 " alt="
 
 Deutsch
-" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="
+" src="../../a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly last" href="../../l=2/a=135/index.ws"><img title="
 
 Fran&ccedil;ais
 " alt="
 
 Fran&ccedil;ais
-" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
+" src="../../a=135/img/images/layout/fr.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -189,44 +189,44 @@ If you believe you have a reason (that we are unaware of) why your account shoul
 We will only consider an appeal if it is sent through the Appeal Offence system. Do not other forms of contact (e.g. Technical or Billing support) to send offence appeals - multiple instances of misusing these contacts may result in us taking further action against your account. Just follow the above instructions and be patient.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="system"></a>
 <span class="title">2. How does the offence and appeal system work?</span><br><br>
-By reporting in-game abuse as and when you come across it, you are helping us to keep FunOrb a safe and enjoyable online environment for everyone to play in. We take these reports extremely seriously, and will take action against rule-breakers. However, we don’t want to simply tell players off all the time, and we are keen to give players the opportunity to see what they have done, and learn not to repeat bad in-game behaviour.
+By reporting in-game abuse as and when you come across it, you are helping us to keep FunOrb a safe and enjoyable online environment for everyone to play in. We take these reports extremely seriously, and will take action against rule-breakers. However, we donï¿½t want to simply tell players off all the time, and we are keen to give players the opportunity to see what they have done, and learn not to repeat bad in-game behaviour.
 <br><br>
 The Offence Appeal system is our way of ensuring that we are making the right decisions, as well as giving players the opportunity to reflect on what they have done.
 <br><br>
 You can see your offence history by going to Account > Account Management > Appeal Offence. There, you will see a page like this:
 <br><br>
-<img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/offence_system/viewoffensehistory1.gif" alt="Offence History screenshot" title="Offence History screenshot">
+<img style="display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/offence_system/viewoffensehistory1.gif" alt="Offence History screenshot" title="Offence History screenshot">
 <br><br>
-We give each account a colour-coded rating as an indication of how well it has behaved in-game. The four colour “zones” are:
+We give each account a colour-coded rating as an indication of how well it has behaved in-game. The four colour ï¿½zonesï¿½ are:
 <br><br>
 <table>
 <tr>
 <td style="width: 150px;">
 <br>
-<img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/offence_system/greenzone1a.gif" alt="Green flag" title="Green flag"></td>
+<img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/offence_system/greenzone1a.gif" alt="Green flag" title="Green flag"></td>
 <td> <br>Green zone:<br>
 Your account may have accumulated a small number of offences which would have incurred a temporary one day mute at the time. There will be no long term implication of these offences. You will not be able to appeal these offences unless your account is escalated into the yellow zone.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/offence_system/yellowzone1a.gif" alt="Yellow flag" title="Yellow flag"></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/offence_system/yellowzone1a.gif" alt="Yellow flag" title="Yellow flag"></td>
 <td>Yellow zone:<br>
 There are some black marks on your account, which do not warrant a ban as of yet. You should be careful not to acquire more. You are allowed to appeal any offences that you have not already appealed.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/offence_system/orangezone1a.gif" alt="Orange flag" title="Orange flag"></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/offence_system/orangezone1a.gif" alt="Orange flag" title="Orange flag"></td>
 <td>Orange zone:<br>
 The orange zone indicates that you have a dangerous amount of black marks on your account. Any more could result in a long term ban. You are allowed to appeal any offences that you have not already appealed.<br></td>
 </tr>
 <tr style="height: 20px;"></tr>
 <tr>
-<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/offence_system/redzone1a.gif" alt="Red flag" title="Red flag"></td>
+<td><img style="display: block;display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/offence_system/redzone1a.gif" alt="Red flag" title="Red flag"></td>
 <td>Red zone:<br>
 The red zone indicates that you have a very dangerous amount of black marks on your account and that any further offences could result in a permanent ban or permanent mute. You are allowed to appeal any offences that you have not already appealed.
 <br></td>
@@ -245,7 +245,7 @@ If your account is in the yellow, orange or red zone, then you can appeal indivi
 <li> See a link labelled 'Appeal'
 </ul>
 <br><br>
-We <b>strongly</b> recommend that you take the time to review the evidence we have provided you with for each offence. You only have one appeal per offence and we wouldn’t want you wasting that appeal arguing the wrong point.
+We <b>strongly</b> recommend that you take the time to review the evidence we have provided you with for each offence. You only have one appeal per offence and we wouldnï¿½t want you wasting that appeal arguing the wrong point.
 <br><br>
 If you have not yet appealed your offence, you will be able to explain yourself and provide any reasons you think are valid. Alternatively, if you know you are guilty of the offence, you could instead apologise for your behaviour, which would be the better option.
 <br><br>
@@ -268,7 +268,7 @@ If you are permanently banned or permanently muted and have appealed all open of
 Please be aware that if your appeal is denied, you will remain permanently banned or permanently muted and have no further chances to appeal your offences. Also be aware that any punishment for breaking rules in FunOrb will apply to RuneScape, and vice versa.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="friend"></a>
@@ -276,25 +276,25 @@ Please be aware that if your appeal is denied, you will remain permanently banne
 If your friend has evidence of mitigating circumstances with which to appeal their ban, they will have to send it in themselves. We <b>WILL NOT</b> accept offence appeals from <b>ANYONE</b> other than the true owner of the account in question contacting us via that account.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="black"></a>
 <span class="title">4. What are black marks and what do they mean?</span><br><br>
-Black marks are Jagex's way of keeping track of how an account is behaving in the game.<br><br>Black marks are given for breaking the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> and the number of marks given is dependent on the severity of the offence.<br><br>Each time you gain a black mark you will be informed via your Message Centre, so please check there before contacting Customer Support about them.<br><br>If the number of black marks on your account reaches a certain level, your account will be banned. Black marks may be added individually or multiple marks may be added for more severe offences.<br><br>If you feel that we have banned your account unfairly you can appeal your ban <a href="http://www.funorb.com/a=135/account_management.ws">here</a>.
+Black marks are Jagex's way of keeping track of how an account is behaving in the game.<br><br>Black marks are given for breaking the <a href="viewcategory.ws?cat_id=11">Rules of Conduct</a> and the number of marks given is dependent on the severity of the offence.<br><br>Each time you gain a black mark you will be informed via your Message Centre, so please check there before contacting Customer Support about them.<br><br>If the number of black marks on your account reaches a certain level, your account will be banned. Black marks may be added individually or multiple marks may be added for more severe offences.<br><br>If you feel that we have banned your account unfairly you can appeal your ban <a href="../../a=135/account_management.ws">here</a>.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="why"></a>
 <span class="title">5. Why have I been banned or muted?</span><br><br>
 If you have been permanently or temporarily banned/muted you will be able to see this in your offence history. To see this, log into your account and go to Account > Account Management > Appeal Offence. This page will show a list of your offences and links providing the evidence.
 <br><br>
-If you believe that you should not have been banned/muted, you can appeal your ban by clicking <a href="http://www.funorb.com/a=135/account_management.ws">here</a>.
+If you believe that you should not have been banned/muted, you can appeal your ban by clicking <a href="../../a=135/account_management.ws">here</a>.
 <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="locked"></a>
@@ -304,7 +304,7 @@ If we suspect that someone other than the original owner has access to an accoun
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -324,37 +324,37 @@ If we suspect that someone other than the original owner has access to an accoun
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/index.ws"><img alt="
+<a href="../../a=135/index.ws"><img alt="
 English
-" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+" src="../../a=135/img/images/layout/en.gif">
 English
 </a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="
+<a href="../../l=1/a=135/index.ws"><img alt="
 
 Deutsch
-" src="http://www.funorb.com/a=135/img/images/layout/de.gif">
+" src="../../a=135/img/images/layout/de.gif">
 
 Deutsch
 </a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="
+<a href="../../l=2/a=135/index.ws"><img alt="
 
 Fran&ccedil;ais
-" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">
+" src="../../a=135/img/images/layout/fr.gif">
 
 Fran&ccedil;ais
 </a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

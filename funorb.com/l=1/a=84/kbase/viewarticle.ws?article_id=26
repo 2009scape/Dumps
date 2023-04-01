@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,16 +23,16 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=84/css/global-4.css);/**/
+  /*\*/@import url(../../../l=1/a=84/css/global-4.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=84/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=84/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=84/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=84/css/layout.ws"></script>
 
 <meta name="language" content="en, de">
-<meta name="description" content="Andere nie ermutigen, gegen Regeln zu verstoßen.">
-<title>Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen</title>
+<meta name="description" content="Andere nie ermutigen, gegen Regeln zu verstoï¿½en.">
+<title>Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoï¿½en</title>
 </head>
 <body id="navHelp">
 <a name="top"></a>
@@ -47,7 +47,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=84/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -60,15 +60,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=84/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=84/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=84/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=84/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -76,8 +76,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=84/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=84/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -86,33 +86,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=84/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=84/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=84/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=84/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=84/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=84/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=84/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=84/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=26" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=84/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=26" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=84/index.ws"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=84/index.ws"><img src="../../../l=1/a=84/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -128,7 +128,7 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> &gt; Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen</span>
+<span class="sectionTrail"><a href="viewcategory.ws?cat_id=4">Hilfe</a> &gt; <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> &gt; Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoï¿½en</span>
 </div>
 </div>
 </div>
@@ -136,44 +136,44 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionBackground">
 <div class="sectionContent" style="">
 <div class="sectionContentContainer">
-<h1 class="articleTitle">Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen</h1>
+<h1 class="articleTitle">Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoï¿½en</h1>
 <div class="articleBody">
 <body>
 <div id="jagexRule">
-<div style="font-weight:bold;">Gültig ab: 27. Februar 2008</div>
-<br> Andere nie ermutigen, gegen Regeln zu verstoßen. <br>
+<div style="font-weight:bold;">Gï¿½ltig ab: 27. Februar 2008</div>
+<br> Andere nie ermutigen, gegen Regeln zu verstoï¿½en. <br>
 <br>
 <div class="hr"></div>
-<b>Diesbezügliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen können, diese Regel besser zu verstehen.<br>
+<b>Diesbezï¿½gliche Fragen</b><br> Hier finden Sie ein paar Fragen, die Ihnen dabei helfen kï¿½nnen, diese Regel besser zu verstehen.<br>
 <br>
 <div class="faqsList">
 <ol>
 <li><a href="#why">Warum gibt es diese Regel? </a>
-<li><a href="#what">Was meinen Sie denn mit 'andere zum Verstoß gegen Regeln ermutigen'? </a>
+<li><a href="#what">Was meinen Sie denn mit 'andere zum Verstoï¿½ gegen Regeln ermutigen'? </a>
 </ol></div>
 <br>
 <div class="hr"></div>
 <a name="why"></a>
-<span class="title">1. Warum gibt es diese Regel? </span><br><br> Der Grund für diese Regel ist offensichtlich: Andere Spieler zu ermutigen, Regeln zu brechen, oder ihnen dabei behilflich zu sein, ist genauso sehr ein Vergehen, wie die Regel selbst zu brechen. Deshalb wird dieser Verstoß auch geahndet, als ob der anstiftende Spieler die Regel selbst gebrochen hat. <br><br>
+<span class="title">1. Warum gibt es diese Regel? </span><br><br> Der Grund fï¿½r diese Regel ist offensichtlich: Andere Spieler zu ermutigen, Regeln zu brechen, oder ihnen dabei behilflich zu sein, ist genauso sehr ein Vergehen, wie die Regel selbst zu brechen. Deshalb wird dieser Verstoï¿½ auch geahndet, als ob der anstiftende Spieler die Regel selbst gebrochen hat. <br><br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 <div class="hr"></div>
 <a name="what"></a>
-<span class="title">2. Was meinen Sie denn mit 'andere zum Verstoß gegen Regeln ermutigen'? </span><br><br> Hier einige Beispiele dafür: <ol><li>Versuchen, einem Spieler die Spiel-Regeln absichtlich falsch zu erklären. <br><br><li>Jemanden dazu verleiten, gegen die Verhaltensregeln zu verstoßen, indem Sie sie provozieren. <br><br><li>Externe Zusatzprogramme für unsere Spiele entwickeln, verbreiten oder für solche Werbung betreiben, die gegen Regel 7 verstoßen. <br><br><li>Werbung für Webseiten betreiben oder auf diese verweisen, die gegen Regel 12 (Handel von Gegenständen im richtigen Leben) verstoßen. <br><br><li>Andere auffordern, Fehler auszunutzen - alle beobachteten Fehler müssen Jagex sofort gemeldet werden. <br><br><li>Als Betreiber einer Fanseite auf Software verweisen oder solche zur Verfügung stellen, mit deren Hilfe man durch Chats oder auf Foren Regelverstöße besprechen kann, oder selbst zu Regelverstößen auffordern. (Es sei denn, ernsthafte Bemühungen finden statt, solche Diskussionen zu moderieren bzw. zu unterbinden.) <br><br><li>Es gibt viele weitere Beispiele - darunter fällt im Grunde alles, was die Wahrscheinlichkeit erhöht, dass andere eine Regel brechen.</ol>
-<p><i>Wir sind ständig bestrebt, die Atmosphäre auf FunOrb für alle Spieler so angenehm wie möglich zu gestalten. Bitte halten Sie sich also an diese Regel. Störende Spieler werden nicht geduldet und bei Regelverstößen kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rückerstattung der von ihnen bezahlten Gebühren.</i></p>
+<span class="title">2. Was meinen Sie denn mit 'andere zum Verstoï¿½ gegen Regeln ermutigen'? </span><br><br> Hier einige Beispiele dafï¿½r: <ol><li>Versuchen, einem Spieler die Spiel-Regeln absichtlich falsch zu erklï¿½ren. <br><br><li>Jemanden dazu verleiten, gegen die Verhaltensregeln zu verstoï¿½en, indem Sie sie provozieren. <br><br><li>Externe Zusatzprogramme fï¿½r unsere Spiele entwickeln, verbreiten oder fï¿½r solche Werbung betreiben, die gegen Regel 7 verstoï¿½en. <br><br><li>Werbung fï¿½r Webseiten betreiben oder auf diese verweisen, die gegen Regel 12 (Handel von Gegenstï¿½nden im richtigen Leben) verstoï¿½en. <br><br><li>Andere auffordern, Fehler auszunutzen - alle beobachteten Fehler mï¿½ssen Jagex sofort gemeldet werden. <br><br><li>Als Betreiber einer Fanseite auf Software verweisen oder solche zur Verfï¿½gung stellen, mit deren Hilfe man durch Chats oder auf Foren Regelverstï¿½ï¿½e besprechen kann, oder selbst zu Regelverstï¿½ï¿½en auffordern. (Es sei denn, ernsthafte Bemï¿½hungen finden statt, solche Diskussionen zu moderieren bzw. zu unterbinden.) <br><br><li>Es gibt viele weitere Beispiele - darunter fï¿½llt im Grunde alles, was die Wahrscheinlichkeit erhï¿½ht, dass andere eine Regel brechen.</ol>
+<p><i>Wir sind stï¿½ndig bestrebt, die Atmosphï¿½re auf FunOrb fï¿½r alle Spieler so angenehm wie mï¿½glich zu gestalten. Bitte halten Sie sich also an diese Regel. Stï¿½rende Spieler werden nicht geduldet und bei Regelverstï¿½ï¿½en kann es passieren, dass Ihr Spielkonto permanent gesperrt wird. Mitglieder, deren Spielkonto gesperrt wurde, haben keinen Anspruch auf Rï¿½ckerstattung der von ihnen bezahlten Gebï¿½hren.</i></p>
 </div>
 <br style="clear: both;">
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../../l=1/a=84/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 <div class="articleFooter">
 <b>Weitere Artikel in <a href="viewcategory.ws?cat_id=11">Verhaltensregeln</a> : </b>
 <span class="articleMore">
-<a href="viewarticle.ws?article_id=24">Regel 7 - Benutzung von externer Software</a>, <a href="viewarticle.ws?article_id=19">Regel 8 - Mehrfaches Einloggen</a>, Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoßen, <a href="viewarticle.ws?article_id=18">Regel 10 - Missbrauch der Kundenbetreuung</a>, <a href="viewarticle.ws?article_id=44">Regel 11 - Werbung/Webseiten</a></span>
+<a href="viewarticle.ws?article_id=24">Regel 7 - Benutzung von externer Software</a>, <a href="viewarticle.ws?article_id=19">Regel 8 - Mehrfaches Einloggen</a>, Regel 9 - Andere dazu ermutigen, gegen die Regeln zu verstoï¿½en, <a href="viewarticle.ws?article_id=18">Regel 10 - Missbrauch der Kundenbetreuung</a>, <a href="viewarticle.ws?article_id=44">Regel 11 - Werbung/Webseiten</a></span>
 </div>
 </div>
 </div>
@@ -185,11 +185,11 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=84/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=84/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=84/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

@@ -8,7 +8,7 @@
 <meta http-equiv="PRAGMA" content="NO-CACHE">
 <meta http-equiv="CACHE-CONTROL" content="NO-CACHE">
 <meta name="publisher" content="http://www.jagex.com">
-<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele für Mädchen, Spiele für Frauen, Online-Spiele auf Deutsch, Spiele für Zwischendurch, Online-Brettspiele">
+<meta name="keywords" content="Umsonst, Kostenlos, Kostenlose Online-Spiele, Puzzle, Puzzle-Spiele, Plattform, Plattform-Spiele, Geschicklichkeit, Geschicklichkeitsspiele, Arcade-Spiele, Arcade, Ballerspiele, Actionspiele, Action, Java-Spiele, Java, Gelegenheitsspiele, Rennspiel, Wortspiele, Retrospiele, Retro, Klassiker, Browserspiel, Browserspiele, Strategie, Strategiespiele, Multiplayer, Mehrspieler, Spiele, Spiele fï¿½r Mï¿½dchen, Spiele fï¿½r Frauen, Online-Spiele auf Deutsch, Spiele fï¿½r Zwischendurch, Online-Brettspiele">
 <meta name="description" content="FunOrb, kostenlose Browserspiele von Jagex, den Machern von RuneScape. Spielt Puzzle-, Action-, Strategie-, Baller-, Wort-, Rennspiele und viele mehr!">
 <meta name="keyphrases" content="JRS">
 <meta name="Author" content="www.jagex.com">
@@ -23,12 +23,12 @@
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <meta name="MSSmartTagsPreventParsing" content="TRUE">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/a=18/css/global-3.css);/**/
+  /*\*/@import url(../../../l=1/a=18/css/global-3.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/a=18/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../../l=1/a=18/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/l=1/a=18/css/layout.ws"></script>
+<script type="text/javascript" src="../../../l=1/a=18/css/layout.ws"></script>
 
 <style>
  #navGames #FO_section ul { margin: 0px; }
@@ -67,7 +67,7 @@
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -80,15 +80,15 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?playerBox=1" class="fly">Einzelspieler</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?playerBox=2" class="fly">Mehrspieler</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -96,8 +96,8 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/" class="fly">Kontoerstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Mitgliedschaft einrichten</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/members.ws" class="fly last">Vorteile einer Mitgliedschaft</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -106,33 +106,33 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 
 <ul class="sub">
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/forums.ws" class="fly">Alle Foren</a></li>
-<li><a href="http://forum-fo-de.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/forums.ws?0,1" class="fly">Ankündigungen</a></li>
+<li><a href="http://forum-fo-de.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/forums.ws?0,1" class="fly">Ankï¿½ndigungen</a></li>
 <li><a href="http://forum-fo-de.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/forums.ws?7,8" class="fly">Kristallkugel</a></li>
 <li><a href="http://achievements.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/" class="fly last">Erfolge</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kündigen</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
-<li><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=faqs" class="fly">Fragen und Antworten</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Kï¿½ndigen</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/kbase/view.ws?guid=password_support" class="fly">Passworthilfe</a></li>
+<li><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/bugtracker.ws" class="fly last">Fehlerhinweis</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/" id="register" class="top_link"><span>Kontoerstellung</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/loginapplet/login.ws?mod=www&ssl=0&dest=geoblox/serverlist.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
+<li class="top p8"><a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/loginapplet/login.ws?mod=www&ssl=0&dest=geoblox/serverlist.ws" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div id="lang" class="top_link">
 <span>
-<a href="http://www.funorb.com/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/en.gif" alt="Englisch" /></a>
-<a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/de.gif" alt="Deutsch" /></a>
+<a href="../../../a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws"><img src="../../../l=1/a=18/img/images/layout/en.gif" alt="Englisch" /></a>
+<a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/index.ws"><img src="../../../l=1/a=18/img/images/layout/de.gif" alt="Deutsch" /></a>
 </span>
 </div>
 </li>
@@ -148,9 +148,9 @@ Um Zugriff auf Mehrspieler-Spiele, Highscores und Erfolge zu erhalten, muss man 
 <div class="sectionHeader">
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
-<a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
-<a name="link0" id="link0" href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/geoblox/play.ws">Geoblox</a> &gt;
+<a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws">Spiele</a> &gt;
+<a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/gamelist.ws?genreBox=arcade">Arcade</a> &gt;
+<a name="link0" id="link0" href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/geoblox/play.ws">Geoblox</a> &gt;
 <script language="javascript"> document.getElementById("link0").href+=suffix; </script>
 Serverliste </div>
 </div>
@@ -161,7 +161,7 @@ Serverliste </div>
 <div class="sectionContentContainer">
 
 <div class="articleBody">
-<p> Unten befindet sich eine Liste der Server für das Spiel Geoblox. Falls ihr einen bestimmten Server auswählen wollt, müsst ihr nur auf seinen Namen klicken. Die Spalte Ort sagt aus, wo sich der Server befindet. Ihr solltet einen Server in eurer Nähe auswählen, um die Verbindung zu beschleunigen. </p>
+<p> Unten befindet sich eine Liste der Server fï¿½r das Spiel Geoblox. Falls ihr einen bestimmten Server auswï¿½hlen wollt, mï¿½sst ihr nur auf seinen Namen klicken. Die Spalte Ort sagt aus, wo sich der Server befindet. Ihr solltet einen Server in eurer Nï¿½he auswï¿½hlen, um die Verbindung zu beschleunigen. </p>
 <table>
 <thead>
 <tr class="row_a">
@@ -291,11 +291,11 @@ USA 1
 </div>
 <div id="copyRight">
 <div class="cr">
-<p> Copyright © 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.funorb.com/l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="../../../l=1/a=18/p=whsgttR002j0xa-t7zCjUPTFr*3vMKNQWbdhS9Uvhak/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/l=1/a=18/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../../l=1/a=18/img/images/layout/jagex_footer.gif" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

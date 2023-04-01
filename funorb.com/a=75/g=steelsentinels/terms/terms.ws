@@ -19,15 +19,15 @@ en">
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/a=75/g=steelsentinels/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/a=75/g=steelsentinels/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../../a=75/g=steelsentinels/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../../a=75/g=steelsentinels/favicon.ico">
 <title>FunOrb - Free Online Games by Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=75/css/global-44.css);/**/
+  /*\*/@import url(../../../a=75/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="http://www.jagex.com/a=75/js/jquery/jquery_1_4_2.js"></script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=75/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../../a=75/css/ieFix-2.css);</style>
 <![endif]-->
 <style type="text/css">
  body {
@@ -60,8 +60,8 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/a=75/g=steelsentinels/index.ws" ><b>
-<img src="http://www.funorb.com/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../../a=75/g=steelsentinels/index.ws" ><b>
+<img src="../../../img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
@@ -79,25 +79,25 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=75/g=steelsentinels/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=75/g=steelsentinels/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../../a=75/g=steelsentinels/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../../a=75/g=steelsentinels/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../../a=75/g=steelsentinels/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../../a=75/g=steelsentinels/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../../a=75/g=steelsentinels/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../../a=75/g=steelsentinels/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/a=75/g=steelsentinels/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../../a=75/g=steelsentinels/account_management.ws"><span>Account</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/members.ws" class="fly">Members' Benefits</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/account_management.ws" class="fly last">Account Management</a></li>
+<li><a href="../../../a=75/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../../a=75/g=steelsentinels/members.ws" class="fly">Members' Benefits</a></li>
+<li><a href="../../../a=75/g=steelsentinels/account_management.ws" class="fly last">Account Management</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -107,23 +107,23 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/a=75/g=steelsentinels/" class="fly">Community Home</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo/a=75/g=steelsentinels/forums.ws" class="fly">Forums</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
+<li><a href="../../../a=75/g=steelsentinels/kbase/guid/dev_diary" class="fly">Developer Diaries</a></li>
 <li><a href="http://services.funorb.com/m=achievements/a=75/g=steelsentinels/" class="fly">Achievements</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/a=75/g=steelsentinels/" class="fly">Highscores &amp; Ratings</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/a=75/g=steelsentinels/" class="fly last">Orb Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../../a=75/g=steelsentinels/kbase/guid/help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
-<li><a href="http://www.funorb.com/a=75/g=steelsentinels/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../../a=75/g=steelsentinels/kbase/guid/customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../../a=75/g=steelsentinels/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../../a=75/g=steelsentinels/kbase/guid/rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../../a=75/g=steelsentinels/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../../a=75/g=steelsentinels/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Account Recovery</a></li>
+<li><a href="../../../a=75/g=steelsentinels/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -131,28 +131,28 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/a=75/g=steelsentinels/loginform.ws?mod=www&amp;ssl=0&amp;dest=terms/terms.ws" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=75/g=steelsentinels/index.ws">
+<a id="countrydrop" href="../../../a=75/g=steelsentinels/index.ws">
 <span>
 <img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+English" src="../../../img/images/layout/en.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=75/g=steelsentinels/index.ws"><img title="
+<li><a class="fly" href="../../../a=75/g=steelsentinels/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=75/g=steelsentinels/index.ws"><img title="
+English" src="../../../img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../../l=1/a=75/g=steelsentinels/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=75/g=steelsentinels/index.ws"><img title="
+Deutsch" src="../../../img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../../l=2/a=75/g=steelsentinels/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=75/g=steelsentinels/index.ws"><img title="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../../l=3/a=75/g=steelsentinels/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -210,42 +210,42 @@ This website is owned and operated by Jagex Limited ("Jagex"), a company registe
 <p>
 <b>Applicability</b><br/>
 Please read these terms and conditions carefully. Your accepting them in full is a condition of your use of a Jagex product (whether or not you subscribe). If you don't agree with any part, please don't accept them or use the Jagex product.</p>
-<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="http://www.funorb.com/img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
+<p>If you have any questions about these terms and conditions, please contact us via email at <img style="vertical-align: bottom" src="../../../img/privacy/lawcontact.gif" alt=""/> and do not use the site until you are satisfied with and can accept these terms and conditions in full.</p>
 <p>
 <b>Changes</b><br/>
 We may change these terms and conditions to reflect: changes in applicable laws; regulatory or security requirements; relevant guidance or codes of practice; technical alterations to Jagex Products; and to improve clarity and consistency. Please check the terms and conditions whenever you use a Jagex Product. If you are not a subscriber, we will treat your continued use of a Jagex Product as acceptance of these changes from their effective date as shown above. If you are a subscriber, we will treat you as bound by the changes on the first renewal date for your subscription after the effective date and so you should cancel your subscription (as explained below) before this renewal date if you don't like the proposed changes.</p>
 <p>
 <b>A SPECIAL NOTE ABOUT PRETEENS AND USERS UNDER 18</b><br/>
-Jagex’s products (RuneScape, War of Legends, Stellar Dawn and FunOrb) and Jagex’s websites are not targeted to users under 13 years of age. If you are under 13 years of age, from 24 November 2010 you will not be permitted to create an account for any of these products. If you are under 13 years of age and created an account prior to November 24, 2010, you will be allowed to continue playing with the limitations placed on users under 13 years of age as explained below.</p>
+Jagexï¿½s products (RuneScape, War of Legends, Stellar Dawn and FunOrb) and Jagexï¿½s websites are not targeted to users under 13 years of age. If you are under 13 years of age, from 24 November 2010 you will not be permitted to create an account for any of these products. If you are under 13 years of age and created an account prior to November 24, 2010, you will be allowed to continue playing with the limitations placed on users under 13 years of age as explained below.</p>
 <p>
 If you are under 13 we may be able to direct you to other products that may be suitable for you. If you are under 13 and created an account prior to 24 November 2010, you will be unable to disclose personal data through the game or website. If we find out that any personal data we have collected is from someone under 13, we will automatically delete it. We recommend that, for existing accounts, parents / guardians should play together with their children.
 <p>
-If you are under 13, have created an account prior 24 November 2010 and subscribe to the members' version of our game you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="http://www.funorb.com/a=75/g=steelsentinels/privacy/privacy.ws">privacy policy</a>. Nonetheless, we may Stop any account if we are not satisfied that such consent has been given or that such consent does not comply with local laws regarding users who are under 13 years of age.</p>
+If you are under 13, have created an account prior 24 November 2010 and subscribe to the members' version of our game you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="../../../a=75/g=steelsentinels/privacy/privacy.ws">privacy policy</a>. Nonetheless, we may Stop any account if we are not satisfied that such consent has been given or that such consent does not comply with local laws regarding users who are under 13 years of age.</p>
 <p>
-If you are under 18, by using our website you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="http://www.funorb.com/a=75/g=steelsentinels/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
+If you are under 18, by using our website you are representing (i.e. making a promise) that you have consent from your parents / guardian to use Jagex Products in accordance with our terms and conditions and <a href="../../../a=75/g=steelsentinels/privacy/privacy.ws">privacy policy</a>. We may Stop any account if we are not satisfied that such consent has been given.</p>
 <p>
 If we are told by a parent / guardian that their child has lied about their age when registering for Jagex Products, we will Stop the account provided we have information which satisfies us that the reporting person is indeed the parent or guardian.</p>
 <p>
 Parents can find more information about the game and how to contact us in the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/parents_guide.ws" target="_blank">Parents' Guide</a>.</p>
 <p>
 <b>Safety / abuse</b><br/>
-Before using any Jagex Product you should read the guides found in our <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/safety_and_security_guidelines">Safety &amp; Security Guidelines</a>. It is particularly important to read the <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/play_safely">Play Safely Guide</a> and the
-<a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/play_safely#warning">Health &amp; Safety Guide</a>.
+Before using any Jagex Product you should read the guides found in our <a href="../../../a=75/g=steelsentinels/kbase/guid/safety_and_security_guidelines">Safety &amp; Security Guidelines</a>. It is particularly important to read the <a href="../../../a=75/g=steelsentinels/kbase/guid/play_safely">Play Safely Guide</a> and the
+<a href="../../../a=75/g=steelsentinels/kbase/guid/play_safely#warning">Health &amp; Safety Guide</a>.
 Parents of those under 18 should review our safety materials in the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/safety.ws" target="_blank">Player Safety</a> section of the <a href="http://www.jagex.com/l=0/corporate/Parents_Guide/parents_guide.ws" target="_blank">Parents' Guide</a>.</p>
 <p>
 Whilst we reserve the right to monitor and take action if any Jagex Product is used inappropriately (including the posting of objectionable material on the chat facility or otherwise), we cannot promise that any Jagex Product won't contain such content or that we will remove / modify any particular content. Nor can we guarantee that users will comply with our terms and conditions or otherwise behave appropriately.</p>
 <p>
-If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/how_do_i_report_abuse">"Report abuse"</a> button as well as seeking appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
+If you are the victim of offensive or inappropriate behaviour or receive any other unwanted communications, you should use the built-in facilities to block the messages. (See <a href="../../../a=75/g=steelsentinels/kbase/guid/controls_friends">this article</a> for guidance on blocking messages.) You should report all inappropriate behaviour to us via the in game <a href="../../../a=75/g=steelsentinels/kbase/guid/how_do_i_report_abuse">"Report abuse"</a> button as well as seeking appropriate external help, for example from parents or law enforcement authorities. If you continue to suffer problems, or are not satisfied, then you must stop using the relevant Jagex Product(s).</p>
 <p>
 <b>Your account</b><br/>
 To use many features of Jagex Products, we require you to create an account. We grant valid account holders a non-exclusive, non-transferable license for the period of membership to use Jagex Products and to download and use our client software and connect to our servers solely to use Jagex Products in accordance with these terms and conditions.</p>
 <p>
 You must not choose a username that infringes the rights of any third party, impersonates Jagex staff or other users, which is deliberately confusing or which is offensive, racist, obscene, hurtful, unlawful or otherwise inappropriate or which breaches the username requirements specified on our site or our Rules of Conduct. We reserve the right to make such assessment in our sole discretion, change any username for any reason or take such other action as we believe appropriate.</p>
 <p>
-You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/safety_and_security_guidelines">click here</a>.</p>
+You agree to keep your password safe at all times and not to disclose it to any other person. You are responsible for the activities of all persons who use your password to gain access to your account. To help ensure the safety of your password, you must keep your computer free of viruses and other malicious code including Trojans. You must use your password in accordance with the password requirements specified on our site and our Rules of Conduct. Real Jagex staff will never ask you for your password. If you believe that someone has stolen your password or otherwise gained access to your account - submit an Account Recovery request via the Account Recovery link on the website of any Jagex Product. To see our guidance about password security and safety practices, please <a href="../../../a=75/g=steelsentinels/kbase/guid/safety_and_security_guidelines">click here</a>.</p>
 <p>
 <b>Rules</b><br/>
-You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/rules_of_conduct">linked to here</a> and incorporated herein by reference. Any use of any Jagex Product not in accordance with the game rules exceeds the scope of the license granted by these Terms &amp; Conditions.</p>
+You must comply with the current version of any rules, guidelines, codes of conduct or instructions specified in any Jagex Product including our game rules, the current version of which is <a href="../../../a=75/g=steelsentinels/kbase/guid/rules_of_conduct">linked to here</a> and incorporated herein by reference. Any use of any Jagex Product not in accordance with the game rules exceeds the scope of the license granted by these Terms &amp; Conditions.</p>
 <p>
 <b>Our rights</b><br/>
 If, acting reasonably, we consider that our Terms and Conditions have or may have been breached, or that there has been fraudulent, unlawful or abusive activity, or that it is necessary in order to prevent or stop any harm or damage to us, to any Jagex Product, to other players or the general public, we may Stop (as defined above) any or all accounts of Jagex Products which we think are connected with the offender subject to such right of appeal as is specified on our website and/or restrict access to or delete virtual currency or anything acquired by means of virtual currency. Such actions may result in loss of membership credit and/or loss of real money paid as part of any item / account trading or other prohibited transaction.</p>
@@ -272,7 +272,7 @@ By submitting your order you are making an offer to subscribe to the relevant pa
 <p>
 <u>All subscription payments will continue to be taken in advance at the relevant intervals (e.g. monthly in the case of monthly subscriptions) until you cancel your subscription (see below).</u></p>
 <p>
-Payments by credit cards are also subject to our <a href="http://www.funorb.com/a=75/g=steelsentinels/kbase/guid/credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
+Payments by credit cards are also subject to our <a href="../../../a=75/g=steelsentinels/kbase/guid/credit_card_payment#agreeing">credit card agreement</a> which forms part of these terms and conditions.</p>
 <p>
 We reserve the right to alter the amount or terms of our subscription fees at any time. This will only apply to those who, following the change, take out new subscriptions or re-subscribe (their previous subscriptions having expired) and specifically agree to the new fees / terms.</p>
 <p>
@@ -284,7 +284,7 @@ You may cancel your subscription at any time by <a href="https://secure.funorb.c
 <p>
 Upon cancellation you will not be charged any further subscription fees. No payments already made will be refunded (wholly or partly) but you can of course use up any unused membership credit in the account.</p>
 <p>
-For important information about the legal cancellation rights of EU consumers, please <a href="http://www.funorb.com/a=75/g=steelsentinels/terms/eu.ws">click here</a>.</p>
+For important information about the legal cancellation rights of EU consumers, please <a href="../../../a=75/g=steelsentinels/terms/eu.ws">click here</a>.</p>
 <p>
 <b>
 Virtual Currency (WoLCash/JCredits)</b><br/>
@@ -306,7 +306,7 @@ We may at any time decide to end the entire virtual currency program for all or 
 <p>
 <b>
 Privacy policy</b><br/>
-For a description of how we use your personal data, please see our <a href="http://www.funorb.com/a=75/g=steelsentinels/privacy/privacy.ws">Privacy policy</a>.</p>
+For a description of how we use your personal data, please see our <a href="../../../a=75/g=steelsentinels/privacy/privacy.ws">Privacy policy</a>.</p>
 <p>
 <b>
 Functioning of Jagex Products</b><br/>
@@ -339,7 +339,7 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../../img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 </div>
@@ -353,30 +353,30 @@ If you are dissatisfied with this website or any aspect of it, please contact us
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=75/g=steelsentinels/index.ws"><img alt="
-English" src="http://www.funorb.com/img/images/layout/en.gif">
+<a href="../../../a=75/g=steelsentinels/index.ws"><img alt="
+English" src="../../../img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/a=75/g=steelsentinels/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/img/images/layout/de.gif">
+<a href="../../../l=1/a=75/g=steelsentinels/index.ws"><img alt="
+Deutsch" src="../../../img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=75/g=steelsentinels/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/img/images/layout/fr.gif">
+<a href="../../../l=2/a=75/g=steelsentinels/index.ws"><img alt="
+Fran&ccedil;ais" src="../../../img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=75/g=steelsentinels/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/img/images/layout/br.gif">
+<a href="../../../l=3/a=75/g=steelsentinels/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../../img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
+Copyright ï¿½ 2008 - 2011 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Ltd in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=75/g=steelsentinels/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=75/g=steelsentinels/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../../a=75/g=steelsentinels/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../../a=75/g=steelsentinels/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/a=75/g=steelsentinels/" target="_blank"><img src="http://www.funorb.com/img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/a=75/g=steelsentinels/" target="_blank"><img src="../../../img/images/layout/jagex_footer.gif?1" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>

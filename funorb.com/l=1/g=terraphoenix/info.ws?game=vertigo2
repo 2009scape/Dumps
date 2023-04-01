@@ -17,16 +17,16 @@
 <meta name="rating" content="General">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
-<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.funorb.com/l=1/g=terraphoenix/favicon.ico">
-<link rel="SHORTCUT ICON" href="https://www.funorb.com/l=1/g=terraphoenix/favicon.ico">
+<link rel="icon" type="image/vnd.microsoft.icon" href="../../l=1/g=terraphoenix/favicon.ico">
+<link rel="SHORTCUT ICON" href="../../l=1/g=terraphoenix/favicon.ico">
 <title>FunOrb - Kostenlose Online-Spiele von Jagex Games Studio</title>
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/l=1/css/global-44.css);/**/
+  /*\*/@import url(../../l=1/css/global-44.css);/**/
  </style>
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.7/jquery.min.js"></script>
 <script type="text/javascript">window.jQuery||document.write("<script src='http://www.jagex.com/l=1/js/jquery/jquery_1_7.js'>\x3C/script>")</script>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/l=1/css/ieFix-2.css);</style>
+<style type="text/css" media="screen">@import url(../../l=1/css/ieFix-2.css);</style>
 <![endif]-->
 
 <!--[if IE]>
@@ -51,12 +51,12 @@
   }
  }
 </script> <style type="text/css" media="screen">
- /*\*/@import url("http://www.funorb.com/l=1/css/info-8.css");/**/
+ /*\*/@import url("../../l=1/css/info-8.css");/**/
  .intro {
-  background-image: url(http://www.funorb.com/l=1/img/images/game/vertigo2/intro.jpg);
+  background-image: url(../../l=1/img/images/game/vertigo2/intro.jpg);
  }
  .buttonSubscribe {
-  background-image: url(http://www.funorb.com/l=1/img/images/info/button_subscribe.gif);
+  background-image: url(../../l=1/img/images/info/button_subscribe.gif);
  }
 </style>
 <script type="text/javascript">
@@ -68,10 +68,10 @@ var loading = 0;
 var image = 0;
 var images = Array();
 //
-images[0] = 'http://www.funorb.com/l=1/img/images/game/vertigo2/screen1.jpg?1';
-images[1] = 'http://www.funorb.com/l=1/img/images/game/vertigo2/screen2.jpg?1';
-images[2] = 'http://www.funorb.com/l=1/img/images/game/vertigo2/screen3.jpg?1';
-images[3] = 'http://www.funorb.com/l=1/img/images/game/vertigo2/screen4.jpg?1';
+images[0] = '../../l=1/img/images/game/vertigo2/screen1.jpg?1';
+images[1] = '../../l=1/img/images/game/vertigo2/screen2.jpg?1';
+images[2] = '../../l=1/img/images/game/vertigo2/screen3.jpg?1';
+images[3] = '../../l=1/img/images/game/vertigo2/screen4.jpg?1';
 //
 function clearLoading(){
  try{
@@ -135,15 +135,15 @@ function imageGoto(self, img){
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a id="logo" href="http://www.funorb.com/l=1/g=terraphoenix/index.ws" ><b>
-<img src="http://www.funorb.com/l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
+<a id="logo" href="../../l=1/g=terraphoenix/index.ws" ><b>
+<img src="../../l=1/img/images/layout/logo_voidhunters.jpg" alt="FunOrb" />
 </b></a>
 
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
 <div id="teleText">
-<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist für kostenlose Online-Spiele</h1>
+<h1 id="welcomeText">Willkommen bei FunOrb - Der Spezialist fï¿½r kostenlose Online-Spiele</h1>
 <span id="teletext_inner">
 Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss man nur ein Spielkonto erstellen. Das geht schnell, einfach und ist vollkommen KOSTENLOS! Klick auf "Jetzt Spielen" und dann auf "Kostenloses Spielkonto" erstellen.</span>
 <script type="text/javascript" src="http://services.funorb.com/m=fomessenger/l=1/g=terraphoenix/messengercommon0.js"></script>
@@ -154,25 +154,25 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/l=1/g=terraphoenix/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../l=1/g=terraphoenix/index.ws" id="home" class="top_link"><span>Startseite</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../l=1/g=terraphoenix/gamelist.ws"><span>Spiele</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws" class="fly">Alle Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/options.ws" class="fly last">Java-Optionen</a></li>
+<li><a href="../../l=1/g=terraphoenix/gamelist.ws" class="fly">Alle Spiele</a></li>
+<li><a href="../../l=1/g=terraphoenix/gamelist.ws?playerBox=1" class="fly">Einzelspieler-Spiele</a></li>
+<li><a href="../../l=1/g=terraphoenix/gamelist.ws?playerBox=2" class="fly">Mehrspieler-Spiele</a></li>
+<li><a href="../../l=1/g=terraphoenix/options.ws" class="fly last">Java-Optionen</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p3"><a id="account" class="top_link" href="http://www.funorb.com/l=1/g=terraphoenix/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p3"><a id="account" class="top_link" href="../../l=1/g=terraphoenix/account_management.ws"><span>Konto</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/members.ws" class="fly">Mitglieder-Vorteile</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/account_management.ws" class="fly last">Kontoverwaltung</a></li>
+<li><a href="../../l=1/g=terraphoenix/redirect.ws?mod=billing_core&amp;dest=paymentoptions.ws" class="fly">Mitgliedschaft bei FunOrb einrichten</a></li>
+<li><a href="../../l=1/g=terraphoenix/members.ws" class="fly">Mitglieder-Vorteile</a></li>
+<li><a href="../../l=1/g=terraphoenix/account_management.ws" class="fly last">Kontoverwaltung</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -182,23 +182,23 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <ul class="sub">
 <li><a href="http://services.funorb.com/m=focommunity/l=1/g=terraphoenix/" class="fly">Community-Startseite</a></li>
 <li><a href="http://services.funorb.com/m=forum_fo_de/l=1/g=terraphoenix/forums.ws" class="fly">Forum</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/kbase/guid/dev_diary" class="fly">Projekttagebücher</a></li>
+<li><a href="../../l=1/g=terraphoenix/kbase/guid/dev_diary" class="fly">Projekttagebï¿½cher</a></li>
 <li><a href="http://services.funorb.com/m=achievements/l=1/g=terraphoenix/" class="fly">Erfolge</a></li>
 <li><a href="http://services.funorb.com/m=hiscore_fo/l=1/g=terraphoenix/" class="fly">Bestenlisten &amp; Wertungen</a></li>
 <li><a href="http://services.funorb.com/m=orbcoins/l=1/g=terraphoenix/" class="fly last">Orb-Downloads</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/l=1/g=terraphoenix/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../l=1/g=terraphoenix/kbase/guid/help"><span>Hilfe</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/parents.ws" class="fly">Ratgeber für Eltern</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
-<li><a href="http://www.funorb.com/l=1/g=terraphoenix/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
+<li><a href="../../l=1/g=terraphoenix/kbase/guid/customer_support" class="fly">Kundenbetreuung</a></li>
+<li><a href="../../l=1/g=terraphoenix/parents.ws" class="fly">Ratgeber fï¿½r Eltern</a></li>
+<li><a href="../../l=1/g=terraphoenix/kbase/guid/rules_of_conduct" class="fly">Regeln</a></li>
+<li><a href="../../l=1/g=terraphoenix/redirect.ws?mod=billing_core&amp;dest=unsubscribe.ws" class="fly">Abmelden</a></li>
+<li><a href="../../l=1/g=terraphoenix/redirect.ws?mod=www&amp;dest=loginapplet/loginapplet.ws?mod=accountappeal&amp;dest=lockchoice.ws" class="fly">Konto-Wiederherstellung</a></li>
+<li><a href="../../l=1/g=terraphoenix/bugtracker.ws" class="fly last">Fehlerhinweis senden</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -206,28 +206,28 @@ Um Zugriff auf Mehrspieler-Spiele, Bestenlisten und Erfolge zu erhalten, muss ma
 <li class="top p8"><a href="https://secure.funorb.com/m=weblogin/l=1/g=terraphoenix/loginform.ws?mod=www&amp;ssl=0&amp;dest=info.ws?game=vertigo2" id="signIn" class="top_link"><span>Einloggen</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/l=1/g=terraphoenix/index.ws">
+<a id="countrydrop" href="../../l=1/g=terraphoenix/index.ws">
 <span>
 <img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 <span id="dropArrow"></span>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/g=terraphoenix/index.ws"><img title="
+<li><a class="fly" href="../../g=terraphoenix/index.ws"><img title="
 English" alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/g=terraphoenix/index.ws"><img title="
+English" src="../../l=1/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/g=terraphoenix/index.ws"><img title="
 Deutsch" alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/g=terraphoenix/index.ws"><img title="
+Deutsch" src="../../l=1/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/g=terraphoenix/index.ws"><img title="
 Fran&ccedil;ais" alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/g=terraphoenix/index.ws"><img title="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/g=terraphoenix/index.ws"><img title="
 Portugu&ecirc;s (BR)" alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"></a></li>
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -243,12 +243,12 @@ Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif"><
 <div class="sectionHeaderRight">
 <div class="sectionTitle">
 <span class="sectionTrail">
-<a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws">Spiele</a> &gt;
-<a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws?genreBox=action">Action</a> &gt;
-<a onclick="suffixize(this)" href="http://www.funorb.com/l=1/g=terraphoenix/vertigo2/play.ws">Vertigo 2</a> &gt;
+<a href="../../l=1/g=terraphoenix/gamelist.ws">Spiele</a> &gt;
+<a href="../../l=1/g=terraphoenix/gamelist.ws?genreBox=action">Action</a> &gt;
+<a onclick="suffixize(this)" href="../../l=1/g=terraphoenix/vertigo2/play.ws">Vertigo 2</a> &gt;
 Mehr Infos </span>
 <span class="sectionServerlist">
-<a style="text-decoration: underline; font-weight: normal;" href="http://www.funorb.com/l=1/g=terraphoenix/vertigo2/serverlist.ws">Serverliste</a>
+<a style="text-decoration: underline; font-weight: normal;" href="../../l=1/g=terraphoenix/vertigo2/serverlist.ws">Serverliste</a>
 </span>
 
 </div>
@@ -261,11 +261,11 @@ Mehr Infos </span>
 <div class="intro">
 <div class="introDescription">
 <div>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Klassische Plattform-Action mit viel Tiefgang... </div>
+<a href="../../l=1/g=terraphoenix/gamelist.ws?genreBox=action"><span class="genre">Action</span></a><br> Klassische Plattform-Action mit viel Tiefgang... </div>
 </div>
 <a class="buttonWide" href="#description"><div>Beschreibung</div></a><br />
 <a class="buttonWide" href="#faqs"><div>Fragen und Antworten</div></a><br />
-<a onclick="suffixize(this)" class="buttonPlayBig" href="http://www.funorb.com/l=1/g=terraphoenix/vertigo2/play.ws"></a>
+<a onclick="suffixize(this)" class="buttonPlayBig" href="../../l=1/g=terraphoenix/vertigo2/play.ws"></a>
 </div>
 <a name="screenshots"></a>
 <div class="subsection" id="screenshots" style="">
@@ -276,23 +276,23 @@ Screenshots
 </div>
 <div class="subsectionContent">
 <script type="text/javascript">
-  document.write('<img id="screenshotsImage" class="screenshotsImage" src="http://www.funorb.com/l=1/img/images/game/vertigo2/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
+  document.write('<img id="screenshotsImage" class="screenshotsImage" src="../../l=1/img/images/game/vertigo2/screen1.jpg" alt="In-game screenshot" onLoad="imageTimer(this.id)" />');
  </script>
 <noscript>
-<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="http://www.funorb.com/l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen1">
+<iframe name="screenshotsFrame" class="screenshotsFrame" id="screenshotsFrame" scrolling="no" frameBorder="0" src="../../l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen1">
 </iframe>
 </noscript>
 <div id="screenshotsThumbs">
-<a href="http://www.funorb.com/l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/vertigo2/screen1_thumb.jpg?1);">
+<a href="../../l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen1" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 0);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/vertigo2/screen1_thumb.jpg?1);">
 <div id="screenshotsLoading0"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/vertigo2/screen2_thumb.jpg?1);">
+<a href="../../l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen2" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 1);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/vertigo2/screen2_thumb.jpg?1);">
 <div id="screenshotsLoading1"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/vertigo2/screen3_thumb.jpg?1);">
+<a href="../../l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen3" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 2);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/vertigo2/screen3_thumb.jpg?1);">
 <div id="screenshotsLoading2"></div>
 </a>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(http://www.funorb.com/l=1/img/images/game/vertigo2/screen4_thumb.jpg?1);">
+<a href="../../l=1/g=terraphoenix/display_screenshot.ws?game=vertigo2&screenshot=screen4" target="screenshotsFrame" onClick="return imageGoto('screenshotsImage', 3);" class="screenshotsThumb" style="background-image: url(../../l=1/img/images/game/vertigo2/screen4_thumb.jpg?1);">
 <div id="screenshotsLoading3"></div>
 </a>
 </div>
@@ -319,7 +319,7 @@ Vorteile einer Mitgliedschaft
 
 </ul>
 </div>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
+<a href="../../l=1/g=terraphoenix/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="buttonSubscribe"></a>
 </div>
 </div>
 </div>
@@ -333,10 +333,10 @@ Beschreibung
 </div>
 <div class="subsectionContent">
 <div>
-<p>Das erste 3D-Plattformspiel von Jagex ist zurück - mit riesigen Levels, die euer Hirn zum Kochen bringen werden, voller Fallen und farbenfrohem Freifall. Vertigo 2 bringt euch das vollständige Original mit verbesserter Grafik und zwei neuen Spielmodi.</p>
-<p>Für diejenigen unter euch, die den ersten Teil nicht gespielt haben: Vertigo 2 ist vollgestopft mit Plattform-Action in Reinform. Könnt ihr alle 50 Levels schaffen? Traut ihr euch, nach unten zu schauen? Werdet ihr ins Verderben stürzen? Probiert Vertigo 2 und findet es heraus!</p>
-<p>Wir bringen euch nicht nur den vollständigen Einzelspieler-Teil aus dem Original, sondern haben auch noch einen Mehrspieler-Modus hinzugefügt - sogar online! Verbündet euch mit einem Freund und spielt 30 Levels kooperativ, oder lackiert im Farbgefecht um die Wette.</p>
-<p>Obendrein hat Vertigo jetzt auch eine Zeitherausforderung über alle 50 Einzelspieler-Levels. Messt eure Bestzeit für jeden Level und versucht, die Rekorde eurer Freunde zu überbieten!</p>
+<p>Das erste 3D-Plattformspiel von Jagex ist zurï¿½ck - mit riesigen Levels, die euer Hirn zum Kochen bringen werden, voller Fallen und farbenfrohem Freifall. Vertigo 2 bringt euch das vollstï¿½ndige Original mit verbesserter Grafik und zwei neuen Spielmodi.</p>
+<p>Fï¿½r diejenigen unter euch, die den ersten Teil nicht gespielt haben: Vertigo 2 ist vollgestopft mit Plattform-Action in Reinform. Kï¿½nnt ihr alle 50 Levels schaffen? Traut ihr euch, nach unten zu schauen? Werdet ihr ins Verderben stï¿½rzen? Probiert Vertigo 2 und findet es heraus!</p>
+<p>Wir bringen euch nicht nur den vollstï¿½ndigen Einzelspieler-Teil aus dem Original, sondern haben auch noch einen Mehrspieler-Modus hinzugefï¿½gt - sogar online! Verbï¿½ndet euch mit einem Freund und spielt 30 Levels kooperativ, oder lackiert im Farbgefecht um die Wette.</p>
+<p>Obendrein hat Vertigo jetzt auch eine Zeitherausforderung ï¿½ber alle 50 Einzelspieler-Levels. Messt eure Bestzeit fï¿½r jeden Level und versucht, die Rekorde eurer Freunde zu ï¿½berbieten!</p>
 </div>
 </div>
 </div>
@@ -351,9 +351,9 @@ Fragen und Antworten
 <div class="subsectionContent">
 <div class="faqsList">
 <ol>
-<li><a href="#faqs_q1">Wie wird die Gesamtzeit für die Zeitherausforderung berechnet?</a></li>
-<li><a href="#faqs_q2">Ich habe alle blauen Blöcke lackiert, aber das Spiel behauptet, es gäbe immer noch Blöcke, die ich lackieren muss! Was ist da los?</a></li>
-<li><a href="#faqs_q3">Ganz unten im Level gibt es einige Blöcke, aber wenn ich zu ihnen runterspringe, komme ich nicht wieder nach oben!</a></li>
+<li><a href="#faqs_q1">Wie wird die Gesamtzeit fï¿½r die Zeitherausforderung berechnet?</a></li>
+<li><a href="#faqs_q2">Ich habe alle blauen Blï¿½cke lackiert, aber das Spiel behauptet, es gï¿½be immer noch Blï¿½cke, die ich lackieren muss! Was ist da los?</a></li>
+<li><a href="#faqs_q3">Ganz unten im Level gibt es einige Blï¿½cke, aber wenn ich zu ihnen runterspringe, komme ich nicht wieder nach oben!</a></li>
 <li><a href="#faqs_q4">Kann ich meine Bewegungen auch anders als mit den Pfeiltasten kontrollieren?</a></li>
 <li><a href="#faqs_q5">Wer kann an bewerteten Mehrspieler-Partien teilnehmen?</a></li>
 <li><a href="#faqs_spec">Welche Mindestvoraussetzungen setzt dieses Spiel?</a></li>
@@ -361,17 +361,17 @@ Fragen und Antworten
 </div>
 <div class="faqsAnswer">
 <a name="faqs_q1"></a>
-<h3>1. Wie wird die Gesamtzeit für die Zeitherausforderung berechnet?</h3>
-<p>Eure Gesamtzeit für die Zeitherausforderung errechnet sich aus der Summe eurer Bestzeiten für alle Levels, die ihr gespielt habt plus je zehn Minuten für jeden Level, den ihr noch nicht geschafft habt. Selbst, wenn ihr nicht glaubt, dass ihr einen Level besonders schnell beenden könnt, ist es einen Versuch wert - es wird eure Gesamtzeit sicher trotzdem um mehrere Minuten verringern!</p>
+<h3>1. Wie wird die Gesamtzeit fï¿½r die Zeitherausforderung berechnet?</h3>
+<p>Eure Gesamtzeit fï¿½r die Zeitherausforderung errechnet sich aus der Summe eurer Bestzeiten fï¿½r alle Levels, die ihr gespielt habt plus je zehn Minuten fï¿½r jeden Level, den ihr noch nicht geschafft habt. Selbst, wenn ihr nicht glaubt, dass ihr einen Level besonders schnell beenden kï¿½nnt, ist es einen Versuch wert - es wird eure Gesamtzeit sicher trotzdem um mehrere Minuten verringern!</p>
 <div class="hr"></div>
-<a name="faqs_q2"></a> <h3>2. Ich habe alle blauen Blöcke lackiert, aber das Spiel behauptet, es gäbe immer noch Blöcke, die ich lackieren muss! Was ist da los?</h3>
-<p>Manche Blöcke sind blau, können aber nicht lackiert werden. Im Einzelspieler- und Kooperativ-Modus zählen zersprungene Blöcke als blau. Um diese Blöcke loszuwerden, müsst ihr über sie hinweglaufen. Wenn ihr keine zersprungenen Blöcke seht, versucht einfach, durch alle Portale zu gehen, die ihr finden könnt - manche davon bringen euch eventuell an einen Ort, den ihr übersehen habt.</p>
+<a name="faqs_q2"></a> <h3>2. Ich habe alle blauen Blï¿½cke lackiert, aber das Spiel behauptet, es gï¿½be immer noch Blï¿½cke, die ich lackieren muss! Was ist da los?</h3>
+<p>Manche Blï¿½cke sind blau, kï¿½nnen aber nicht lackiert werden. Im Einzelspieler- und Kooperativ-Modus zï¿½hlen zersprungene Blï¿½cke als blau. Um diese Blï¿½cke loszuwerden, mï¿½sst ihr ï¿½ber sie hinweglaufen. Wenn ihr keine zersprungenen Blï¿½cke seht, versucht einfach, durch alle Portale zu gehen, die ihr finden kï¿½nnt - manche davon bringen euch eventuell an einen Ort, den ihr ï¿½bersehen habt.</p>
 <div class="hr"></div>
-<a name="faqs_q3"></a> <h3>3. Ganz unten im Level gibt es einige Blöcke, aber wenn ich zu ihnen runterspringe, komme ich nicht wieder nach oben!</h3>
-<p>Wenn das der Fall ist, solltet ihr euch diese Blöcke bis zum Ende aufheben und dann so viel Farbe wie möglich mitnehmen. Außerdem solltet ihr nach sich senkrecht bewegenden Plattformen Ausschau halten - manchmal bewegen sie sich weiter, wenn ein Block auf ihrem Weg zerstört wird.</p>
+<a name="faqs_q3"></a> <h3>3. Ganz unten im Level gibt es einige Blï¿½cke, aber wenn ich zu ihnen runterspringe, komme ich nicht wieder nach oben!</h3>
+<p>Wenn das der Fall ist, solltet ihr euch diese Blï¿½cke bis zum Ende aufheben und dann so viel Farbe wie mï¿½glich mitnehmen. Auï¿½erdem solltet ihr nach sich senkrecht bewegenden Plattformen Ausschau halten - manchmal bewegen sie sich weiter, wenn ein Block auf ihrem Weg zerstï¿½rt wird.</p>
 <div class="hr"></div>
 <a name="faqs_q4"></a> <h3>4. Kann ich meine Bewegungen auch anders als mit den Pfeiltasten kontrollieren?</h3>
-<p>Ja. Um euch zu bewegen, könnt ihr entweder die Pfeiltasten oder 'W', 'A', 'S' und 'D' benutzen. Mit der Leertaste oder der Eingabetaste könnt ihr springen. Benutzt einfach die Kombination, die euch am besten gefällt.</p>
+<p>Ja. Um euch zu bewegen, kï¿½nnt ihr entweder die Pfeiltasten oder 'W', 'A', 'S' und 'D' benutzen. Mit der Leertaste oder der Eingabetaste kï¿½nnt ihr springen. Benutzt einfach die Kombination, die euch am besten gefï¿½llt.</p>
 <div class="hr"></div>
 <a name="faqs_q5"></a> <h3>5. Wer kann an bewerteten Mehrspieler-Partien teilnehmen?</h3>
 <p>Sowohl Mitglieder als auch Nicht-Mitglieder haben Zugang zu bewerteten Mehrspieler-Partien!</p>
@@ -381,12 +381,12 @@ Fragen und Antworten
 <p>Mindestvoraussetzungen:</p>
 <ul>
 <li>1,0 GHz <li>128MB Arbeitsspeicher </ul>
-<p>Die <b>empfohlenen</b> Voraussetzungen für die meisten Spiele sind:</p>
+<p>Die <b>empfohlenen</b> Voraussetzungen fï¿½r die meisten Spiele sind:</p>
 <ul>
 <li>1,5 GHz <li>256MB Arbeitsspeicher </ul>
-<p>Unten finden Sie eine Erklärung der Begriffe für die technischen Spezifikationen.</p>
-<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgeführt werden.</p>
-<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfügung steht. Er beeinflusst, wie schnell und wie viele große Programme gleichzeitig ausgeführt werden können.</p>
+<p>Unten finden Sie eine Erklï¿½rung der Begriffe fï¿½r die technischen Spezifikationen.</p>
+<p><b>Megahertz (MHz) / Gigahertz (GHz)</b> sagen aus, wie schnell der Prozessor eines Computers arbeitet. Sie beeinflussen, wie schnell Spiele und Anwendungen ausgefï¿½hrt werden.</p>
+<p><b>Megabytes (MB)</b> sagen aus, wie viel Arbeitsspeicher einem Computer zur Verfï¿½gung steht. Er beeinflusst, wie schnell und wie viele groï¿½e Programme gleichzeitig ausgefï¿½hrt werden kï¿½nnen.</p>
 <p>Klick <a href="http://www.java.com/getjava" target="_blank">hier</a>, um die neueste Version von Suns Java zu erhalten.</p>
 </div>
 </div>
@@ -408,7 +408,7 @@ Development Team
 <b>Translation:</b> Heiko J,&nbsp;Florian P
 </p>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/l=1/img/images/layout/backtotop.gif" alt="Zurück zum Anfang" title="Zurück zum Anfang" /></a>
+<a href="#top"><img src="../../l=1/img/images/layout/backtotop.gif" alt="Zurï¿½ck zum Anfang" title="Zurï¿½ck zum Anfang" /></a>
 </p>
 </div>
 </div>
@@ -421,25 +421,25 @@ Development Team
 </div>
 </div>
 <div id="copyRight">
-<div id="languagefooter"> Sprache auswählen:&nbsp; <a href="http://www.funorb.com/g=terraphoenix/index.ws"><img alt="
-English" src="http://www.funorb.com/l=1/img/images/layout/en.gif">
+<div id="languagefooter"> Sprache auswï¿½hlen:&nbsp; <a href="../../g=terraphoenix/index.ws"><img alt="
+English" src="../../l=1/img/images/layout/en.gif">
 English</a>
-<a href="http://www.funorb.com/l=1/g=terraphoenix/index.ws"><img alt="
-Deutsch" src="http://www.funorb.com/l=1/img/images/layout/de.gif">
+<a href="../../l=1/g=terraphoenix/index.ws"><img alt="
+Deutsch" src="../../l=1/img/images/layout/de.gif">
 Deutsch</a>
-<a href="http://www.funorb.com/l=2/g=terraphoenix/index.ws"><img alt="
-Fran&ccedil;ais" src="http://www.funorb.com/l=1/img/images/layout/fr.gif">
+<a href="../../l=2/g=terraphoenix/index.ws"><img alt="
+Fran&ccedil;ais" src="../../l=1/img/images/layout/fr.gif">
 Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/g=terraphoenix/index.ws"><img alt="
-Portugu&ecirc;s (BR)" src="http://www.funorb.com/l=1/img/images/layout/br.gif">
+<a href="../../l=3/g=terraphoenix/index.ws"><img alt="
+Portugu&ecirc;s (BR)" src="../../l=1/img/images/layout/br.gif">
 Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
-<p> Copyright © 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Großbritannien und anderen Ländern. </p>
-<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=terraphoenix/terms/terms.ws" name="terms">allgemeinen Geschäftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=terraphoenix/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
+<p> Copyright ï¿½ 2008 - 2015 Jagex Ltd. Jagex und FunOrb sind eingetragene Markenzeichen der Jagex Limited in Groï¿½britannien und anderen Lï¿½ndern. </p>
+<p> Indem Sie unsere Dienste nutzen, stimmen Sie unseren <a href="http://www.jagex.com/l=1/g=terraphoenix/terms/terms.ws" name="terms">allgemeinen Geschï¿½ftsbedingungen</a> und <a href="http://www.jagex.com/l=1/g=terraphoenix/privacy/privacy.ws" name="privacy">Datenschutzrichtlinien</a> zu. </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/l=1/g=terraphoenix/" target="_blank"><img src="http://www.funorb.com/l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
+<a href="http://www.jagex.com/l=1/g=terraphoenix/" target="_blank"><img src="../../l=1/img/images/layout/jagex_footer.gif?1" alt="Jagex-Logo" /></a>
 </div>
 </div>
 </div>

@@ -20,12 +20,12 @@ en">
 <meta name="Distribution" content="global">
 <meta name="Identifier-URL" content="http://www.funorb.com">
 <style type="text/css" media="screen">
-  /*\*/@import url(http://www.funorb.com/a=135/css/global-14.css);/**/
+  /*\*/@import url(../../a=135/css/global-14.css);/**/
  </style>
 <!--[if lt IE 7]>
-<style type="text/css" media="screen">@import url(http://www.funorb.com/a=135/css/ieFix-1.css);</style>
+<style type="text/css" media="screen">@import url(../../a=135/css/ieFix-1.css);</style>
 <![endif]-->
-<script type="text/javascript" src="http://www.funorb.com/a=135/css/layout.ws"></script>
+<script type="text/javascript" src="../../a=135/css/layout.ws"></script>
 
 <meta name="language" content="en, de, fr, pt">
 <meta name="description" content="Payment comparisons and information on our billing partners.">
@@ -74,7 +74,7 @@ en">
 <div class="lft"></div>
 <div class="rght"></div>
 <div class="container">
-<a href="http://www.funorb.com/a=135/index.ws" id="logo"><span>FunOrb</span></a>
+<a href="../../a=135/index.ws" id="logo"><span>FunOrb</span></a>
 <div id="shell">
 <div class="lft"></div>
 <div class="rght"></div>
@@ -91,15 +91,15 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 </div>
 <div class="clear"></div>
 <ul class="menu">
-<li class="top p1"><a href="http://www.funorb.com/a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
-<li class="top p2"><a id="games" class="top_link" href="http://www.funorb.com/a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p1"><a href="../../a=135/index.ws" id="home" class="top_link"><span>Home</span></a></li>
+<li class="top p2"><a id="games" class="top_link" href="../../a=135/gamelist.ws"><span>Games</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/gamelist.ws" class="fly">All Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
-<li><a href="http://www.funorb.com/a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
-<li><a href="http://www.funorb.com/a=135/options.ws" class="fly last">Java Options</a></li>
+<li><a href="../../a=135/gamelist.ws" class="fly">All Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=1" class="fly">Single-Player Games</a></li>
+<li><a href="../../a=135/gamelist.ws?playerBox=2" class="fly">Multiplayer Games</a></li>
+<li><a href="../../a=135/options.ws" class="fly last">Java Options</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -107,8 +107,8 @@ To gain access to some of our multiplayer games, highscore tables and Achievemen
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 <ul class="sub">
 <li><a href="https://create.funorb.com/a=135/" class="fly">Create Free Account</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
-<li><a href="http://www.funorb.com/a=135/members.ws" class="fly last">Members' Benefits</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=paymentoptions.ws" class="fly">Subscribe to FunOrb</a></li>
+<li><a href="../../a=135/members.ws" class="fly last">Members' Benefits</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
@@ -127,37 +127,37 @@ http://forum-fo.funorb.com/a=135/forums.ws?0,1" class="fly">Announcements</a></l
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
-<li class="top p5"><a id="help" class="top_link" href="http://www.funorb.com/a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
+<li class="top p5"><a id="help" class="top_link" href="../../a=135/kbase/view.ws?guid=help"><span>Help</span><!--[if IE 7]><!--></a><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul class="sub">
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
-<li><a href="http://www.funorb.com/a=135/parents.ws" class="fly">Parents' Guide</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
-<li><a href="http://www.funorb.com/a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
-<li><a href="http://www.funorb.com/a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
-<li><a href="http://www.funorb.com/a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=customer_support" class="fly">Customer Support</a></li>
+<li><a href="../../a=135/parents.ws" class="fly">Parents' Guide</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=rules_of_conduct" class="fly">Rules</a></li>
+<li><a href="../../a=135/redirect.ws?mod=billing_core&dest=unsubscribe.ws" class="fly">Unsubscribe</a></li>
+<li><a href="../../a=135/kbase/view.ws?guid=password_support" class="fly">Password Problems</a></li>
+<li><a href="../../a=135/bugtracker.ws" class="fly last">Submit A Bug Report</a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a><![endif]-->
 </li>
 <li class="top p11"><a id="empty" class="top_link"><span>&nbsp;</span></a></li>
 <li class="top p7"><a href="https://create.funorb.com/a=135/" id="register" class="top_link"><span>Create Account</span></a></li>
-<li class="top p8"><a href="http://www.funorb.com/a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=32" id="signIn" class="top_link"><span>Log In</span></a></li>
+<li class="top p8"><a href="../../a=135/loginapplet/login.ws?mod=www&ssl=0&dest=kbase/viewarticle.ws?article_id=32" id="signIn" class="top_link"><span>Log In</span></a></li>
 <li class="top p10">
 <div class="top_link" id="lang_div">
-<a id="countrydrop" href="http://www.funorb.com/a=135/index.ws">
+<a id="countrydrop" href="../../a=135/index.ws">
 <span>
-<img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">
+<img alt="English" src="../../a=135/img/images/layout/en.gif">
 <div id="dropArrow"></div>
 </span>
 <!--[if gt IE 6]><!--></a></div><!--<![endif]-->
 <!--[if lte IE 6]><table><tr><td><![endif]-->
 
 <ul id="lang" class="sub">
-<li><a class="fly" href="http://www.funorb.com/a=135/index.ws"><img title="English" alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif"></a></li>
-<li><a class="fly" href="http://www.funorb.com/l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif"></a></li>
-<li><a class="fly last" href="http://www.funorb.com/l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif"></a></li>
+<li><a class="fly" href="../../a=135/index.ws"><img title="English" alt="English" src="../../a=135/img/images/layout/en.gif"></a></li>
+<li><a class="fly" href="../../l=1/a=135/index.ws"><img title="Deutsch" alt="Deutsch" src="../../a=135/img/images/layout/de.gif"></a></li>
+<li><a class="fly" href="../../l=2/a=135/index.ws"><img title="Fran&ccedil;ais" alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif"></a></li>
+<li><a class="fly last" href="../../l=3/a=135/index.ws"><img title="Portugu&ecirc;s (BR)" alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif"></a></li>
 </ul>
 <!--[if lte IE 6]></td></tr></table></a></div><![endif]-->
 </li>
@@ -197,7 +197,7 @@ Use our payment comparison table to find the most suitable payment method for
 purchasing your chosen membership. You can find detailed information about a
 particular payment method by clicking 'More Information'.<br><br>
 The first "Cost per month" column refers to purchasing a FunOrb subscription; the second refers to purchasing a combined discounted subscription for both FunOrb and RuneScape.<br><br>
-<b>Please note</b> that if you began a joint FunOrb + RuneScape subscription before the 18th of August 2008, you will continue to pay at the lower cost (USD$7.00 / GBP£4.60 if paying by credit/debit card). If your subscription lapses, you will be able to resubscribe and continue paying this lower price for a period of two weeks. If you pay at the higher rate for 12 months (without a gap of more than 14 days) you will be offered the lower, $5 (£3.20) rate at the end of that year.
+<b>Please note</b> that if you began a joint FunOrb + RuneScape subscription before the 18th of August 2008, you will continue to pay at the lower cost (USD$7.00 / GBPï¿½4.60 if paying by credit/debit card). If your subscription lapses, you will be able to resubscribe and continue paying this lower price for a period of two weeks. If you pay at the higher rate for 12 months (without a gap of more than 14 days) you will be offered the lower, $5 (ï¿½3.20) rate at the end of that year.
 <br><br>
 <table id="compare" align="center">
 <thead>
@@ -220,67 +220,67 @@ Cost Per Month*
 <tbody>
 <tr class="row_b">
 <td>
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_worldpay2.gif" alt="Worldpay" /><br />
+<img src="../../a=135/img/billingv4/logo_worldpay2.gif" alt="Worldpay" /><br />
 <a href="viewarticle.ws?article_id=43">More Information</a>
 </td>
 <td>Credit/Debit Card</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
 <td>
 Recurring<br />
 1 month
 </td>
-<td>USD$3.00 / GBP£2.00</td>
-<td>USD$7.95 / GBP£4.95</td>
+<td>USD$3.00 / GBPï¿½2.00</td>
+<td>USD$7.95 / GBPï¿½4.95</td>
 <td>Immediate</td>
 </tr>
 <tr class="row_b">
 <td rowspan="2">
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_surfpin.gif" alt="Surfpin" title="Surfpin" /><br />
+<img src="../../a=135/img/billingv4/logo_surfpin.gif" alt="Surfpin" title="Surfpin" /><br />
 <a href="viewarticle.ws?article_id=23">More Information</a>
 </td>
 <td>PayByPhone</td>
 <td>
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_austria.gif" alt="Austria" title="Austria" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/australianflag.gif" alt="Australia" title="Australia" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/belgianflag.gif" alt="Belgium" title="Belgium" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/canadianflag.gif" alt="Canada" title="Canada" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_finland.gif" alt="Finland" title="Finland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_ireland.gif" alt="Ireland" title="Ireland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/dutchflag.gif" alt="Netherlands" title="Netherlands" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/nzflag.gif" alt="New Zealand" title="New Zealand" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_norway.gif" alt="Norway" title="Norway" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_sweden.gif" alt="Sweden" title="Sweden" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_switzerland.gif" alt="Switzerland" title="Switzerland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_austria.gif" alt="Austria" title="Austria" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/australianflag.gif" alt="Australia" title="Australia" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/belgianflag.gif" alt="Belgium" title="Belgium" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/canadianflag.gif" alt="Canada" title="Canada" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_finland.gif" alt="Finland" title="Finland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_ireland.gif" alt="Ireland" title="Ireland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/dutchflag.gif" alt="Netherlands" title="Netherlands" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/nzflag.gif" alt="New Zealand" title="New Zealand" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_norway.gif" alt="Norway" title="Norway" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_sweden.gif" alt="Sweden" title="Sweden" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_switzerland.gif" alt="Switzerland" title="Switzerland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" />
 </td>
 <td>One-off</td>
-<td>USD$4.49 / GBP£2.50</td>
-<td>USD$10.99 / GBP£7.00</td>
+<td>USD$4.49 / GBPï¿½2.50</td>
+<td>USD$10.99 / GBPï¿½7.00</td>
 <td rowspan="2">15 minutes</td>
 </tr>
 <tr class="row_b">
 <td>PayBySMS</td>
 <td>
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/dutchflag.gif" alt="Netherlands" title="Netherlands" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/dutchflag.gif" alt="Netherlands" title="Netherlands" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" />
 </td>
 <td>One-off</td>
-<td>USD$6.00 / GBP£3.00</td>
-<td>USD$15.00 / GBP£8.00</td>
+<td>USD$6.00 / GBPï¿½3.00</td>
+<td>USD$15.00 / GBPï¿½8.00</td>
 </tr>
 <tr class="row_b">
 <td>
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_paypal_88x31.gif" alt="PayPal" title="PayPal" /><br />
+<img src="../../a=135/img/billingv4/logo_paypal_88x31.gif" alt="PayPal" title="PayPal" /><br />
 <a href="viewarticle.ws?article_id=63">More Information</a>
 </td>
 <td>
 Credit/Debit Card<br />
 Direct Debit
 </td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
 <td>
 Recurring monthly<br /><br />
 OR
@@ -290,44 +290,44 @@ One-off<br />
 </td>
 <td>
 1 month from <br />
-USD$4.00 / GBP£2.40<br />
+USD$4.00 / GBPï¿½2.40<br />
 <br />
 2 months from <br />
-USD$7.40 / GBP£4.50<br />
+USD$7.40 / GBPï¿½4.50<br />
 <br />
 3 months from <br />
-USD$11.10 / GBP£6.70<br />
+USD$11.10 / GBPï¿½6.70<br />
 <br />
 6 months from <br />
-USD$21.00 / GBP£12.60<br />
+USD$21.00 / GBPï¿½12.60<br />
 <br />
 12 months from <br />
-USD$40.00 / GBP£24.80
+USD$40.00 / GBPï¿½24.80
 </td>
 <td>
 1 month from <br />
-USD$9.50 / GBP£6.00<br />
+USD$9.50 / GBPï¿½6.00<br />
 <br />
 2 months from <br />
-USD$17.99 / GBP£10.99<br />
+USD$17.99 / GBPï¿½10.99<br />
 <br />
 3 months from <br />
-USD$25.99 / GBP£15.99<br />
+USD$25.99 / GBPï¿½15.99<br />
 <br />
 6 months from <br />
-USD$49.99 / GBP£30.99<br />
+USD$49.99 / GBPï¿½30.99<br />
 <br />
 12 months from <br />
-USD$94.99 / GBP£59.99
+USD$94.99 / GBPï¿½59.99
 </td>
-<td>Less than a minute<sup>†</sup></td>
+<td>Less than a minute<sup>ï¿½</sup></td>
 </tr>
 <tr class="row_b">
 <td>
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_giropay.gif" alt="Pay by Real-time Bank Transfer" title="Pay by Real-time Bank Transfer" /><br />
+<img src="../../a=135/img/billingv4/logo_giropay.gif" alt="Pay by Real-time Bank Transfer" title="Pay by Real-time Bank Transfer" /><br />
 <a href="viewarticle.ws?article_id=65">More Information</a>
 <td>Pay by Real-time Bank Transfer</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" /></td>
 <td>
 One-off<br />
 1, 2, 3, 6 or 12 months
@@ -368,64 +368,64 @@ EUR82.60<br />
 </tr>
 <tr class="row_b">
 <td>
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_wallie.gif" alt="Pay by Wallie Card" title="Pay by Wallie Card" /><br />
+<img src="../../a=135/img/billingv4/logo_wallie.gif" alt="Pay by Wallie Card" title="Pay by Wallie Card" /><br />
 <a href="viewarticle.ws?article_id=66">More Information</a>
 <td>Pay by Wallie Card</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_austria.gif" alt="Austria" title="Austria" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/canadianflag.gif" alt="Canada" title="Canada" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_finland.gif" alt="Finland" title="Finland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_ireland.gif" alt="Ireland" title="Ireland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_norway.gif" alt="Norway" title="Norway" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_sweden.gif" alt="Sweden" title="Sweden" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/flag_switzerland.gif" alt="Switzerland" title="Switzerland" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
-<img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_austria.gif" alt="Austria" title="Austria" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/canadianflag.gif" alt="Canada" title="Canada" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_finland.gif" alt="Finland" title="Finland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_germany.gif" alt="Germany" title="Germany" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_ireland.gif" alt="Ireland" title="Ireland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_norway.gif" alt="Norway" title="Norway" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_sweden.gif" alt="Sweden" title="Sweden" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/flag_switzerland.gif" alt="Switzerland" title="Switzerland" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" />
+<img src="../../a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
 <td>
 One-off<br />
 1, 2, 3, 6 or 12 months
 </td>
 <td>
 1 month from <br />
-USD$3.75 / GBP£2.50<br />
+USD$3.75 / GBPï¿½2.50<br />
 <br />
 2 months from <br />
-USD$6.99 / GBP£4.50<br />
+USD$6.99 / GBPï¿½4.50<br />
 <br />
 3 months from <br />
-USD$9.99 / GBP£6.50<br />
+USD$9.99 / GBPï¿½6.50<br />
 <br />
 6 months from <br />
-USD$18.50 / GBP£12.50<br />
+USD$18.50 / GBPï¿½12.50<br />
 <br />
 12 months from <br />
-USD$34.99 / GBP£22.90
+USD$34.99 / GBPï¿½22.90
 </td>
 <td>
 1 month from <br />
-USD$9.50 / GBP£5.99<br />
+USD$9.50 / GBPï¿½5.99<br />
 <br />
 2 months from <br />
-USD$16.99 / GBP£10.99<br />
+USD$16.99 / GBPï¿½10.99<br />
 <br />
 3 months from <br />
-USD$24.99 / GBP£15.99<br />
+USD$24.99 / GBPï¿½15.99<br />
 <br />
 6 months from <br />
-USD$46.99 / GBP£29.99<br />
+USD$46.99 / GBPï¿½29.99<br />
 <br />
 12 months from <br />
-USD$88.99 / GBP£55.99
+USD$88.99 / GBPï¿½55.99
 </td>
 <td>Normally immediate</td>
 </tr>
 <tr class="row_b">
 <td rowspan="7">
-<img src="http://www.funorb.com/a=135/img/billingv4/logo_paybycash.gif" alt="PayByCash" title="PayByCash" /><br />
+<img src="../../a=135/img/billingv4/logo_paybycash.gif" alt="PayByCash" title="PayByCash" /><br />
 <a href="viewarticle.ws?article_id=27">More Information</a>
 </td>
 <td>Direct Debit</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
 <td>
 Recurring<br />
 1, 2 or 3 months<br />
@@ -435,41 +435,41 @@ One-off<br />
 </td>
 <td rowspan="7">
 1 month from<br />
-USD$4.00 / GBP£2.60<sup>‡</sup><br />
+USD$4.00 / GBPï¿½2.60<sup>ï¿½</sup><br />
 <br />
 2 month from<br />
-USD$7.20 / GBP£5.00<sup>‡</sup><br />
+USD$7.20 / GBPï¿½5.00<sup>ï¿½</sup><br />
 <br />
 3 month from<br />
-USD$10.80 / GBP£7.00<sup>‡</sup><br />
+USD$10.80 / GBPï¿½7.00<sup>ï¿½</sup><br />
 <br />
 6 month from <br />
-USD$20.00 / GBP£13.70<sup>‡</sup><br />
+USD$20.00 / GBPï¿½13.70<sup>ï¿½</sup><br />
 <br />
 12 month from <br />
-USD$39.00 / GBP£27.00<sup>‡</sup><br />
+USD$39.00 / GBPï¿½27.00<sup>ï¿½</sup><br />
 </td>
 <td rowspan="7">
 1 month from<br />
-USD$9.99 / GBP£6.99<sup>‡</sup><br />
+USD$9.99 / GBPï¿½6.99<sup>ï¿½</sup><br />
 <br />
 2 month from<br />
-USD$19.99 / GBP£12.49<sup>‡</sup><br />
+USD$19.99 / GBPï¿½12.49<sup>ï¿½</sup><br />
 <br />
 3 month from<br />
-USD$28.99 / GBP£17.99<sup>‡</sup><br />
+USD$28.99 / GBPï¿½17.99<sup>ï¿½</sup><br />
 <br />
 6 month from <br />
-USD$49.99 / GBP£34.99<sup>‡</sup><br />
+USD$49.99 / GBPï¿½34.99<sup>ï¿½</sup><br />
 <br />
 12 month from <br />
-USD$89.99 / GBP£64.99<sup>‡</sup><br />
+USD$89.99 / GBPï¿½64.99<sup>ï¿½</sup><br />
 </td>
 <td>Up to 6 working days</td>
 </tr>
 <tr class="row_b">
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/westernunionsmall.gif" alt="Western Union" title="Western Union" /></td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/westernunionsmall.gif" alt="Western Union" title="Western Union" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
 <td rowspan="6">
 One-off<br />
 1, 2, 3, 6 or 12 months
@@ -478,26 +478,26 @@ One-off<br />
 </tr>
 <tr class="row_b">
 <td>Cash by post</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
 </tr>
 <tr class="row_b">
 <td>Postal order</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/usflag.gif" alt="US" title="US" /></td>
 </tr>
 <tr class="row_b">
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/paynovasmall.gif" alt="Pay Nova" title="Pay Nova" /></td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/paynovasmall.gif" alt="Pay Nova" title="Pay Nova" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide" /></td>
 </tr>
 <tr class="row_b">
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/splashplasticsmall.gif" alt="Splash Plastic" title="Splash Plastic" /></td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/splashplasticsmall.gif" alt="Splash Plastic" title="Splash Plastic" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/ukflag.gif" alt="UK" title="UK" /></td>
 </tr>
 <tr class="row_b">
 <td>
 Other<br />
 <a href="http://www.paybycash.com/paymentmethods.htm" target="_blank">Click here for details of the other payment options</a>
 </td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide"></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldsmall.gif" alt="Global" title="Available worldwide"></td>
 <td>
 Dependent on payment method<br />
 <a href="http://www.paybycash.com/paymentmethods.htm" target="_blank">View Details</a>
@@ -507,12 +507,12 @@ Dependent on payment method<br />
 </table>
 <div style="margin-top: 5px; font-size: 75%; text-align: center;">
 * Actual charge may be of equivalent value in local currency.<br />
-<sup>†</sup> If funds are available in your PayPal account, or backed by credit/debit card. There will be a delay of 3-7 days if payment is made by e-check.<br />
-<sup>‡</sup> Cost per month dependent on chosen payment method.
+<sup>ï¿½</sup> If funds are available in your PayPal account, or backed by credit/debit card. There will be a delay of 3-7 days if payment is made by e-check.<br />
+<sup>ï¿½</sup> Cost per month dependent on chosen payment method.
 </div>
 <br>
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 <div class="hr"></div>
 <a name="partners"></a>
@@ -525,7 +525,7 @@ Jagex Ltd, RuneScape and FunOrb are dedicated to using trusted billing partners 
 <h4 style="display: inline;">WorldPay</h4>
 <br>
 <a href="http://www.worldpay.co.uk" target="_blank">WorldPay</a> is an important part of The Royal Bank of Scotland Group, the 5th largest banking group in the world, and is used by thousands of businesses worldwide.</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/worldpay.gif" alt="Worldpay" title="Worldpay"></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/worldpay.gif" alt="Worldpay" title="Worldpay"></td>
 </tr>
 </table>
 <br><br>
@@ -534,7 +534,7 @@ WorldPay is committed to protecting the security of your data. Their payment sys
 <table>
 <tr>
 <td><h4 style="display: inline;">PayByCash</h4><br><a href="http://www.paybycash.com" target="_blank">PayByCash</a> has been a major online payment systems provider to the computer games industry since 1998. They provide various <a href="http://www.paybycash.com/paymentmethods.htm" target="_blank">payment options</a> and have a dedicated customer support team who will answer any questions you may have.</td>
-<td><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/paybycash.gif" alt="PayByCash" title="PayByCash" /></td>
+<td><img style="display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/category_pages/billing_partners/paybycash.gif" alt="PayByCash" title="PayByCash" /></td>
 </tr>
 </table>
 <br><br>
@@ -545,7 +545,7 @@ They take your security and privacy very seriously and employ state-of-the-art d
 <td><h4 style="display: inline;">Surfpin</h4>
 <br>
 <a href="http://www.surfpin.com" target="_blank">Surfpin</a> allows players to instantly and securely purchase FunOrb membership via their mobile phone (PayBySMS) and their landline (PayByPhone).</td>
-<td><img style="display: block; margin: 0 auto 0 auto;" src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/surfpin.gif" alt="Surfpin" title="Surfpin" /></td>
+<td><img style="display: block; margin: 0 auto 0 auto;" src="../../a=135/img/images/kbase/category_pages/billing_partners/surfpin.gif" alt="Surfpin" title="Surfpin" /></td>
 </tr>
 </table>
 <br><br>
@@ -560,7 +560,7 @@ Surfpin offer <a href="https://secure.surfpin.com/support.aspx?paywinid=517" tar
 <td><h4 style="display: inline;">PayPal</h4>
 <br>
 <a href="http://www.paypal.com" target="_blank">PayPal</a> is a safe, easy way to pay online. The service allows anyone to pay in any way they prefer, including through credit cards, bank accounts, buyer credit or account balances, without sharing financial information.</td>
-<td><img src="http://www.funorb.com/a=135/img/images/kbase/category_pages/billing_partners/paypal_wide.gif" border="0" alt="PayPal" title="PayPal" /></td>
+<td><img src="../../a=135/img/images/kbase/category_pages/billing_partners/paypal_wide.gif" border="0" alt="PayPal" title="PayPal" /></td>
 </tr>
 </table>
 <br><br>
@@ -568,7 +568,7 @@ PayPal treats your information with the utmost care, and, in addition to highest
 </body>
 
 <p class="articleBacktotop">
-<a href="#top"><img src="http://www.funorb.com/a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
+<a href="#top"><img src="../../a=135/img/images/layout/backtotop.gif" alt="Back to the top" title="Back to the top" /></a>
 </p>
 </div>
 <div class="articleFooter">
@@ -588,22 +588,22 @@ PayPal treats your information with the utmost care, and, in addition to highest
 <div id="copyRight">
 <div id="languagefooter">
 Select your language:&nbsp;
-<a href="http://www.funorb.com/a=135/index.ws"><img alt="English" src="http://www.funorb.com/a=135/img/images/layout/en.gif">English</a>
-<a href="http://www.funorb.com/l=1/a=135/index.ws"><img alt="Deutsch" src="http://www.funorb.com/a=135/img/images/layout/de.gif">Deutsch</a>
-<a href="http://www.funorb.com/l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="http://www.funorb.com/a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
-<a href="http://www.funorb.com/l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="http://www.funorb.com/a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
+<a href="../../a=135/index.ws"><img alt="English" src="../../a=135/img/images/layout/en.gif">English</a>
+<a href="../../l=1/a=135/index.ws"><img alt="Deutsch" src="../../a=135/img/images/layout/de.gif">Deutsch</a>
+<a href="../../l=2/a=135/index.ws"><img alt="Fran&ccedil;ais" src="../../a=135/img/images/layout/fr.gif">Fran&ccedil;ais</a>
+<a href="../../l=3/a=135/index.ws"><img alt="Portugu&ecirc;s (BR)" src="../../a=135/img/images/layout/br.gif">Portugu&ecirc;s (BR)</a>
 </div>
 <div class="cr">
 <p>
-Copyright © 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
+Copyright ï¿½ 2008 Jagex Ltd. Jagex and FunOrb are registered trademarks of Jagex Limited in the
 United Kingdom and trademarks used in other countries of the world.
 </p>
 <p>
-By using our service you are agreeing to our <a href="http://www.funorb.com/a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="http://www.funorb.com/a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
+By using our service you are agreeing to our <a href="../../a=135/terms/terms.ws" name="terms">Terms &amp; Conditions</a> and <a href="../../a=135/privacy/privacy.ws" name="privacy">Privacy Policy</a>.
 </p>
 </div>
 <div id="jagex">
-<a href="http://www.jagex.com/" target="_blank"><img src="http://www.funorb.com/a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
+<a href="http://www.jagex.com/" target="_blank"><img src="../../a=135/img/images/layout/jagex_footer.gif" alt="Jagex logo" /></a>
 </div>
 </div>
 </div>
